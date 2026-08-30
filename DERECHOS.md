@@ -22,11 +22,29 @@ documento. Lo que sí es obligación nuestra es poder demostrar de dónde salió
 cada una: eso vive en **`assets/portadas.csv`**, con el sitio, el enlace, la
 licencia y la fecha.
 
-**A 30 de agosto de 2026 ese registro está a medias.** La mayoría de las filas
-no tienen fuente ni licencia porque solo las sabe Pablo. Mientras siga así, la
-app publica imágenes cuya procedencia no se puede acreditar, y ese es un riesgo
-real —bastante mayor que el de que alguien copie los textos—. **Hay que
-cerrarlo.**
+**Lo que dijo Pablo el 30 de agosto**, preguntado por ello: «las imágenes las
+saqué en su gran mayoría de Unsplash, otras de Pexels y muy pocas de
+Wikimedia Commons».
+
+Eso rebaja mucho el problema, y conviene entender por qué:
+
+- **Unsplash y Pexels permiten el uso comercial sin atribución obligatoria.**
+  Para esas, no tener guardado el enlace exacto no impide usarlas: la licencia
+  ampara el uso igualmente. Queda feo en el registro, pero no es una infracción.
+- **Wikimedia Commons es otra cosa.** Buena parte de su fondo es CC BY o
+  CC BY-SA, y **esas obligan a poner el crédito**. Una imagen de Commons sin
+  identificar es una imagen que no se puede acreditar, y ahí sí se incumple la
+  licencia aunque el uso comercial esté permitido.
+
+**Así que lo que queda por hacer no son las 74 filas: son las «muy pocas» de
+Commons.** Hay que dar con ellas e identificarlas, porque son las únicas que
+piden algo a cambio. Las que ya están identificadas —la corona solar de la
+sonda Solar Orbiter, el gato bostezando de Jenny Downing y la Patrouille de
+France de Łukasz Golowanow— llevan su crédito puesto en la app.
+
+Las 74 filas se han anotado con lo que él declaró, **marcado como declarado y
+sin verificar**, que es lo que es. Un registro que dijera «Unsplash» a secas
+sería inventarse una precisión que no tenemos.
 
 Las condiciones de cada sitio están resumidas en
 `referencia/textos-de-pablo/shorts/FUENTES-IMAGENES.md`. Dos cosas de ahí que
