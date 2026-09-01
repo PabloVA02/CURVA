@@ -1,20 +1,32 @@
 # Publica docs/ en GitHub Pages.
 #
-# POR QUÉ EXISTE ESTE FICHERO. Hasta el 31 de agosto la publicación la hacía
-# sola el constructor implícito de Pages —el que sale en Actions como
-# «pages build and deployment»— cada vez que llegaba un commit a main. Ese día
-# dejó de dispararse: el 1 de septiembre había seis commits subidos y ninguno
-# había generado una publicación, ni siquiera fallida. La app del móvil se
-# quedó congelada en 138 shorts mientras el repositorio ya tenía 225.
+# POR QUÉ EXISTE ESTE FICHERO. El 1 de septiembre la app del móvil llevaba dos
+# días congelada en 138 shorts mientras el repositorio ya tenía 225: seis
+# commits subidos y ninguna publicación, ni siquiera fallida.
 #
-# La causa más probable es que las subidas se hacen con un credencial de
-# aplicación, y GitHub NO lanza flujos de trabajo por los eventos que crea un
-# credencial así, para que un flujo no se dispare a sí mismo en bucle.
+# La primera explicación que escribí aquí era falsa y conviene dejarlo dicho,
+# porque es el tipo de cosa que se copia sin comprobar: supuse que las subidas
+# con credencial de aplicación no disparaban flujos. No es cierto —este mismo
+# flujo se disparó solo con el `push` que lo trajo—. La causa real la cantó su
+# registro a la primera:
 #
-# Por eso este flujo lleva `workflow_dispatch`: una publicación que se puede
-# pedir a mano, por la API, sin depender de que el evento de subida llegue a
-# dispararla. Y deja `push` puesto, para que cuando la subida sí valga —por
-# ejemplo si la hace Pablo desde su ordenador— publique sola.
+#     Get Pages site failed. Error: Not Found
+#
+# O sea que GITHUB PAGES ESTÁ APAGADO en el repositorio. No es que el
+# constructor implícito falle: es que ya no hay sitio publicado que construir,
+# y por eso no salía ni un error. Alguien lo desactivó, o se desactivó solo,
+# después de la publicación del 31 de agosto.
+#
+# `actions/configure-pages` sabe encenderlo con `enablement: true`, pero desde
+# aquí no puede: el credencial del flujo no tiene ese permiso —«Resource not
+# accessible by integration»—. Así que ese paso va SIN enablement y hace falta
+# que Pablo lo encienda una vez a mano:
+#
+#     github.com/PabloVA02/CURVA → Settings → Pages → Source: GitHub Actions
+#
+# En cuanto esté encendido en ese modo, este flujo publica solo con cada
+# subida a main, y además se puede pedir a mano por la API con
+# `workflow_dispatch`, que es lo que hace falta cuando algo se atasca.
 name: Publicar en Pages
 
 on:
@@ -43,9 +55,10 @@ jobs:
 
       # `enablement: true` enciende Pages en modo «GitHub Actions» si estaba
       # en modo rama. Es lo que quita de en medio al constructor implícito.
+      # Sin `enablement`: encenderlo pide un permiso que este credencial no
+      # tiene, y con la opción puesta el flujo muere aquí en vez de decir qué
+      # pasa. Se enciende una vez a mano en Settings → Pages.
       - uses: actions/configure-pages@v5
-        with:
-          enablement: true
 
       - uses: actions/upload-pages-artifact@v3
         with:
