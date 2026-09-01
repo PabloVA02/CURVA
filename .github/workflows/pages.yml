@@ -1,0 +1,55 @@
+# Publica docs/ en GitHub Pages.
+#
+# POR QUÉ EXISTE ESTE FICHERO. Hasta el 31 de agosto la publicación la hacía
+# sola el constructor implícito de Pages —el que sale en Actions como
+# «pages build and deployment»— cada vez que llegaba un commit a main. Ese día
+# dejó de dispararse: el 1 de septiembre había seis commits subidos y ninguno
+# había generado una publicación, ni siquiera fallida. La app del móvil se
+# quedó congelada en 138 shorts mientras el repositorio ya tenía 225.
+#
+# La causa más probable es que las subidas se hacen con un credencial de
+# aplicación, y GitHub NO lanza flujos de trabajo por los eventos que crea un
+# credencial así, para que un flujo no se dispare a sí mismo en bucle.
+#
+# Por eso este flujo lleva `workflow_dispatch`: una publicación que se puede
+# pedir a mano, por la API, sin depender de que el evento de subida llegue a
+# dispararla. Y deja `push` puesto, para que cuando la subida sí valga —por
+# ejemplo si la hace Pablo desde su ordenador— publique sola.
+name: Publicar en Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Una publicación a la vez, y sin cortar la que ya esté en marcha.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    environment:
+      name: github-pages
+      url: ${{ steps.despliegue.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # `enablement: true` enciende Pages en modo «GitHub Actions» si estaba
+      # en modo rama. Es lo que quita de en medio al constructor implícito.
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - id: despliegue
+        uses: actions/deploy-pages@v4
