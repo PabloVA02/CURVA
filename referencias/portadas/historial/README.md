@@ -1,6 +1,6 @@
 # Historial de portadas de Curva
 
-129 imágenes originales para 95 libros, generadas con image_gen integrado. Se guardan las versiones instaladas, las asignadas al catálogo, las anteriores y las descartadas. Asignada al catálogo indica que el libro aún no tiene resumen para leer en la aplicación. Los PNG son copias exactas de los originales; el catálogo registra su SHA-256 y el prompt disponible.
+143 imágenes originales para 107 libros, generadas con image_gen integrado. Se guardan las versiones instaladas, las asignadas al catálogo, las anteriores y las descartadas. Asignada al catálogo indica que el libro aún no tiene resumen para leer en la aplicación. Los PNG son copias exactas de los originales; el catálogo registra su SHA-256 y el prompt disponible.
 
 [Galería interactiva](Galeria.html) · [Catálogo](Catalogo.json) · [Prompts](Prompts.md)
 
@@ -135,3 +135,17 @@
 | Invernando | 4 | Asignada al catálogo | [PNG](originales/invernando-v4-11f7e91e7e.png) |
 | El jardín secreto | 4 | Asignada al catálogo | [PNG](originales/jardin-secreto-v4-44945bedb7.png) |
 | La vaca púrpura | 3 | Asignada al catálogo | [PNG](originales/vaca-purpura-v3-9046578145.png) |
+| Auge y caída de los dinosaurios | 1 | Asignada al catálogo | [PNG](originales/auge-caida-dinosaurios-v1-9e22bd417a.png) |
+| La vuelta al mundo en ochenta días | 1 | Asignada al catálogo | [PNG](originales/vuelta-al-mundo-80-dias-v1-7607f5e196.png) |
+| Cleopatra | 1 | Asignada al catálogo | [PNG](originales/cleopatra-schiff-v1-72430d8a54.png) |
+| Tu cerebro y la música | 1 | Asignada al catálogo | [PNG](originales/tu-cerebro-y-la-musica-v1-58dde88680.png) |
+| Primeros auxilios emocionales | 1 | Asignada al catálogo | [PNG](originales/primeros-auxilios-emocionales-v1-9177679321.png) |
+| En defensa de la comida | 1 | Asignada al catálogo | [PNG](originales/en-defensa-de-la-comida-v1-7eef70d4b6.png) |
+| Supercomunicadores | 1 | Asignada al catálogo | [PNG](originales/supercomunicadores-v1-62ba8c6af6.png) |
+| Como agua para chocolate | 1 | Versión anterior | [PNG](originales/como-agua-para-chocolate-v1-3980b11f28.png) |
+| Rework | 1 | Asignada al catálogo | [PNG](originales/rework-v1-ca74398276.png) |
+| Mal de altura | 1 | Versión anterior | [PNG](originales/mal-de-altura-v1-373609e559.png) |
+| La trampa de la felicidad | 1 | Asignada al catálogo | [PNG](originales/trampa-felicidad-v1-69845c57ae.png) |
+| El economista camuflado | 1 | Asignada al catálogo | [PNG](originales/economista-camuflado-v1-7ec080b84e.png) |
+| Mal de altura | 2 | Asignada al catálogo | [PNG](originales/mal-de-altura-v2-87f8ed5287.png) |
+| Como agua para chocolate | 2 | Asignada al catálogo | [PNG](originales/como-agua-para-chocolate-v2-b29fe8b935.png) |
