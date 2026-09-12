@@ -1,6 +1,6 @@
 # Historial de portadas de Curva
 
-224 imágenes originales para 165 libros, generadas con image_gen integrado. Se guardan las versiones instaladas, las asignadas al catálogo, las anteriores y las descartadas. Asignada al catálogo indica que el libro aún no tiene resumen para leer en la aplicación. Los PNG son copias exactas de los originales; el catálogo registra su SHA-256 y el prompt disponible.
+243 imágenes originales para 181 libros, generadas con image_gen integrado. Se guardan las versiones instaladas, las asignadas al catálogo, las anteriores y las descartadas. Asignada al catálogo indica que el libro aún no tiene resumen para leer en la aplicación. Los PNG son copias exactas de los originales; el catálogo registra su SHA-256 y el prompt disponible.
 
 [Galería interactiva](Galeria.html) · [Catálogo](Catalogo.json) · [Prompts](Prompts.md)
 
@@ -230,3 +230,22 @@
 | Los tres mosqueteros | 2 | Asignada al catálogo | [PNG](originales/tres-mosqueteros-v2-0100082f9a.png) |
 | Está bien que no estés bien | 2 | Asignada al catálogo | [PNG](originales/esta-bien-no-estar-bien-v2-8a0c974493.png) |
 | Grandes esperanzas | 2 | Asignada al catálogo | [PNG](originales/grandes-esperanzas-v2-046e10f5c1.png) |
+| La peste | 1 | Asignada al catálogo | [PNG](originales/la-peste-v1-0734d03c41.png) |
+| El psicoanalista | 1 | Versión anterior | [PNG](originales/el-psicoanalista-v1-04713aeae0.png) |
+| El arte de aprender | 1 | Versión anterior | [PNG](originales/arte-de-aprender-waitzkin-v1-dad1206d2b.png) |
+| Las cinco personas que encontrarás en el cielo | 1 | Asignada al catálogo | [PNG](originales/cinco-personas-cielo-v1-b921003e47.png) |
+| Cómo cambiar | 1 | Asignada al catálogo | [PNG](originales/como-cambiar-v1-af1e575d9d.png) |
+| Pollyanna | 1 | Asignada al catálogo | [PNG](originales/pollyanna-v1-fc24c71445.png) |
+| La mujer invisible | 1 | Asignada al catálogo | [PNG](originales/mujer-invisible-v1-8c2c710e69.png) |
+| Napoleón: una vida | 1 | Asignada al catálogo | [PNG](originales/napoleon-roberts-v1-cf22a0b3e6.png) |
+| Amplitud | 1 | Asignada al catálogo | [PNG](originales/amplitud-epstein-v1-cfecd8cf4d.png) |
+| Breve historia del mundo | 1 | Asignada al catálogo | [PNG](originales/breve-historia-del-mundo-v1-c3fc41b385.png) |
+| La gran apuesta | 1 | Asignada al catálogo | [PNG](originales/la-gran-apuesta-v1-1690c10d19.png) |
+| Fuera de serie | 1 | Asignada al catálogo | [PNG](originales/fuera-de-serie-v1-aa7a21a1c8.png) |
+| El método Bullet Journal | 1 | Versión anterior | [PNG](originales/metodo-bullet-journal-v1-d9cff47d14.png) |
+| Charla | 1 | Asignada al catálogo | [PNG](originales/charla-kross-v1-c075546b84.png) |
+| ¿De qué color es tu paracaídas? | 1 | Asignada al catálogo | [PNG](originales/de-que-color-paracaidas-v1-8293c729b7.png) |
+| La solución de los telómeros | 1 | Asignada al catálogo | [PNG](originales/solucion-telomeros-v1-fe2a57487f.png) |
+| El psicoanalista | 2 | Asignada al catálogo | [PNG](originales/el-psicoanalista-v2-8696eabb8a.png) |
+| El método Bullet Journal | 2 | Asignada al catálogo | [PNG](originales/metodo-bullet-journal-v2-7dfa45fc33.png) |
+| El arte de aprender | 2 | Asignada al catálogo | [PNG](originales/arte-de-aprender-waitzkin-v2-31f619c498.png) |
