@@ -1,6 +1,6 @@
 # Historial de portadas de Curva
 
-90 imágenes originales para 79 libros, generadas con image_gen integrado. Se guardan las versiones instaladas, las asignadas al catálogo, las anteriores y las descartadas. Asignada al catálogo indica que el libro aún no tiene resumen para leer en la aplicación. Los PNG son copias exactas de los originales; el catálogo registra su SHA-256 y el prompt disponible.
+97 imágenes originales para 79 libros, generadas con image_gen integrado. Se guardan las versiones instaladas, las asignadas al catálogo, las anteriores y las descartadas. Asignada al catálogo indica que el libro aún no tiene resumen para leer en la aplicación. Los PNG son copias exactas de los originales; el catálogo registra su SHA-256 y el prompt disponible.
 
 [Galería interactiva](Galeria.html) · [Catálogo](Catalogo.json) · [Prompts](Prompts.md)
 
@@ -80,19 +80,26 @@
 | Un paseo aleatorio por Wall Street | 1 | Instalada | [PNG](originales/paseo-aleatorio-v1-2836f27b12.png) |
 | Superpronosticadores | 1 | Instalada | [PNG](originales/superpronosticadores-v1-d2d50ae5c3.png) |
 | La biblioteca de la medianoche | 1 | Asignada al catálogo | [PNG](originales/biblioteca-de-la-medianoche-v1-5ed0b9c84b.png) |
-| Un hombre llamado Ove | 1 | Asignada al catálogo | [PNG](originales/hombre-llamado-ove-v1-4accc2837f.png) |
-| El niño que domó el viento | 1 | Asignada al catálogo | [PNG](originales/nino-que-domo-el-viento-v1-26089637fb.png) |
-| Momo | 1 | Asignada al catálogo | [PNG](originales/momo-v1-d178f70b0c.png) |
-| El profeta | 1 | Asignada al catálogo | [PNG](originales/el-profeta-v1-6480c2ff05.png) |
+| Un hombre llamado Ove | 1 | Versión anterior | [PNG](originales/hombre-llamado-ove-v1-4accc2837f.png) |
+| El niño que domó el viento | 1 | Versión anterior | [PNG](originales/nino-que-domo-el-viento-v1-26089637fb.png) |
+| Momo | 1 | Versión anterior | [PNG](originales/momo-v1-d178f70b0c.png) |
+| El profeta | 1 | Versión anterior | [PNG](originales/el-profeta-v1-6480c2ff05.png) |
 | Una habitación propia | 1 | Asignada al catálogo | [PNG](originales/habitacion-propia-v1-dd9618fce6.png) |
-| Prohibido nacer | 1 | Asignada al catálogo | [PNG](originales/prohibido-nacer-v1-25f51cf1ec.png) |
-| El arte de viajar | 1 | Asignada al catálogo | [PNG](originales/arte-de-viajar-v1-671c378fa0.png) |
+| Prohibido nacer | 1 | Versión anterior | [PNG](originales/prohibido-nacer-v1-25f51cf1ec.png) |
+| El arte de viajar | 1 | Versión anterior | [PNG](originales/arte-de-viajar-v1-671c378fa0.png) |
 | Endurance | 1 | Asignada al catálogo | [PNG](originales/endurance-shackleton-v1-168aa39578.png) |
 | Cuando todo se derrumba | 1 | Asignada al catálogo | [PNG](originales/cuando-todo-se-derrumba-v1-cda7fe5c8a.png) |
-| Matilda | 1 | Asignada al catálogo | [PNG](originales/matilda-v1-420c6f4927.png) |
+| Matilda | 1 | Versión anterior | [PNG](originales/matilda-v1-420c6f4927.png) |
 | La red oculta de la vida | 1 | Asignada al catálogo | [PNG](originales/red-oculta-de-la-vida-v1-bc09129f88.png) |
 | Cómo ser un estoico | 1 | Asignada al catálogo | [PNG](originales/como-ser-estoico-v1-1630a7c1fe.png) |
 | Otras mentes | 1 | Descartada | [PNG](originales/otras-mentes-v1-459f9a1bc8.png) |
 | Juan Salvador Gaviota | 1 | Asignada al catálogo | [PNG](originales/juan-salvador-gaviota-v1-49d2032968.png) |
 | Dune | 1 | Asignada al catálogo | [PNG](originales/dune-v1-d30d65c2ab.png) |
 | Otras mentes | 2 | Asignada al catálogo | [PNG](originales/otras-mentes-v2-abf6fba059.png) |
+| Matilda | 2 | Asignada al catálogo | [PNG](originales/matilda-v2-6ca6bd591e.png) |
+| Momo | 2 | Asignada al catálogo | [PNG](originales/momo-v2-51405944ff.png) |
+| El niño que domó el viento | 2 | Asignada al catálogo | [PNG](originales/nino-que-domo-el-viento-v2-da7da53168.png) |
+| Prohibido nacer | 2 | Asignada al catálogo | [PNG](originales/prohibido-nacer-v2-9beeba0938.png) |
+| Un hombre llamado Ove | 2 | Asignada al catálogo | [PNG](originales/hombre-llamado-ove-v2-0d34f03d22.png) |
+| El profeta | 2 | Asignada al catálogo | [PNG](originales/el-profeta-v2-2411fe5746.png) |
+| El arte de viajar | 2 | Asignada al catálogo | [PNG](originales/arte-de-viajar-v2-3f6c185fbe.png) |

@@ -7,8 +7,10 @@
 - Las 16 rutas de imagen responden HTTP 200 con el tipo y tamaño correctos.
 - El JavaScript sigue siendo sintácticamente válido. Su único cambio es la tabla de portadas; el texto de los libros y los datos del lector permanecen iguales.
 - Los manifiestos de las primeras 29 portadas y las tandas de 16 y 18 permanecen idénticos. No se ha reemplazado ninguna ilustración propia anterior.
-- Historial actualizado a 90 imágenes originales de 79 libros. Todos los originales y prompts anteriores se conservan; las copias del repositorio y de la carpeta de resultados coinciden byte por byte.
+- Historial actualizado a 97 imágenes originales de 79 libros. Todos los originales y prompts anteriores se conservan; las copias del repositorio y de la carpeta de resultados coinciden byte por byte.
 - Los 16 libros de esta tanda aún tienen el resumen pendiente: su portada queda asignada al catálogo. No se han creado resúmenes ni fichas de lectura vacías.
+
+Corrección de los personajes de 7 portadas solicitada por el usuario: rasgos pequeños, pelo en bloques, cuerpos planos y menos volumen, tomando como referencia las capturas de Wiser IMG_1936 y IMG_1939. Las primeras versiones se mantienen en el historial.
 
 Modo de generación: image_gen integrado.
 

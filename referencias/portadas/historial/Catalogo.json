@@ -15,7 +15,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/miedo-libertad-f8bbdc5342.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/miedo-libertad.json"
+    "registroOrigen": "generadas/miedo-libertad.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "primavera-silenciosa",
@@ -33,7 +35,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/primavera-silenciosa-accd527bb2.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/primavera-silenciosa.json"
+    "registroOrigen": "generadas/primavera-silenciosa.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "guerra-chips",
@@ -51,7 +55,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/guerra-chips-2d965c8528.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/guerra-chips.json"
+    "registroOrigen": "generadas/guerra-chips.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "mujeres-lobos",
@@ -69,7 +75,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/mujeres-lobos-ad40c12595.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/mujeres-lobos.json"
+    "registroOrigen": "generadas/mujeres-lobos.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "sobre-la-libertad",
@@ -87,7 +95,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/sobre-la-libertad-2cc4c2a484.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/sobre-la-libertad.json"
+    "registroOrigen": "generadas/sobre-la-libertad.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "tener-o-ser",
@@ -105,7 +115,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/tener-o-ser-ba2d4b7311.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/tener-o-ser.json"
+    "registroOrigen": "generadas/tener-o-ser.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "banquete",
@@ -123,7 +135,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/banquete-9d7b0efbd9.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/banquete.json"
+    "registroOrigen": "generadas/banquete.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "vida-3-0",
@@ -141,7 +155,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/vida-3-0-83d028fb9c.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/vida-3-0.json"
+    "registroOrigen": "generadas/vida-3-0.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "futuro-nuestra-mente",
@@ -159,7 +175,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/futuro-nuestra-mente-52081b4bad.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/futuro-nuestra-mente.json"
+    "registroOrigen": "generadas/futuro-nuestra-mente.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "nueva-mirada-infidelidad",
@@ -177,7 +195,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/nueva-mirada-infidelidad-34b1ef1a8f.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/nueva-mirada-infidelidad.json"
+    "registroOrigen": "generadas/nueva-mirada-infidelidad.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "disciplina-es-destino",
@@ -195,7 +215,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/disciplina-es-destino-496642a9ef.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/disciplina-es-destino.json"
+    "registroOrigen": "generadas/disciplina-es-destino.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "determinacion",
@@ -213,7 +235,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/determinacion-41410e91ed.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/determinacion.json"
+    "registroOrigen": "generadas/determinacion.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "ley-de-atraccion",
@@ -231,7 +255,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/ley-de-atraccion-ea607a3971.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/ley-de-atraccion.json"
+    "registroOrigen": "generadas/ley-de-atraccion.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "originales",
@@ -249,7 +275,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/originales-c2577074b0.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/originales.json"
+    "registroOrigen": "generadas/originales.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "filosofo-griego",
@@ -267,7 +295,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/filosofo-griego-9d6f065265.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/filosofo-griego.json"
+    "registroOrigen": "generadas/filosofo-griego.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "cinco-arrepentimientos",
@@ -285,7 +315,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": null,
     "fuenteContenido": null,
-    "registroOrigen": "generadas/cinco-arrepentimientos.json"
+    "registroOrigen": "generadas/cinco-arrepentimientos.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "cinco-arrepentimientos",
@@ -303,7 +335,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": null,
     "fuenteContenido": null,
-    "registroOrigen": "generadas/cinco-arrepentimientos-v2.json"
+    "registroOrigen": "generadas/cinco-arrepentimientos-v2.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "ciencia-hacerse-rico",
@@ -321,7 +355,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": null,
     "fuenteContenido": null,
-    "registroOrigen": "generadas/ciencia-hacerse-rico-v2.json"
+    "registroOrigen": "generadas/ciencia-hacerse-rico-v2.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "vender-es-humano",
@@ -339,7 +375,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": null,
     "fuenteContenido": null,
-    "registroOrigen": "generadas/vender-es-humano-v2.json"
+    "registroOrigen": "generadas/vender-es-humano-v2.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "transformacion-dinero",
@@ -357,7 +395,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": null,
     "fuenteContenido": null,
-    "registroOrigen": "generadas/transformacion-dinero-v2.json"
+    "registroOrigen": "generadas/transformacion-dinero-v2.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "transformacion-dinero",
@@ -375,7 +415,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/transformacion-dinero-84910f1568.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/transformacion-dinero-v3.json"
+    "registroOrigen": "generadas/transformacion-dinero-v3.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "cinco-arrepentimientos",
@@ -393,7 +435,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": null,
     "fuenteContenido": null,
-    "registroOrigen": "generadas/cinco-arrepentimientos-v3.json"
+    "registroOrigen": "generadas/cinco-arrepentimientos-v3.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "ciencia-hacerse-rico",
@@ -411,7 +455,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/ciencia-hacerse-rico-6989767395.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/ciencia-hacerse-rico-v3.json"
+    "registroOrigen": "generadas/ciencia-hacerse-rico-v3.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "vender-es-humano",
@@ -429,7 +475,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/vender-es-humano-c0c18ea1ab.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/vender-es-humano-v3.json"
+    "registroOrigen": "generadas/vender-es-humano-v3.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "cinco-arrepentimientos",
@@ -447,7 +495,9 @@
     "tipoPrompt": "Edición",
     "archivoApp": "docs/assets/portadas-generadas/cinco-arrepentimientos-4e4886a74f.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/cinco-arrepentimientos-v4.json"
+    "registroOrigen": "generadas/cinco-arrepentimientos-v4.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "oceano-azul",
@@ -465,7 +515,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/oceano-azul-17e0b233be.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/oceano-azul-v2.json"
+    "registroOrigen": "generadas/oceano-azul-v2.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "empresas-sobresalen",
@@ -483,7 +535,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/empresas-sobresalen-595109e050.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/empresas-sobresalen-v2.json"
+    "registroOrigen": "generadas/empresas-sobresalen-v2.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "bolsa-o-vida",
@@ -501,7 +555,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/bolsa-o-vida-bfd4983bfb.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/bolsa-o-vida-v2.json"
+    "registroOrigen": "generadas/bolsa-o-vida-v2.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "side-hustle",
@@ -519,7 +575,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/side-hustle-4456a630ee.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/side-hustle-v2.json"
+    "registroOrigen": "generadas/side-hustle-v2.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "principios-orden-mundial",
@@ -537,7 +595,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/principios-orden-mundial-f98ae112bc.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/principios-orden-mundial-v2.json"
+    "registroOrigen": "generadas/principios-orden-mundial-v2.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "ensenare-ser-rico",
@@ -555,7 +615,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/ensenare-ser-rico-6975fa65df.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/ensenare-ser-rico-v2.json"
+    "registroOrigen": "generadas/ensenare-ser-rico-v2.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "recompra-tu-tiempo",
@@ -573,7 +635,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/recompra-tu-tiempo-4e235eb320.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/recompra-tu-tiempo-v2.json"
+    "registroOrigen": "generadas/recompra-tu-tiempo-v2.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "retirate-joven-rico",
@@ -591,7 +655,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/retirate-joven-rico-3c1901d7f7.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/retirate-joven-rico-v2.json"
+    "registroOrigen": "generadas/retirate-joven-rico-v2.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "cinco-disfunciones",
@@ -609,7 +675,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/cinco-disfunciones-4b6eec5974.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/cinco-disfunciones-v2.json"
+    "registroOrigen": "generadas/cinco-disfunciones-v2.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "sin-esfuerzo",
@@ -627,7 +695,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/sin-esfuerzo-28d3e3b497.webp",
     "fuenteContenido": null,
-    "registroOrigen": "generadas/sin-esfuerzo-v2.json"
+    "registroOrigen": "generadas/sin-esfuerzo-v2.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "poder-habitos",
@@ -645,7 +715,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": null,
     "fuenteContenido": null,
-    "registroOrigen": "tanda-2/generadas/poder-habitos.json"
+    "registroOrigen": "tanda-2/generadas/poder-habitos.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "influencia",
@@ -663,7 +735,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": null,
     "fuenteContenido": null,
-    "registroOrigen": "tanda-2/generadas/influencia.json"
+    "registroOrigen": "tanda-2/generadas/influencia.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "flow",
@@ -681,7 +755,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": null,
     "fuenteContenido": null,
-    "registroOrigen": "tanda-2/generadas/flow.json"
+    "registroOrigen": "tanda-2/generadas/flow.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "mindset",
@@ -699,7 +775,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": null,
     "fuenteContenido": null,
-    "registroOrigen": "tanda-2/generadas/mindset.json"
+    "registroOrigen": "tanda-2/generadas/mindset.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "poder-habitos",
@@ -717,7 +795,9 @@
     "tipoPrompt": "Edición",
     "archivoApp": "docs/assets/portadas-generadas/poder-habitos-a8083cbc5e.webp",
     "fuenteContenido": null,
-    "registroOrigen": "tanda-2/generadas/poder-habitos-v2.json"
+    "registroOrigen": "tanda-2/generadas/poder-habitos-v2.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "mindset",
@@ -735,7 +815,9 @@
     "tipoPrompt": "Edición",
     "archivoApp": "docs/assets/portadas-generadas/mindset-b49a2f124a.webp",
     "fuenteContenido": null,
-    "registroOrigen": "tanda-2/generadas/mindset-v2.json"
+    "registroOrigen": "tanda-2/generadas/mindset-v2.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "influencia",
@@ -753,7 +835,9 @@
     "tipoPrompt": "Edición",
     "archivoApp": "docs/assets/portadas-generadas/influencia-be41092c15.webp",
     "fuenteContenido": null,
-    "registroOrigen": "tanda-2/generadas/influencia-v2.json"
+    "registroOrigen": "tanda-2/generadas/influencia-v2.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "flow",
@@ -771,7 +855,9 @@
     "tipoPrompt": "Edición",
     "archivoApp": "docs/assets/portadas-generadas/flow-ed74f6caa7.webp",
     "fuenteContenido": null,
-    "registroOrigen": "tanda-2/generadas/flow-v2.json"
+    "registroOrigen": "tanda-2/generadas/flow-v2.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "breve-historia-tiempo",
@@ -789,7 +875,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/breve-historia-tiempo-761feb8e7e.webp",
     "fuenteContenido": null,
-    "registroOrigen": "tanda-2/generadas/breve-historia-tiempo.json"
+    "registroOrigen": "tanda-2/generadas/breve-historia-tiempo.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "cosmos",
@@ -807,7 +895,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/cosmos-5bfff5a2da.webp",
     "fuenteContenido": null,
-    "registroOrigen": "tanda-2/generadas/cosmos.json"
+    "registroOrigen": "tanda-2/generadas/cosmos.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "gen-egoista",
@@ -825,7 +915,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/gen-egoista-4d37942b3f.webp",
     "fuenteContenido": null,
-    "registroOrigen": "tanda-2/generadas/gen-egoista.json"
+    "registroOrigen": "tanda-2/generadas/gen-egoista.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "universo-cascara",
@@ -843,7 +935,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/universo-cascara-6bf4e81cf0.webp",
     "fuenteContenido": null,
-    "registroOrigen": "tanda-2/generadas/universo-cascara.json"
+    "registroOrigen": "tanda-2/generadas/universo-cascara.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "vida-arboles",
@@ -861,7 +955,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/vida-arboles-7170569dad.webp",
     "fuenteContenido": null,
-    "registroOrigen": "tanda-2/generadas/vida-arboles.json"
+    "registroOrigen": "tanda-2/generadas/vida-arboles.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "ultimos-dinosaurios",
@@ -879,7 +975,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/ultimos-dinosaurios-aae9ba6850.webp",
     "fuenteContenido": null,
-    "registroOrigen": "tanda-2/generadas/ultimos-dinosaurios.json"
+    "registroOrigen": "tanda-2/generadas/ultimos-dinosaurios.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "cuchara-menguante",
@@ -897,7 +995,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/cuchara-menguante-a8536df48c.webp",
     "fuenteContenido": null,
-    "registroOrigen": "tanda-2/generadas/cuchara-menguante.json"
+    "registroOrigen": "tanda-2/generadas/cuchara-menguante.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "sexta-extincion",
@@ -915,7 +1015,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/sexta-extincion-18b4e784f0.webp",
     "fuenteContenido": null,
-    "registroOrigen": "tanda-2/generadas/sexta-extincion.json"
+    "registroOrigen": "tanda-2/generadas/sexta-extincion.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "educada",
@@ -933,7 +1035,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/educada-ca76be9fd5.webp",
     "fuenteContenido": null,
-    "registroOrigen": "tanda-2/generadas/educada.json"
+    "registroOrigen": "tanda-2/generadas/educada.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "steve-jobs",
@@ -951,7 +1055,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/steve-jobs-5fe0bfa152.webp",
     "fuenteContenido": null,
-    "registroOrigen": "tanda-2/generadas/steve-jobs.json"
+    "registroOrigen": "tanda-2/generadas/steve-jobs.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "semana-4-horas",
@@ -969,7 +1075,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/semana-4-horas-c2c1603ec0.webp",
     "fuenteContenido": null,
-    "registroOrigen": "tanda-2/generadas/semana-4-horas.json"
+    "registroOrigen": "tanda-2/generadas/semana-4-horas.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "riqueza-naciones",
@@ -987,7 +1095,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/riqueza-naciones-4ab73b74ff.webp",
     "fuenteContenido": null,
-    "registroOrigen": "tanda-2/generadas/riqueza-naciones.json"
+    "registroOrigen": "tanda-2/generadas/riqueza-naciones.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "ensayos-montaigne",
@@ -1005,7 +1115,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/ensayos-montaigne-a7d44411ee.webp",
     "fuenteContenido": "https://www.penguinrandomhouse.com/books/315666/the-complete-essays-by-michel-de-montaigne/",
-    "registroOrigen": "tanda-3/generadas/ensayos-montaigne.json"
+    "registroOrigen": "tanda-3/generadas/ensayos-montaigne.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "astrofisica-prisa",
@@ -1023,7 +1135,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/astrofisica-prisa-956adfec9e.webp",
     "fuenteContenido": "https://wwnorton.co.uk/books/9780393609394-astrophysics-for-people-in-a-hurry",
-    "registroOrigen": "tanda-3/generadas/astrofisica-prisa.json"
+    "registroOrigen": "tanda-3/generadas/astrofisica-prisa.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "casi-todo",
@@ -1041,7 +1155,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/casi-todo-4e0e480943.webp",
     "fuenteContenido": "https://www.penguinrandomhouse.com/books/20549/a-short-history-of-nearly-everything-by-bill-bryson/9780767908184/",
-    "registroOrigen": "tanda-3/generadas/casi-todo.json"
+    "registroOrigen": "tanda-3/generadas/casi-todo.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "mundo-demonios",
@@ -1059,7 +1175,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/mundo-demonios-e291428810.webp",
     "fuenteContenido": "https://www.penguinrandomhouse.com/books/159731/the-demon-haunted-world-by-carl-sagan/",
-    "registroOrigen": "tanda-3/generadas/mundo-demonios.json"
+    "registroOrigen": "tanda-3/generadas/mundo-demonios.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "gen-historia",
@@ -1077,7 +1195,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/gen-historia-86512c9b21.webp",
     "fuenteContenido": "https://www.simonandschuster.com/books/The-Gene/Siddhartha-Mukherjee/9781476733500",
-    "registroOrigen": "tanda-3/generadas/gen-historia.json"
+    "registroOrigen": "tanda-3/generadas/gen-historia.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "einstein",
@@ -1095,7 +1215,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/einstein-ef3b094725.webp",
     "fuenteContenido": "https://www.simonandschuster.com/books/Einstein/Walter-Isaacson/9781416539322",
-    "registroOrigen": "tanda-3/generadas/einstein.json"
+    "registroOrigen": "tanda-3/generadas/einstein.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "feynman",
@@ -1113,7 +1235,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/feynman-e80dd7a09a.webp",
     "fuenteContenido": "https://wwnorton.co.uk/books/9780393355628-surely-you-re-joking-mr-feynman-ee90da58-f805-4fb6-bcfe-d0baf7c9fcfa",
-    "registroOrigen": "tanda-3/generadas/feynman.json"
+    "registroOrigen": "tanda-3/generadas/feynman.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "revoluciones-cientificas",
@@ -1131,7 +1255,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/revoluciones-cientificas-562a1feb96.webp",
     "fuenteContenido": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo13179781.html",
-    "registroOrigen": "tanda-3/generadas/revoluciones-cientificas.json"
+    "registroOrigen": "tanda-3/generadas/revoluciones-cientificas.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "siete-lecciones-fisica",
@@ -1149,7 +1275,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/siete-lecciones-fisica-29da027e93.webp",
     "fuenteContenido": "https://www.penguinrandomhouse.com/books/533809/seven-brief-lessons-on-physics-by-carlo-rovelli/",
-    "registroOrigen": "tanda-3/generadas/siete-lecciones-fisica.json"
+    "registroOrigen": "tanda-3/generadas/siete-lecciones-fisica.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "emperador-males",
@@ -1167,7 +1295,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/emperador-males-e28567a7e3.webp",
     "fuenteContenido": "https://www.simonandschuster.com/books/The-Emperor-of-All-Maladies/Siddhartha-Mukherjee/9781439181713",
-    "registroOrigen": "tanda-3/generadas/emperador-males.json"
+    "registroOrigen": "tanda-3/generadas/emperador-males.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "henrietta-lacks",
@@ -1185,7 +1315,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/henrietta-lacks-c94a5d6aac.webp",
     "fuenteContenido": "https://www.penguinrandomhouse.com/books/168191/the-immortal-life-of-henrietta-lacks-by-rebecca-skloot/9780307712516/",
-    "registroOrigen": "tanda-3/generadas/henrietta-lacks.json"
+    "registroOrigen": "tanda-3/generadas/henrietta-lacks.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "reproductibilidad",
@@ -1203,7 +1335,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/reproductibilidad-a3ce00f535.webp",
     "fuenteContenido": "https://www.penguin.co.uk/books/56491/the-work-of-art-in-the-age-of-mechanical-reproduction-by-benjamin-walter/9780141963426",
-    "registroOrigen": "tanda-3/generadas/reproductibilidad.json"
+    "registroOrigen": "tanda-3/generadas/reproductibilidad.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "nudge",
@@ -1221,7 +1355,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/nudge-71fba81e6f.webp",
     "fuenteContenido": "https://www.penguinrandomhouse.com/books/589620/un-pequeno-empujon-el-impulso-que-necesitas-para-tomar-mejores-decisiones-sobresalud-dinero-y-felicidad-nudge-improving-decisions-about-health-by-richard-h-thaler/9788430606849/",
-    "registroOrigen": "tanda-3/generadas/nudge.json"
+    "registroOrigen": "tanda-3/generadas/nudge.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "por-que-fracasan",
@@ -1239,7 +1375,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/por-que-fracasan-a0cfabd606.webp",
     "fuenteContenido": "https://www.penguinrandomhouse.com/books/205014/why-nations-fail-by-daron-acemoglu-and-james-a-robinson/",
-    "registroOrigen": "tanda-3/generadas/por-que-fracasan.json"
+    "registroOrigen": "tanda-3/generadas/por-que-fracasan.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "capital-siglo-xxi",
@@ -1257,7 +1395,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/capital-siglo-xxi-c13b58ec19.webp",
     "fuenteContenido": "https://www.aeaweb.org/articles?id=10.1257%2Fjep.29.1.67",
-    "registroOrigen": "tanda-3/generadas/capital-siglo-xxi.json"
+    "registroOrigen": "tanda-3/generadas/capital-siglo-xxi.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "doctrina-shock",
@@ -1275,7 +1415,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/doctrina-shock-2e68976bcc.webp",
     "fuenteContenido": "https://us.macmillan.com/books/9780312427993/theshockdoctrine/",
-    "registroOrigen": "tanda-3/generadas/doctrina-shock.json"
+    "registroOrigen": "tanda-3/generadas/doctrina-shock.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "paseo-aleatorio",
@@ -1293,7 +1435,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/paseo-aleatorio-2836f27b12.webp",
     "fuenteContenido": "https://wwnorton.co.uk/books/9780393356939-a-random-walk-down-wall-street-5f7d4caf-9689-46d8-8588-fd16d650fcb3",
-    "registroOrigen": "tanda-3/generadas/paseo-aleatorio.json"
+    "registroOrigen": "tanda-3/generadas/paseo-aleatorio.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "superpronosticadores",
@@ -1311,7 +1455,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/superpronosticadores-d2d50ae5c3.webp",
     "fuenteContenido": "https://www.penguinrandomhouse.com/books/227815/superforecasting-by-philip-e-tetlock-and-dan-gardner/",
-    "registroOrigen": "tanda-3/generadas/superpronosticadores.json"
+    "registroOrigen": "tanda-3/generadas/superpronosticadores.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "biblioteca-de-la-medianoche",
@@ -1329,14 +1475,16 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/biblioteca-de-la-medianoche-5ed0b9c84b.webp",
     "fuenteContenido": "https://www.penguinrandomhouse.com/books/575653/the-midnight-library-a-gma-book-club-pick-by-matt-haig/9780525559498/",
-    "registroOrigen": "tanda-4/generadas/biblioteca-de-la-medianoche.json"
+    "registroOrigen": "tanda-4/generadas/biblioteca-de-la-medianoche.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "hombre-llamado-ove",
     "titulo": "Un hombre llamado Ove",
     "autor": "Fredrik Backman",
     "version": 1,
-    "estado": "Asignada al catálogo",
+    "estado": "Versión anterior",
     "archivo": "originales/hombre-llamado-ove-v1-4accc2837f.png",
     "archivoGenerado": "exec-418fec4c-6e30-4d46-9591-b8d7f77a3e39.png",
     "fechaArchivo": "2026-09-12T18:08:22.980631+00:00",
@@ -1345,16 +1493,18 @@
     "modo": "image_gen integrado",
     "prompt": "Use case: stylized-concept. Create ONE original finished Spanish book cover for Curva, portrait 1024x1536. The two input images are STYLE REFERENCES ONLY: bold flat editorial drawings, large beautiful typography, charming simplified shapes, vivid harmonious colors and a pressed book fold at the left edge. Invent a fresh composition; do not reproduce their scenes. This must look intentionally DRAWN, with crisp graphic silhouettes and a few expressive details, at most one flat shadow color per object. No photorealism, realistic painting, 3D render, collage, gradients, airbrushed lighting or grain. Human skin has natural colors; faces have coherent simple eyes, hands have coherent fingers. Every cover should look irresistible at 190px wide. Title is large and expressive; subtitle explains the actual book in generous readable lettering around 50-65px in the full image. Follow the individual palette and layout, not a repeated template. Front-on flat cover fills the canvas, rounded corners. MANDATORY: a narrow vertical pressed book fold 2% inside the LEFT edge across the ENTIRE height, with a fine highlight and darker groove, visible at thumbnail size. No perspective mockup, external shadow, logos, author names, year, watermark, labels or extra text. Only the exact Spanish title and subtitle below, with all accents.\nExact title: Un hombre llamado Ove\nExact subtitle: Un vecino gruñón que vuelve a encontrar compañía y sentido\nArt direction: Vibrant coral-orange background. An endearing flat-drawn elderly man in a forest-green cardigan and cream shirt sits stiffly on a turquoise garden bench at lower left. White hair, broad eyebrows, natural light skin, two simple aligned eyes, gently grumpy expression. A scruffy charcoal-gray cat curls beside him and one yellow flower peeks from behind the bench. Warm humor, simple coherent hands resting on knees, no photoreal portrait or actor likeness. Huge cream friendly heavy serif title across upper half with Ove enormous. Subtitle dark green on a generous warm-yellow ground shape across bottom. Only a few large shapes and no cluttered neighborhood.",
     "tipoPrompt": "Generación",
-    "archivoApp": "docs/assets/portadas-generadas/hombre-llamado-ove-4accc2837f.webp",
+    "archivoApp": null,
     "fuenteContenido": "https://www.simonandschuster.com/books/A-Man-Called-Ove/Fredrik-Backman/9781476738031",
-    "registroOrigen": "tanda-4/generadas/hombre-llamado-ove.json"
+    "registroOrigen": "tanda-4/generadas/hombre-llamado-ove.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "nino-que-domo-el-viento",
     "titulo": "El niño que domó el viento",
     "autor": "William Kamkwamba y Bryan Mealer",
     "version": 1,
-    "estado": "Asignada al catálogo",
+    "estado": "Versión anterior",
     "archivo": "originales/nino-que-domo-el-viento-v1-26089637fb.png",
     "archivoGenerado": "exec-31f1c6cc-aee2-448a-92b7-12a233098382.png",
     "fechaArchivo": "2026-09-12T18:08:47.270619+00:00",
@@ -1363,16 +1513,18 @@
     "modo": "image_gen integrado",
     "prompt": "Use case: stylized-concept. Create ONE original finished Spanish book cover for Curva, portrait 1024x1536. The two input images are STYLE REFERENCES ONLY: bold flat editorial drawings, large beautiful typography, charming simplified shapes, vivid harmonious colors and a pressed book fold at the left edge. Invent a fresh composition; do not reproduce their scenes. This must look intentionally DRAWN, with crisp graphic silhouettes and a few expressive details, at most one flat shadow color per object. No photorealism, realistic painting, 3D render, collage, gradients, airbrushed lighting or grain. Human skin has natural colors; faces have coherent simple eyes, hands have coherent fingers. Every cover should look irresistible at 190px wide. Title is large and expressive; subtitle explains the actual book in generous readable lettering around 50-65px in the full image. Follow the individual palette and layout, not a repeated template. Front-on flat cover fills the canvas, rounded corners. MANDATORY: a narrow vertical pressed book fold 2% inside the LEFT edge across the ENTIRE height, with a fine highlight and darker groove, visible at thumbnail size. No perspective mockup, external shadow, logos, author names, year, watermark, labels or extra text. Only the exact Spanish title and subtitle below, with all accents.\nExact title: El niño que domó el viento\nExact subtitle: Cómo un joven construyó un molino para ayudar a su familia\nArt direction: Brilliant golden-yellow sky and rich terracotta ground. A large handmade windmill with four clear broad cream blades on a simple cobalt triangular tower dominates the right and lower half; a small green field curves behind it. On the left a smiling illustrated Black teenage boy with natural dark-brown skin and a mint shirt holds a closed coral science book. Human figure simple and charming, no documentary realism or film likeness. Dark-cobalt heavy sans title at the top and down the left, viento especially large. Subtitle cream on the broad terracotta foreground. Clear graphic sense of ingenuity and fresh air, no dense machinery, no tiny lettering.",
     "tipoPrompt": "Generación",
-    "archivoApp": "docs/assets/portadas-generadas/nino-que-domo-el-viento-26089637fb.webp",
+    "archivoApp": null,
     "fuenteContenido": "https://www.penguinrandomhouse.com/books/606478/el-nino-que-domo-el-viento--the-boy-who-harnessed-the-wind-by-william-kamkwamba-bryan-mealer/9781644732649/",
-    "registroOrigen": "tanda-4/generadas/nino-que-domo-el-viento.json"
+    "registroOrigen": "tanda-4/generadas/nino-que-domo-el-viento.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "momo",
     "titulo": "Momo",
     "autor": "Michael Ende",
     "version": 1,
-    "estado": "Asignada al catálogo",
+    "estado": "Versión anterior",
     "archivo": "originales/momo-v1-d178f70b0c.png",
     "archivoGenerado": "exec-23b69738-f2bd-43b2-8e7b-e26c3e6a540c.png",
     "fechaArchivo": "2026-09-12T18:09:13.830715+00:00",
@@ -1381,16 +1533,18 @@
     "modo": "image_gen integrado",
     "prompt": "Use case: stylized-concept. Create ONE original finished Spanish book cover for Curva, portrait 1024x1536. The two input images are STYLE REFERENCES ONLY: bold flat editorial drawings, large beautiful typography, charming simplified shapes, vivid harmonious colors and a pressed book fold at the left edge. Invent a fresh composition; do not reproduce their scenes. This must look intentionally DRAWN, with crisp graphic silhouettes and a few expressive details, at most one flat shadow color per object. No photorealism, realistic painting, 3D render, collage, gradients, airbrushed lighting or grain. Human skin has natural colors; faces have coherent simple eyes, hands have coherent fingers. Every cover should look irresistible at 190px wide. Title is large and expressive; subtitle explains the actual book in generous readable lettering around 50-65px in the full image. Follow the individual palette and layout, not a repeated template. Front-on flat cover fills the canvas, rounded corners. MANDATORY: a narrow vertical pressed book fold 2% inside the LEFT edge across the ENTIRE height, with a fine highlight and darker groove, visible at thumbnail size. No perspective mockup, external shadow, logos, author names, year, watermark, labels or extra text. Only the exact Spanish title and subtitle below, with all accents.\nExact title: Momo\nExact subtitle: Una niña se enfrenta a quienes roban el tiempo de todos\nArt direction: Bright lavender background with a huge warm-yellow flower shaped like a clock filling the center and lower right: twelve broad petals, a coral center and two dark-purple clock hands, no numbers. A small curly-haired girl with natural tan skin and a vivid red oversized coat stands on the left edge of the flower beside a little green tortoise, both clearly drawn and anatomically simple. Huge deep-purple playful heavy serif Momo at the top. Subtitle in deep purple on a clean cream curved ground along bottom. Whimsical literary poster, generous negative space, original character design, no film imagery or imitation of a published cover.",
     "tipoPrompt": "Generación",
-    "archivoApp": "docs/assets/portadas-generadas/momo-d178f70b0c.webp",
+    "archivoApp": null,
     "fuenteContenido": "https://michaelende.de/en/book/momo-0",
-    "registroOrigen": "tanda-4/generadas/momo.json"
+    "registroOrigen": "tanda-4/generadas/momo.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "el-profeta",
     "titulo": "El profeta",
     "autor": "Khalil Gibran",
     "version": 1,
-    "estado": "Asignada al catálogo",
+    "estado": "Versión anterior",
     "archivo": "originales/el-profeta-v1-6480c2ff05.png",
     "archivoGenerado": "exec-3df0f31d-baa7-4b02-a8f6-1cb09040b520.png",
     "fechaArchivo": "2026-09-12T18:09:15.616870+00:00",
@@ -1399,9 +1553,11 @@
     "modo": "image_gen integrado",
     "prompt": "Use case: stylized-concept. Create ONE original finished Spanish book cover for Curva, portrait 1024x1536. The two input images are STYLE REFERENCES ONLY: bold flat editorial drawings, large beautiful typography, charming simplified shapes, vivid harmonious colors and a pressed book fold at the left edge. Invent a fresh composition; do not reproduce their scenes. This must look intentionally DRAWN, with crisp graphic silhouettes and a few expressive details, at most one flat shadow color per object. No photorealism, realistic painting, 3D render, collage, gradients, airbrushed lighting or grain. Human skin has natural colors; faces have coherent simple eyes, hands have coherent fingers. Every cover should look irresistible at 190px wide. Title is large and expressive; subtitle explains the actual book in generous readable lettering around 50-65px in the full image. Follow the individual palette and layout, not a repeated template. Front-on flat cover fills the canvas, rounded corners. MANDATORY: a narrow vertical pressed book fold 2% inside the LEFT edge across the ENTIRE height, with a fine highlight and darker groove, visible at thumbnail size. No perspective mockup, external shadow, logos, author names, year, watermark, labels or extra text. Only the exact Spanish title and subtitle below, with all accents.\nExact title: El profeta\nExact subtitle: Reflexiones poéticas sobre el amor, el trabajo y el sentido de vivir\nArt direction: Luminous saffron-orange background with a broad coral-red sun partly cropped at upper right. A monumental cream sail unfurls from the lower left into the center, its outline gently echoes an open palm without depicting actual fingers. Beneath it one deep-emerald boat rides two flat cobalt wave shapes. Serene lyrical Mediterranean mood, no religious iconography or realistic sea. Enormous deep-emerald expressive serif El profeta across top and middle left. Subtitle in dark emerald across the generous cream sail in three clean lines. Elegant editorial drawing, bold flowing shapes and only three principal objects.",
     "tipoPrompt": "Generación",
-    "archivoApp": "docs/assets/portadas-generadas/el-profeta-6480c2ff05.webp",
+    "archivoApp": null,
     "fuenteContenido": "https://www.penguin.co.uk/books/57427/the-prophet-by-gibran-kahlil/9780141910871",
-    "registroOrigen": "tanda-4/generadas/el-profeta.json"
+    "registroOrigen": "tanda-4/generadas/el-profeta.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "habitacion-propia",
@@ -1419,14 +1575,16 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/habitacion-propia-dd9618fce6.webp",
     "fuenteContenido": "https://www.penguinrandomhouse.com/books/753216/a-room-of-ones-own-by-virginia-woolf/",
-    "registroOrigen": "tanda-4/generadas/habitacion-propia.json"
+    "registroOrigen": "tanda-4/generadas/habitacion-propia.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "prohibido-nacer",
     "titulo": "Prohibido nacer",
     "autor": "Trevor Noah",
     "version": 1,
-    "estado": "Asignada al catálogo",
+    "estado": "Versión anterior",
     "archivo": "originales/prohibido-nacer-v1-25f51cf1ec.png",
     "archivoGenerado": "exec-a42810ab-a404-4b33-b438-f1536a735b35.png",
     "fechaArchivo": "2026-09-12T18:10:07.489867+00:00",
@@ -1435,16 +1593,18 @@
     "modo": "image_gen integrado",
     "prompt": "Use case: stylized-concept. Create ONE original finished Spanish book cover for Curva, portrait 1024x1536. The two input images are STYLE REFERENCES ONLY: bold flat editorial drawings, large beautiful typography, charming simplified shapes, vivid harmonious colors and a pressed book fold at the left edge. Invent a fresh composition; do not reproduce their scenes. This must look intentionally DRAWN, with crisp graphic silhouettes and a few expressive details, at most one flat shadow color per object. No photorealism, realistic painting, 3D render, collage, gradients, airbrushed lighting or grain. Human skin has natural colors; faces have coherent simple eyes, hands have coherent fingers. Every cover should look irresistible at 190px wide. Title is large and expressive; subtitle explains the actual book in generous readable lettering around 50-65px in the full image. Follow the individual palette and layout, not a repeated template. Front-on flat cover fills the canvas, rounded corners. MANDATORY: a narrow vertical pressed book fold 2% inside the LEFT edge across the ENTIRE height, with a fine highlight and darker groove, visible at thumbnail size. No perspective mockup, external shadow, logos, author names, year, watermark, labels or extra text. Only the exact Spanish title and subtitle below, with all accents.\nExact title: Prohibido nacer\nExact subtitle: Crecer entre el apartheid, el humor y la fuerza de una madre\nArt direction: Bright warm-yellow background, vivid magenta and cobalt accents. A flat-drawn Black mother with natural dark-brown skin in a magenta dress and a boy with natural medium-brown skin wearing a cobalt shirt walk together toward the right in the lower half. Mother and child seen in clear simple profile, joined hands anatomically coherent; hopeful expressions without exaggerated smiles. Behind them a large dark-purple wall with a broad cream doorway opens onto a coral rising sun. Title in enormous dark-purple sturdy sans across top, nacer especially bold. Subtitle dark purple on the cream foreground at bottom. Respectful lively memoir illustration, no celebrity portrait, no stereotype costume and no extra political slogans.",
     "tipoPrompt": "Generación",
-    "archivoApp": "docs/assets/portadas-generadas/prohibido-nacer-25f51cf1ec.webp",
+    "archivoApp": null,
     "fuenteContenido": "https://www.penguinrandomhouse.com/books/537515/born-a-crime-by-trevor-noah/",
-    "registroOrigen": "tanda-4/generadas/prohibido-nacer.json"
+    "registroOrigen": "tanda-4/generadas/prohibido-nacer.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "arte-de-viajar",
     "titulo": "El arte de viajar",
     "autor": "Alain de Botton",
     "version": 1,
-    "estado": "Asignada al catálogo",
+    "estado": "Versión anterior",
     "archivo": "originales/arte-de-viajar-v1-671c378fa0.png",
     "archivoGenerado": "exec-388a7b11-492a-4bb9-8ad2-df5624552c36.png",
     "fechaArchivo": "2026-09-12T18:10:22.559989+00:00",
@@ -1453,9 +1613,11 @@
     "modo": "image_gen integrado",
     "prompt": "Use case: stylized-concept. Create ONE original finished Spanish book cover for Curva, portrait 1024x1536. The two input images are STYLE REFERENCES ONLY: bold flat editorial drawings, large beautiful typography, charming simplified shapes, vivid harmonious colors and a pressed book fold at the left edge. Invent a fresh composition; do not reproduce their scenes. This must look intentionally DRAWN, with crisp graphic silhouettes and a few expressive details, at most one flat shadow color per object. No photorealism, realistic painting, 3D render, collage, gradients, airbrushed lighting or grain. Human skin has natural colors; faces have coherent simple eyes, hands have coherent fingers. Every cover should look irresistible at 190px wide. Title is large and expressive; subtitle explains the actual book in generous readable lettering around 50-65px in the full image. Follow the individual palette and layout, not a repeated template. Front-on flat cover fills the canvas, rounded corners. MANDATORY: a narrow vertical pressed book fold 2% inside the LEFT edge across the ENTIRE height, with a fine highlight and darker groove, visible at thumbnail size. No perspective mockup, external shadow, logos, author names, year, watermark, labels or extra text. Only the exact Spanish title and subtitle below, with all accents.\nExact title: El arte de viajar\nExact subtitle: Cómo la curiosidad y la atención transforman nuestra manera de viajar\nArt direction: Rich orange-tangerine background. A huge turquoise-blue suitcase lies open in the lower half, its cream interior becomes a flat graphic landscape: one cobalt mountain, one coral sun and a curving emerald path. A large cream magnifying-glass-shaped loop rises from the handle and frames the sun, a playful metaphor for looking carefully. No realistic luggage, travel stickers, airplanes or tiny icons. Title in enormous warm-cream heavy serif occupying upper half, viajar large and gently slanted. Subtitle dark cobalt on the clear cream suitcase lining across bottom. Off-center, cheerful and intellectually curious composition.",
     "tipoPrompt": "Generación",
-    "archivoApp": "docs/assets/portadas-generadas/arte-de-viajar-671c378fa0.webp",
+    "archivoApp": null,
     "fuenteContenido": "https://www.penguinrandomhouse.com/books/38360/the-art-of-travel-by-alain-de-botton/",
-    "registroOrigen": "tanda-4/generadas/arte-de-viajar.json"
+    "registroOrigen": "tanda-4/generadas/arte-de-viajar.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "endurance-shackleton",
@@ -1473,7 +1635,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/endurance-shackleton-168aa39578.webp",
     "fuenteContenido": "https://www.hachettebookgroup.com/titles/alfred-lansing/endurance/9780465058792/",
-    "registroOrigen": "tanda-4/generadas/endurance-shackleton.json"
+    "registroOrigen": "tanda-4/generadas/endurance-shackleton.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "cuando-todo-se-derrumba",
@@ -1491,14 +1655,16 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/cuando-todo-se-derrumba-cda7fe5c8a.webp",
     "fuenteContenido": "https://www.shambhala.com/when-things-fall-apart-3628.html",
-    "registroOrigen": "tanda-4/generadas/cuando-todo-se-derrumba.json"
+    "registroOrigen": "tanda-4/generadas/cuando-todo-se-derrumba.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "matilda",
     "titulo": "Matilda",
     "autor": "Roald Dahl",
     "version": 1,
-    "estado": "Asignada al catálogo",
+    "estado": "Versión anterior",
     "archivo": "originales/matilda-v1-420c6f4927.png",
     "archivoGenerado": "exec-e08f1046-c9e2-4fe5-a4b6-3cf9f28e8cb0.png",
     "fechaArchivo": "2026-09-12T18:11:18.781197+00:00",
@@ -1507,9 +1673,11 @@
     "modo": "image_gen integrado",
     "prompt": "Use case: stylized-concept. Create ONE original finished Spanish book cover for Curva, portrait 1024x1536. The two input images are STYLE REFERENCES ONLY: bold flat editorial drawings, large beautiful typography, charming simplified shapes, vivid harmonious colors and a pressed book fold at the left edge. Invent a fresh composition; do not reproduce their scenes. This must look intentionally DRAWN, with crisp graphic silhouettes and a few expressive details, at most one flat shadow color per object. No photorealism, realistic painting, 3D render, collage, gradients, airbrushed lighting or grain. Human skin has natural colors; faces have coherent simple eyes, hands have coherent fingers. Every cover should look irresistible at 190px wide. Title is large and expressive; subtitle explains the actual book in generous readable lettering around 50-65px in the full image. Follow the individual palette and layout, not a repeated template. Front-on flat cover fills the canvas, rounded corners. MANDATORY: a narrow vertical pressed book fold 2% inside the LEFT edge across the ENTIRE height, with a fine highlight and darker groove, visible at thumbnail size. No perspective mockup, external shadow, logos, author names, year, watermark, labels or extra text. Only the exact Spanish title and subtitle below, with all accents.\nExact title: Matilda\nExact subtitle: Una niña extraordinaria usa su inteligencia para enfrentarse a los adultos\nArt direction: Sunny lemon-yellow background with a broad soft-lilac floor. A small bright-eyed girl with natural light-brown skin, a straight dark-brown bob and a vivid cobalt-blue dress sits cross-legged atop three oversized coral, emerald and cream books at lower left. She reads one open cream book. A simple pink chalk stick floats diagonally nearby as a hint of telekinesis, with NO written marks. Original character, no actor likeness and no imitation of Quentin Blake. Matilda in enormous deep-purple playful heavy serif across top. Subtitle dark purple on a generous cream page shape across lower right. Clearly flat drawn, charming coherent eyes and hands, strong clean silhouette, no glitter or tiny classroom details.",
     "tipoPrompt": "Generación",
-    "archivoApp": "docs/assets/portadas-generadas/matilda-420c6f4927.webp",
+    "archivoApp": null,
     "fuenteContenido": "https://www.penguinrandomhouse.com/books/319178/matilda-by-roald-dahl-illustrated-by-quentin-blake/9780142410370/",
-    "registroOrigen": "tanda-4/generadas/matilda.json"
+    "registroOrigen": "tanda-4/generadas/matilda.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "red-oculta-de-la-vida",
@@ -1527,7 +1695,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/red-oculta-de-la-vida-bc09129f88.webp",
     "fuenteContenido": "https://www.penguinrandomhouse.com/books/566795/entangled-life-by-merlin-sheldrake/",
-    "registroOrigen": "tanda-4/generadas/red-oculta-de-la-vida.json"
+    "registroOrigen": "tanda-4/generadas/red-oculta-de-la-vida.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "como-ser-estoico",
@@ -1545,7 +1715,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/como-ser-estoico-1630a7c1fe.webp",
     "fuenteContenido": "https://www.hachettebookgroup.com/titles/massimo-pigliucci/how-to-be-a-stoic/9781541644533/",
-    "registroOrigen": "tanda-4/generadas/como-ser-estoico.json"
+    "registroOrigen": "tanda-4/generadas/como-ser-estoico.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "otras-mentes",
@@ -1563,7 +1735,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": null,
     "fuenteContenido": "https://us.macmillan.com/books/9780374537197/otherminds/",
-    "registroOrigen": "tanda-4/generadas/otras-mentes.json"
+    "registroOrigen": "tanda-4/generadas/otras-mentes.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "juan-salvador-gaviota",
@@ -1581,7 +1755,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/juan-salvador-gaviota-49d2032968.webp",
     "fuenteContenido": "https://www.simonandschuster.com/books/Jonathan-Livingston-Seagull/Richard-Bach/9780684846842",
-    "registroOrigen": "tanda-4/generadas/juan-salvador-gaviota.json"
+    "registroOrigen": "tanda-4/generadas/juan-salvador-gaviota.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "dune",
@@ -1599,7 +1775,9 @@
     "tipoPrompt": "Generación",
     "archivoApp": "docs/assets/portadas-generadas/dune-d30d65c2ab.webp",
     "fuenteContenido": "https://www.penguinrandomhouse.com/books/352036/dune-movie-tie-in-by-frank-herbert/9780143111580/",
-    "registroOrigen": "tanda-4/generadas/dune.json"
+    "registroOrigen": "tanda-4/generadas/dune.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
   },
   {
     "id": "otras-mentes",
@@ -1617,6 +1795,169 @@
     "tipoPrompt": "Edición",
     "archivoApp": "docs/assets/portadas-generadas/otras-mentes-abf6fba059.webp",
     "fuenteContenido": "https://us.macmillan.com/books/9780374537197/otherminds/",
-    "registroOrigen": "tanda-4/generadas/otras-mentes-v2.json"
+    "registroOrigen": "tanda-4/generadas/otras-mentes-v2.json",
+    "imagenBaseEdicion": null,
+    "referenciasEdicion": []
+  },
+  {
+    "id": "matilda",
+    "titulo": "Matilda",
+    "autor": "Roald Dahl",
+    "version": 2,
+    "estado": "Asignada al catálogo",
+    "archivo": "originales/matilda-v2-6ca6bd591e.png",
+    "archivoGenerado": "exec-59879599-1be1-46e4-8b4a-dadb69eaf918.png",
+    "fechaArchivo": "2026-09-12T18:19:43.620147+00:00",
+    "sha256": "6ca6bd591eaf63278798f7c21b778cb1358ce5b54b276de8644809cb6fe2ea86",
+    "bytes": 1427747,
+    "modo": "image_gen integrado",
+    "prompt": "Edit IMAGE 1, the finished Matilda cover. Images 2 and 3 are the user's Wiser/Headway STYLE REFERENCES for extremely simple FLAT DRAWN HUMAN FIGURES; ignore all phone interface and all text in those two screenshots. The user rejects the big shiny eyes and rounded rendered 'AI cartoon' appearance of the current girl. SUBSTANTIALLY REDRAW THE ENTIRE GIRL as a charming original 2D editorial cut-paper/vector-like drawing matching the human simplification of images 2 and 3. This is not a cosmetic filter. One solid natural peach color for ALL exposed skin, one solid dark-brown shape for the bob haircut with only a few broad fringe points, one cobalt-blue dress shape and a cream collar. Small solid black dot eyes or two simple curved strokes, each no bigger than 2% of face width; NO white eyeballs, iris, catchlights, eyelashes, cheek blush, shaded nose, highlights, sculpted cheeks or facial volume. Nose is a single small curve, mouth a short simple smile; a few economical black lines only. Reduce the oversized head and retain a lively childlike reading pose seated cross-legged on the books. Hands are simple flat silhouettes with only minimal coherent finger marks. Limbs/clothes have NO modeled shadows, no gradients and no fabric wrinkles. Show the craft through confident simple shape design, not texture. Preserve the cover's exact large title Matilda, exact subtitle Una niña extraordinaria usa su inteligencia para enfrentarse a los adultos, yellow/lilac/green/coral palette, stack of books, floating pink chalk, type layout, rounded corners, 1024x1536 dimensions and full-height LEFT-edge book fold. Everything remains crisp, colorful and legible. No extra text, no copied reference character, no photorealism, no 3D animated-film character, no polished digital painting.",
+    "tipoPrompt": "Edición",
+    "archivoApp": "docs/assets/portadas-generadas/matilda-6ca6bd591e.webp",
+    "fuenteContenido": "https://www.penguinrandomhouse.com/books/319178/matilda-by-roald-dahl-illustrated-by-quentin-blake/9780142410370/",
+    "registroOrigen": "tanda-4/generadas/matilda-v2.json",
+    "imagenBaseEdicion": "exec-e08f1046-c9e2-4fe5-a4b6-3cf9f28e8cb0.png",
+    "referenciasEdicion": [
+      "IMG_1936.PNG",
+      "IMG_1939.PNG"
+    ]
+  },
+  {
+    "id": "momo",
+    "titulo": "Momo",
+    "autor": "Michael Ende",
+    "version": 2,
+    "estado": "Asignada al catálogo",
+    "archivo": "originales/momo-v2-51405944ff.png",
+    "archivoGenerado": "exec-bfe0b3d1-2e0a-4207-91d2-adb043d6a02a.png",
+    "fechaArchivo": "2026-09-12T18:22:48.427986+00:00",
+    "sha256": "51405944ff641233a72c515c40e0197f49cdb4b42286e85f49a5612546b0b934",
+    "bytes": 1392951,
+    "modo": "image_gen integrado",
+    "prompt": "Edit IMAGE 1, the finished cover. Images 2 and 3 are the user's Wiser/Headway STYLE REFERENCES for simple FLAT DRAWN HUMANS. Ignore their phone interface, layout and words. The user wants the people to look more like these graphic drawings and less like polished AI cartoon renders. SUBSTANTIALLY REDRAW THE HUMAN FIGURE(S), not a cosmetic filter. Use one solid natural color per skin area, hair in one broad shape, eyes as tiny solid black dots or single short curved strokes (at most 2% of head width), a minimal nose and mouth, and a few expressive economical lines. NO white eyeballs, large irises, eye catchlights, eyelashes, blush, rounded shaded cheeks, highlighted nose, sculpted facial volume, hair strands, gradients or 3D animated-film aesthetics. Clothing and hands must also be simple flat silhouettes with coherent minimal fingers, no fabric folds or anatomy shading. Charming, lively and original, not bland or doll-like. Keep all the existing book-specific objects, palette, composition and typography visually unchanged outside the human figure(s), especially the title and explanatory subtitle. Maintain portrait 1024x1536, rounded corners and the full-height vertical LEFT-edge book fold. No extra text or copied reference characters.\nExact title to preserve: Momo\nExact subtitle to preserve: Una niña se enfrenta a quienes roban el tiempo de todos\nSpecific human redrawing: The young girl keeps her red oversized coat, dark curly hair, seated pose beside the tortoise on the giant flower-clock. Rebuild the curls as only five or six broad lobes in one dark shape. Replace the big white eyes with two tiny solid black dots; a short mouth arc and very small nose stroke. Head smaller and simpler, limbs flat and coherent, no cheek shading.",
+    "tipoPrompt": "Edición",
+    "archivoApp": "docs/assets/portadas-generadas/momo-51405944ff.webp",
+    "fuenteContenido": "https://michaelende.de/en/book/momo-0",
+    "registroOrigen": "tanda-4/generadas/momo-v2.json",
+    "imagenBaseEdicion": "exec-23b69738-f2bd-43b2-8e7b-e26c3e6a540c.png",
+    "referenciasEdicion": [
+      "IMG_1936.PNG",
+      "IMG_1939.PNG"
+    ]
+  },
+  {
+    "id": "nino-que-domo-el-viento",
+    "titulo": "El niño que domó el viento",
+    "autor": "William Kamkwamba y Bryan Mealer",
+    "version": 2,
+    "estado": "Asignada al catálogo",
+    "archivo": "originales/nino-que-domo-el-viento-v2-da7da53168.png",
+    "archivoGenerado": "exec-e4ea7a15-3d5f-4884-923f-653118616e1c.png",
+    "fechaArchivo": "2026-09-12T18:23:21.338355+00:00",
+    "sha256": "da7da53168e2dcd071a47201e6dbf5dcf4d18866a80cc803609264a895f5de51",
+    "bytes": 1458006,
+    "modo": "image_gen integrado",
+    "prompt": "Edit IMAGE 1, the finished cover. Images 2 and 3 are the user's Wiser/Headway STYLE REFERENCES for simple FLAT DRAWN HUMANS. Ignore their phone interface, layout and words. The user wants the people to look more like these graphic drawings and less like polished AI cartoon renders. SUBSTANTIALLY REDRAW THE HUMAN FIGURE(S), not a cosmetic filter. Use one solid natural color per skin area, hair in one broad shape, eyes as tiny solid black dots or single short curved strokes (at most 2% of head width), a minimal nose and mouth, and a few expressive economical lines. NO white eyeballs, large irises, eye catchlights, eyelashes, blush, rounded shaded cheeks, highlighted nose, sculpted facial volume, hair strands, gradients or 3D animated-film aesthetics. Clothing and hands must also be simple flat silhouettes with coherent minimal fingers, no fabric folds or anatomy shading. Charming, lively and original, not bland or doll-like. Keep all the existing book-specific objects, palette, composition and typography visually unchanged outside the human figure(s), especially the title and explanatory subtitle. Maintain portrait 1024x1536, rounded corners and the full-height vertical LEFT-edge book fold. No extra text or copied reference characters.\nExact title to preserve: El niño que domó el viento\nExact subtitle to preserve: Cómo un joven construyó un molino para ayudar a su familia\nSpecific human redrawing: The teenage Black boy keeps natural dark-brown skin, a mint shirt, a coral science book and the pose beside the windmill. Hair is one dark scalloped block, face one uniform brown color. Two small black dot eyes, tiny single-stroke nose and simple smile. No white eyeballs, modeled cheeks or nostril detail. Retain a teenager proportion and a clear coherent hand holding the book.",
+    "tipoPrompt": "Edición",
+    "archivoApp": "docs/assets/portadas-generadas/nino-que-domo-el-viento-da7da53168.webp",
+    "fuenteContenido": "https://www.penguinrandomhouse.com/books/606478/el-nino-que-domo-el-viento--the-boy-who-harnessed-the-wind-by-william-kamkwamba-bryan-mealer/9781644732649/",
+    "registroOrigen": "tanda-4/generadas/nino-que-domo-el-viento-v2.json",
+    "imagenBaseEdicion": "exec-31f1c6cc-aee2-448a-92b7-12a233098382.png",
+    "referenciasEdicion": [
+      "IMG_1936.PNG",
+      "IMG_1939.PNG"
+    ]
+  },
+  {
+    "id": "prohibido-nacer",
+    "titulo": "Prohibido nacer",
+    "autor": "Trevor Noah",
+    "version": 2,
+    "estado": "Asignada al catálogo",
+    "archivo": "originales/prohibido-nacer-v2-9beeba0938.png",
+    "archivoGenerado": "exec-f45a0718-9769-4cc9-96d1-80256b035063.png",
+    "fechaArchivo": "2026-09-12T18:23:58.882247+00:00",
+    "sha256": "9beeba0938a28bef1566f3e0b35c2c36a1169a259f93a905d5414ffab63751ce",
+    "bytes": 1386726,
+    "modo": "image_gen integrado",
+    "prompt": "Edit IMAGE 1, the finished cover. Images 2 and 3 are the user's Wiser/Headway STYLE REFERENCES for simple FLAT DRAWN HUMANS. Ignore their phone interface, layout and words. The user wants the people to look more like these graphic drawings and less like polished AI cartoon renders. SUBSTANTIALLY REDRAW THE HUMAN FIGURE(S), not a cosmetic filter. Use one solid natural color per skin area, hair in one broad shape, eyes as tiny solid black dots or single short curved strokes (at most 2% of head width), a minimal nose and mouth, and a few expressive economical lines. NO white eyeballs, large irises, eye catchlights, eyelashes, blush, rounded shaded cheeks, highlighted nose, sculpted facial volume, hair strands, gradients or 3D animated-film aesthetics. Clothing and hands must also be simple flat silhouettes with coherent minimal fingers, no fabric folds or anatomy shading. Charming, lively and original, not bland or doll-like. Keep all the existing book-specific objects, palette, composition and typography visually unchanged outside the human figure(s), especially the title and explanatory subtitle. Maintain portrait 1024x1536, rounded corners and the full-height vertical LEFT-edge book fold. No extra text or copied reference characters.\nExact title to preserve: Prohibido nacer\nExact subtitle to preserve: Crecer entre el apartheid, el humor y la fuerza de una madre\nSpecific human redrawing: Redraw BOTH the Black mother and her son as flat editorial cut-paper-like characters, retaining their naturally brown skin tones, magenta dress, cobalt shirt, walking direction and the joined hands. Adult mother has adult proportions, child is smaller. Heads are simple profiles with one tiny black dot eye each, one small nose contour and a short mouth line. Hair in solid dark blocks, no eyelid detail or modeled faces. Dress and legs simple geometric shapes, no wrinkles; keep a clear coherent connection between their two hands.",
+    "tipoPrompt": "Edición",
+    "archivoApp": "docs/assets/portadas-generadas/prohibido-nacer-9beeba0938.webp",
+    "fuenteContenido": "https://www.penguinrandomhouse.com/books/537515/born-a-crime-by-trevor-noah/",
+    "registroOrigen": "tanda-4/generadas/prohibido-nacer-v2.json",
+    "imagenBaseEdicion": "exec-a42810ab-a404-4b33-b438-f1536a735b35.png",
+    "referenciasEdicion": [
+      "IMG_1936.PNG",
+      "IMG_1939.PNG"
+    ]
+  },
+  {
+    "id": "hombre-llamado-ove",
+    "titulo": "Un hombre llamado Ove",
+    "autor": "Fredrik Backman",
+    "version": 2,
+    "estado": "Asignada al catálogo",
+    "archivo": "originales/hombre-llamado-ove-v2-0d34f03d22.png",
+    "archivoGenerado": "exec-a954f4cb-8c73-471f-ab70-7be293dbc907.png",
+    "fechaArchivo": "2026-09-12T18:24:35.605343+00:00",
+    "sha256": "0d34f03d22f4ae3894cb3dc482aa6c824bb78ebd82f1a586edb38c94e191d7d1",
+    "bytes": 1388810,
+    "modo": "image_gen integrado",
+    "prompt": "Edit IMAGE 1, the finished cover. Images 2 and 3 are the user's Wiser/Headway STYLE REFERENCES for simple FLAT DRAWN HUMANS. Ignore their phone interface, layout and words. The user wants the people to look more like these graphic drawings and less like polished AI cartoon renders. SUBSTANTIALLY REDRAW THE HUMAN FIGURE(S), not a cosmetic filter. Use one solid natural color per skin area, hair in one broad shape, eyes as tiny solid black dots or single short curved strokes (at most 2% of head width), a minimal nose and mouth, and a few expressive economical lines. NO white eyeballs, large irises, eye catchlights, eyelashes, blush, rounded shaded cheeks, highlighted nose, sculpted facial volume, hair strands, gradients or 3D animated-film aesthetics. Clothing and hands must also be simple flat silhouettes with coherent minimal fingers, no fabric folds or anatomy shading. Charming, lively and original, not bland or doll-like. Keep all the existing book-specific objects, palette, composition and typography visually unchanged outside the human figure(s), especially the title and explanatory subtitle. Maintain portrait 1024x1536, rounded corners and the full-height vertical LEFT-edge book fold. No extra text or copied reference characters.\nExact title to preserve: Un hombre llamado Ove\nExact subtitle to preserve: Un vecino gruñón que vuelve a encontrar compañía y sentido\nSpecific human redrawing: The elderly man keeps his white hair, green cardigan, grumpy attitude and seated pose beside the cat. Draw an original witty graphic character: head a simple angular peach shape, hair three broad cream tufts, thick angled eyebrows over tiny black dot eyes, one angular nose outline and one short downturned mouth. Just two short forehead lines, no modeled wrinkles or eye sockets. Hands and clothes are broad flat shapes, no knitted texture or fabric folds. Keep him recognizable as an older adult, not a baby-faced character.",
+    "tipoPrompt": "Edición",
+    "archivoApp": "docs/assets/portadas-generadas/hombre-llamado-ove-0d34f03d22.webp",
+    "fuenteContenido": "https://www.simonandschuster.com/books/A-Man-Called-Ove/Fredrik-Backman/9781476738031",
+    "registroOrigen": "tanda-4/generadas/hombre-llamado-ove-v2.json",
+    "imagenBaseEdicion": "exec-418fec4c-6e30-4d46-9591-b8d7f77a3e39.png",
+    "referenciasEdicion": [
+      "IMG_1936.PNG",
+      "IMG_1939.PNG"
+    ]
+  },
+  {
+    "id": "el-profeta",
+    "titulo": "El profeta",
+    "autor": "Khalil Gibran",
+    "version": 2,
+    "estado": "Asignada al catálogo",
+    "archivo": "originales/el-profeta-v2-2411fe5746.png",
+    "archivoGenerado": "exec-0edf43a8-189d-4b7a-a3f1-c85e5ae61950.png",
+    "fechaArchivo": "2026-09-12T18:25:07.882073+00:00",
+    "sha256": "2411fe5746178f0767534190f54fa335a6c0ebe534c85dd856329107ed62ec18",
+    "bytes": 1363155,
+    "modo": "image_gen integrado",
+    "prompt": "Edit IMAGE 1, the finished cover. Images 2 and 3 are the user's Wiser/Headway STYLE REFERENCES for simple FLAT DRAWN HUMANS. Ignore their phone interface, layout and words. The user wants the people to look more like these graphic drawings and less like polished AI cartoon renders. SUBSTANTIALLY REDRAW THE HUMAN FIGURE(S), not a cosmetic filter. Use one solid natural color per skin area, hair in one broad shape, eyes as tiny solid black dots or single short curved strokes (at most 2% of head width), a minimal nose and mouth, and a few expressive economical lines. NO white eyeballs, large irises, eye catchlights, eyelashes, blush, rounded shaded cheeks, highlighted nose, sculpted facial volume, hair strands, gradients or 3D animated-film aesthetics. Clothing and hands must also be simple flat silhouettes with coherent minimal fingers, no fabric folds or anatomy shading. Charming, lively and original, not bland or doll-like. Keep all the existing book-specific objects, palette, composition and typography visually unchanged outside the human figure(s), especially the title and explanatory subtitle. Maintain portrait 1024x1536, rounded corners and the full-height vertical LEFT-edge book fold. No extra text or copied reference characters.\nExact title to preserve: El profeta\nExact subtitle to preserve: Reflexiones poéticas sobre el amor, el trabajo y el sentido de vivir\nSpecific human redrawing: Redraw the small seated man in the boat as a very simple flat editorial figure: uniform natural warm-brown skin, dark hair as one shape, one tiny closed-eye stroke, simple nose profile, cream shirt and dark-green trousers. Keep his reflective seated pose and coherent hands resting near the knee, but remove all modeled anatomy, muscle shading or fine facial marks. The figure is a handful of expressive color shapes, clearly hand-designed.",
+    "tipoPrompt": "Edición",
+    "archivoApp": "docs/assets/portadas-generadas/el-profeta-2411fe5746.webp",
+    "fuenteContenido": "https://www.penguin.co.uk/books/57427/the-prophet-by-gibran-kahlil/9780141910871",
+    "registroOrigen": "tanda-4/generadas/el-profeta-v2.json",
+    "imagenBaseEdicion": "exec-3df0f31d-baa7-4b02-a8f6-1cb09040b520.png",
+    "referenciasEdicion": [
+      "IMG_1936.PNG",
+      "IMG_1939.PNG"
+    ]
+  },
+  {
+    "id": "arte-de-viajar",
+    "titulo": "El arte de viajar",
+    "autor": "Alain de Botton",
+    "version": 2,
+    "estado": "Asignada al catálogo",
+    "archivo": "originales/arte-de-viajar-v2-3f6c185fbe.png",
+    "archivoGenerado": "exec-8e0036ea-b8a1-4cf5-876c-ebb33d441bb3.png",
+    "fechaArchivo": "2026-09-12T18:25:48.263944+00:00",
+    "sha256": "3f6c185fbe4fe163e559535096bbbd96990650cad942656db4400875f6b586ee",
+    "bytes": 1422703,
+    "modo": "image_gen integrado",
+    "prompt": "Edit IMAGE 1, the finished cover. Images 2 and 3 are the user's Wiser/Headway STYLE REFERENCES for simple FLAT DRAWN HUMANS. Ignore their phone interface, layout and words. The user wants the people to look more like these graphic drawings and less like polished AI cartoon renders. SUBSTANTIALLY REDRAW THE HUMAN FIGURE(S), not a cosmetic filter. Use one solid natural color per skin area, hair in one broad shape, eyes as tiny solid black dots or single short curved strokes (at most 2% of head width), a minimal nose and mouth, and a few expressive economical lines. NO white eyeballs, large irises, eye catchlights, eyelashes, blush, rounded shaded cheeks, highlighted nose, sculpted facial volume, hair strands, gradients or 3D animated-film aesthetics. Clothing and hands must also be simple flat silhouettes with coherent minimal fingers, no fabric folds or anatomy shading. Charming, lively and original, not bland or doll-like. Keep all the existing book-specific objects, palette, composition and typography visually unchanged outside the human figure(s), especially the title and explanatory subtitle. Maintain portrait 1024x1536, rounded corners and the full-height vertical LEFT-edge book fold. No extra text or copied reference characters.\nExact title to preserve: El arte de viajar\nExact subtitle to preserve: Cómo la curiosidad y la atención transforman nuestra manera de viajar\nSpecific human redrawing: Redraw the woman leaning on her hand as a simple warm editorial character. One solid natural warm-peach skin color; a single dark hair silhouette without highlights; one short closed-eye arc, one small nose contour and a short simple mouth. Replace modeled face and detailed fingers with economical geometric shapes. Keep her striped cream-and-navy shirt, coral backpack, relaxed pose and position beside the suitcase. Arms and clothing flat, no elbow or face shading.",
+    "tipoPrompt": "Edición",
+    "archivoApp": "docs/assets/portadas-generadas/arte-de-viajar-3f6c185fbe.webp",
+    "fuenteContenido": "https://www.penguinrandomhouse.com/books/38360/the-art-of-travel-by-alain-de-botton/",
+    "registroOrigen": "tanda-4/generadas/arte-de-viajar-v2.json",
+    "imagenBaseEdicion": "exec-388a7b11-492a-4bb9-8ad2-df5624552c36.png",
+    "referenciasEdicion": [
+      "IMG_1936.PNG",
+      "IMG_1939.PNG"
+    ]
   }
 ]
