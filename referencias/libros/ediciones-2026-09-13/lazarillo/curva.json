@@ -1,0 +1,208 @@
+{
+  "libro": {
+    "id": "lazarillo",
+    "titulo": "Lazarillo de Tormes",
+    "autor": "Anónimo",
+    "categoria": "Literatura",
+    "versionAnterior": false,
+    "palabrasManuscrito": 2493,
+    "palabrasLectura": 2655,
+    "minutos": 19,
+    "paginas": 7,
+    "rayos": 7,
+    "sha256Manuscrito": "8cb53258364344c76c60c5d53d03c7e8d431b237821ad8db17a2b47e9163f386",
+    "fuentes": [
+      "https://www.gutenberg.org/cache/epub/320/pg320-images.html"
+    ]
+  },
+  "paginas": [
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Un adulto cuenta por qué aprendió a sobrevivir"
+        },
+        {
+          "b": "texto",
+          "texto": "Antes de aprender a distinguir a una buena persona de una mala, Lázaro aprende a distinguir una casa donde podrá comer de otra donde pasará hambre. Ese es el tamaño de sus primeras preocupaciones. Nace en una familia pobre, pierde a su padre y acaba sirviendo a desconocidos que prometen protegerlo. Desde fuera, sus aventuras pueden parecer una colección de bromas ingeniosas. Desde dentro, cada bocado robado y cada mentira tienen una urgencia concreta: llegar al día siguiente. El humor nos acerca a él, pero también hace más visible la dureza de lo que cuenta."
+        },
+        {
+          "b": "texto",
+          "texto": "Lazarillo de Tormes, publicado anónimamente en 1554, está narrado por el propio Lázaro cuando ya es adulto. Se dirige a alguien a quien llama vuestra merced, que le ha pedido explicaciones sobre un caso. En lugar de responder de inmediato, decide contar su vida desde el principio. Esa elección es fundamental. Quiere que su situación presente se juzgue teniendo en cuenta todo lo que ha atravesado. Al mismo tiempo, controla la versión que recibimos. Es un protagonista que recuerda, selecciona y se justifica; entenderlo exige escuchar tanto lo que dice como las reservas que deja entre sus palabras."
+        },
+        {
+          "b": "texto",
+          "texto": "Su apellido procede del lugar de nacimiento: un molino junto al río Tormes. Su padre, Tomé González, es castigado por sustraer parte del grano que le llevan a moler y después muere al servicio de un caballero en una expedición. La madre, Antona Pérez, busca trabajo en Salamanca. Lázaro presenta esas circunstancias con expresiones que suavizan los delitos y resaltan la necesidad. Desde el comienzo, la dignidad de una familia depende también de cómo se cuenta su historia. Las palabras pueden dar una apariencia respetable a hechos que, dichos de otra manera, provocarían una condena inmediata."
+        },
+        {
+          "b": "texto",
+          "texto": "Antona se relaciona con Zaide, que lleva comida y leña a la casa. Lázaro primero lo teme por su aspecto y después lo quiere, al descubrir que su presencia mejora la vida de todos. Nace un hermano pequeño. Cuando se averigua que Zaide ha robado bienes de las caballerizas, llegan el castigo y una nueva separación. El relato permite ver el delito y, a la vez, a las personas que alimentaba. No pide que olvidemos una cosa para reconocer la otra. Nos coloca ante una sociedad que castiga al débil con facilidad y cuyo orden no evita que los niños se queden sin protección."
+        },
+        {
+          "b": "idea",
+          "texto": "La historia de Lázaro también es la defensa que un hombre hace de su situación presente."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "El ciego enseña mediante el hambre y el daño"
+        },
+        {
+          "b": "texto",
+          "texto": "La madre acaba entregando a Lázaro al cuidado de un ciego. Este promete recibirlo casi como a un hijo, pero la primera lección desmiente la promesa. Al salir de Salamanca, le dice que acerque la oreja a un toro de piedra para escuchar un ruido y le golpea la cabeza contra él. El niño comprende que debe mantenerse alerta. Es un despertar construido mediante la violencia: la persona de quien depende puede engañarlo deliberadamente. A partir de ahí, observar los gestos del amo y anticiparse a sus trampas se convierte en una forma de defensa."
+        },
+        {
+          "b": "texto",
+          "texto": "El ciego sabe obtener dinero mediante oraciones, consejos y una representación convincente de la devoción. Conoce a su público, adapta sus palabras y detecta oportunidades. Lázaro admira su inteligencia, aunque sufra su avaricia. El muchacho no pasa hambre porque el amo sea incapaz de ganar nada; pasa hambre porque este le entrega muy poco y guarda el resto. Esa diferencia volverá a importar cuando conozca a otros señores. La necesidad económica y la crueldad no son equivalentes. El libro distingue entre no poder compartir y decidir no hacerlo."
+        },
+        {
+          "b": "texto",
+          "texto": "Para conseguir comida, Lázaro descose y vuelve a coser el fardel del ciego. Para beber vino, va cambiando de estrategia a medida que el amo descubre sus trucos: primero aprovecha un descuido, luego utiliza una paja y finalmente perfora el jarro y tapa el agujero con cera. Cerca del fuego, la cera se derrite y el vino cae hasta su boca. La escena tiene precisión de pequeño mecanismo. El ingenio nace de observar materiales, hábitos y momentos. Pero su éxito dura poco: cuando el ciego descubre la trampa, espera la ocasión y le estrella el jarro en la cara."
+        },
+        {
+          "b": "texto",
+          "texto": "En otra ocasión comparten un racimo de uvas con el acuerdo de tomarlas de una en una. El ciego rompe el pacto y comienza a coger dos; Lázaro aprovecha para comer tres. Al terminar, el amo deduce lo ocurrido porque el niño no protestó. Su silencio delata que también obtenía ventaja. La comicidad está en esa inteligencia capaz de leer lo que no ve. Además, deja una pregunta que llegará hasta el final del libro: ¿qué significa callar cuando una situación nos beneficia? No siempre el silencio demuestra ignorancia; a veces muestra que hemos decidido acomodarnos."
+        },
+        {
+          "b": "texto",
+          "texto": "La relación se vuelve cada vez más peligrosa. Después de sustituir una longaniza por un nabo, Lázaro sufre otra paliza. Quienes escuchan al ciego contar sus hazañas se ríen, aunque el niño esté herido. La destreza del narrador convierte su dolor en entretenimiento para los demás. Finalmente, Lázaro prepara una venganza: hace creer al amo que puede saltar un arroyo por un punto estrecho y lo coloca frente a un poste de piedra. El ciego salta, se golpea y el muchacho huye. El aprendizaje se cierra repitiendo la violencia con que había comenzado."
+        },
+        {
+          "b": "idea",
+          "texto": "La astucia de Lázaro nace dentro de una relación en la que depender de otro significa estar en peligro."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "El pan encerrado desenmascara la falsa caridad"
+        },
+        {
+          "b": "texto",
+          "texto": "El siguiente amo es un clérigo de Maqueda. Lázaro espera mejorar, pero descubre una vigilancia todavía más estricta. El pan de las ofrendas queda encerrado en un arca y el sacerdote controla cada ración. Mientras el niño se debilita, el amo justifica la escasez apelando a la moderación. Cuando come a costa de otros, esa supuesta austeridad desaparece. La distancia entre el lenguaje religioso y el comportamiento resulta especialmente cruel: las palabras destinadas a orientar una vida buena sirven aquí para encubrir la falta de caridad hacia alguien que depende de él."
+        },
+        {
+          "b": "texto",
+          "texto": "El hambre llega a deformar incluso los deseos del muchacho. En los entierros puede comer, de modo que empieza a esperar que los enfermos mueran. Lázaro adulto lo confiesa entre bromas y peticiones de perdón. El episodio nos hace mirar la situación antes de sentenciar al niño por lo que piensa. Su entorno ha unido la muerte ajena con la posibilidad de seguir vivo. Esa inversión muestra hasta qué punto una necesidad extrema puede alterar la relación con los demás. El relato no idealiza la pobreza: deja ver cómo amenaza también los vínculos y el juicio moral."
+        },
+        {
+          "b": "texto",
+          "texto": "La aparición de un calderero parece abrir una salida. Lázaro consigue una llave para el arca y comienza a comer el pan escondido. Cuando el clérigo cuenta las piezas, tiene que inventar otra explicación: desmigaja pequeñas cantidades para simular la acción de unos ratones. El amo tapa agujeros; el niño vuelve a abrirlos. La casa se convierte en un combate alrededor de un alimento que podría haberse compartido. La energía que ambos gastan en vigilar y engañar resulta desproporcionada, y esa desproporción revela el absurdo de proteger unos panes a costa de la salud de una persona."
+        },
+        {
+          "b": "texto",
+          "texto": "Los vecinos sugieren después que el responsable podría ser una culebra. Lázaro esconde la llave en la boca mientras duerme y el aire que pasa por ella produce un silbido. El clérigo cree haber localizado al animal y descarga un golpe sobre él. Al descubrir la llave, comprende lo sucedido. Cuando el niño se recupera lo suficiente, lo expulsa. Otra vez, la autoridad interpreta la astucia del muchacho como una maldad excepcional y deja fuera del juicio el hambre que ella misma ha provocado. La explicación del culpable más débil permite no examinar la conducta del poderoso."
+        },
+        {
+          "b": "idea",
+          "texto": "La autoridad religiosa del clérigo convive con una conducta que pone en riesgo al muchacho."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "El escudero tiene honra, pero no tiene comida"
+        },
+        {
+          "b": "texto",
+          "texto": "En Toledo aparece un escudero bien vestido, de paso elegante y aspecto respetable. Lázaro cree haber encontrado por fin a un amo capaz de mantenerlo. Lo sigue por calles y mercados, imaginando que la comida ya los espera en casa. Pero pasan las horas, la puerta se abre y dentro no hay casi nada. El escudero afirma que ya ha comido. El niño descubre gradualmente que bajo aquella apariencia vive otro hambriento. La decepción nace de una regla que parecía segura: vestir como un hombre acomodado debería significar que se dispone de lo necesario para vivir."
+        },
+        {
+          "b": "texto",
+          "texto": "Pronto los papeles se invierten. Lázaro sale a pedir comida y termina alimentando a su señor. Observa cómo este mira de reojo los alimentos, aunque insiste en que ya está satisfecho, y encuentra una forma de invitarlo sin herir su orgullo. La escena contiene una ternura que no había aparecido con los otros amos. El muchacho reconoce en su apetito una experiencia compartida. Puede estar cansado de sostenerlo y sentir compasión al mismo tiempo. La mirada del relato se vuelve más compleja: comprender la debilidad de alguien no elimina sus defectos, pero cambia la manera de juzgarlos."
+        },
+        {
+          "b": "texto",
+          "texto": "Lázaro distingue claramente a este hombre del ciego y el clérigo. Aquellos tenían algo que darle; el escudero carece de recursos. Lo que el muchacho no entiende es por qué protege tanto su apariencia. Sale a la calle con compostura y hasta se limpia los dientes para sugerir que ha comido. Su honra depende de lo que otros crean sobre él. Admitir la necesidad parece más insoportable que padecerla. El libro nos muestra así una reputación que exige sacrificios reales, pero no proporciona alimento ni refugio. Mantener la imagen acaba consumiendo las fuerzas que podrían dedicarse a vivir."
+        },
+        {
+          "b": "texto",
+          "texto": "Cuando el escudero explica por qué dejó su tierra, habla de saludos, precedencias y pequeñas ofensas que para él resultan intolerables. También imagina cómo prosperaría sirviendo a un gran señor: adulándolo, riendo sus gracias y evitando cualquier verdad molesta. Su orgullo convive con la disposición a someterse si obtiene la protección adecuada. Esa contradicción amplía la sátira. La honra se presenta como un principio elevado, pero en la práctica puede convertirse en una negociación de apariencias. Cada persona exige reconocimiento de quienes tiene por debajo y calcula cómo agradar a quienes tiene por encima."
+        },
+        {
+          "b": "texto",
+          "texto": "Una orden municipal contra los pobres forasteros dificulta que Lázaro siga pidiendo. Quienes lo sostienen son unas vecinas hilanderas, que comparten lo poco que tienen. La ayuda efectiva aparece lejos de los discursos solemnes. Más tarde, cuando llegan a reclamar el alquiler de la vivienda y de la cama, el escudero sale con una excusa y no vuelve. Lázaro debe responder por unos bienes inexistentes, hasta que las vecinas explican su situación. La inversión final resulta amarga: después de huir de varios amos, ahora es su amo quien lo abandona a él."
+        },
+        {
+          "b": "idea",
+          "texto": "La necesidad revela el coste humano de una reputación sostenida únicamente por las apariencias."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "El engaño también puede representarse en público"
+        },
+        {
+          "b": "texto",
+          "texto": "Los tratados siguientes aceleran el paso. Con un fraile de la Merced, Lázaro recibe sus primeros zapatos y los gasta enseguida siguiendo su actividad fuera del convento. Se marcha por ese trajín y por otras razones que no explica. El silencio ha provocado interpretaciones, pero el texto no desarrolla esas otras cosas. Un resumen fiel debe conservar la reserva sin convertir una hipótesis en un episodio seguro. La brevedad también produce un efecto: después de conocer en detalle los primeros aprendizajes, vemos al protagonista pasar por nuevas dependencias con una familiaridad cada vez mayor."
+        },
+        {
+          "b": "texto",
+          "texto": "El buldero, encargado de difundir y vender bulas vinculadas a indulgencias religiosas, ofrece una lección distinta. Antes de dirigirse al pueblo, procura ganarse a los clérigos y adapta su lenguaje a los conocimientos que les atribuye. Su habilidad consiste en fabricar confianza. Cuando la gente se resiste, monta con un alguacil una disputa que parece auténtica. Al día siguiente, el alguacil lo acusa públicamente de fraude durante el sermón. La oposición da credibilidad a lo que ocurrirá después: el público cree estar presenciando una confrontación espontánea, cuando en realidad ambos preparan la misma representación."
+        },
+        {
+          "b": "texto",
+          "texto": "El buldero pide una señal divina y el alguacil cae al suelo entre convulsiones fingidas. Tras la intervención del vendedor y la aplicación de una bula, parece recuperarse. El miedo y el supuesto milagro provocan una avalancha de compras. Lázaro reconoce que al principio también creyó lo que veía; descubre el engaño al observar luego la complicidad de los dos hombres. La escena no se limita a denunciar una mentira. Explica cómo una historia organizada, una emoción intensa y una autoridad reconocida pueden reforzarse hasta hacer que la duda parezca una falta moral."
+        },
+        {
+          "b": "idea",
+          "texto": "El episodio del buldero muestra cómo una actuación organizada puede fabricar credulidad."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Conseguir un oficio cambia las posibilidades"
+        },
+        {
+          "b": "texto",
+          "texto": "Después de un breve servicio con un pintor de panderos, Lázaro trabaja para un capellán vendiendo agua por la ciudad. Recibe un asno y cántaros, entrega una cantidad de lo ganado y conserva el excedente en las condiciones que cuenta. Durante cuatro años ahorra hasta poder comprar ropa usada y una espada. Él considera ese trabajo el primer escalón de su mejora. Por fin obtiene cierta continuidad y capacidad de decisión. Sin embargo, el momento en que se siente transformado coincide con verse vestido como un hombre respetable: la apariencia vuelve a intervenir en su idea del ascenso."
+        },
+        {
+          "b": "texto",
+          "texto": "Prueba también el servicio de un alguacil, pero lo abandona por peligroso. Finalmente consigue ser pregonero en Toledo gracias a sus apoyos. Anuncia mercancías y vinos, interviene en ventas públicas y proclama los delitos de personas castigadas por la justicia. El niño cuya familia había sufrido la persecución participa ahora en la voz pública del orden. Lázaro describe el puesto como una conquista y desea conservarlo. Después de tanta inseguridad, se entiende el alivio de tener una ocupación estable. El relato prepara así el peso que tendrá cualquier amenaza contra esa tranquilidad recién alcanzada."
+        },
+        {
+          "b": "idea",
+          "texto": "Los ingresos propios permiten a Lázaro buscar una seguridad que sus primeros amos le negaban."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "La buena fortuna tiene un precio incómodo"
+        },
+        {
+          "b": "texto",
+          "texto": "El arcipreste de San Salvador lo favorece y organiza su matrimonio con una criada suya. La pareja recibe ayuda y vive cerca de él. Surgen comentarios sobre la relación entre la mujer y el sacerdote. Aquí aparece el asunto hacia el que se dirigía la narración. Lázaro refiere sospechas y una conversación incómoda, pero insiste en la bondad de su esposa y en la protección del arcipreste. No presenciamos una demostración independiente del adulterio: recibimos la versión interesada del marido, atravesada por indicios, negaciones y por lo mucho que depende de mantener ese arreglo."
+        },
+        {
+          "b": "texto",
+          "texto": "El arcipreste le aconseja atender a su provecho en lugar de a las habladurías. Lázaro termina comprometiéndose a no volver a discutir el asunto y corta a quienes intentan hablar de él. Declara que así conserva la paz de su casa. La frase puede leerse como alivio, autoengaño o aceptación calculada, y el libro permite que esas posibilidades convivan. Su silencio recuerda ahora al episodio de las uvas: hay circunstancias en que no preguntar ayuda a sostener una ventaja. El muchacho que aprendió a descubrir trampas se ha convertido en un adulto capaz de decidir cuáles le conviene no examinar."
+        },
+        {
+          "b": "texto",
+          "texto": "Al terminar, Lázaro se presenta en la cumbre de su buena fortuna. La expresión adquiere una ironía difícil de resolver. Ha dejado atrás el hambre más extrema, ha encontrado trabajo y tiene un hogar. También ha aprendido a adaptar su relato a quienes pueden protegerlo y a pagar por la seguridad con una parte de su franqueza. Su vida invita a juzgar con cuidado: comprender las presiones que lo formaron no obliga a celebrar todas sus decisiones, y condenarlas sin recordar su infancia sería igualmente insuficiente. La pregunta que permanece es qué significa prosperar cuando el precio consiste en acostumbrarse a callar."
+        },
+        {
+          "b": "idea",
+          "texto": "El desenlace deja abierta la distancia entre lo que Lázaro sabe, lo que acepta y lo que desea contar."
+        }
+      ]
+    }
+  ]
+}

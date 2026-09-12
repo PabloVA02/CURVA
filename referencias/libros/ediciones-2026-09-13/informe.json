@@ -1,0 +1,207 @@
+{
+  "fecha": "2026-09-13",
+  "orden": [
+    "cartas-a-lucilio",
+    "pollyanna",
+    "jardin-secreto",
+    "sabueso-baskerville",
+    "cuento-de-navidad",
+    "lazarillo",
+    "autobiografia-franklin",
+    "habitacion-propia",
+    "el-profeta",
+    "como-un-hombre-piensa",
+    "odisea"
+  ],
+  "ultimo": "cartas-a-lucilio",
+  "libros": [
+    {
+      "id": "como-un-hombre-piensa",
+      "titulo": "Como un hombre piensa, así es su vida",
+      "autor": "James Allen",
+      "categoria": "Filosofía",
+      "versionAnterior": false,
+      "palabrasManuscrito": 2410,
+      "palabrasLectura": 2582,
+      "minutos": 18,
+      "paginas": 8,
+      "rayos": 8,
+      "sha256Manuscrito": "45206babdb5928b3b4efe5d027d6aca40e4e35aea91c0906aa07288cfdbea5b7",
+      "fuentes": [
+        "https://www.gutenberg.org/cache/epub/4507/pg4507-images.html"
+      ]
+    },
+    {
+      "id": "el-profeta",
+      "titulo": "El profeta",
+      "autor": "Khalil Gibran",
+      "categoria": "Filosofía",
+      "versionAnterior": false,
+      "palabrasManuscrito": 2398,
+      "palabrasLectura": 2571,
+      "minutos": 18,
+      "paginas": 9,
+      "rayos": 9,
+      "sha256Manuscrito": "d4079b874eebbc1bee12c4d66981fac700d5d6880b871e34cd8c3141de8d55f3",
+      "fuentes": [
+        "https://www.gutenberg.org/cache/epub/58585/pg58585-images.html"
+      ]
+    },
+    {
+      "id": "habitacion-propia",
+      "titulo": "Una habitación propia",
+      "autor": "Virginia Woolf",
+      "categoria": "Arte",
+      "versionAnterior": false,
+      "palabrasManuscrito": 2632,
+      "palabrasLectura": 2796,
+      "minutos": 20,
+      "paginas": 8,
+      "rayos": 8,
+      "sha256Manuscrito": "8e69529244faaa67e659a4ce43dd2976f27a08364261be5ee3e22f36d3dcff58",
+      "fuentes": [
+        "https://www.gutenberg.ca/ebooks/woolfv-aroomofonesown/woolfv-aroomofonesown-00-h.html"
+      ]
+    },
+    {
+      "id": "autobiografia-franklin",
+      "titulo": "Autobiografía",
+      "autor": "Benjamin Franklin",
+      "categoria": "Historia",
+      "versionAnterior": false,
+      "palabrasManuscrito": 3165,
+      "palabrasLectura": 3344,
+      "minutos": 24,
+      "paginas": 9,
+      "rayos": 9,
+      "sha256Manuscrito": "e9923cd2fb05030c92cc8efffa6c46778ab7a427a656079e2eb26c1012de14e5",
+      "fuentes": [
+        "https://www.gutenberg.org/cache/epub/148/pg148-images.html"
+      ]
+    },
+    {
+      "id": "lazarillo",
+      "titulo": "Lazarillo de Tormes",
+      "autor": "Anónimo",
+      "categoria": "Literatura",
+      "versionAnterior": false,
+      "palabrasManuscrito": 2493,
+      "palabrasLectura": 2655,
+      "minutos": 19,
+      "paginas": 7,
+      "rayos": 7,
+      "sha256Manuscrito": "8cb53258364344c76c60c5d53d03c7e8d431b237821ad8db17a2b47e9163f386",
+      "fuentes": [
+        "https://www.gutenberg.org/cache/epub/320/pg320-images.html"
+      ]
+    },
+    {
+      "id": "cuento-de-navidad",
+      "titulo": "Cuento de Navidad",
+      "autor": "Charles Dickens",
+      "categoria": "Literatura",
+      "versionAnterior": false,
+      "palabrasManuscrito": 2507,
+      "palabrasLectura": 2681,
+      "minutos": 19,
+      "paginas": 8,
+      "rayos": 8,
+      "sha256Manuscrito": "e3badbeac99bbf5559b04007bc28b72d063542d93052f734bc19cfcd30228603",
+      "fuentes": [
+        "https://www.gutenberg.org/cache/epub/46/pg46-images.html"
+      ]
+    },
+    {
+      "id": "sabueso-baskerville",
+      "titulo": "El sabueso de los Baskerville",
+      "autor": "Arthur Conan Doyle",
+      "categoria": "Literatura",
+      "versionAnterior": false,
+      "palabrasManuscrito": 2701,
+      "palabrasLectura": 2871,
+      "minutos": 21,
+      "paginas": 8,
+      "rayos": 8,
+      "sha256Manuscrito": "7dc93171d77f4651cc30b4c2a8838f28dd001c9dee6470eb45ce1e47dd534269",
+      "fuentes": [
+        "https://www.gutenberg.org/cache/epub/2852/pg2852-images.html"
+      ]
+    },
+    {
+      "id": "jardin-secreto",
+      "titulo": "El jardín secreto",
+      "autor": "Frances Hodgson Burnett",
+      "categoria": "Literatura",
+      "versionAnterior": false,
+      "palabrasManuscrito": 2896,
+      "palabrasLectura": 3083,
+      "minutos": 22,
+      "paginas": 8,
+      "rayos": 8,
+      "sha256Manuscrito": "f12b5f79b209ff1919c71800ee4aba33291c1ff9fe093dfe3ff979515278abad",
+      "fuentes": [
+        "https://www.gutenberg.org/cache/epub/113/pg113-images.html"
+      ]
+    },
+    {
+      "id": "pollyanna",
+      "titulo": "Pollyanna",
+      "autor": "Eleanor H. Porter",
+      "categoria": "Literatura",
+      "versionAnterior": false,
+      "palabrasManuscrito": 2562,
+      "palabrasLectura": 2714,
+      "minutos": 19,
+      "paginas": 7,
+      "rayos": 7,
+      "sha256Manuscrito": "00ec58dca2b7e0b50ddb873fac07f2136a0f47d3e056de48dbc706e010d6d165",
+      "fuentes": [
+        "https://www.gutenberg.org/cache/epub/1450/pg1450-images.html"
+      ]
+    },
+    {
+      "id": "cartas-a-lucilio",
+      "titulo": "Cartas a Lucilio",
+      "autor": "Séneca",
+      "categoria": "Filosofía",
+      "versionAnterior": false,
+      "palabrasManuscrito": 2512,
+      "palabrasLectura": 2719,
+      "minutos": 19,
+      "paginas": 9,
+      "rayos": 9,
+      "sha256Manuscrito": "7c298ca40ed3d6c7a32f8ab7ee07cb07c935dea07ef8fbe02c00c96df586c82e",
+      "fuentes": [
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius",
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_1",
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_2",
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_3",
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_7",
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_9",
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_12",
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_13",
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18",
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_20",
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_23",
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_28",
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_47",
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_48",
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_56",
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_63",
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_75",
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_76",
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_78",
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_83",
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_88",
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_90",
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_91",
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_94",
+        "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_120"
+      ]
+    }
+  ],
+  "js": "index-resumenes-a91e85e337.js",
+  "css": "index-ediciones-88d390fd47.css",
+  "totalConResumen": 379,
+  "portadas": 548
+}
