@@ -12,6 +12,9 @@ Actualizadas el 12 de septiembre de 2026 con la corrección expresa del usuario.
 
 Las ilustraciones se generan con IA por encargo del usuario; la intención visual es una ilustración editorial cuidada.
 
+- Nueva libertad creativa pedida por el usuario: la ilustración no tiene que representar literalmente el título ni el mensaje. Puede expresar una sensación, asociación o metáfora más libre, siempre que resulte bonita y original. El subtítulo sí debe explicar fielmente de qué trata el libro.
+- Variar también la estructura de la portada: posición del título, relación entre texto y dibujo, escala y encuadre. Evitar repetir siempre el título arriba y un objeto grande debajo. Alternar ilustraciones, objetos, formas y metáforas sin imponer una plantilla única.
+
 - Corrección adicional del usuario: valorar el conjunto del catálogo. Más portadas llamativas y coloridas; alternar paletas vivas, fondos y composiciones para que juntas sean bonitas y apetezca leerlas. Evitar una colección monótona o apagada.
 
 - Acabado obligatorio en todas: doblez vertical visible y discreta junto al borde izquierdo, igual que en las portadas de referencia. Mantener el frontal plano, sin convertirlo en una maqueta en perspectiva.

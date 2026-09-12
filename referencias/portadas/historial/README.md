@@ -1,6 +1,6 @@
 # Historial de portadas de Curva
 
-143 imágenes originales para 107 libros, generadas con image_gen integrado. Se guardan las versiones instaladas, las asignadas al catálogo, las anteriores y las descartadas. Asignada al catálogo indica que el libro aún no tiene resumen para leer en la aplicación. Los PNG son copias exactas de los originales; el catálogo registra su SHA-256 y el prompt disponible.
+158 imágenes originales para 119 libros, generadas con image_gen integrado. Se guardan las versiones instaladas, las asignadas al catálogo, las anteriores y las descartadas. Asignada al catálogo indica que el libro aún no tiene resumen para leer en la aplicación. Los PNG son copias exactas de los originales; el catálogo registra su SHA-256 y el prompt disponible.
 
 [Galería interactiva](Galeria.html) · [Catálogo](Catalogo.json) · [Prompts](Prompts.md)
 
@@ -149,3 +149,18 @@
 | El economista camuflado | 1 | Asignada al catálogo | [PNG](originales/economista-camuflado-v1-7ec080b84e.png) |
 | Mal de altura | 2 | Asignada al catálogo | [PNG](originales/mal-de-altura-v2-87f8ed5287.png) |
 | Como agua para chocolate | 2 | Asignada al catálogo | [PNG](originales/como-agua-para-chocolate-v2-b29fe8b935.png) |
+| El enigma de Fermat | 1 | Versión anterior | [PNG](originales/enigma-de-fermat-v1-2c3a1f62fc.png) |
+| La chica salvaje | 1 | Asignada al catálogo | [PNG](originales/la-chica-salvaje-v1-882075537e.png) |
+| Platónico | 1 | Versión anterior | [PNG](originales/platonico-v1-56d405eb13.png) |
+| Los 5 tipos de riqueza | 1 | Asignada al catálogo | [PNG](originales/cinco-tipos-riqueza-v1-3e74da4b6b.png) |
+| Seda | 1 | Asignada al catálogo | [PNG](originales/seda-baricco-v1-fb16ff99f9.png) |
+| Ana de las Tejas Verdes | 1 | Asignada al catálogo | [PNG](originales/ana-tejas-verdes-v1-f3f6aa632b.png) |
+| El arte de pedir | 1 | Asignada al catálogo | [PNG](originales/arte-de-pedir-v1-f822d3f22f.png) |
+| ¿Por qué las cebras no tienen úlcera? | 1 | Versión anterior | [PNG](originales/cebras-no-tienen-ulcera-v1-b016b1a744.png) |
+| No logo | 1 | Asignada al catálogo | [PNG](originales/no-logo-v1-7f914a4922.png) |
+| El libro del hygge | 1 | Asignada al catálogo | [PNG](originales/libro-hygge-v1-62e4c2e65b.png) |
+| La invención de la naturaleza | 1 | Asignada al catálogo | [PNG](originales/invencion-de-la-naturaleza-v1-9b35192df1.png) |
+| El enigma de Fermat | 2 | Asignada al catálogo | [PNG](originales/enigma-de-fermat-v2-af218db01f.png) |
+| El nombre del viento | 1 | Asignada al catálogo | [PNG](originales/nombre-del-viento-v1-6cb6c16ae2.png) |
+| Platónico | 2 | Asignada al catálogo | [PNG](originales/platonico-v2-f48e571816.png) |
+| ¿Por qué las cebras no tienen úlcera? | 2 | Asignada al catálogo | [PNG](originales/cebras-no-tienen-ulcera-v2-1ffb1f0228.png) |
