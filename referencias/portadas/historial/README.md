@@ -1,6 +1,6 @@
 # Historial de portadas de Curva
 
-158 imágenes originales para 119 libros, generadas con image_gen integrado. Se guardan las versiones instaladas, las asignadas al catálogo, las anteriores y las descartadas. Asignada al catálogo indica que el libro aún no tiene resumen para leer en la aplicación. Los PNG son copias exactas de los originales; el catálogo registra su SHA-256 y el prompt disponible.
+204 imágenes originales para 149 libros, generadas con image_gen integrado. Se guardan las versiones instaladas, las asignadas al catálogo, las anteriores y las descartadas. Asignada al catálogo indica que el libro aún no tiene resumen para leer en la aplicación. Los PNG son copias exactas de los originales; el catálogo registra su SHA-256 y el prompt disponible.
 
 [Galería interactiva](Galeria.html) · [Catálogo](Catalogo.json) · [Prompts](Prompts.md)
 
@@ -164,3 +164,49 @@
 | El nombre del viento | 1 | Asignada al catálogo | [PNG](originales/nombre-del-viento-v1-6cb6c16ae2.png) |
 | Platónico | 2 | Asignada al catálogo | [PNG](originales/platonico-v2-f48e571816.png) |
 | ¿Por qué las cebras no tienen úlcera? | 2 | Asignada al catálogo | [PNG](originales/cebras-no-tienen-ulcera-v2-1ffb1f0228.png) |
+| 1491 | 1 | Asignada al catálogo | [PNG](originales/mil-cuatrocientos-noventa-y-uno-v1-90eb7310f0.png) |
+| Agilidad emocional | 1 | Versión anterior | [PNG](originales/agilidad-emocional-v1-1ef9002c6e.png) |
+| Tokio blues | 1 | Asignada al catálogo | [PNG](originales/tokio-blues-v1-b16eba937b.png) |
+| Mythos | 1 | Asignada al catálogo | [PNG](originales/mythos-v1-47e8611a87.png) |
+| Burnout | 1 | Asignada al catálogo | [PNG](originales/burnout-nagoski-v1-9607866465.png) |
+| El cerebro se cambia a sí mismo | 1 | Versión anterior | [PNG](originales/cerebro-cambia-v1-3a45b3e3d5.png) |
+| Vagabonding: el arte de viajar | 1 | Versión anterior | [PNG](originales/vagabonding-v1-d4d24e899d.png) |
+| El gran farol | 1 | Asignada al catálogo | [PNG](originales/el-gran-farol-v1-793b0bec50.png) |
+| El libro de la alegría | 1 | Versión anterior | [PNG](originales/libro-de-la-alegria-v1-cea4b32b2c.png) |
+| El león, la bruja y el armario | 1 | Asignada al catálogo | [PNG](originales/leon-bruja-armario-v1-f0dc44552f.png) |
+| Diseña tu vida | 1 | Asignada al catálogo | [PNG](originales/disena-tu-vida-v1-3c4619ac23.png) |
+| Una buena vida | 1 | Asignada al catálogo | [PNG](originales/una-buena-vida-v1-d9218c40e1.png) |
+| Adiós, cosas | 1 | Asignada al catálogo | [PNG](originales/adios-cosas-v1-6ab798143b.png) |
+| La vida secreta de la mente | 1 | Versión anterior | [PNG](originales/vida-secreta-mente-v1-9571341766.png) |
+| Un monstruo viene a verme | 1 | Asignada al catálogo | [PNG](originales/monstruo-viene-a-verme-v1-11d99486da.png) |
+| Luz verde | 1 | Asignada al catálogo | [PNG](originales/luz-verde-v1-e8828a251b.png) |
+| Cuento de Navidad | 1 | Asignada al catálogo | [PNG](originales/cuento-de-navidad-v1-23dc8bdb76.png) |
+| El diablo de los números | 1 | Asignada al catálogo | [PNG](originales/diablo-de-los-numeros-v1-1ae3dbde99.png) |
+| Agilidad emocional | 2 | Versión anterior | [PNG](originales/agilidad-emocional-v2-9a07be04e7.png) |
+| En forma por naturaleza | 1 | Asignada al catálogo | [PNG](originales/en-forma-por-naturaleza-v1-f20db0fdae.png) |
+| Esto es marketing | 1 | Versión anterior | [PNG](originales/esto-es-marketing-v1-5424062c99.png) |
+| Hacia rutas salvajes | 1 | Asignada al catálogo | [PNG](originales/hacia-rutas-salvajes-v1-68e6cb795b.png) |
+| Demian | 1 | Asignada al catálogo | [PNG](originales/demian-v1-34a535c828.png) |
+| Fiambres | 1 | Asignada al catálogo | [PNG](originales/fiambres-v1-4809453f8c.png) |
+| Productividad para sentirse bien | 1 | Versión anterior | [PNG](originales/productividad-sentirse-bien-v1-ac7341d9e2.png) |
+| Hábitos mínimos | 1 | Versión anterior | [PNG](originales/habitos-minimos-v1-49f052e5f7.png) |
+| Robinson Crusoe | 1 | Versión anterior | [PNG](originales/robinson-crusoe-v1-b9ceafdf79.png) |
+| El sabueso de los Baskerville | 1 | Versión anterior | [PNG](originales/sabueso-baskerville-v1-fa538c0701.png) |
+| Vagabonding: el arte de viajar | 2 | Versión anterior | [PNG](originales/vagabonding-v2-7a14c3984b.png) |
+| Morir con cero | 1 | Versión anterior | [PNG](originales/morir-con-cero-v1-cd94799c93.png) |
+| El don de la sensibilidad | 1 | Versión anterior | [PNG](originales/don-sensibilidad-v1-47fd9349d6.png) |
+| Endure | 1 | Asignada al catálogo | [PNG](originales/endure-hutchinson-v1-195d71b617.png) |
+| El libro de la alegría | 2 | Asignada al catálogo | [PNG](originales/libro-de-la-alegria-v2-0505653ede.png) |
+| Robinson Crusoe | 2 | Versión anterior | [PNG](originales/robinson-crusoe-v2-1937e2a53f.png) |
+| El sabueso de los Baskerville | 2 | Asignada al catálogo | [PNG](originales/sabueso-baskerville-v2-e4daaf92d5.png) |
+| Hábitos mínimos | 2 | Versión anterior | [PNG](originales/habitos-minimos-v2-0e90e9646e.png) |
+| Agilidad emocional | 3 | Asignada al catálogo | [PNG](originales/agilidad-emocional-v3-e6a6b534da.png) |
+| Robinson Crusoe | 3 | Asignada al catálogo | [PNG](originales/robinson-crusoe-v3-d776efce58.png) |
+| Hábitos mínimos | 3 | Asignada al catálogo | [PNG](originales/habitos-minimos-v3-0d687b4ead.png) |
+| Morir con cero | 2 | Asignada al catálogo | [PNG](originales/morir-con-cero-v2-f853903615.png) |
+| El cerebro se cambia a sí mismo | 2 | Asignada al catálogo | [PNG](originales/cerebro-cambia-v2-1ef1195543.png) |
+| Productividad para sentirse bien | 2 | Asignada al catálogo | [PNG](originales/productividad-sentirse-bien-v2-2fbecffdc4.png) |
+| Esto es marketing | 2 | Asignada al catálogo | [PNG](originales/esto-es-marketing-v2-82296d0e05.png) |
+| La vida secreta de la mente | 2 | Asignada al catálogo | [PNG](originales/vida-secreta-mente-v2-e2b54c7bde.png) |
+| Vagabonding: el arte de viajar | 3 | Asignada al catálogo | [PNG](originales/vagabonding-v3-b28787ca7a.png) |
+| El don de la sensibilidad | 2 | Asignada al catálogo | [PNG](originales/don-sensibilidad-v2-014c0de580.png) |

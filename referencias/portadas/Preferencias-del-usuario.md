@@ -12,6 +12,8 @@ Actualizadas el 12 de septiembre de 2026 con la corrección expresa del usuario.
 
 Las ilustraciones se generan con IA por encargo del usuario; la intención visual es una ilustración editorial cuidada.
 
+- Petición de la octava tanda: hacer unas treinta portadas nuevas, buscando más belleza y dando a algunas más fuerza de color. Mantener la variedad, las asociaciones visuales libres y la proporción equilibrada de detalles de las referencias.
+
 - Nueva libertad creativa pedida por el usuario: la ilustración no tiene que representar literalmente el título ni el mensaje. Puede expresar una sensación, asociación o metáfora más libre, siempre que resulte bonita y original. El subtítulo sí debe explicar fielmente de qué trata el libro.
 - Variar también la estructura de la portada: posición del título, relación entre texto y dibujo, escala y encuadre. Evitar repetir siempre el título arriba y un objeto grande debajo. Alternar ilustraciones, objetos, formas y metáforas sin imponer una plantilla única.
 
@@ -40,3 +42,6 @@ Las ilustraciones se generan con IA por encargo del usuario; la intención visua
 - El color vivo debe predominar en el conjunto y tener sentido con lo representado, sin añadir colores o elementos de relleno. No confundir belleza con saturación, cantidad de objetos o abundancia de detalles. Tampoco convertir toda la colección en iconos aislados de dos colores. Elegir el equilibrio para cada libro.
 - Referencias de calibración del dibujo: usar los PNG originales de Salud a tamaño completo, además de las capturas de Headway. Comparar el tratamiento de las formas, la composición y los rasgos; no limitarse a copiar su paleta.
 - El usuario ha vuelto a aportar los dos ZIP de Wiser y ha pedido expresamente guardarlos y fijarse también en ellos. Ambos se conservan íntegros en [wiser/ZIP-originales](wiser/ZIP-originales), con [inventario y criterio visual](wiser/README.md). Contienen 133 capturas, 122 distintas. Consultar conjuntamente Wiser, Headway y Salud al preparar las próximas portadas; no limitar la referencia a una sola colección.
+
+- Reserva del 12 de septiembre de 2026: el usuario encarga 50 portadas a otra IA. Antes de seleccionar futuros libros, excluir los identificadores de `reservados-otra-ia.json` hasta nueva instrucción. Lista legible: `Reservados-otra-IA.md`.
+- Corrección de la octava tanda: variar más los motivos y las composiciones; se repiten demasiado plantas, caminos y objetos enormes con texto encima. Rehacer diez propuestas con escenas, encuadres y relaciones entre texto e imagen distintos.

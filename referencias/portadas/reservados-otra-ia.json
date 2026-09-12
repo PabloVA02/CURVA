@@ -1,0 +1,507 @@
+{
+  "estado": "Reservados para otra IA por petición del usuario",
+  "fecha": "2026-09-12",
+  "noGenerarHastaNuevaInstruccion": true,
+  "libros": [
+    {
+      "id": "verano-1913",
+      "titulo": "1913: el verano del siglo",
+      "autor": "Florian Illies",
+      "ano": "2012",
+      "categoria": "Historia",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "como-ser-perfecto",
+      "titulo": "Cómo ser perfecto",
+      "autor": "Michael Schur",
+      "ano": "2022",
+      "categoria": "Filosofía",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "hombre-confundio-sombrero",
+      "titulo": "El hombre que confundió a su mujer con un sombrero",
+      "autor": "Oliver Sacks",
+      "ano": "1985",
+      "categoria": "Ciencia",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "pensar-como-leonardo",
+      "titulo": "Pensar como Leonardo da Vinci",
+      "autor": "Michael J. Gelb",
+      "ano": "1998",
+      "categoria": "Arte",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "reina-roja",
+      "titulo": "Reina roja",
+      "autor": "Juan Gómez-Jurado",
+      "ano": "2018",
+      "categoria": "Literatura",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "poder-ser-vulnerable",
+      "titulo": "El poder de ser vulnerable",
+      "autor": "Brené Brown",
+      "ano": "2012",
+      "categoria": "Psicología",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "tu-dinero-y-tu-cerebro",
+      "titulo": "Tu dinero y tu cerebro",
+      "autor": "Jason Zweig",
+      "ano": "2007",
+      "categoria": "Economía",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "por-que-engordamos",
+      "titulo": "Por qué engordamos",
+      "autor": "Gary Taubes",
+      "ano": "2010",
+      "categoria": "Salud",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "llegada-de-superman",
+      "titulo": "La llegada de Superman",
+      "autor": "Steven Kotler",
+      "ano": "2014",
+      "categoria": "Deportes",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "prision-americana",
+      "titulo": "Prisión americana",
+      "autor": "Shane Bauer",
+      "ano": "2018",
+      "categoria": "Historia",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "arte-buena-vida-dobelli",
+      "titulo": "El arte de la buena vida",
+      "autor": "Rolf Dobelli",
+      "ano": "2017",
+      "categoria": "Filosofía",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "despertares",
+      "titulo": "Despertares",
+      "autor": "Oliver Sacks",
+      "ano": "1973",
+      "categoria": "Ciencia",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "poder-del-mito",
+      "titulo": "El poder del mito",
+      "autor": "Joseph Campbell y Bill Moyers",
+      "ano": "1988",
+      "categoria": "Arte",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "leccion-de-august",
+      "titulo": "La lección de August",
+      "autor": "R. J. Palacio",
+      "ano": "2012",
+      "categoria": "Literatura",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "pensamiento-positivo",
+      "titulo": "El poder del pensamiento positivo",
+      "autor": "Norman Vincent Peale",
+      "ano": "1952",
+      "categoria": "Psicología",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "principios-del-exito",
+      "titulo": "Los principios del éxito",
+      "autor": "Jack Canfield",
+      "ano": "2005",
+      "categoria": "Economía",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "sin-azucar",
+      "titulo": "Sin azúcar",
+      "autor": "Robert H. Lustig",
+      "ano": "2012",
+      "categoria": "Salud",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "tiger-woods",
+      "titulo": "Tiger Woods",
+      "autor": "Jeff Benedict y Armen Keteyian",
+      "ano": "2018",
+      "categoria": "Deportes",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "stalingrado",
+      "titulo": "Stalingrado",
+      "autor": "Antony Beevor",
+      "ano": "1998",
+      "categoria": "Historia",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "como-un-hombre-piensa",
+      "titulo": "Como un hombre piensa, así es su vida",
+      "autor": "James Allen",
+      "ano": "1903",
+      "categoria": "Filosofía",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "mono-desnudo",
+      "titulo": "El mono desnudo",
+      "autor": "Desmond Morris",
+      "ano": "1967",
+      "categoria": "Ciencia",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "bajo-la-misma-estrella",
+      "titulo": "Bajo la misma estrella",
+      "autor": "John Green",
+      "ano": "2012",
+      "categoria": "Literatura",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "sanate",
+      "titulo": "Sánate",
+      "autor": "Nicole LePera",
+      "ano": "2021",
+      "categoria": "Psicología",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "regla-10x",
+      "titulo": "La regla del 10X",
+      "autor": "Grant Cardone",
+      "ano": "2011",
+      "categoria": "Economía",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "dieta-longevidad",
+      "titulo": "La dieta de la longevidad",
+      "autor": "Valter Longo",
+      "ano": "2016",
+      "categoria": "Salud",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "hitler-kershaw",
+      "titulo": "Hitler",
+      "autor": "Ian Kershaw",
+      "ano": "1998",
+      "categoria": "Historia",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "asombrosos-secretos-vida",
+      "titulo": "Los asombrosos secretos de la vida",
+      "autor": "Gaur Gopal Das",
+      "ano": "2018",
+      "categoria": "Filosofía",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "optimista-racional",
+      "titulo": "El optimista racional",
+      "autor": "Matt Ridley",
+      "ano": "2010",
+      "categoria": "Ciencia",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "hombre-que-calculaba",
+      "titulo": "El hombre que calculaba",
+      "autor": "Malba Tahan",
+      "ano": "1938",
+      "categoria": "Literatura",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "hazte-la-cama",
+      "titulo": "Hazte la cama",
+      "autor": "William H. McRaven",
+      "ano": "2017",
+      "categoria": "Psicología",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "trampas-del-deseo",
+      "titulo": "Las trampas del deseo",
+      "autor": "Dan Ariely",
+      "ano": "2008",
+      "categoria": "Economía",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "cuando-pink",
+      "titulo": "Cuándo: la ciencia de encontrar el momento preciso",
+      "autor": "Daniel H. Pink",
+      "ano": "2018",
+      "categoria": "Salud",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "colapso",
+      "titulo": "Colapso",
+      "autor": "Jared Diamond",
+      "ano": "2005",
+      "categoria": "Historia",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "cartas-a-lucilio",
+      "titulo": "Cartas a Lucilio",
+      "autor": "Séneca",
+      "ano": "65",
+      "categoria": "Filosofía",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "humanos-phillips",
+      "titulo": "Humanos",
+      "autor": "Tom Phillips",
+      "ano": "2018",
+      "categoria": "Ciencia",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "el-medico-gordon",
+      "titulo": "El médico",
+      "autor": "Noah Gordon",
+      "ano": "1986",
+      "categoria": "Literatura",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "gente-exitosa-desayuno",
+      "titulo": "Qué hace la gente exitosa antes del desayuno",
+      "autor": "Laura Vanderkam",
+      "ano": "2012",
+      "categoria": "Psicología",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "vayamos-adelante",
+      "titulo": "Vayamos adelante",
+      "autor": "Sheryl Sandberg",
+      "ano": "2013",
+      "categoria": "Economía",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "estres-el-lado-bueno",
+      "titulo": "Estrés: el lado bueno",
+      "autor": "Kelly McGonigal",
+      "ano": "2015",
+      "categoria": "Salud",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "fantasma-rey-leopoldo",
+      "titulo": "El fantasma del rey Leopoldo",
+      "autor": "Adam Hochschild",
+      "ano": "1998",
+      "categoria": "Historia",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "libro-cinco-anillos",
+      "titulo": "El libro de los cinco anillos",
+      "autor": "Miyamoto Musashi",
+      "ano": "1645",
+      "categoria": "Filosofía",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "breve-historia-todos-vivido",
+      "titulo": "Breve historia de todos los que han vivido",
+      "autor": "Adam Rutherford",
+      "ano": "2016",
+      "categoria": "Ciencia",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "catedral-del-mar",
+      "titulo": "La catedral del mar",
+      "autor": "Ildefonso Falcones",
+      "ano": "2006",
+      "categoria": "Literatura",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "deja-de-chingarte",
+      "titulo": "¡Deja de chingarte!",
+      "autor": "Gary John Bishop",
+      "ano": "2016",
+      "categoria": "Psicología",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "como-mediras-tu-vida",
+      "titulo": "¿Cómo medirás tu vida?",
+      "autor": "Clayton M. Christensen, James Allworth y Karen Dillon",
+      "ano": "2012",
+      "categoria": "Economía",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "spark",
+      "titulo": "Spark",
+      "autor": "John J. Ratey y Eric Hagerman",
+      "ano": "2008",
+      "categoria": "Salud",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "rubicon",
+      "titulo": "Rubicón",
+      "autor": "Tom Holland",
+      "ano": "2003",
+      "categoria": "Historia",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "cerebro-idiota",
+      "titulo": "El cerebro idiota",
+      "autor": "Dean Burnett",
+      "ano": "2016",
+      "categoria": "Ciencia",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "lazarillo",
+      "titulo": "Lazarillo de Tormes",
+      "autor": "Anónimo",
+      "ano": "1554",
+      "categoria": "Literatura",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    },
+    {
+      "id": "suprimir-preocupaciones",
+      "titulo": "Cómo suprimir las preocupaciones y disfrutar de la vida",
+      "autor": "Dale Carnegie",
+      "ano": "1948",
+      "categoria": "Psicología",
+      "estado": "pendiente",
+      "antes": "Sin portada asignada",
+      "detalleAnterior": null
+    }
+  ]
+}
