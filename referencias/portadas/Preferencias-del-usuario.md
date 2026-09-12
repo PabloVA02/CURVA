@@ -29,3 +29,5 @@ Las ilustraciones se generan con IA por encargo del usuario; la intención visua
 - Referencias concretas para las personas: `IMG_1936.PNG` (Respira, Michael Townsend Williams) y `IMG_1939.PNG` (El libro del bebé), del ZIP PORTADAS WISER 2. Ojos pequeños de punto o trazo, bocas sencillas, pelo en bloques, siluetas expresivas y colores planos.
 - Evitar en humanos: ojos con iris enormes o brillos, pestañas detalladas, mejillas modeladas, nariz sombreada, reflejos en la piel, degradados y volumen de personaje de animación 3D. No basta con convertir un rostro realista en una caricatura pulida.
 - Aplicar esa simplificación también a manos, pelo, ropa y cuerpos: pocos trazos elegidos con intención y anatomía coherente. Mantener los colores vivos, las composiciones originales, los textos explicativos y la doblez lateral.
+
+- Nueva indicación del usuario: no todas las portadas necesitan muchos colores. Alternar paletas limitadas de dos o tres colores con otras más vivas; una composición de pocos colores también debe ser vistosa. Priorizar la belleza del dibujo, el contraste, la jerarquía y la variedad del conjunto, siguiendo los numerosos ejemplos aportados.

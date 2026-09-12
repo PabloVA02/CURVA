@@ -1,6 +1,6 @@
 # Historial de portadas de Curva
 
-97 imágenes originales para 79 libros, generadas con image_gen integrado. Se guardan las versiones instaladas, las asignadas al catálogo, las anteriores y las descartadas. Asignada al catálogo indica que el libro aún no tiene resumen para leer en la aplicación. Los PNG son copias exactas de los originales; el catálogo registra su SHA-256 y el prompt disponible.
+115 imágenes originales para 95 libros, generadas con image_gen integrado. Se guardan las versiones instaladas, las asignadas al catálogo, las anteriores y las descartadas. Asignada al catálogo indica que el libro aún no tiene resumen para leer en la aplicación. Los PNG son copias exactas de los originales; el catálogo registra su SHA-256 y el prompt disponible.
 
 [Galería interactiva](Galeria.html) · [Catálogo](Catalogo.json) · [Prompts](Prompts.md)
 
@@ -103,3 +103,21 @@
 | Un hombre llamado Ove | 2 | Asignada al catálogo | [PNG](originales/hombre-llamado-ove-v2-0d34f03d22.png) |
 | El profeta | 2 | Asignada al catálogo | [PNG](originales/el-profeta-v2-2411fe5746.png) |
 | El arte de viajar | 2 | Asignada al catálogo | [PNG](originales/arte-de-viajar-v2-3f6c185fbe.png) |
+| La Ilíada | 1 | Asignada al catálogo | [PNG](originales/la-iliada-v1-833ecfb221.png) |
+| Asesinato en el Orient Express | 1 | Asignada al catálogo | [PNG](originales/asesinato-orient-express-v1-e3aefedef7.png) |
+| El jardín secreto | 1 | Versión anterior | [PNG](originales/jardin-secreto-v1-a316ddd4ad.png) |
+| Wabi Sabi | 1 | Asignada al catálogo | [PNG](originales/wabi-sabi-v1-8ea797ec75.png) |
+| Un punto azul pálido | 1 | Asignada al catálogo | [PNG](originales/punto-azul-palido-v1-f29e5625c7.png) |
+| Minimalismo digital | 1 | Asignada al catálogo | [PNG](originales/minimalismo-digital-v1-133826ac5c.png) |
+| El jardín secreto | 2 | Asignada al catálogo | [PNG](originales/jardin-secreto-v2-b435568e1b.png) |
+| Productividad lenta | 1 | Asignada al catálogo | [PNG](originales/productividad-lenta-v1-508edafcc4.png) |
+| Longitud | 1 | Asignada al catálogo | [PNG](originales/longitud-sobel-v1-c20f772cf2.png) |
+| La sociedad del cansancio | 1 | Asignada al catálogo | [PNG](originales/sociedad-cansancio-v1-6eec5bdaa9.png) |
+| Invernando | 1 | Versión anterior | [PNG](originales/invernando-v1-0409f3150a.png) |
+| El marciano | 1 | Asignada al catálogo | [PNG](originales/el-marciano-v1-1ca52533a0.png) |
+| El curioso incidente del perro a medianoche | 1 | Asignada al catálogo | [PNG](originales/curioso-incidente-perro-v1-6e97683b68.png) |
+| Kon-Tiki | 1 | Asignada al catálogo | [PNG](originales/kon-tiki-v1-b3d05ca78a.png) |
+| La vaca púrpura | 1 | Asignada al catálogo | [PNG](originales/vaca-purpura-v1-d0bf7f6f99.png) |
+| El año de menos | 1 | Asignada al catálogo | [PNG](originales/ano-de-menos-v1-65bfb156af.png) |
+| Invernando | 2 | Asignada al catálogo | [PNG](originales/invernando-v2-5e60dec9d1.png) |
+| Ocho citas de amor | 1 | Asignada al catálogo | [PNG](originales/ocho-citas-amor-v1-29f29ae73e.png) |
