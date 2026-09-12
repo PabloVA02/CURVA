@@ -1,0 +1,395 @@
+{
+  "id": "odisea",
+  "titulo": "La Odisea",
+  "autor": "Homero",
+  "palabras": 4887,
+  "minutos": 35,
+  "paginas": [
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Odiseo prefiere una vida con los suyos a la inmortalidad"
+        },
+        {
+          "b": "texto",
+          "texto": "Odiseo está sentado junto al mar, llorando. A su alrededor hay árboles, agua fresca y una gruta donde no le falta alimento. Calipso, la diosa que vive en esa isla, quiere que permanezca con ella y le ofrece algo que ningún ser humano puede conseguir por sí solo: vivir para siempre sin envejecer. Pero Odiseo sigue mirando el horizonte. Quiere volver a Ítaca, a su mujer y al hijo al que dejó cuando todavía era un niño pequeño."
+        },
+        {
+          "b": "texto",
+          "texto": "Esta escena permite entrar en La Odisea por una pregunta muy cercana: ¿qué hace que una vida sea la tuya? Desde fuera, la oferta de Calipso parece insuperable. Sin embargo, aceptar significaría renunciar a las personas y al lugar que dan sentido al regreso. Odiseo conoce la diferencia entre una diosa inmortal y Penélope, que envejecerá como él. Aun así, desea volver con su esposa. El poema concede un valor extraordinario a esa vida limitada, expuesta a las pérdidas, que el héroe todavía espera recuperar."
+        },
+        {
+          "b": "texto",
+          "texto": "Llegar hasta ella le llevará veinte años desde su partida: diez en la guerra de Troya y otros diez antes de regresar a casa. Atribuida a Homero y organizada en veinticuatro cantos, La Odisea cuenta ese retorno sin seguirlo desde el principio. Primero nos muestra las consecuencias de la ausencia. Después, cuando el protagonista encuentra a alguien dispuesto a escucharlo, nos permite conocer sus aventuras. Así, antes de ver los monstruos, entendemos lo que está en juego cada vez que el viaje se retrasa."
+        },
+        {
+          "b": "idea",
+          "texto": "Lo que Odiseo desea recuperar no es una vida sin límites, sino una vida compartida con personas concretas."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "En Ítaca, esperar también exige astucia y valor"
+        },
+        {
+          "b": "texto",
+          "texto": "En Ítaca, un grupo de pretendientes ocupa el palacio de Odiseo. Quieren que Penélope elija marido y se comportan como si la casa ya les perteneciera. Comen sus animales, beben su vino y consumen los bienes de la familia mientras la presionan para que tome una decisión. La falta de noticias se ha convertido en una oportunidad para ellos. Cuanto más tiempo pasa sin que aparezca el rey, más fácil les resulta actuar como si nunca fuera a volver."
+        },
+        {
+          "b": "texto",
+          "texto": "Penélope ha intentado ganar tiempo con una tarea aparentemente respetable: tejer el sudario de Laertes, el padre anciano de Odiseo. Promete decidir cuando lo termine, pero cada noche deshace lo que ha tejido durante el día. El engaño funciona durante tres años, hasta que una mujer de la casa lo revela. Conviene detenerse en ese gesto. Penélope dispone de poco margen para enfrentarse abiertamente a los pretendientes, así que convierte una labor doméstica en una forma de resistencia. Su espera requiere trabajo, inventiva y una atención constante al peligro."
+        },
+        {
+          "b": "idea",
+          "texto": "Penélope convierte una tarea doméstica en resistencia: su espera consiste en defender, día tras día, la posibilidad del regreso."
+        },
+        {
+          "b": "texto",
+          "texto": "Telémaco, el hijo de la pareja, ha crecido dentro de esa incertidumbre. Sabe que su padre fue un gran guerrero porque otros se lo cuentan, pero no puede apoyarse en una relación que apenas ha vivido. Atenea, la diosa que protege a Odiseo, lo anima a reclamar su lugar y a buscar noticias. El joven reúne una asamblea y denuncia los abusos. No logra expulsar a los pretendientes, aunque empieza a hacer algo que hasta entonces le resultaba difícil: hablar ante los demás en nombre propio."
+        },
+        {
+          "b": "texto",
+          "texto": "Después viaja a Pilos y a Esparta, donde conversa con Néstor y Menelao, antiguos compañeros de su padre. Escucha recuerdos de la guerra y recibe una noticia importante: Odiseo sigue vivo, retenido por Calipso. El viaje también transforma su posición en la familia. Ha salido de casa para actuar, y los pretendientes empiezan a verlo como una amenaza. Mientras él busca a su padre, ellos preparan una emboscada para impedir que regrese. Ahora hay dos retornos en peligro."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "El regreso empieza cuando otros acogen a un desconocido"
+        },
+        {
+          "b": "texto",
+          "texto": "Lejos de Ítaca, la intervención de Atenea consigue que los dioses ordenen a Calipso liberar a Odiseo. La diosa lo retiene contra su voluntad; marcharse no depende simplemente de que él reúna valor. Cuando recibe la orden, Calipso termina ayudándolo a construir una balsa y le proporciona lo necesario para zarpar. Él corta madera, ajusta las piezas y vuelve al mar. Tras años de inmovilidad, el regreso recupera una forma concreta: una embarcación frágil y una dirección que seguir."
+        },
+        {
+          "b": "texto",
+          "texto": "Poseidón, dios del mar, lo descubre navegando y desata una tormenta. Odiseo pierde la balsa y consigue alcanzar tierra con ayuda divina y un enorme esfuerzo. En la costa donde termina exhausto encuentra a Nausícaa, hija de los reyes de los feacios. Está desnudo, sucio y necesita ayuda. Antes de acercarse, calcula cómo pedirla sin asustar a la joven: decide hablarle desde cierta distancia. La habilidad que lo ha hecho célebre también sirve para este encuentro delicado, en el que depende por completo de la respuesta de otra persona."
+        },
+        {
+          "b": "texto",
+          "texto": "Nausícaa le ofrece ropa y orientación. Más tarde, sus padres, Arete y Alcínoo, lo reciben en el palacio. Allí lo alimentan y le prometen ayuda para volver a su tierra antes de conocer toda su historia. En un mundo donde viajar significa quedar a merced de desconocidos, estos cuidados tienen un peso enorme. Un extranjero puede llegar sin armas, dinero ni señales visibles de su posición. La manera de tratarlo revela qué clase de comunidad ha encontrado."
+        },
+        {
+          "b": "idea",
+          "texto": "Los feacios ayudan al náufrago antes de conocer su nombre. La hospitalidad no depende de que puedan reconocer a un héroe."
+        },
+        {
+          "b": "texto",
+          "texto": "Durante un banquete, el cantor Demódoco relata episodios de Troya. Odiseo escucha y llora, ocultándose el rostro. Para los demás, la guerra puede convertirse en una canción admirable; él reconoce en ella lo que ha vivido y perdido. Alcínoo advierte su dolor y le pregunta quién es. Entonces el huésped dice su nombre y empieza a contar. El hombre al que han dado de comer es el mismo héroe cuya fama conocen, aunque esa fama no les había permitido reconocer al náufrago que tenían delante."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Para escapar de Polifemo, Odiseo tiene que convertirse en Nadie"
+        },
+        {
+          "b": "texto",
+          "texto": "Su relato comienza con la salida de Troya. Odiseo parte al frente de doce naves, pero sus hombres todavía actúan como un ejército que busca botín. En el país de los cícones saquean una ciudad y, pese a la orden de marcharse, se quedan comiendo y bebiendo. Los habitantes reciben refuerzos y contraatacan. Los griegos logran escapar, dejando muertos de cada embarcación. El camino a casa empieza así con una violencia que ellos mismos han llevado a otra costa."
+        },
+        {
+          "b": "texto",
+          "texto": "La siguiente amenaza funciona de una manera muy distinta. Entre los lotófagos, algunos compañeros prueban un alimento que les hace olvidar el deseo de regresar. Nadie necesita encerrarlos: quieren quedarse allí. Odiseo los arrastra de vuelta a los barcos y ordena zarpar. El episodio apenas ocupa espacio, pero introduce un peligro que reaparecerá durante todo el viaje. Para perder el camino también basta con dejar de desear el destino. Estos hombres siguen vivos, aunque ya no sienten la necesidad de volver con los suyos."
+        },
+        {
+          "b": "texto",
+          "texto": "Después llegan a la tierra de los cíclopes. Odiseo entra con doce compañeros en una cueva donde encuentran quesos y ganado. Los hombres proponen tomar provisiones y marcharse. Él insiste en esperar al dueño, movido por el deseo de conocerlo y recibir sus regalos de hospitalidad. Cuando aparece Polifemo, el gigante cierra la entrada con una roca que los visitantes no pueden mover. En lugar de acogerlos, devora a varios. La curiosidad de Odiseo ha puesto a todo el grupo en una situación de la que la fuerza no puede sacarlos."
+        },
+        {
+          "b": "texto",
+          "texto": "Matar al cíclope mientras duerme parece una solución, hasta que Odiseo considera lo que sucedería después: quedarían encerrados para siempre. Necesitan que su enemigo siga vivo y abra la cueva. El plan exige resolver varias dificultades a la vez. Odiseo le da un vino muy fuerte, le dice que se llama Nadie y, cuando Polifemo cae dormido, sus compañeros lo ayudan a clavarle una estaca ardiente en el único ojo. Al oír sus gritos, los otros cíclopes preguntan quién lo ataca. La respuesta los convence de que no hay nadie a quien combatir."
+        },
+        {
+          "b": "texto",
+          "texto": "Por la mañana, Polifemo aparta la piedra para sacar el rebaño y palpa el lomo de los animales, esperando encontrar a sus prisioneros. Estos escapan sujetos por debajo de los carneros. La solución funciona porque Odiseo comprende lo que el cíclope puede percibir y lo que no. Ha renunciado a enfrentarse a él en el terreno donde sería invencible. También ha ocultado su nombre, que ahora le resulta menos útil que una identidad inventada."
+        },
+        {
+          "b": "idea",
+          "texto": "Salir de la cueva exige comprender al enemigo y mantenerlo vivo. La fuerza, por sí sola, dejaría a los viajeros encerrados."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "El orgullo y la desconfianza deshacen lo que parecía ganado"
+        },
+        {
+          "b": "texto",
+          "texto": "Sin embargo, cuando la nave se aleja, Odiseo empieza a gritarle. Sus compañeros le suplican que calle: Polifemo todavía puede alcanzarlos con las rocas que arroja al mar. Él insiste y acaba revelando quién lo ha cegado, de quién es hijo y dónde vive. Quiere que la victoria tenga autor. El mismo hombre que acaba de salvarlos mediante el anonimato pone de nuevo en peligro la huida porque necesita que su adversario conozca su nombre."
+        },
+        {
+          "b": "texto",
+          "texto": "Polifemo es hijo de Poseidón. Al saber quién lo ha herido, pide a su padre que impida el regreso de Odiseo o, si está destinado a volver, que llegue tarde, solo, en una nave ajena y encuentre problemas en su casa. La plegaria será escuchada. El poema deja juntas la inteligencia del héroe y su imprudencia. Puedes admirar la precisión de su plan y, unas líneas después, ver cómo desperdicia parte de lo conseguido. Ser capaz de encontrar una salida no garantiza saber cuándo dejar de demostrarlo."
+        },
+        {
+          "b": "idea",
+          "texto": "La astucia salva a Odiseo mientras oculta su nombre; el orgullo vuelve a ponerlo en peligro cuando insiste en revelarlo."
+        },
+        {
+          "b": "texto",
+          "texto": "Con Éolo, el guardián de los vientos, parece abrirse otra oportunidad. Les entrega un odre que contiene los vientos capaces de apartarlos del rumbo y deja soplar el que los llevará a Ítaca. Tras varios días de navegación, la costa de su patria está a la vista. Odiseo, agotado por mantenerse al mando, se duerme. Sus compañeros sospechan que guarda tesoros para él y abren el odre. Los vientos escapan y los devuelven mar adentro, hasta el lugar del que habían partido."
+        },
+        {
+          "b": "texto",
+          "texto": "La catástrofe nace de una sospecha compartida. Los hombres interpretan el regalo como otra muestra de que su jefe recibe más que ellos y actúan sin saber qué están abriendo. Esta vez el obstáculo surge dentro del barco. La desconfianza consigue lo que ninguna tormenta había logrado durante esos días: alejar a todos del hogar cuando ya podían verlo. Éolo se niega a ayudarlos de nuevo, convencido de que alguien tan perseguido por la desgracia debe de estar enfrentado a los dioses."
+        },
+        {
+          "b": "texto",
+          "texto": "Poco después, los lestrigones, gigantes que también comen seres humanos, atacan las naves refugiadas en su puerto. Solo se salva la de Odiseo, que había quedado fuera. De las doce embarcaciones iniciales queda una. A medida que avanzamos, el relato cambia de escala: cada pérdida reduce los recursos, los compañeros y las posibilidades del siguiente tramo. Las aventuras no empiezan de cero. Los supervivientes llegan a cada nueva isla cargando con lo ocurrido en las anteriores."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "La casa de Circe ofrece descanso y otra forma de olvido"
+        },
+        {
+          "b": "texto",
+          "texto": "En la isla de Circe, un grupo sale a explorar y encuentra una casa donde una mujer canta mientras teje. Ella los invita a entrar, les ofrece una bebida y los transforma en cerdos. Conservan la conciencia humana, pero quedan encerrados en cuerpos que ya no les permiten actuar como antes. Euríloco, que había desconfiado y se había quedado fuera, vuelve para avisar. Su miedo es comprensible: el viaje les ha enseñado que una invitación puede ocultar una trampa."
+        },
+        {
+          "b": "texto",
+          "texto": "Odiseo decide ir a buscarlos. Hermes le proporciona una planta que lo protege del hechizo y le explica cómo afrontar el encuentro. Cuando la magia de Circe falla, el héroe la obliga a jurar que no le hará daño. Después se niega a disfrutar de la comida mientras sus compañeros sigan transformados. Circe les devuelve la figura humana y termina recibiendo a los demás. El rescate depende de la determinación de Odiseo, pero también de una ayuda que él no habría podido obtener por sus propios medios."
+        },
+        {
+          "b": "texto",
+          "texto": "La estancia se prolonga un año. Comen, descansan y recuperan fuerzas hasta que son los compañeros quienes recuerdan a Odiseo que deben volver a casa. Este cambio resulta revelador. El hombre que arrancó a otros del olvido entre los lotófagos necesita ahora que alguien le recuerde su propósito. El cansancio hace atractivo cualquier lugar donde deje de ser necesario luchar. Incluso un refugio que permite recuperarse puede terminar aplazando indefinidamente el siguiente paso."
+        },
+        {
+          "b": "idea",
+          "texto": "El hombre que impidió a sus compañeros olvidar Ítaca también necesita que ellos le recuerden por qué deben seguir viajando."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Los muertos revelan lo que el regreso ya no podrá reparar"
+        },
+        {
+          "b": "texto",
+          "texto": "Antes de despedirlos, Circe les indica que consulten al adivino Tiresias en el mundo de los muertos. Allí, Odiseo recibe advertencias sobre lo que le espera, especialmente sobre el ganado sagrado del Sol, que sus hombres deberán respetar. También conoce un dolor que no esperaba encontrar en ese viaje: su madre ha muerto. Cuando él salió de Ítaca, todavía vivía. Ahora solo puede hablar con su sombra."
+        },
+        {
+          "b": "texto",
+          "texto": "Odiseo intenta abrazarla tres veces y las tres se le escapa entre los brazos. Ella le explica que el cuerpo de los muertos ya no tiene la consistencia de los vivos. Ninguna de las habilidades del héroe resuelve esta pérdida. Puede interrogar, escuchar y recordar, pero no llevársela con él. El regreso empieza a mostrar su límite más triste: llegar a casa no hará que el tiempo transcurrido desaparezca. Algunas personas ya no estarán allí para recibirlo."
+        },
+        {
+          "b": "texto",
+          "texto": "Entre las sombras encuentra también a Aquiles. Odiseo lo felicita por el honor que conserva entre los muertos, pero Aquiles responde que preferiría vivir como trabajador de un hombre pobre antes que reinar sobre todos los difuntos. Quien ha alcanzado una fama inmensa echa de menos la vida más humilde. Al mismo tiempo, se alegra al escuchar noticias del valor de su hijo. La escena mantiene ambas cosas: la gloria no compensa la muerte, y los vínculos con quienes siguen vivos todavía importan."
+        },
+        {
+          "b": "idea",
+          "texto": "Volver a casa no deshace los años de ausencia. Odiseo podrá recuperar algunos vínculos, pero otras pérdidas serán definitivas."
+        },
+        {
+          "b": "texto",
+          "texto": "También aparece Elpénor, un compañero que murió al caer del tejado de Circe antes de la partida. Pide una sepultura y que coloquen su remo sobre la tumba. Frente a las grandes historias de reyes y guerreros, su petición es concreta: que sus amigos vuelvan, atiendan su cuerpo y dejen una señal de su vida. Odiseo lo hará al regresar a la isla. Seguir adelante incluye hacerse cargo de quienes han quedado atrás, aunque ya no puedan acompañarte."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Ante las sirenas, la decisión más sabia se toma antes de escucharlas"
+        },
+        {
+          "b": "texto",
+          "texto": "Circe les da entonces instrucciones para atravesar nuevos peligros. Las sirenas prometen a Odiseo conocimiento sobre Troya y sobre cuanto ocurre en la tierra. Él quiere escucharlas, pero sabe que acercarse a ellas lleva a la muerte. Tapa con cera los oídos de sus hombres y les pide que lo aten al mástil. Además, prevé su propia reacción: si ordena que lo liberen, deberán sujetarlo con más fuerza."
+        },
+        {
+          "b": "texto",
+          "texto": "Cuando llega el canto, Odiseo desea detenerse y exige que lo desaten. Sus compañeros cumplen la instrucción anterior y continúan remando. La escena funciona porque él había admitido de antemano que su voluntad podía cambiar. No espera conservar la misma claridad en medio de la tentación. Ha organizado la ayuda de otros para que su decisión sobreviva al momento en que él mismo querrá abandonarla. Así consigue escuchar sin arrastrar la nave hacia la costa."
+        },
+        {
+          "b": "idea",
+          "texto": "Odiseo prepara la ayuda que necesitará cuando cambie de voluntad: sus compañeros deben sostener una decisión que él mismo querrá abandonar."
+        },
+        {
+          "b": "texto",
+          "texto": "Más adelante, el paso entre Escila y Caribdis plantea una situación sin salida segura. Caribdis absorbe el agua en un remolino capaz de tragarse el barco entero. Escila, desde su cueva, puede arrebatar a seis hombres. Circe aconseja pasar cerca de esta última y avanzar deprisa. Odiseo pregunta si podrá combatirla, y la diosa le advierte que se enfrenta a un ser inmortal. Su experiencia de guerrero no basta para eliminar todos los peligros del camino."
+        },
+        {
+          "b": "texto",
+          "texto": "Aun así, se arma cuando llega el momento. También oculta a sus hombres lo que sabe de Escila por miedo a que dejen de remar. El monstruo se lleva a seis compañeros, que lo llaman mientras mueren. Odiseo recordará aquello como una de las visiones más dolorosas de todo el viaje. La nave sigue adelante, pero el poema deja oír a quienes pagan el precio. Reducir el episodio a una decisión eficaz del jefe haría desaparecer precisamente lo que su relato conserva: el horror de no haber podido salvarlos."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Llegar vivo a Ítaca todavía no es recuperar el hogar"
+        },
+        {
+          "b": "texto",
+          "texto": "En la isla del Sol vuelve a existir una prohibición clara. Tiresias y Circe han advertido que no deben tocar el ganado sagrado. Odiseo preferiría pasar de largo, pero la tripulación está exhausta y le pide desembarcar. Acepta después de exigir un juramento. Entonces los vientos les impiden salir durante semanas y los alimentos empiezan a faltar. La promesa hecha al llegar se enfrenta a una necesidad cada vez más urgente."
+        },
+        {
+          "b": "texto",
+          "texto": "Mientras Odiseo se aleja para orar y acaba dormido, Euríloco convence a los demás de sacrificar las reses. Prefiere correr el riesgo de un castigo divino a morir lentamente de hambre. La elección viola una advertencia inequívoca, aunque el relato nos permite entender la desesperación de quienes la toman. Cuando por fin zarpan, Zeus destruye la nave con un rayo. Todos los compañeros mueren. Odiseo sobrevive aferrado a sus restos y, después de nuevos peligros, llega a la isla de Calipso."
+        },
+        {
+          "b": "texto",
+          "texto": "Su narración ha alcanzado así el lugar donde lo encontramos al principio. Detrás del hombre que llora en la costa hay una flota desaparecida, decisiones que salieron bien, errores irreparables y una sucesión de ayudas que le permitieron seguir vivo. Odiseo ha conseguido sobrevivir a todos sus compañeros, pero su relato no permite confundir esa supervivencia con una victoria sin pérdidas. Los feacios conocen ahora lo que significa para él volver a Ítaca."
+        },
+        {
+          "b": "idea",
+          "texto": "La supervivencia de Odiseo contiene la pérdida de todos sus compañeros. Llegar más lejos no convierte cada decisión del viaje en un acierto."
+        },
+        {
+          "b": "texto",
+          "texto": "Cumplen su promesa y lo llevan dormido hasta su isla. Después de tantas ocasiones en las que ha tenido que luchar para avanzar, el último trayecto depende de personas que lo conducen mientras descansa. Al despertar, no reconoce el paisaje, envuelto por Atenea en una niebla. La diosa se lo muestra y le explica lo que ocurre en el palacio. Ha alcanzado su tierra, pero entrar en su casa exige todavía otro tipo de preparación."
+        },
+        {
+          "b": "texto",
+          "texto": "Atenea le da la apariencia de un mendigo anciano. Bajo ese aspecto, Odiseo podrá descubrir quién conserva la lealtad a su familia y quién se ha acostumbrado al abuso. Su primera parada es la cabaña de Eumeo, el porquerizo. Eumeo lo recibe, le da comida y le ofrece un lugar donde descansar sin saber que está atendiendo a su señor. Habla con tristeza del rey ausente y, al mismo tiempo, cuida del desconocido que tiene delante. Odiseo puede escuchar lo que dice de él alguien que no espera ser recompensado por sus palabras."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "El disfraz permite descubrir a quienes siguen siendo leales"
+        },
+        {
+          "b": "texto",
+          "texto": "Telémaco regresa de su viaje, evita la emboscada gracias a las indicaciones de Atenea y también acude a la cabaña. Cuando padre e hijo quedan solos, la diosa devuelve a Odiseo su aspecto. El joven teme al principio que un dios esté engañándolo. Ha deseado durante tanto tiempo la llegada de su padre que la posibilidad de creer y perderlo de nuevo le resulta difícil de soportar. Odiseo le explica quién es y ambos terminan abrazándose y llorando."
+        },
+        {
+          "b": "texto",
+          "texto": "El encuentro no les devuelve los años que faltan. Tienen que empezar a conocerse en medio de una situación peligrosa, y lo hacen preparando juntos la recuperación de la casa. Telémaco deberá soportar los insultos que otros dirijan a su padre sin descubrirlo ni precipitarse a defenderlo. Odiseo necesita ahora una clase de dominio que le faltó frente a Polifemo: poder escuchar una ofensa sin responder enseguida con su nombre y su fuerza."
+        },
+        {
+          "b": "texto",
+          "texto": "De camino al palacio, el viejo perro Argos lo reconoce. Está tumbado sobre un montón de estiércol, abandonado y demasiado débil para acercarse. Al ver a su dueño, mueve la cola y baja las orejas. Odiseo se aparta para ocultar una lágrima a Eumeo. Argos muere después de verlo regresar. En unos pocos gestos, el poema hace visible la duración de la ausencia. El viajero ha mantenido la esperanza de volver; quienes lo esperaban han seguido envejeciendo mientras tanto."
+        },
+        {
+          "b": "texto",
+          "texto": "Dentro de su propia casa, Odiseo pide comida como un mendigo y recibe humillaciones. Antínoo, uno de los principales pretendientes, llega a arrojarle un escabel. La escena permite observar una conducta que quizá no mostrarían ante un rey reconocido. Creen que el desconocido carece de importancia y actúan en consecuencia. Bajo el disfraz, Odiseo averigua quién ofrece algo, quién lo desprecia y quién disfruta lastimándolo."
+        },
+        {
+          "b": "idea",
+          "texto": "Cuando creen estar ante alguien sin poder, los habitantes del palacio muestran cómo tratan a quien no puede premiarlos ni castigarlos."
+        },
+        {
+          "b": "texto",
+          "texto": "Penélope quiere hablar con ese extranjero porque afirma haber conocido a su marido. Él le cuenta una historia inventada, pero introduce detalles auténticos sobre la ropa y los compañeros de Odiseo. Ella los reconoce y llora. El narrador nos deja ver el esfuerzo que él hace para contener su propia emoción mientras mantiene el engaño. Estar frente a su esposa después de tantos años no significa que pueda revelarse sin considerar el peligro que todavía los rodea."
+        },
+        {
+          "b": "texto",
+          "texto": "Durante la estancia, la anciana Euriclea le lava los pies y reconoce una cicatriz que le dejó un jabalí en su juventud. Odiseo le impide dar la noticia y le exige guardar el secreto. Su identidad vuelve a aparecer a través de algo concreto que ha sobrevivido al tiempo: una marca del cuerpo ligada a una historia conocida. Estas escenas de reconocimiento van acercándolo a su familia de manera gradual. Cada persona necesita una señal distinta para reconocer al hombre que ha vuelto."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Recuperar la casa tiene un precio que el poema no oculta"
+        },
+        {
+          "b": "texto",
+          "texto": "Penélope anuncia entonces una prueba para los pretendientes. Se casará con quien consiga tensar el arco de Odiseo y hacer pasar una flecha por los orificios de doce hachas alineadas. Los hombres prueban sin éxito y se resisten a que el mendigo lo intente. Mientras tanto, Odiseo se da a conocer a Eumeo y al boyero Filetio, que se convertirán en sus aliados. La recuperación del palacio se prepara con personas cuya fidelidad ha podido comprobar."
+        },
+        {
+          "b": "texto",
+          "texto": "Cuando por fin recibe el arco, Odiseo lo examina y lo tensa con la facilidad de un músico que ajusta su instrumento. La flecha atraviesa las hachas. Telémaco se coloca junto a él, armado. Los pretendientes han visto una destreza que creían imposible en aquel huésped, pero todavía no comprenden lo que va a ocurrir. Odiseo dirige el siguiente disparo contra Antínoo, lo mata y revela su identidad. La sala del banquete se convierte en un lugar del que ya no podrán salir libremente."
+        },
+        {
+          "b": "texto",
+          "texto": "Eurímaco intenta atribuir los abusos al muerto y ofrece una compensación. Odiseo la rechaza. Se desencadena un combate en el que él, Telémaco y sus aliados, con el apoyo de Atenea, matan a los pretendientes. La narración presenta la caída de quienes han consumido los bienes de la casa y tramado la muerte del hijo. También muestra que este regreso está ligado al ejercicio de un poder violento, muy lejos de la imagen tranquila que podía sugerir el deseo de reencontrarse con la familia."
+        },
+        {
+          "b": "texto",
+          "texto": "El castigo alcanza a otros habitantes del palacio. Doce mujeres esclavizadas, acusadas de haber mantenido relaciones con los pretendientes y de haber faltado al respeto a la familia, son obligadas a limpiar la sala y después ejecutadas. Odiseo había ordenado su muerte; Telémaco decide ahorcarlas. Para un lector actual, esta escena abre una dificultad que merece conservarse. Las mujeres viven en una situación de subordinación y no reciben espacio para contar su versión. El relato de la casa recuperada contiene también esas vidas, cuyo final no puede reducirse a un detalle de la celebración."
+        },
+        {
+          "b": "texto",
+          "texto": "La violencia tampoco es completamente indiscriminada: Telémaco interviene para salvar al cantor Femio y al heraldo Medonte. Cuando Euriclea quiere alegrarse sobre los muertos, Odiseo le dice que contenga su júbilo. Estos gestos no borran lo sucedido. Añaden una tensión al personaje, capaz de distinguir responsabilidades en algunos casos y de ordenar castigos terribles en otros. Acompañarlo a lo largo del viaje no obliga a convertir cada uno de sus actos en una conducta ejemplar."
+        },
+        {
+          "b": "idea",
+          "texto": "El regreso devuelve a Odiseo su lugar y deja otras vidas destruidas. Comprender su historia exige mantener visibles ambas cosas."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Penélope necesita una prueba que solo su marido pueda entender"
+        },
+        {
+          "b": "texto",
+          "texto": "Queda el encuentro con Penélope. Euriclea le anuncia que su marido ha vuelto, pero ella desconfía. Ni siquiera verlo después del baño, con su apariencia restaurada, le basta para entregarse a la alegría. Telémaco le reprocha su distancia. Desde fuera puede parecer una reacción fría; desde la experiencia de Penélope, creer demasiado pronto significaría arriesgar todo lo que ha protegido durante años. Ella misma explicará que temía que un hombre la engañara con sus palabras."
+        },
+        {
+          "b": "texto",
+          "texto": "Para comprobar quién tiene delante, pide que saquen el lecho matrimonial de la habitación y preparen allí el descanso del huésped. Odiseo se altera. Esa cama no puede trasladarse como cualquier mueble: él la construyó alrededor de un olivo vivo, utilizando el tronco, todavía arraigado, como uno de sus pies. Levantó el dormitorio en torno a él y trabajó el resto de la estructura. Mover el lecho exigiría cortar ese soporte. Su respuesta revela que conoce la historia de la habitación desde dentro."
+        },
+        {
+          "b": "texto",
+          "texto": "Penélope reconoce la señal y corre a abrazarlo. La prueba tiene una fuerza especial porque pertenece a la vida que compartieron antes de la partida. Tras las hazañas, los disfraces y la demostración pública con el arco, el reconocimiento entre los esposos llega mediante una habitación que compartieron. Penélope ha utilizado una pequeña ficción para obtener una respuesta verdadera. El hombre famoso por sus engaños encuentra en su propia casa a alguien capaz de comprobar sus palabras con una astucia semejante."
+        },
+        {
+          "b": "idea",
+          "texto": "La prueba del lecho une la astucia de Penélope con una memoria compartida: Odiseo demuestra quién es recordando lo que construyeron juntos."
+        },
+        {
+          "b": "texto",
+          "texto": "Por fin pueden hablar sin ocultarse. Penélope le cuenta lo que ha soportado en el palacio, y Odiseo relata sus sufrimientos. Atenea prolonga la noche de su reencuentro. El poema dedica tiempo a esta conversación porque el regreso necesita que ambos conozcan la vida que el otro ha llevado durante la separación. Han conservado el vínculo, pero todavía tienen que compartir todo aquello que vivieron por separado."
+        },
+        {
+          "b": "texto",
+          "texto": "Al día siguiente, Odiseo busca a Laertes. Su padre también necesita señales para reconocerlo. Además de mostrarle la cicatriz, el hijo recuerda los árboles que el anciano le regaló cuando era niño y caminaban juntos por el huerto. Son recuerdos pequeños frente al tamaño de sus aventuras, aunque aquí resultan decisivos. El hombre que volvió de Troya puede demostrar quién es recordando lo que un padre enseñó a su hijo mucho antes de que existiera esa fama."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Para volver a vivir juntos, también hay que detener la venganza"
+        },
+        {
+          "b": "texto",
+          "texto": "La historia aún no ha terminado. Los familiares de los pretendientes quieren vengar a los muertos y se produce un nuevo enfrentamiento. Laertes mata al padre de Antínoo, y Odiseo se dispone a seguir atacando. La violencia amenaza con prolongarse más allá del palacio. Finalmente, Atenea interviene por voluntad de Zeus y establece la paz entre las partes. La recuperación del rey no había bastado para cerrar el conflicto: quienes han perdido a los suyos también quieren responder."
+        },
+        {
+          "b": "idea",
+          "texto": "La victoria en el palacio no pone fin al conflicto. Sin un límite a la venganza, cada muerte abre otro motivo para seguir luchando."
+        },
+        {
+          "b": "texto",
+          "texto": "Incluso en la intimidad del reencuentro, Odiseo había explicado a Penélope que Tiresias le anunció otro viaje, esta vez tierra adentro, para reconciliarse con Poseidón. La vida que recupera conserva obligaciones y un futuro por resolver. Pero ahora ha vuelto a hablar con su mujer, ha abrazado a su hijo y su padre lo ha reconocido. Podemos entender mejor por qué la isla de Calipso no le bastaba. Lo que deseaba estaba hecho de esas relaciones concretas, con su fragilidad y con el tiempo que todavía pudieran compartir."
+        },
+        {
+          "b": "texto",
+          "texto": "La Odisea deja al viajero de nuevo entre los suyos después de obligarnos a mirar todo lo que el regreso ha costado. Su inteligencia lo ayudó a sobrevivir; su orgullo también lo puso en peligro, y sin la ayuda de otros nunca habría llegado. Ítaca reúne esas contradicciones con las vidas de quienes permanecieron esperando. Al cerrar el libro, la cama construida sobre el olivo sigue siendo una imagen difícil de olvidar: algo que echó raíces antes de la partida y que, después de tantos años, todavía permite a dos personas reconocerse."
+        }
+      ]
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "La Odisea, traducción de Luis Segalá y Estalella (1910), veinticuatro cantos",
+      "url": "https://es.wikisource.org/wiki/La_Odisea_(Luis_Segal%C3%A1_y_Estalella)"
+    }
+  ]
+}
