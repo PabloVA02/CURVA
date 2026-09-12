@@ -17,3 +17,5 @@ Las ilustraciones se generan con IA por encargo del usuario; la intención visua
 - Acabado obligatorio en todas: doblez vertical visible y discreta junto al borde izquierdo, igual que en las portadas de referencia. Mantener el frontal plano, sin convertirlo en una maqueta en perspectiva.
 
 - Control de calidad antes de incorporar: revisar ojos, caras, manos, letras y composición al tamaño real de las tarjetas. La segunda versión de Los cinco arrepentimientos necesitó corregir un ojo de la chica; utilizar la versión final con los dos ojos coherentes.
+
+- Subtítulos de portada: deben explicar con claridad el tema, enfoque o utilidad del libro. Evitar frases genéricas o inspiracionales que no permitan saber de qué trata. Una explicación concreta de unas 8–13 palabras, fiel al contenido, con suficiente espacio y tamaño legible. Priorizar claridad sobre un eslogan bonito.
