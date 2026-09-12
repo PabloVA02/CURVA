@@ -1,6 +1,6 @@
 # Historial de portadas de Curva
 
-204 imágenes originales para 149 libros, generadas con image_gen integrado. Se guardan las versiones instaladas, las asignadas al catálogo, las anteriores y las descartadas. Asignada al catálogo indica que el libro aún no tiene resumen para leer en la aplicación. Los PNG son copias exactas de los originales; el catálogo registra su SHA-256 y el prompt disponible.
+224 imágenes originales para 165 libros, generadas con image_gen integrado. Se guardan las versiones instaladas, las asignadas al catálogo, las anteriores y las descartadas. Asignada al catálogo indica que el libro aún no tiene resumen para leer en la aplicación. Los PNG son copias exactas de los originales; el catálogo registra su SHA-256 y el prompt disponible.
 
 [Galería interactiva](Galeria.html) · [Catálogo](Catalogo.json) · [Prompts](Prompts.md)
 
@@ -210,3 +210,23 @@
 | La vida secreta de la mente | 2 | Asignada al catálogo | [PNG](originales/vida-secreta-mente-v2-e2b54c7bde.png) |
 | Vagabonding: el arte de viajar | 3 | Asignada al catálogo | [PNG](originales/vagabonding-v3-b28787ca7a.png) |
 | El don de la sensibilidad | 2 | Asignada al catálogo | [PNG](originales/don-sensibilidad-v2-014c0de580.png) |
+| Memorias de una geisha | 1 | Asignada al catálogo | [PNG](originales/memorias-de-una-geisha-v1-6ed3620da2.png) |
+| Indistraíble | 1 | Asignada al catálogo | [PNG](originales/indistraible-v1-dfc634a60a.png) |
+| Momentos estelares de la humanidad | 1 | Asignada al catálogo | [PNG](originales/momentos-estelares-v1-f901ccafd6.png) |
+| La paradoja de la elección | 1 | Asignada al catálogo | [PNG](originales/paradoja-eleccion-v1-deae09c825.png) |
+| Los tres mosqueteros | 1 | Versión anterior | [PNG](originales/tres-mosqueteros-v1-1dd962bf04.png) |
+| Los líderes comen al final | 1 | Asignada al catálogo | [PNG](originales/lideres-comen-al-final-v1-c542bca334.png) |
+| Charlas TED | 1 | Asignada al catálogo | [PNG](originales/charlas-ted-v1-e2864b02df.png) |
+| El dilema del innovador | 1 | Asignada al catálogo | [PNG](originales/dilema-del-innovador-v1-4cc0e6c737.png) |
+| Y no quedó ninguno | 1 | Asignada al catálogo | [PNG](originales/y-no-quedo-ninguno-v1-e3977a283e.png) |
+| Autobiografía | 1 | Versión anterior | [PNG](originales/autobiografia-franklin-v1-5e2f44704d.png) |
+| Utopía para realistas | 1 | Asignada al catálogo | [PNG](originales/utopia-para-realistas-v1-6535df462b.png) |
+| Oro digital | 1 | Asignada al catálogo | [PNG](originales/oro-digital-v1-414d5c237a.png) |
+| Grandes esperanzas | 1 | Versión anterior | [PNG](originales/grandes-esperanzas-v1-79bab40c3c.png) |
+| Dopamina nación | 1 | Asignada al catálogo | [PNG](originales/dopamina-nacion-v1-4be9fa4a49.png) |
+| Está bien que no estés bien | 1 | Versión anterior | [PNG](originales/esta-bien-no-estar-bien-v1-fb60919052.png) |
+| El cuerpo | 1 | Asignada al catálogo | [PNG](originales/el-cuerpo-bryson-v1-fb90af1ab9.png) |
+| Autobiografía | 2 | Asignada al catálogo | [PNG](originales/autobiografia-franklin-v2-1174ec405d.png) |
+| Los tres mosqueteros | 2 | Asignada al catálogo | [PNG](originales/tres-mosqueteros-v2-0100082f9a.png) |
+| Está bien que no estés bien | 2 | Asignada al catálogo | [PNG](originales/esta-bien-no-estar-bien-v2-8a0c974493.png) |
+| Grandes esperanzas | 2 | Asignada al catálogo | [PNG](originales/grandes-esperanzas-v2-046e10f5c1.png) |

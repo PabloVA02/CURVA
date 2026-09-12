@@ -45,3 +45,5 @@ Las ilustraciones se generan con IA por encargo del usuario; la intención visua
 
 - Reserva del 12 de septiembre de 2026: el usuario encarga 50 portadas a otra IA. Antes de seleccionar futuros libros, excluir los identificadores de `reservados-otra-ia.json` hasta nueva instrucción. Lista legible: `Reservados-otra-IA.md`.
 - Corrección de la octava tanda: variar más los motivos y las composiciones; se repiten demasiado plantas, caminos y objetos enormes con texto encima. Rehacer diez propuestas con escenas, encuadres y relaciones entre texto e imagen distintos.
+
+- Novena tanda: el usuario pide seguir creando portadas lo más bonitas posible y confirma excluir las 50 reservadas para la otra IA. Mantener más variedad de motivos, encuadres, tipografía y color.
