@@ -21,3 +21,6 @@ Las ilustraciones se generan con IA por encargo del usuario; la intención visua
 - Subtítulos de portada: deben explicar con claridad el tema, enfoque o utilidad del libro. Evitar frases genéricas o inspiracionales que no permitan saber de qué trata. Una explicación concreta de unas 8–13 palabras, fiel al contenido, con suficiente espacio y tamaño legible. Priorizar claridad sobre un eslogan bonito.
 
 - Control de selección: revisar la portada realmente mostrada en la app antes de generar otra, incluidos los diseños tipográficos que sustituyen a una fotografía en el catálogo. Distinguir entre libro existente sin ilustración propia y libro sin portada; evitar rehacer ilustraciones ya incorporadas salvo que se pida una corrección.
+
+- Alcance confirmado por el usuario: conservar las primeras 29 ilustraciones generadas, mantener instaladas las 16 versiones nuevas ya vistas y continuar únicamente con cubiertas genéricas o ausentes. No rehacer las 29 por una interpretación del mensaje «sustituye».
+- Historial solicitado: archivar todas las imágenes generadas y mostradas en el chat, incluidas propuestas descartadas y correcciones. Conservar originales y prompts disponibles; actualizar el historial al incorporar cada tanda y guardarlo también en GitHub.
