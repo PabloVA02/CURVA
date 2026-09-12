@@ -1,0 +1,17 @@
+[
+  {
+    "archivo": "TAND1.zip",
+    "sha256": "6970cf66c1d93e7ed574269bcf9630e83356fb9a7c26f7151069188935d5352f",
+    "bytes": 28846740
+  },
+  {
+    "archivo": "TAND2.zip",
+    "sha256": "2864a1f30b02db8436feccdb3c7e68c28a83709e80b0baedae85a0746c25ea46",
+    "bytes": 29820594
+  },
+  {
+    "archivo": "TAND3.zip",
+    "sha256": "0f128dea5748356ce086a510eb908f50f852445477e447a314b62b9cc0c7ca7f",
+    "bytes": 28413687
+  }
+]
