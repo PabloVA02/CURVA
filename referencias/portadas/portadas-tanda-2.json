@@ -174,5 +174,181 @@
       "003 - Respira - James Nestor - 2020 - A.png",
       "019 - Entre dos reinos - Suleika Jaouad - 2021 - B.png"
     ]
+  },
+  {
+    "id": "vida-arboles",
+    "titulo": "La vida secreta de los árboles",
+    "autor": "Peter Wohlleben",
+    "ano": "2015",
+    "archivo": "portadas-generadas/vida-arboles-7170569dad.webp",
+    "archivoPNG": "vida-arboles.png",
+    "version": 1,
+    "sha256": "7170569dad6439ef44a93561ef3a0fd6595e89b87d979553e0998b3968b26673",
+    "width": 1024,
+    "height": 1536,
+    "alpha": false,
+    "bytes_webp": 1295352,
+    "alt": "Portada ilustrada de «La vida secreta de los árboles».",
+    "procedencia": "Ilustración generada con IA para Curva por encargo del usuario.",
+    "prompt": "Use case: stylized-concept. One original finished Spanish book cover for Curva, 1024x1536 portrait. Input images 1 and 2 are STYLE REFERENCES ONLY: use their confident flat editorial drawings, huge carefully composed typography, charming simplified shapes, strong colors and left-edge fold. Invent a completely different composition from the references. This is a drawing, never a photograph or a realistic painting. Large clear silhouettes, clean organic contours, a few deliberately chosen details, elegant visual wit, high contrast and vibrant harmonious colors. No photorealism, no detailed anatomical rendering, no grain or paper/collage texture, no 3D plastic. At most one simple flat shadow shade per object. Objects have believable colors and people natural warm skin tones. Small expressive faces must have correct eyes and hands must be anatomically coherent and simplified. The collection must look varied: obey the individual typography, framing and palette below, not a repeated template. The illustration and title must be beautifully readable on a 190px-wide mobile card. Front-on cover fills the canvas with rounded corners, no perspective book mockup, no external shadow. MANDATORY FINISH: a narrow visible vertical pressed book-cover fold about 2% inward from the LEFT edge for the entire height, a fine highlight followed immediately by a subtle darker groove, matching the references. Keep the title clear of the fold and page edges. Print only the exact title and editorial line below with perfect Spanish accents. No author, year, brand, watermark or extra text.\nExact title: La vida secreta de los árboles\nExact editorial line: Cómo viven los árboles y se relacionan con su entorno\nArt direction: Warm luminous tangerine-orange background. Three stylized trees with broad deep-green and emerald canopies create a graphic forest scene. The lower part is a simple cutaway showing their golden-cream roots intertwining underground on a burgundy-red ground, no arrows or scientific labels. One tree trunk bends elegantly to frame the large cream title 'La vida secreta / de los árboles' in the upper half. The editorial line sits in cream between two roots at bottom. Beautiful organic drawn silhouette design, inviting earthy but saturated palette, no faces on trees, no magical glow or realistic bark.\nThe editorial line is a concrete description of the book, not an inspirational slogan. Set it clearly with 2–4 readable lines and sufficient breathing room; do not reduce it to tiny print. Preserve every exact word.",
+    "edicion": null,
+    "referenciasEstilo": [
+      "003 - Respira - James Nestor - 2020 - A.png",
+      "019 - Entre dos reinos - Suleika Jaouad - 2021 - B.png"
+    ]
+  },
+  {
+    "id": "ultimos-dinosaurios",
+    "titulo": "Los últimos días de los dinosaurios",
+    "autor": "Riley Black",
+    "ano": "2022",
+    "archivo": "portadas-generadas/ultimos-dinosaurios-aae9ba6850.webp",
+    "archivoPNG": "ultimos-dinosaurios.png",
+    "version": 1,
+    "sha256": "aae9ba685034dabb20ddc0cfe983e23c4a0a0e432d848de81dc7c00b779b36b5",
+    "width": 1024,
+    "height": 1536,
+    "alpha": false,
+    "bytes_webp": 1024346,
+    "alt": "Portada ilustrada de «Los últimos días de los dinosaurios».",
+    "procedencia": "Ilustración generada con IA para Curva por encargo del usuario.",
+    "prompt": "Use case: stylized-concept. One original finished Spanish book cover for Curva, 1024x1536 portrait. Input images 1 and 2 are STYLE REFERENCES ONLY: use their confident flat editorial drawings, huge carefully composed typography, charming simplified shapes, strong colors and left-edge fold. Invent a completely different composition from the references. This is a drawing, never a photograph or a realistic painting. Large clear silhouettes, clean organic contours, a few deliberately chosen details, elegant visual wit, high contrast and vibrant harmonious colors. No photorealism, no detailed anatomical rendering, no grain or paper/collage texture, no 3D plastic. At most one simple flat shadow shade per object. Objects have believable colors and people natural warm skin tones. Small expressive faces must have correct eyes and hands must be anatomically coherent and simplified. The collection must look varied: obey the individual typography, framing and palette below, not a repeated template. The illustration and title must be beautifully readable on a 190px-wide mobile card. Front-on cover fills the canvas with rounded corners, no perspective book mockup, no external shadow. MANDATORY FINISH: a narrow visible vertical pressed book-cover fold about 2% inward from the LEFT edge for the entire height, a fine highlight followed immediately by a subtle darker groove, matching the references. Keep the title clear of the fold and page edges. Print only the exact title and editorial line below with perfect Spanish accents. No author, year, brand, watermark or extra text.\nExact title: Los últimos días de los dinosaurios\nExact editorial line: Cómo cambió la vida tras el impacto del asteroide\nArt direction: Electric mint-turquoise sky. A single expressive olive-green Triceratops with exactly three horns and a broad dark-green frill crosses the lower half in flat side profile, one simple black eye, heavy graceful silhouette, no scales or teeth detail. Giant orange-red meteor with a cream and saffron tail sweeps diagonally across the upper-right sky, far away, not hitting the animal. Dark-teal primitive foliage frames only the bottom corners. Huge dark aubergine condensed sans title on the broad clear upper-left sky: 'Los últimos días / de los dinosaurios'. Editorial line cream on a deep-teal ground strip at bottom. Striking natural-history illustration, dramatic yet attractive, not horror or photoreal dinosaur.\nThe editorial line is a concrete description of the book, not an inspirational slogan. Set it clearly with 2–4 readable lines and sufficient breathing room; do not reduce it to tiny print. Preserve every exact word.",
+    "edicion": null,
+    "referenciasEstilo": [
+      "003 - Respira - James Nestor - 2020 - A.png",
+      "019 - Entre dos reinos - Suleika Jaouad - 2021 - B.png"
+    ]
+  },
+  {
+    "id": "cuchara-menguante",
+    "titulo": "La cuchara menguante",
+    "autor": "Sam Kean",
+    "ano": "2010",
+    "archivo": "portadas-generadas/cuchara-menguante-a8536df48c.webp",
+    "archivoPNG": "cuchara-menguante.png",
+    "version": 1,
+    "sha256": "a8536df48cb2ad5ff721e537adb39d18543f55dc9f040c3bd52364dda260982e",
+    "width": 1024,
+    "height": 1536,
+    "alpha": false,
+    "bytes_webp": 942400,
+    "alt": "Portada ilustrada de «La cuchara menguante».",
+    "procedencia": "Ilustración generada con IA para Curva por encargo del usuario.",
+    "prompt": "Use case: stylized-concept. One original finished Spanish book cover for Curva, 1024x1536 portrait. Input images 1 and 2 are STYLE REFERENCES ONLY: use their confident flat editorial drawings, huge carefully composed typography, charming simplified shapes, strong colors and left-edge fold. Invent a completely different composition from the references. This is a drawing, never a photograph or a realistic painting. Large clear silhouettes, clean organic contours, a few deliberately chosen details, elegant visual wit, high contrast and vibrant harmonious colors. No photorealism, no detailed anatomical rendering, no grain or paper/collage texture, no 3D plastic. At most one simple flat shadow shade per object. Objects have believable colors and people natural warm skin tones. Small expressive faces must have correct eyes and hands must be anatomically coherent and simplified. The collection must look varied: obey the individual typography, framing and palette below, not a repeated template. The illustration and title must be beautifully readable on a 190px-wide mobile card. Front-on cover fills the canvas with rounded corners, no perspective book mockup, no external shadow. MANDATORY FINISH: a narrow visible vertical pressed book-cover fold about 2% inward from the LEFT edge for the entire height, a fine highlight followed immediately by a subtle darker groove, matching the references. Keep the title clear of the fold and page edges. Print only the exact title and editorial line below with perfect Spanish accents. No author, year, brand, watermark or extra text.\nExact title: La cuchara menguante\nExact editorial line: Las historias de la tabla periódica y sus elementos\nArt direction: Saturated lilac-violet background. A large flat silver-gray spoon with cobalt shadows tilts from upper right into a clear cobalt-outlined teacup of warm amber liquid at lower left. The submerged end of the spoon bends and melts into one silver drop as a playful allusion to gallium, clearly a drawing. The cup is sunny yellow with a coral-red handle; no transparent 3D rendering or realistic metal. Huge dark-navy rounded-serif title 'La cuchara / menguante' fills the top-left/center open space. Editorial line in dark navy near the bottom on a cream swoosh of steam. Only three simple steam curls, no unrelated chemistry icons, no chemical formula text. Witty, colorful, memorable composition.\nThe editorial line is a concrete description of the book, not an inspirational slogan. Set it clearly with 2–4 readable lines and sufficient breathing room; do not reduce it to tiny print. Preserve every exact word.",
+    "edicion": null,
+    "referenciasEstilo": [
+      "003 - Respira - James Nestor - 2020 - A.png",
+      "019 - Entre dos reinos - Suleika Jaouad - 2021 - B.png"
+    ]
+  },
+  {
+    "id": "sexta-extincion",
+    "titulo": "La sexta extinción",
+    "autor": "Elizabeth Kolbert",
+    "ano": "2014",
+    "archivo": "portadas-generadas/sexta-extincion-18b4e784f0.webp",
+    "archivoPNG": "sexta-extincion.png",
+    "version": 1,
+    "sha256": "18b4e784f046919356158388903a324166bfcc46728a91537cce9d02b39edc9a",
+    "width": 1024,
+    "height": 1536,
+    "alpha": false,
+    "bytes_webp": 1022536,
+    "alt": "Portada ilustrada de «La sexta extinción».",
+    "procedencia": "Ilustración generada con IA para Curva por encargo del usuario.",
+    "prompt": "Use case: stylized-concept. One original finished Spanish book cover for Curva, 1024x1536 portrait. Input images 1 and 2 are STYLE REFERENCES ONLY: use their confident flat editorial drawings, huge carefully composed typography, charming simplified shapes, strong colors and left-edge fold. Invent a completely different composition from the references. This is a drawing, never a photograph or a realistic painting. Large clear silhouettes, clean organic contours, a few deliberately chosen details, elegant visual wit, high contrast and vibrant harmonious colors. No photorealism, no detailed anatomical rendering, no grain or paper/collage texture, no 3D plastic. At most one simple flat shadow shade per object. Objects have believable colors and people natural warm skin tones. Small expressive faces must have correct eyes and hands must be anatomically coherent and simplified. The collection must look varied: obey the individual typography, framing and palette below, not a repeated template. The illustration and title must be beautifully readable on a 190px-wide mobile card. Front-on cover fills the canvas with rounded corners, no perspective book mockup, no external shadow. MANDATORY FINISH: a narrow visible vertical pressed book-cover fold about 2% inward from the LEFT edge for the entire height, a fine highlight followed immediately by a subtle darker groove, matching the references. Keep the title clear of the fold and page edges. Print only the exact title and editorial line below with perfect Spanish accents. No author, year, brand, watermark or extra text.\nExact title: La sexta extinción\nExact editorial line: Cómo la actividad humana está acelerando la desaparición de especies\nArt direction: Vivid lime-yellow background and a broad coral-red ground shape along the bottom. A large flat cobalt-blue butterfly silhouette fills the middle, with emerald and cream geometric wing patterns; the right wing's outer edge breaks into five small detached leaflike shapes that drift upward, suggesting loss without gore. A tiny deep-green fern rises from lower left. Title 'La sexta / extinción' in enormous dark-forest-green heavy serif across the top, balanced with the butterfly rather than over it. Editorial line dark green at bottom right. Powerful ecological poster, elegant graphic asymmetry, few large bold shapes, no realistic insect veins or photographic textures.\nThe editorial line is a concrete description of the book, not an inspirational slogan. Set it clearly with 2–4 readable lines and sufficient breathing room; do not reduce it to tiny print. Preserve every exact word.",
+    "edicion": null,
+    "referenciasEstilo": [
+      "003 - Respira - James Nestor - 2020 - A.png",
+      "019 - Entre dos reinos - Suleika Jaouad - 2021 - B.png"
+    ]
+  },
+  {
+    "id": "educada",
+    "titulo": "Una educación",
+    "autor": "Tara Westover",
+    "ano": "2018",
+    "archivo": "portadas-generadas/educada-ca76be9fd5.webp",
+    "archivoPNG": "educada.png",
+    "version": 1,
+    "sha256": "ca76be9fd58d910728705497de971b7a5a8be08f6e2f0eeb793a7923ce8fbf75",
+    "width": 1024,
+    "height": 1536,
+    "alpha": false,
+    "bytes_webp": 1040970,
+    "alt": "Portada ilustrada de «Una educación».",
+    "procedencia": "Ilustración generada con IA para Curva por encargo del usuario.",
+    "prompt": "Use case: stylized-concept. One original finished Spanish book cover for Curva, 1024x1536 portrait. Input images 1 and 2 are STYLE REFERENCES ONLY: use their confident flat editorial drawings, huge carefully composed typography, charming simplified shapes, strong colors and left-edge fold. Invent a completely different composition from the references. This is a drawing, never a photograph or a realistic painting. Large clear silhouettes, clean organic contours, a few deliberately chosen details, elegant visual wit, high contrast and vibrant harmonious colors. No photorealism, no detailed anatomical rendering, no grain or paper/collage texture, no 3D plastic. At most one simple flat shadow shade per object. Objects have believable colors and people natural warm skin tones. Small expressive faces must have correct eyes and hands must be anatomically coherent and simplified. The collection must look varied: obey the individual typography, framing and palette below, not a repeated template. The illustration and title must be beautifully readable on a 190px-wide mobile card. Front-on cover fills the canvas with rounded corners, no perspective book mockup, no external shadow. MANDATORY FINISH: a narrow visible vertical pressed book-cover fold about 2% inward from the LEFT edge for the entire height, a fine highlight followed immediately by a subtle darker groove, matching the references. Keep the title clear of the fold and page edges. Print only the exact title and editorial line below with perfect Spanish accents. No author, year, brand, watermark or extra text.\nExact title: Una educación\nExact editorial line: De crecer aislada sin escuela a estudiar en Cambridge\nArt direction: A very large open warm-cream book rises from the bottom and its pages transform into a winding cream path toward a distant forest-green mountain silhouette. Background is vibrant sky-blue with a coral-orange sunrise disk, one horizontal band of lilac mountain shadow. A small young woman with dark-brown hair, warm tan skin, deep-red sweater and navy trousers walks along the page-path holding a closed golden-yellow book under one arm, shown from behind with no face details. Huge navy title 'Una educación' in a beautifully heavy literary serif in upper half. Editorial line in dark green on a clear cream page near bottom. Lyrical flat drawn scene, intentional negative space, not photoreal landscape, not a generic graduation cap.\nThe editorial line is a concrete description of the book, not an inspirational slogan. Set it clearly with 2–4 readable lines and sufficient breathing room; do not reduce it to tiny print. Preserve every exact word.",
+    "edicion": null,
+    "referenciasEstilo": [
+      "003 - Respira - James Nestor - 2020 - A.png",
+      "019 - Entre dos reinos - Suleika Jaouad - 2021 - B.png"
+    ]
+  },
+  {
+    "id": "steve-jobs",
+    "titulo": "Steve Jobs",
+    "autor": "Walter Isaacson",
+    "ano": "2011",
+    "archivo": "portadas-generadas/steve-jobs-5fe0bfa152.webp",
+    "archivoPNG": "steve-jobs.png",
+    "version": 1,
+    "sha256": "5fe0bfa1529e0b4e86a8ff9d4f3c25d98dd324b1b399a3916183c8af7eef5947",
+    "width": 1024,
+    "height": 1536,
+    "alpha": false,
+    "bytes_webp": 950098,
+    "alt": "Portada ilustrada de «Steve Jobs».",
+    "procedencia": "Ilustración generada con IA para Curva por encargo del usuario.",
+    "prompt": "Use case: stylized-concept. One original finished Spanish book cover for Curva, 1024x1536 portrait. Input images 1 and 2 are STYLE REFERENCES ONLY: use their confident flat editorial drawings, huge carefully composed typography, charming simplified shapes, strong colors and left-edge fold. Invent a completely different composition from the references. This is a drawing, never a photograph or a realistic painting. Large clear silhouettes, clean organic contours, a few deliberately chosen details, elegant visual wit, high contrast and vibrant harmonious colors. No photorealism, no detailed anatomical rendering, no grain or paper/collage texture, no 3D plastic. At most one simple flat shadow shade per object. Objects have believable colors and people natural warm skin tones. Small expressive faces must have correct eyes and hands must be anatomically coherent and simplified. The collection must look varied: obey the individual typography, framing and palette below, not a repeated template. The illustration and title must be beautifully readable on a 190px-wide mobile card. Front-on cover fills the canvas with rounded corners, no perspective book mockup, no external shadow. MANDATORY FINISH: a narrow visible vertical pressed book-cover fold about 2% inward from the LEFT edge for the entire height, a fine highlight followed immediately by a subtle darker groove, matching the references. Keep the title clear of the fold and page edges. Print only the exact title and editorial line below with perfect Spanish accents. No author, year, brand, watermark or extra text.\nExact title: Steve Jobs\nExact editorial line: La vida del empresario que unió tecnología, diseño y ambición\nArt direction: Vibrant warm apricot-orange background. A monumental cream 1980s-style compact personal computer with a dark navy square screen fills the bottom two thirds, front view with simple rounded flat shapes and a separate small cream mouse; no Apple logo or other trademarks. A coral-red hand-drawn pencil lies diagonally beside it and one vivid green desk plant leans in from the left, representing technology meeting creative taste. The giant cream title 'Steve Jobs' fills the top on a bold midnight-purple irregular rectangular color panel. On the screen, place the editorial line in bright mint-green, only those exact words. Distinctive playful editorial still life with careful flat shapes, no realistic hardware rendering, no portrait to misidentify.\nThe editorial line is a concrete description of the book, not an inspirational slogan. Set it clearly with 2–4 readable lines and sufficient breathing room; do not reduce it to tiny print. Preserve every exact word.",
+    "edicion": null,
+    "referenciasEstilo": [
+      "003 - Respira - James Nestor - 2020 - A.png",
+      "019 - Entre dos reinos - Suleika Jaouad - 2021 - B.png"
+    ]
+  },
+  {
+    "id": "semana-4-horas",
+    "titulo": "La semana laboral de 4 horas",
+    "autor": "Tim Ferriss",
+    "ano": "2007",
+    "archivo": "portadas-generadas/semana-4-horas-c2c1603ec0.webp",
+    "archivoPNG": "semana-4-horas.png",
+    "version": 1,
+    "sha256": "c2c1603ec0242ae882832c5b6ae19fbbf25a4ce70d73e9560c0fac9a39f9437a",
+    "width": 1024,
+    "height": 1536,
+    "alpha": false,
+    "bytes_webp": 1061200,
+    "alt": "Portada ilustrada de «La semana laboral de 4 horas».",
+    "procedencia": "Ilustración generada con IA para Curva por encargo del usuario.",
+    "prompt": "Use case: stylized-concept. One original finished Spanish book cover for Curva, 1024x1536 portrait. Input images 1 and 2 are STYLE REFERENCES ONLY: use their confident flat editorial drawings, huge carefully composed typography, charming simplified shapes, strong colors and left-edge fold. Invent a completely different composition from the references. This is a drawing, never a photograph or a realistic painting. Large clear silhouettes, clean organic contours, a few deliberately chosen details, elegant visual wit, high contrast and vibrant harmonious colors. No photorealism, no detailed anatomical rendering, no grain or paper/collage texture, no 3D plastic. At most one simple flat shadow shade per object. Objects have believable colors and people natural warm skin tones. Small expressive faces must have correct eyes and hands must be anatomically coherent and simplified. The collection must look varied: obey the individual typography, framing and palette below, not a repeated template. The illustration and title must be beautifully readable on a 190px-wide mobile card. Front-on cover fills the canvas with rounded corners, no perspective book mockup, no external shadow. MANDATORY FINISH: a narrow visible vertical pressed book-cover fold about 2% inward from the LEFT edge for the entire height, a fine highlight followed immediately by a subtle darker groove, matching the references. Keep the title clear of the fold and page edges. Print only the exact title and editorial line below with perfect Spanish accents. No author, year, brand, watermark or extra text.\nExact title: La semana laboral de 4 horas\nExact editorial line: Ideas para automatizar tareas y trabajar con más libertad\nArt direction: A bright lagoon-turquoise background. One gigantic sunny-yellow hammock curves diagonally across the lower half between two simple deep-green palm trunks; a person in coral-red trousers and cream shirt relaxes with legs crossed, seen as a clean small silhouette with a natural warm skin tone, closed eyes only if face is visible. A navy closed laptop rests on a tiny coral side table, clearly closed. Huge deep-purple sans-serif title dominates the upper half with the digit '4' particularly large, exact text 'La semana laboral de 4 horas'. Editorial line cream on dark-green leaves at bottom left. Vacation-bright original flat editorial cover, no promise that every job literally takes four hours, no photoreal beach, no tiny miscellaneous icons.\nThe editorial line is a concrete description of the book, not an inspirational slogan. Set it clearly with 2–4 readable lines and sufficient breathing room; do not reduce it to tiny print. Preserve every exact word.",
+    "edicion": null,
+    "referenciasEstilo": [
+      "003 - Respira - James Nestor - 2020 - A.png",
+      "019 - Entre dos reinos - Suleika Jaouad - 2021 - B.png"
+    ]
+  },
+  {
+    "id": "riqueza-naciones",
+    "titulo": "La riqueza de las naciones",
+    "autor": "Adam Smith",
+    "ano": "1776",
+    "archivo": "portadas-generadas/riqueza-naciones-4ab73b74ff.webp",
+    "archivoPNG": "riqueza-naciones.png",
+    "version": 1,
+    "sha256": "4ab73b74ff8659fe5160b93b9af93bedb1acf76452ad2065eb8cd32f51c59d68",
+    "width": 1024,
+    "height": 1536,
+    "alpha": false,
+    "bytes_webp": 1097176,
+    "alt": "Portada ilustrada de «La riqueza de las naciones».",
+    "procedencia": "Ilustración generada con IA para Curva por encargo del usuario.",
+    "prompt": "Use case: stylized-concept. One original finished Spanish book cover for Curva, 1024x1536 portrait. Input images 1 and 2 are STYLE REFERENCES ONLY: use their confident flat editorial drawings, huge carefully composed typography, charming simplified shapes, strong colors and left-edge fold. Invent a completely different composition from the references. This is a drawing, never a photograph or a realistic painting. Large clear silhouettes, clean organic contours, a few deliberately chosen details, elegant visual wit, high contrast and vibrant harmonious colors. No photorealism, no detailed anatomical rendering, no grain or paper/collage texture, no 3D plastic. At most one simple flat shadow shade per object. Objects have believable colors and people natural warm skin tones. Small expressive faces must have correct eyes and hands must be anatomically coherent and simplified. The collection must look varied: obey the individual typography, framing and palette below, not a repeated template. The illustration and title must be beautifully readable on a 190px-wide mobile card. Front-on cover fills the canvas with rounded corners, no perspective book mockup, no external shadow. MANDATORY FINISH: a narrow visible vertical pressed book-cover fold about 2% inward from the LEFT edge for the entire height, a fine highlight followed immediately by a subtle darker groove, matching the references. Keep the title clear of the fold and page edges. Print only the exact title and editorial line below with perfect Spanish accents. No author, year, brand, watermark or extra text.\nExact title: La riqueza de las naciones\nExact editorial line: Cómo el trabajo, el intercambio y los mercados crean riqueza\nArt direction: Saturated terracotta-red background. A colorful bustling market stall reduced to bold flat editorial shapes occupies the center/lower half: a deep-green striped awning, three large bowls of golden-yellow grain, orange fruit and leafy greens, a cream counter with a cobalt scale, and two simplified naturally brown-skinned hands exchanging a single loaf of bread across the counter. No faces needed. The title 'La riqueza / de las naciones' is huge warm-cream heavy serif at the top. Editorial line in navy on the front of the cream counter. Warm vibrant graphic poster about exchange and production, no financial charts, coins falling, modern logos, realistic textures or extra labels.\nThe editorial line is a concrete description of the book, not an inspirational slogan. Set it clearly with 2–4 readable lines and sufficient breathing room; do not reduce it to tiny print. Preserve every exact word.",
+    "edicion": null,
+    "referenciasEstilo": [
+      "003 - Respira - James Nestor - 2020 - A.png",
+      "019 - Entre dos reinos - Suleika Jaouad - 2021 - B.png"
+    ]
   }
 ]
