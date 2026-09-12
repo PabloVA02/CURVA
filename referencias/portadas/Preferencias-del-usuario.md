@@ -24,3 +24,4 @@ Las ilustraciones se generan con IA por encargo del usuario; la intención visua
 
 - Alcance confirmado por el usuario: conservar las primeras 29 ilustraciones generadas, mantener instaladas las 16 versiones nuevas ya vistas y continuar únicamente con cubiertas genéricas o ausentes. No rehacer las 29 por una interpretación del mensaje «sustituye».
 - Historial solicitado: archivar todas las imágenes generadas y mostradas en el chat, incluidas propuestas descartadas y correcciones. Conservar originales y prompts disponibles; actualizar el historial al incorporar cada tanda y guardarlo también en GitHub.
+- Última aclaración del usuario: continuar con los libros que no tienen portada o tienen una genérica, también si su resumen está pendiente. Asignar la ilustración al identificador existente del catálogo y conservar las portadas propias ya aprobadas.

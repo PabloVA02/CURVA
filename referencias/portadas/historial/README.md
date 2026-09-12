@@ -1,6 +1,6 @@
 # Historial de portadas de Curva
 
-73 imágenes originales para 63 libros, generadas con image_gen integrado. Se guardan las versiones instaladas, las anteriores y las descartadas. Los PNG son copias exactas de los originales; el catálogo registra su SHA-256 y el prompt disponible.
+90 imágenes originales para 79 libros, generadas con image_gen integrado. Se guardan las versiones instaladas, las asignadas al catálogo, las anteriores y las descartadas. Asignada al catálogo indica que el libro aún no tiene resumen para leer en la aplicación. Los PNG son copias exactas de los originales; el catálogo registra su SHA-256 y el prompt disponible.
 
 [Galería interactiva](Galeria.html) · [Catálogo](Catalogo.json) · [Prompts](Prompts.md)
 
@@ -79,3 +79,20 @@
 | La doctrina del shock | 1 | Instalada | [PNG](originales/doctrina-shock-v1-2e68976bcc.png) |
 | Un paseo aleatorio por Wall Street | 1 | Instalada | [PNG](originales/paseo-aleatorio-v1-2836f27b12.png) |
 | Superpronosticadores | 1 | Instalada | [PNG](originales/superpronosticadores-v1-d2d50ae5c3.png) |
+| La biblioteca de la medianoche | 1 | Asignada al catálogo | [PNG](originales/biblioteca-de-la-medianoche-v1-5ed0b9c84b.png) |
+| Un hombre llamado Ove | 1 | Asignada al catálogo | [PNG](originales/hombre-llamado-ove-v1-4accc2837f.png) |
+| El niño que domó el viento | 1 | Asignada al catálogo | [PNG](originales/nino-que-domo-el-viento-v1-26089637fb.png) |
+| Momo | 1 | Asignada al catálogo | [PNG](originales/momo-v1-d178f70b0c.png) |
+| El profeta | 1 | Asignada al catálogo | [PNG](originales/el-profeta-v1-6480c2ff05.png) |
+| Una habitación propia | 1 | Asignada al catálogo | [PNG](originales/habitacion-propia-v1-dd9618fce6.png) |
+| Prohibido nacer | 1 | Asignada al catálogo | [PNG](originales/prohibido-nacer-v1-25f51cf1ec.png) |
+| El arte de viajar | 1 | Asignada al catálogo | [PNG](originales/arte-de-viajar-v1-671c378fa0.png) |
+| Endurance | 1 | Asignada al catálogo | [PNG](originales/endurance-shackleton-v1-168aa39578.png) |
+| Cuando todo se derrumba | 1 | Asignada al catálogo | [PNG](originales/cuando-todo-se-derrumba-v1-cda7fe5c8a.png) |
+| Matilda | 1 | Asignada al catálogo | [PNG](originales/matilda-v1-420c6f4927.png) |
+| La red oculta de la vida | 1 | Asignada al catálogo | [PNG](originales/red-oculta-de-la-vida-v1-bc09129f88.png) |
+| Cómo ser un estoico | 1 | Asignada al catálogo | [PNG](originales/como-ser-estoico-v1-1630a7c1fe.png) |
+| Otras mentes | 1 | Descartada | [PNG](originales/otras-mentes-v1-459f9a1bc8.png) |
+| Juan Salvador Gaviota | 1 | Asignada al catálogo | [PNG](originales/juan-salvador-gaviota-v1-49d2032968.png) |
+| Dune | 1 | Asignada al catálogo | [PNG](originales/dune-v1-d30d65c2ab.png) |
+| Otras mentes | 2 | Asignada al catálogo | [PNG](originales/otras-mentes-v2-abf6fba059.png) |
