@@ -1,6 +1,6 @@
 # Historial de portadas de Curva
 
-125 imágenes originales para 95 libros, generadas con image_gen integrado. Se guardan las versiones instaladas, las asignadas al catálogo, las anteriores y las descartadas. Asignada al catálogo indica que el libro aún no tiene resumen para leer en la aplicación. Los PNG son copias exactas de los originales; el catálogo registra su SHA-256 y el prompt disponible.
+129 imágenes originales para 95 libros, generadas con image_gen integrado. Se guardan las versiones instaladas, las asignadas al catálogo, las anteriores y las descartadas. Asignada al catálogo indica que el libro aún no tiene resumen para leer en la aplicación. Los PNG son copias exactas de los originales; el catálogo registra su SHA-256 y el prompt disponible.
 
 [Galería interactiva](Galeria.html) · [Catálogo](Catalogo.json) · [Prompts](Prompts.md)
 
@@ -121,13 +121,17 @@
 | El año de menos | 1 | Versión anterior | [PNG](originales/ano-de-menos-v1-65bfb156af.png) |
 | Invernando | 2 | Versión anterior | [PNG](originales/invernando-v2-5e60dec9d1.png) |
 | Ocho citas de amor | 1 | Versión anterior | [PNG](originales/ocho-citas-amor-v1-29f29ae73e.png) |
-| El jardín secreto | 3 | Asignada al catálogo | [PNG](originales/jardin-secreto-v3-99a3dd5f05.png) |
+| El jardín secreto | 3 | Versión anterior | [PNG](originales/jardin-secreto-v3-99a3dd5f05.png) |
 | Un punto azul pálido | 2 | Asignada al catálogo | [PNG](originales/punto-azul-palido-v2-d488266c13.png) |
-| Productividad lenta | 2 | Asignada al catálogo | [PNG](originales/productividad-lenta-v2-ad30100cb3.png) |
+| Productividad lenta | 2 | Versión anterior | [PNG](originales/productividad-lenta-v2-ad30100cb3.png) |
 | Ocho citas de amor | 2 | Asignada al catálogo | [PNG](originales/ocho-citas-amor-v2-1720e13676.png) |
 | La Ilíada | 2 | Asignada al catálogo | [PNG](originales/la-iliada-v2-5fa1eea006.png) |
-| Invernando | 3 | Asignada al catálogo | [PNG](originales/invernando-v3-953bd7b197.png) |
+| Invernando | 3 | Versión anterior | [PNG](originales/invernando-v3-953bd7b197.png) |
 | La sociedad del cansancio | 2 | Asignada al catálogo | [PNG](originales/sociedad-cansancio-v2-c135214835.png) |
 | El curioso incidente del perro a medianoche | 2 | Asignada al catálogo | [PNG](originales/curioso-incidente-perro-v2-1d4ba342f6.png) |
 | El año de menos | 2 | Asignada al catálogo | [PNG](originales/ano-de-menos-v2-49fb67bdeb.png) |
-| La vaca púrpura | 2 | Asignada al catálogo | [PNG](originales/vaca-purpura-v2-a2617023dd.png) |
+| La vaca púrpura | 2 | Versión anterior | [PNG](originales/vaca-purpura-v2-a2617023dd.png) |
+| Productividad lenta | 3 | Asignada al catálogo | [PNG](originales/productividad-lenta-v3-5a551a0518.png) |
+| Invernando | 4 | Asignada al catálogo | [PNG](originales/invernando-v4-11f7e91e7e.png) |
+| El jardín secreto | 4 | Asignada al catálogo | [PNG](originales/jardin-secreto-v4-44945bedb7.png) |
+| La vaca púrpura | 3 | Asignada al catálogo | [PNG](originales/vaca-purpura-v3-9046578145.png) |

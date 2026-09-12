@@ -1,0 +1,2116 @@
+{
+  "fecha": "2026-09-12",
+  "procedencia": "Dos ZIP aportados por el usuario como referencias visuales. Sus documentos internos se conservan como archivos de referencia, no como instrucciones operativas.",
+  "paquetes": [
+    {
+      "nombre": "PORTADAS WISER.zip",
+      "archivo": "ZIP-originales/PORTADAS WISER.zip",
+      "sha256": "39eb238a7703b50825397d5475902a12a7232c7bddb823563c3d0af555ff83be",
+      "bytes": 24111175,
+      "archivos": [
+        {
+          "rutaEnZIP": "LEEME-REFERENCIAS.md",
+          "bytes": 2267,
+          "sha256": "97c34d8ec932c9cf60d9f97898de224a81f2f9fa145744a53b65a2c622c9bcd1"
+        },
+        {
+          "rutaEnZIP": "GUIA-PORTADAS-CURVA.md",
+          "bytes": 12062,
+          "sha256": "85e0fa9ace5d510282dd93192d0e753c4bab4ba83965cde4699b8f8a9903f43b"
+        },
+        {
+          "rutaEnZIP": "INDICE-COMPLETO.csv",
+          "bytes": 16836,
+          "sha256": "d428a866aacb5ac45e1fd006b825abdcd2971876ed3f1ef27971e9794238cfd3"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1854.PNG",
+          "bytes": 177676,
+          "sha256": "58731c982a5556c9bba1adf4cd3b937173a25b3852c1be697c0136dcd9f6b0e6",
+          "captura": "Capturas/IMG_1854-58731c982a.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1855.PNG",
+          "bytes": 183170,
+          "sha256": "00f07bb3be3f18db402cbb85489f5452439ef9eb205e51c738c42d5ffe26d423",
+          "captura": "Capturas/IMG_1855-00f07bb3be.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1856.PNG",
+          "bytes": 185782,
+          "sha256": "9e944a137931f415522e333ab4c431978ba3dc726d21bf2806b8e6f4d2d840ce",
+          "captura": "Capturas/IMG_1856-9e944a1379.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1857.PNG",
+          "bytes": 164267,
+          "sha256": "893ba12cb92fee04aee73ff176938bf20bb66aa5d1e8bfb2a5dab7e22d9d3401",
+          "captura": "Capturas/IMG_1857-893ba12cb9.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1858.PNG",
+          "bytes": 162797,
+          "sha256": "3fd42f4f15ffe2c0cdbc77ab719ea25e91feade6b2f3036345a96fbc0fff0e3f",
+          "captura": "Capturas/IMG_1858-3fd42f4f15.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1859.PNG",
+          "bytes": 161948,
+          "sha256": "8b2aefd151c348922c1dfe46467a84aeb20c8e8b7c45c2ae298db186a2ab413b",
+          "captura": "Capturas/IMG_1859-8b2aefd151.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1860.PNG",
+          "bytes": 169352,
+          "sha256": "0d2d4848a8fd224d986e3e719c74f098ec90b79e8c041e26a62947cfe8e4a399",
+          "captura": "Capturas/IMG_1860-0d2d4848a8.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1861.PNG",
+          "bytes": 228837,
+          "sha256": "9191c558f62f9dccf6cadf2d4728ae267d3b0f8be442afcde8b4ac9af45b2267",
+          "captura": "Capturas/IMG_1861-9191c558f6.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1862.PNG",
+          "bytes": 243192,
+          "sha256": "2219af9a51cb12c205e24a0dd70b23e8fae55a9cd28e86af6cea866ccc65e546",
+          "captura": "Capturas/IMG_1862-2219af9a51.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1863.PNG",
+          "bytes": 183210,
+          "sha256": "94dd8a0e9a18840475479cc679602dcca76255b45b2fd18a5eff55daaaeca70d",
+          "captura": "Capturas/IMG_1863-94dd8a0e9a.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1864.PNG",
+          "bytes": 179379,
+          "sha256": "ce4a3e8e931ef2136369a13d6748b752aa56363c63c77f749ebad0a5020509f0",
+          "captura": "Capturas/IMG_1864-ce4a3e8e93.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1865.PNG",
+          "bytes": 159346,
+          "sha256": "d95ea6b2699c78d4bd23c0c9a47e5966fc5f43263c856ab5e53cf64361fbad52",
+          "captura": "Capturas/IMG_1865-d95ea6b269.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1866.PNG",
+          "bytes": 189705,
+          "sha256": "944456f5134b0e76f29971ea11938cbeec3a9cf4b2613c913432fd37e45543fb",
+          "captura": "Capturas/IMG_1866-944456f513.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1867.PNG",
+          "bytes": 171790,
+          "sha256": "b587b3342f1dc10baf9316da2e89dc091d6d8c76be0022937b78bf61fd3630a3",
+          "captura": "Capturas/IMG_1867-b587b3342f.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1868.PNG",
+          "bytes": 180349,
+          "sha256": "0c57423e648184558fbfa3257a016f2ec43fece7aa3b9263fcec4a35670d408b",
+          "captura": "Capturas/IMG_1868-0c57423e64.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1869.PNG",
+          "bytes": 208193,
+          "sha256": "9017950649766ac836a57d1c71ba9fd8c662f585d209dd98aa9b8ef837703fb5",
+          "captura": "Capturas/IMG_1869-9017950649.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1870.PNG",
+          "bytes": 198972,
+          "sha256": "4ddc9aac0a3dd0ff75d9417664c3596f959b75e4ed162bbef962f92f4e182764",
+          "captura": "Capturas/IMG_1870-4ddc9aac0a.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1871.PNG",
+          "bytes": 260713,
+          "sha256": "637a11a06b8d4b75dc3738f14c8120c00cc4820440b38c4d70ca6e555726f8ba",
+          "captura": "Capturas/IMG_1871-637a11a06b.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1872.PNG",
+          "bytes": 194933,
+          "sha256": "48522dd06a9ceca4b907c97cc0a63c8c4a5203c8f31c08f8cc7385887440762e",
+          "captura": "Capturas/IMG_1872-48522dd06a.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1873.PNG",
+          "bytes": 184623,
+          "sha256": "19e7327c121d49895c37e208faa1e2a23283d4e6776bf98ba3e046324e7cf509",
+          "captura": "Capturas/IMG_1873-19e7327c12.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1874.PNG",
+          "bytes": 197577,
+          "sha256": "5e86d4ad5efa90de29b9e5b6dfe1b56759479acd4531850bac92b05a6299b3ad",
+          "captura": "Capturas/IMG_1874-5e86d4ad5e.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1875.PNG",
+          "bytes": 166100,
+          "sha256": "4ccc232a9fa39a9aaa73030497c870b7b4555636a7bbdfbd21a33412a4109a99",
+          "captura": "Capturas/IMG_1875-4ccc232a9f.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1876.PNG",
+          "bytes": 173569,
+          "sha256": "03c50272934dacd637ab3acc42ddc35fa381228aa70e968ea051d68c7fc1b1f9",
+          "captura": "Capturas/IMG_1876-03c5027293.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1877.PNG",
+          "bytes": 193319,
+          "sha256": "fd3dfdea68ff0a86cd852bb8acc27ea114f349816cf5f42523a287b88d93983d",
+          "captura": "Capturas/IMG_1877-fd3dfdea68.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1878.PNG",
+          "bytes": 189614,
+          "sha256": "c942c13add014f11eb108f5fc7d37c117ecb79815319aeb3cdacee00170babde",
+          "captura": "Capturas/IMG_1878-c942c13add.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1879.PNG",
+          "bytes": 180985,
+          "sha256": "a99c45e203d72145ca0da7ea265152d5250d49e65ac9ce4c340931b111806472",
+          "captura": "Capturas/IMG_1879-a99c45e203.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1880.PNG",
+          "bytes": 163102,
+          "sha256": "3f0ff8547324b04b66aef3b7e3edb1ca086d5cee2a1ef1976f5c735e6309cf74",
+          "captura": "Capturas/IMG_1880-3f0ff85473.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1881.PNG",
+          "bytes": 178666,
+          "sha256": "e101fb1aed08fb0ecf267fc63aad0227528cc6689ebf7b87b9a02b5d5ad24d44",
+          "captura": "Capturas/IMG_1881-e101fb1aed.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1882.PNG",
+          "bytes": 143413,
+          "sha256": "7269d79c31aaa6f4174a175b5ec23e9605551b4aec73b22d586300f618c05f62",
+          "captura": "Capturas/IMG_1882-7269d79c31.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1883.PNG",
+          "bytes": 558706,
+          "sha256": "5897314d01237766e4339302594a0a725935e29c8dfcd12cfb13820cb517fd77",
+          "captura": "Capturas/IMG_1883-5897314d01.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1884.PNG",
+          "bytes": 625794,
+          "sha256": "9efaa860e039f806a39aa1621fa10e67c184df394b710bcd149e6d50ff35486b",
+          "captura": "Capturas/IMG_1884-9efaa860e0.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1885.PNG",
+          "bytes": 546074,
+          "sha256": "3f521673d2568b3648a799d04948c61dfba7a733ee7e9217535ca3e550926aed",
+          "captura": "Capturas/IMG_1885-3f521673d2.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1886.PNG",
+          "bytes": 569733,
+          "sha256": "f0abbc120c35bba52dfe1853f7f0c2de7ac75593cc968d0407a33815ca01fd29",
+          "captura": "Capturas/IMG_1886-f0abbc120c.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1887.PNG",
+          "bytes": 560848,
+          "sha256": "b2695e752985c479a46cf24067953e6665d6d2b9b103c2201fa48a7efaa1c096",
+          "captura": "Capturas/IMG_1887-b2695e7529.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1888.PNG",
+          "bytes": 503502,
+          "sha256": "3d9d89cbae87b14db4c86a716c9b221a962962480060538a5187f19316b661ef",
+          "captura": "Capturas/IMG_1888-3d9d89cbae.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1889.PNG",
+          "bytes": 439041,
+          "sha256": "23830443c4e450c3222fe2410c320d24897fb26f87cf851be62222ea3fee9ba1",
+          "captura": "Capturas/IMG_1889-23830443c4.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1890.PNG",
+          "bytes": 375689,
+          "sha256": "58bb6d8748f180cb0e402a9682ab8332ff50322f31fedce62bfc75de71ebc800",
+          "captura": "Capturas/IMG_1890-58bb6d8748.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1891.PNG",
+          "bytes": 539418,
+          "sha256": "5d42101d6e068e37a3a2b5e017b9b9eb5266e60348522adfc00854988cbc1076",
+          "captura": "Capturas/IMG_1891-5d42101d6e.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1892.PNG",
+          "bytes": 582207,
+          "sha256": "dd5c3db30bd40e6e50fc2a83a9fe2d61ba4c5afdbe5567b79097123e99536674",
+          "captura": "Capturas/IMG_1892-dd5c3db30b.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1893.PNG",
+          "bytes": 596934,
+          "sha256": "f52c79faa1a2fc69002aa0fcbed06fc8e4191b9f2abf1a1ebf2ab6ec4c7999ab",
+          "captura": "Capturas/IMG_1893-f52c79faa1.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1894.PNG",
+          "bytes": 549837,
+          "sha256": "a21f9fdedbf7fa9bd7aeb3d3bddbf1d012b4be25b6493c625883332c095d4a4b",
+          "captura": "Capturas/IMG_1894-a21f9fdedb.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1895.PNG",
+          "bytes": 840771,
+          "sha256": "7bb89db5540a96ea2c4eb37be29b9e4826530985d909879df59a5b92b4ecb387",
+          "captura": "Capturas/IMG_1895-7bb89db554.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1896.PNG",
+          "bytes": 499089,
+          "sha256": "c6827d2d874cc716995197661669ad83d346c97cd10a3e4b528f5c1b267e1b00",
+          "captura": "Capturas/IMG_1896-c6827d2d87.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1897.PNG",
+          "bytes": 566732,
+          "sha256": "0b2d4f3526f6947e9d3f2b51450b042d30405eda33485be480263f67dbc5997d",
+          "captura": "Capturas/IMG_1897-0b2d4f3526.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1898.PNG",
+          "bytes": 633208,
+          "sha256": "787ee54e45bda7791d7243d7606de0b14ca44a883d302966650cf13bfae05e7b",
+          "captura": "Capturas/IMG_1898-787ee54e45.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1900.PNG",
+          "bytes": 553373,
+          "sha256": "221557169b46742d383945241e54b56761cd17651b5bd8171354691b6fba4517",
+          "captura": "Capturas/IMG_1900-221557169b.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1901.PNG",
+          "bytes": 525328,
+          "sha256": "0d309bff4013665b2eff61274b47358310455f5be70e93aa845e014ba0e958ae",
+          "captura": "Capturas/IMG_1901-0d309bff40.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1902.PNG",
+          "bytes": 762741,
+          "sha256": "ae0a476788b697bf27f411e44c6138d7d5b922e42ae96c9bba4399e638a0aef8",
+          "captura": "Capturas/IMG_1902-ae0a476788.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1903.PNG",
+          "bytes": 618014,
+          "sha256": "02f4d57c3b4e2d2e5600db567e760f2c9f31b4028cf5152e6359d44db280b3e4",
+          "captura": "Capturas/IMG_1903-02f4d57c3b.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1904.PNG",
+          "bytes": 539455,
+          "sha256": "5f4a7235d382a5b0415b5ec243642f9faf55ec0b8489c5ffbb67719f52ade90f",
+          "captura": "Capturas/IMG_1904-5f4a7235d3.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1905.PNG",
+          "bytes": 558039,
+          "sha256": "b82c834dd57a2bbc7da44e497c1cba42971de1831e1c3c54738d21be04589cb5",
+          "captura": "Capturas/IMG_1905-b82c834dd5.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1906.PNG",
+          "bytes": 578800,
+          "sha256": "aa2e3c75ab64813f6d60f4d3f06f7d1b281a8aa5f8b9f8ca88bf335690cefd13",
+          "captura": "Capturas/IMG_1906-aa2e3c75ab.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1907.PNG",
+          "bytes": 528414,
+          "sha256": "f57a169dcf9c466c8ce5dd7a6d5f2f22c2f9a370e9eefeb7fe08209efa21b79b",
+          "captura": "Capturas/IMG_1907-f57a169dcf.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1908.PNG",
+          "bytes": 550193,
+          "sha256": "cf77b8510d5b856017eb2695da9ed5eb8d2f79cec09748734143c20744241370",
+          "captura": "Capturas/IMG_1908-cf77b8510d.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1909.PNG",
+          "bytes": 548015,
+          "sha256": "57347009e2d63468b31b5261f050bc8e057f8fb5c3d554664d6ae422a39a2321",
+          "captura": "Capturas/IMG_1909-57347009e2.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1910.PNG",
+          "bytes": 180848,
+          "sha256": "5743712ad21d73c14fdb1c119403bb79e42dd775ca0cb70279f8c2d1661c0b81",
+          "captura": "Capturas/IMG_1910-5743712ad2.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1911.PNG",
+          "bytes": 208281,
+          "sha256": "66934e758d2844420dd7d39df68c1a450682cd167533eb2b35b7ee9d5a797c0e",
+          "captura": "Capturas/IMG_1911-66934e758d.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1912.PNG",
+          "bytes": 183017,
+          "sha256": "7e35fe022d66b47d252b1de4a9eaf4b50b836b1694c72af5df425591bf455a13",
+          "captura": "Capturas/IMG_1912-7e35fe022d.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1913.PNG",
+          "bytes": 171526,
+          "sha256": "cf399084f46abc14b40631ea923b0e01bca19aa1462ad5aa9ef4b47ddfba7009",
+          "captura": "Capturas/IMG_1913-cf399084f4.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1914.PNG",
+          "bytes": 259890,
+          "sha256": "2f66bbd55aa93006a3c540d0c39c3c5abc903cebc03ad9d4724c8556c935a7db",
+          "captura": "Capturas/IMG_1914-2f66bbd55a.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1915.PNG",
+          "bytes": 262011,
+          "sha256": "e177dc94381fd9442ffede79f1696a8e05413dae756f4c779a108962f822a928",
+          "captura": "Capturas/IMG_1915-e177dc9438.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1916.PNG",
+          "bytes": 320221,
+          "sha256": "8c5391c2b1ef08b26d4a44e46639d2961548fb2b16e14182ae93424fec547127",
+          "captura": "Capturas/IMG_1916-8c5391c2b1.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1917.PNG",
+          "bytes": 296188,
+          "sha256": "febb89be55bd6fd5210254c646ca35c75583793f1283f4cfbe5ca9f4d0406e4b",
+          "captura": "Capturas/IMG_1917-febb89be55.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1918.PNG",
+          "bytes": 252615,
+          "sha256": "33ea472b6092495068928e6747fff51917e3dd361a5c39371b27dde86dced791",
+          "captura": "Capturas/IMG_1918-33ea472b60.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1919.PNG",
+          "bytes": 244712,
+          "sha256": "f64d802dfd186e630c56b79a7c85d5624f77a082b5672284e262866017acbc4f",
+          "captura": "Capturas/IMG_1919-f64d802dfd.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1920.PNG",
+          "bytes": 305753,
+          "sha256": "b05b9c8e49c41e5e0a852e534f5d25ba01b0ade3f24ec89ccff3a613c943bd83",
+          "captura": "Capturas/IMG_1920-b05b9c8e49.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1921.PNG",
+          "bytes": 233745,
+          "sha256": "db80981b7dabfba32efa6c931460ab9013a9ec17bc52557adbad70db7672d5f2",
+          "captura": "Capturas/IMG_1921-db80981b7d.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1922.PNG",
+          "bytes": 530725,
+          "sha256": "b0775d210f568fd6486b87512e3a6a6e789eaa2b64c79021a0d416b73a7d3c42",
+          "captura": "Capturas/IMG_1922-b0775d210f.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1923.PNG",
+          "bytes": 507224,
+          "sha256": "96b40f0ac6df713fe3ac4844790399e641c80dfca7f7e4d714de31973d4844aa",
+          "captura": "Capturas/IMG_1923-96b40f0ac6.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1924.PNG",
+          "bytes": 553483,
+          "sha256": "939c1e8b5565b5397381c94c37c6d861348ccf9fdefa78bf65fe9ebff83fb3f7",
+          "captura": "Capturas/IMG_1924-939c1e8b55.png"
+        }
+      ]
+    },
+    {
+      "nombre": "PORTADAS WISER 2.zip",
+      "archivo": "ZIP-originales/PORTADAS WISER 2.zip",
+      "sha256": "1ef630da0a3b34ebd52555b23a1c5566fd9fef0f6cdc7a9c93224a7eda7f141d",
+      "bytes": 21378899,
+      "archivos": [
+        {
+          "rutaEnZIP": "LEEME-REFERENCIAS.md",
+          "bytes": 2267,
+          "sha256": "97c34d8ec932c9cf60d9f97898de224a81f2f9fa145744a53b65a2c622c9bcd1"
+        },
+        {
+          "rutaEnZIP": "GUIA-PORTADAS-CURVA.md",
+          "bytes": 12062,
+          "sha256": "85e0fa9ace5d510282dd93192d0e753c4bab4ba83965cde4699b8f8a9903f43b"
+        },
+        {
+          "rutaEnZIP": "INDICE-COMPLETO.csv",
+          "bytes": 16836,
+          "sha256": "d428a866aacb5ac45e1fd006b825abdcd2971876ed3f1ef27971e9794238cfd3"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1926.PNG",
+          "bytes": 247023,
+          "sha256": "a5d47d50aac36c4a9f0f13c9922dcaf341db713f521b6d184293729c08d9a38e",
+          "captura": "Capturas/IMG_1926-a5d47d50aa.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1927.PNG",
+          "bytes": 216628,
+          "sha256": "7911a4b1b9021190ef6c96ec5d584ae0e58c0899fa85cc1d133d3dc267736397",
+          "captura": "Capturas/IMG_1927-7911a4b1b9.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1928.PNG",
+          "bytes": 207437,
+          "sha256": "5546dba0d337b0ae9834ba1d14cad08ac5fce2a334cf530f46162609d855bb70",
+          "captura": "Capturas/IMG_1928-5546dba0d3.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1929.PNG",
+          "bytes": 170176,
+          "sha256": "6071037ab3a1c46517947209b9d877438d57a12306b76bf9c44d4eae63465c61",
+          "captura": "Capturas/IMG_1929-6071037ab3.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1930.PNG",
+          "bytes": 185245,
+          "sha256": "eacde8c7876753401ec89f757228e8edb9a1c0b377b87e75ae0fc4bd2cf2c7e4",
+          "captura": "Capturas/IMG_1930-eacde8c787.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1931.PNG",
+          "bytes": 174875,
+          "sha256": "42707da9237c175baf561c83d3a5f652aa9e868aa2e2a920ae9c61a3d6d7c93b",
+          "captura": "Capturas/IMG_1931-42707da923.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1932.PNG",
+          "bytes": 201726,
+          "sha256": "7003175693714826c4968e79fc7e5e65e35ff3635899f7c7518c1240cb67720d",
+          "captura": "Capturas/IMG_1932-7003175693.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1933.PNG",
+          "bytes": 222667,
+          "sha256": "d8b74f421e3202bd97ffe29be72a42a22bf621efdf288646af8a53fe66ef7d4a",
+          "captura": "Capturas/IMG_1933-d8b74f421e.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1934.PNG",
+          "bytes": 169402,
+          "sha256": "d73d3ee4192de0c9ea8a6a3d30d5541bdd7de66690bbcb11ed09884a755694fd",
+          "captura": "Capturas/IMG_1934-d73d3ee419.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1935.PNG",
+          "bytes": 164787,
+          "sha256": "d029764a665e3a15a276db1d7660a547b052472b0da2f75cb4556f98601b1a27",
+          "captura": "Capturas/IMG_1935-d029764a66.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1936.PNG",
+          "bytes": 171325,
+          "sha256": "7506744e355c3884dcc5f7d82616e8785bfd157327c48b0f61099bd00bfb0158",
+          "captura": "Capturas/IMG_1936-7506744e35.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1937.PNG",
+          "bytes": 198357,
+          "sha256": "3bb2c807ab72a95e795019c7a1d7bcff5410fe240e9b73e3cc59355bb69b0ef0",
+          "captura": "Capturas/IMG_1937-3bb2c807ab.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1938.PNG",
+          "bytes": 208632,
+          "sha256": "00e7ad6081ecbeb949def558265e60d133890919b4a3a8b97763e401622f56b8",
+          "captura": "Capturas/IMG_1938-00e7ad6081.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1939.PNG",
+          "bytes": 197576,
+          "sha256": "0669da34df0810fde0ce7581b7d11f4b289cc34be2fb35cf73a055897a3b01df",
+          "captura": "Capturas/IMG_1939-0669da34df.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1940.PNG",
+          "bytes": 198016,
+          "sha256": "d4eed259bf9c138238f8cfdc5720af71f297307ddcdd4a0fc2a6d775602b1588",
+          "captura": "Capturas/IMG_1940-d4eed259bf.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1941.PNG",
+          "bytes": 191517,
+          "sha256": "753d86cc89a82827e1e0499cc36464683d8f375a6693259324880693776a0bfc",
+          "captura": "Capturas/IMG_1941-753d86cc89.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1942.PNG",
+          "bytes": 156070,
+          "sha256": "b135915c62b0f6136a303a40340f0894d7756547aa7f1b8902a3c2f412aed3d7",
+          "captura": "Capturas/IMG_1942-b135915c62.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1943.PNG",
+          "bytes": 274275,
+          "sha256": "8afca550e014b349842b7fb17d59b591a3f964af03e8827328e469263d039ffe",
+          "captura": "Capturas/IMG_1943-8afca550e0.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1944.PNG",
+          "bytes": 273294,
+          "sha256": "7ac15faafaeaf5061a1aa08918a52a2fa7f8df7e90a4776ca3b6009e086cdaf4",
+          "captura": "Capturas/IMG_1944-7ac15faafa.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1945.PNG",
+          "bytes": 624968,
+          "sha256": "5a2c30fc855b2ac1868495913156e23043d877446714a1e66c559678fa79d3bd",
+          "captura": "Capturas/IMG_1945-5a2c30fc85.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1946.PNG",
+          "bytes": 614420,
+          "sha256": "1df6056799abdc593b8a77d96b6d32827fa47ff3450c4afcb4cbb9b70d0d3121",
+          "captura": "Capturas/IMG_1946-1df6056799.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1947.PNG",
+          "bytes": 595420,
+          "sha256": "94c874660895c880b12ee4a2d0eb96084c9593ba11479e0dc806ef1688cf86cf",
+          "captura": "Capturas/IMG_1947-94c8746608.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1948.PNG",
+          "bytes": 603187,
+          "sha256": "0dcf7ab1a32d5024b434049bf6495cb740d3579b441621c07fecce88e38d8c25",
+          "captura": "Capturas/IMG_1948-0dcf7ab1a3.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1949.PNG",
+          "bytes": 566820,
+          "sha256": "b3f7054defc5e1398c6e35e9189840d12ea6def3981de14ae6194d49376ca6b6",
+          "captura": "Capturas/IMG_1949-b3f7054def.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1950.PNG",
+          "bytes": 585017,
+          "sha256": "b82c3e7e2ef4ddb1b2e73393bb93bda353a7e76c7f144670b7ed43b1ac1cabf7",
+          "captura": "Capturas/IMG_1950-b82c3e7e2e.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1951.PNG",
+          "bytes": 527700,
+          "sha256": "2eaabe1165a1b06c8c693c9ac1b1c9df074b1ec9fa6e6b027e01544f210b1f40",
+          "captura": "Capturas/IMG_1951-2eaabe1165.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1952.PNG",
+          "bytes": 597115,
+          "sha256": "aa956041724399b7dfbbcad879f3454ae7fdb47ef3c80f5166ddf1a3c38c51fd",
+          "captura": "Capturas/IMG_1952-aa95604172.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1953.PNG",
+          "bytes": 657217,
+          "sha256": "5233c1ffca94fb3c8cd71ee30a262ab64e34007beb4fec0b02339250b622b747",
+          "captura": "Capturas/IMG_1953-5233c1ffca.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1943 2.PNG",
+          "bytes": 274275,
+          "sha256": "8afca550e014b349842b7fb17d59b591a3f964af03e8827328e469263d039ffe",
+          "captura": "Capturas/IMG_1943-8afca550e0.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1944 2.PNG",
+          "bytes": 273294,
+          "sha256": "7ac15faafaeaf5061a1aa08918a52a2fa7f8df7e90a4776ca3b6009e086cdaf4",
+          "captura": "Capturas/IMG_1944-7ac15faafa.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1945 2.PNG",
+          "bytes": 624968,
+          "sha256": "5a2c30fc855b2ac1868495913156e23043d877446714a1e66c559678fa79d3bd",
+          "captura": "Capturas/IMG_1945-5a2c30fc85.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1946 2.PNG",
+          "bytes": 614420,
+          "sha256": "1df6056799abdc593b8a77d96b6d32827fa47ff3450c4afcb4cbb9b70d0d3121",
+          "captura": "Capturas/IMG_1946-1df6056799.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1947 2.PNG",
+          "bytes": 595420,
+          "sha256": "94c874660895c880b12ee4a2d0eb96084c9593ba11479e0dc806ef1688cf86cf",
+          "captura": "Capturas/IMG_1947-94c8746608.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1948 2.PNG",
+          "bytes": 603187,
+          "sha256": "0dcf7ab1a32d5024b434049bf6495cb740d3579b441621c07fecce88e38d8c25",
+          "captura": "Capturas/IMG_1948-0dcf7ab1a3.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1949 2.PNG",
+          "bytes": 566820,
+          "sha256": "b3f7054defc5e1398c6e35e9189840d12ea6def3981de14ae6194d49376ca6b6",
+          "captura": "Capturas/IMG_1949-b3f7054def.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1950 2.PNG",
+          "bytes": 585017,
+          "sha256": "b82c3e7e2ef4ddb1b2e73393bb93bda353a7e76c7f144670b7ed43b1ac1cabf7",
+          "captura": "Capturas/IMG_1950-b82c3e7e2e.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1951 2.PNG",
+          "bytes": 527700,
+          "sha256": "2eaabe1165a1b06c8c693c9ac1b1c9df074b1ec9fa6e6b027e01544f210b1f40",
+          "captura": "Capturas/IMG_1951-2eaabe1165.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1952 2.PNG",
+          "bytes": 597115,
+          "sha256": "aa956041724399b7dfbbcad879f3454ae7fdb47ef3c80f5166ddf1a3c38c51fd",
+          "captura": "Capturas/IMG_1952-aa95604172.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1953 2.PNG",
+          "bytes": 657217,
+          "sha256": "5233c1ffca94fb3c8cd71ee30a262ab64e34007beb4fec0b02339250b622b747",
+          "captura": "Capturas/IMG_1953-5233c1ffca.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1954.PNG",
+          "bytes": 272605,
+          "sha256": "3059030b3f9e15ec3f3812d4266c01cd491e4502e276c070a49394342dcd03fa",
+          "captura": "Capturas/IMG_1954-3059030b3f.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1955.PNG",
+          "bytes": 281093,
+          "sha256": "f13159145dcd8bc668383a18443efb35b4e5f44e953843d3ffd3ff51f9e9f8bf",
+          "captura": "Capturas/IMG_1955-f13159145d.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1956.PNG",
+          "bytes": 281093,
+          "sha256": "702774099d2120bff560aa013d44b14ccf1ebf0789a1d812e912bfbf0f97dc71",
+          "captura": "Capturas/IMG_1956-702774099d.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1957.PNG",
+          "bytes": 227184,
+          "sha256": "40d9386f2bdc61291e1e973a23e67f3379d8471853bffa242c8916851a4ad498",
+          "captura": "Capturas/IMG_1957-40d9386f2b.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1958.PNG",
+          "bytes": 556973,
+          "sha256": "08a011d9626772bbafa5c1755d7dd2f4dac09941db9e81880d34b7012b8bbcbd",
+          "captura": "Capturas/IMG_1958-08a011d962.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1959.PNG",
+          "bytes": 182966,
+          "sha256": "1a74bd4dd7b68e46fe8f3a537c0c68ea6a7ca072e01daa8c8ec6c26fff8391e2",
+          "captura": "Capturas/IMG_1959-1a74bd4dd7.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1961.PNG",
+          "bytes": 270551,
+          "sha256": "9401a151ebdd0077d1d9b367f6c92c448c4d2442abc616e26f7d08c1808e6d3a",
+          "captura": "Capturas/IMG_1961-9401a151eb.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1962.PNG",
+          "bytes": 270390,
+          "sha256": "e2b00ad3ae6f565b557b7fec0be54389f3ec1a0153c8b8c63be22c292ff71727",
+          "captura": "Capturas/IMG_1962-e2b00ad3ae.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1963.PNG",
+          "bytes": 286762,
+          "sha256": "145024ad48d2e7ae07d4b84c8591d27d20531de603bcc612762c9851aa675ae9",
+          "captura": "Capturas/IMG_1963-145024ad48.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1964.PNG",
+          "bytes": 287975,
+          "sha256": "83c6d7e3cba8b89e2e5731912034ed10a89c6814336238dfa26beb531a197f66",
+          "captura": "Capturas/IMG_1964-83c6d7e3cb.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1965.PNG",
+          "bytes": 310695,
+          "sha256": "916108a81a1dbe977d668faf6aeaa4706dce21a6f475d7712912673a7de9a78a",
+          "captura": "Capturas/IMG_1965-916108a81a.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1966.PNG",
+          "bytes": 253967,
+          "sha256": "7a64afd1b9bd7efff98522b72bc9b3bb398b6ea66a494dff0d3018a4fe950b6f",
+          "captura": "Capturas/IMG_1966-7a64afd1b9.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1967.PNG",
+          "bytes": 278961,
+          "sha256": "23c2754636ceb0c345c9b079f91f3cc51b58caff57da511776cf19cfa863f149",
+          "captura": "Capturas/IMG_1967-23c2754636.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1968.PNG",
+          "bytes": 317643,
+          "sha256": "bdde1e26e1782fca7e4c1005db6e23f5a88a44e989741655da0943f97e9ad5e4",
+          "captura": "Capturas/IMG_1968-bdde1e26e1.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1969.PNG",
+          "bytes": 277130,
+          "sha256": "6fb79764de7f05f325ac2c13cf4ec6e3d406638d79d2fd005dd0ee9b69af159b",
+          "captura": "Capturas/IMG_1969-6fb79764de.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1970.PNG",
+          "bytes": 277130,
+          "sha256": "602529b9546766bd953341650ec50ef844d643329eb607aec0ccfb2b8d5508c2",
+          "captura": "Capturas/IMG_1970-602529b954.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1971.PNG",
+          "bytes": 255044,
+          "sha256": "2a3e27e8aa2376af4b548743272775925b3df9bc8ed65c2f8f8878530c27bb2b",
+          "captura": "Capturas/IMG_1971-2a3e27e8aa.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1972.PNG",
+          "bytes": 281576,
+          "sha256": "80419157040b2a8ee715f9e2b4343fd5c54b70f5f04491599fc7cc3adbf00581",
+          "captura": "Capturas/IMG_1972-8041915704.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1973.PNG",
+          "bytes": 275310,
+          "sha256": "326381b5df013665c5d1081e54dec9948feb80992a328abeba278aa632c73aa8",
+          "captura": "Capturas/IMG_1973-326381b5df.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1974.PNG",
+          "bytes": 328783,
+          "sha256": "8a84aa85304907902ba1d82b07de67c65454eed605b4f0d27bac7b80965026a5",
+          "captura": "Capturas/IMG_1974-8a84aa8530.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1975.PNG",
+          "bytes": 245015,
+          "sha256": "cfff5864f2e87dcb6499d49e76b9552b123769d321b4ff00fbe74f8020a0d93a",
+          "captura": "Capturas/IMG_1975-cfff5864f2.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1976.PNG",
+          "bytes": 257482,
+          "sha256": "5647931cb8d3329e07e1af5cebc3e1a8e337260bbd00e1b16d22d071173b7271",
+          "captura": "Capturas/IMG_1976-5647931cb8.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1977.PNG",
+          "bytes": 283535,
+          "sha256": "16fc931cbf1ae69ae991565705903c8254e791a8bd8a7dd212bb35f820c719ba",
+          "captura": "Capturas/IMG_1977-16fc931cbf.png"
+        },
+        {
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1978.PNG",
+          "bytes": 178381,
+          "sha256": "8cabdbccca7707fe5557c828dd165e717c3ded2f5216144f717f9b37b160088d",
+          "captura": "Capturas/IMG_1978-8cabdbccca.png"
+        }
+      ]
+    }
+  ],
+  "capturasUnicas": [
+    {
+      "sha256": "58731c982a5556c9bba1adf4cd3b937173a25b3852c1be697c0136dcd9f6b0e6",
+      "archivo": "Capturas/IMG_1854-58731c982a.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1854.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "00f07bb3be3f18db402cbb85489f5452439ef9eb205e51c738c42d5ffe26d423",
+      "archivo": "Capturas/IMG_1855-00f07bb3be.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1855.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "9e944a137931f415522e333ab4c431978ba3dc726d21bf2806b8e6f4d2d840ce",
+      "archivo": "Capturas/IMG_1856-9e944a1379.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1856.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "893ba12cb92fee04aee73ff176938bf20bb66aa5d1e8bfb2a5dab7e22d9d3401",
+      "archivo": "Capturas/IMG_1857-893ba12cb9.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1857.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "3fd42f4f15ffe2c0cdbc77ab719ea25e91feade6b2f3036345a96fbc0fff0e3f",
+      "archivo": "Capturas/IMG_1858-3fd42f4f15.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1858.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "8b2aefd151c348922c1dfe46467a84aeb20c8e8b7c45c2ae298db186a2ab413b",
+      "archivo": "Capturas/IMG_1859-8b2aefd151.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1859.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "0d2d4848a8fd224d986e3e719c74f098ec90b79e8c041e26a62947cfe8e4a399",
+      "archivo": "Capturas/IMG_1860-0d2d4848a8.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1860.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "9191c558f62f9dccf6cadf2d4728ae267d3b0f8be442afcde8b4ac9af45b2267",
+      "archivo": "Capturas/IMG_1861-9191c558f6.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1861.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "2219af9a51cb12c205e24a0dd70b23e8fae55a9cd28e86af6cea866ccc65e546",
+      "archivo": "Capturas/IMG_1862-2219af9a51.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1862.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "94dd8a0e9a18840475479cc679602dcca76255b45b2fd18a5eff55daaaeca70d",
+      "archivo": "Capturas/IMG_1863-94dd8a0e9a.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1863.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "ce4a3e8e931ef2136369a13d6748b752aa56363c63c77f749ebad0a5020509f0",
+      "archivo": "Capturas/IMG_1864-ce4a3e8e93.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1864.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "d95ea6b2699c78d4bd23c0c9a47e5966fc5f43263c856ab5e53cf64361fbad52",
+      "archivo": "Capturas/IMG_1865-d95ea6b269.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1865.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "944456f5134b0e76f29971ea11938cbeec3a9cf4b2613c913432fd37e45543fb",
+      "archivo": "Capturas/IMG_1866-944456f513.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1866.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "b587b3342f1dc10baf9316da2e89dc091d6d8c76be0022937b78bf61fd3630a3",
+      "archivo": "Capturas/IMG_1867-b587b3342f.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1867.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "0c57423e648184558fbfa3257a016f2ec43fece7aa3b9263fcec4a35670d408b",
+      "archivo": "Capturas/IMG_1868-0c57423e64.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1868.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "9017950649766ac836a57d1c71ba9fd8c662f585d209dd98aa9b8ef837703fb5",
+      "archivo": "Capturas/IMG_1869-9017950649.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-49/IMG_1869.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "4ddc9aac0a3dd0ff75d9417664c3596f959b75e4ed162bbef962f92f4e182764",
+      "archivo": "Capturas/IMG_1870-4ddc9aac0a.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1870.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "637a11a06b8d4b75dc3738f14c8120c00cc4820440b38c4d70ca6e555726f8ba",
+      "archivo": "Capturas/IMG_1871-637a11a06b.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1871.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "48522dd06a9ceca4b907c97cc0a63c8c4a5203c8f31c08f8cc7385887440762e",
+      "archivo": "Capturas/IMG_1872-48522dd06a.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1872.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "19e7327c121d49895c37e208faa1e2a23283d4e6776bf98ba3e046324e7cf509",
+      "archivo": "Capturas/IMG_1873-19e7327c12.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1873.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "5e86d4ad5efa90de29b9e5b6dfe1b56759479acd4531850bac92b05a6299b3ad",
+      "archivo": "Capturas/IMG_1874-5e86d4ad5e.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1874.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "4ccc232a9fa39a9aaa73030497c870b7b4555636a7bbdfbd21a33412a4109a99",
+      "archivo": "Capturas/IMG_1875-4ccc232a9f.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1875.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "03c50272934dacd637ab3acc42ddc35fa381228aa70e968ea051d68c7fc1b1f9",
+      "archivo": "Capturas/IMG_1876-03c5027293.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1876.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "fd3dfdea68ff0a86cd852bb8acc27ea114f349816cf5f42523a287b88d93983d",
+      "archivo": "Capturas/IMG_1877-fd3dfdea68.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1877.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "c942c13add014f11eb108f5fc7d37c117ecb79815319aeb3cdacee00170babde",
+      "archivo": "Capturas/IMG_1878-c942c13add.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1878.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "a99c45e203d72145ca0da7ea265152d5250d49e65ac9ce4c340931b111806472",
+      "archivo": "Capturas/IMG_1879-a99c45e203.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1879.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "3f0ff8547324b04b66aef3b7e3edb1ca086d5cee2a1ef1976f5c735e6309cf74",
+      "archivo": "Capturas/IMG_1880-3f0ff85473.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1880.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "e101fb1aed08fb0ecf267fc63aad0227528cc6689ebf7b87b9a02b5d5ad24d44",
+      "archivo": "Capturas/IMG_1881-e101fb1aed.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1881.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "7269d79c31aaa6f4174a175b5ec23e9605551b4aec73b22d586300f618c05f62",
+      "archivo": "Capturas/IMG_1882-7269d79c31.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1882.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "5897314d01237766e4339302594a0a725935e29c8dfcd12cfb13820cb517fd77",
+      "archivo": "Capturas/IMG_1883-5897314d01.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1883.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "9efaa860e039f806a39aa1621fa10e67c184df394b710bcd149e6d50ff35486b",
+      "archivo": "Capturas/IMG_1884-9efaa860e0.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1884.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "3f521673d2568b3648a799d04948c61dfba7a733ee7e9217535ca3e550926aed",
+      "archivo": "Capturas/IMG_1885-3f521673d2.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1885.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "f0abbc120c35bba52dfe1853f7f0c2de7ac75593cc968d0407a33815ca01fd29",
+      "archivo": "Capturas/IMG_1886-f0abbc120c.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1886.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "b2695e752985c479a46cf24067953e6665d6d2b9b103c2201fa48a7efaa1c096",
+      "archivo": "Capturas/IMG_1887-b2695e7529.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1887.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "3d9d89cbae87b14db4c86a716c9b221a962962480060538a5187f19316b661ef",
+      "archivo": "Capturas/IMG_1888-3d9d89cbae.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1888.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "23830443c4e450c3222fe2410c320d24897fb26f87cf851be62222ea3fee9ba1",
+      "archivo": "Capturas/IMG_1889-23830443c4.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1889.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "58bb6d8748f180cb0e402a9682ab8332ff50322f31fedce62bfc75de71ebc800",
+      "archivo": "Capturas/IMG_1890-58bb6d8748.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1890.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "5d42101d6e068e37a3a2b5e017b9b9eb5266e60348522adfc00854988cbc1076",
+      "archivo": "Capturas/IMG_1891-5d42101d6e.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1891.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "dd5c3db30bd40e6e50fc2a83a9fe2d61ba4c5afdbe5567b79097123e99536674",
+      "archivo": "Capturas/IMG_1892-dd5c3db30b.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1892.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "f52c79faa1a2fc69002aa0fcbed06fc8e4191b9f2abf1a1ebf2ab6ec4c7999ab",
+      "archivo": "Capturas/IMG_1893-f52c79faa1.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1893.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "a21f9fdedbf7fa9bd7aeb3d3bddbf1d012b4be25b6493c625883332c095d4a4b",
+      "archivo": "Capturas/IMG_1894-a21f9fdedb.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1894.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "7bb89db5540a96ea2c4eb37be29b9e4826530985d909879df59a5b92b4ecb387",
+      "archivo": "Capturas/IMG_1895-7bb89db554.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1895.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "c6827d2d874cc716995197661669ad83d346c97cd10a3e4b528f5c1b267e1b00",
+      "archivo": "Capturas/IMG_1896-c6827d2d87.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1896.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "0b2d4f3526f6947e9d3f2b51450b042d30405eda33485be480263f67dbc5997d",
+      "archivo": "Capturas/IMG_1897-0b2d4f3526.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1897.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "787ee54e45bda7791d7243d7606de0b14ca44a883d302966650cf13bfae05e7b",
+      "archivo": "Capturas/IMG_1898-787ee54e45.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-50/IMG_1898.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "221557169b46742d383945241e54b56761cd17651b5bd8171354691b6fba4517",
+      "archivo": "Capturas/IMG_1900-221557169b.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1900.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "0d309bff4013665b2eff61274b47358310455f5be70e93aa845e014ba0e958ae",
+      "archivo": "Capturas/IMG_1901-0d309bff40.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1901.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "ae0a476788b697bf27f411e44c6138d7d5b922e42ae96c9bba4399e638a0aef8",
+      "archivo": "Capturas/IMG_1902-ae0a476788.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1902.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "02f4d57c3b4e2d2e5600db567e760f2c9f31b4028cf5152e6359d44db280b3e4",
+      "archivo": "Capturas/IMG_1903-02f4d57c3b.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1903.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "5f4a7235d382a5b0415b5ec243642f9faf55ec0b8489c5ffbb67719f52ade90f",
+      "archivo": "Capturas/IMG_1904-5f4a7235d3.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1904.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "b82c834dd57a2bbc7da44e497c1cba42971de1831e1c3c54738d21be04589cb5",
+      "archivo": "Capturas/IMG_1905-b82c834dd5.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1905.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "aa2e3c75ab64813f6d60f4d3f06f7d1b281a8aa5f8b9f8ca88bf335690cefd13",
+      "archivo": "Capturas/IMG_1906-aa2e3c75ab.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1906.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "f57a169dcf9c466c8ce5dd7a6d5f2f22c2f9a370e9eefeb7fe08209efa21b79b",
+      "archivo": "Capturas/IMG_1907-f57a169dcf.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1907.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "cf77b8510d5b856017eb2695da9ed5eb8d2f79cec09748734143c20744241370",
+      "archivo": "Capturas/IMG_1908-cf77b8510d.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1908.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "57347009e2d63468b31b5261f050bc8e057f8fb5c3d554664d6ae422a39a2321",
+      "archivo": "Capturas/IMG_1909-57347009e2.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1909.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "5743712ad21d73c14fdb1c119403bb79e42dd775ca0cb70279f8c2d1661c0b81",
+      "archivo": "Capturas/IMG_1910-5743712ad2.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1910.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "66934e758d2844420dd7d39df68c1a450682cd167533eb2b35b7ee9d5a797c0e",
+      "archivo": "Capturas/IMG_1911-66934e758d.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1911.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "7e35fe022d66b47d252b1de4a9eaf4b50b836b1694c72af5df425591bf455a13",
+      "archivo": "Capturas/IMG_1912-7e35fe022d.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1912.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "cf399084f46abc14b40631ea923b0e01bca19aa1462ad5aa9ef4b47ddfba7009",
+      "archivo": "Capturas/IMG_1913-cf399084f4.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1913.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "2f66bbd55aa93006a3c540d0c39c3c5abc903cebc03ad9d4724c8556c935a7db",
+      "archivo": "Capturas/IMG_1914-2f66bbd55a.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1914.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "e177dc94381fd9442ffede79f1696a8e05413dae756f4c779a108962f822a928",
+      "archivo": "Capturas/IMG_1915-e177dc9438.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1915.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "8c5391c2b1ef08b26d4a44e46639d2961548fb2b16e14182ae93424fec547127",
+      "archivo": "Capturas/IMG_1916-8c5391c2b1.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1916.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "febb89be55bd6fd5210254c646ca35c75583793f1283f4cfbe5ca9f4d0406e4b",
+      "archivo": "Capturas/IMG_1917-febb89be55.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1917.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "33ea472b6092495068928e6747fff51917e3dd361a5c39371b27dde86dced791",
+      "archivo": "Capturas/IMG_1918-33ea472b60.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1918.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "f64d802dfd186e630c56b79a7c85d5624f77a082b5672284e262866017acbc4f",
+      "archivo": "Capturas/IMG_1919-f64d802dfd.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1919.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "b05b9c8e49c41e5e0a852e534f5d25ba01b0ade3f24ec89ccff3a613c943bd83",
+      "archivo": "Capturas/IMG_1920-b05b9c8e49.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1920.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "db80981b7dabfba32efa6c931460ab9013a9ec17bc52557adbad70db7672d5f2",
+      "archivo": "Capturas/IMG_1921-db80981b7d.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1921.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "b0775d210f568fd6486b87512e3a6a6e789eaa2b64c79021a0d416b73a7d3c42",
+      "archivo": "Capturas/IMG_1922-b0775d210f.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1922.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "96b40f0ac6df713fe3ac4844790399e641c80dfca7f7e4d714de31973d4844aa",
+      "archivo": "Capturas/IMG_1923-96b40f0ac6.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1923.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "939c1e8b5565b5397381c94c37c6d861348ccf9fdefa78bf65fe9ebff83fb3f7",
+      "archivo": "Capturas/IMG_1924-939c1e8b55.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER.zip",
+          "rutaEnZIP": "Referencias/Archivo-51/IMG_1924.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "a5d47d50aac36c4a9f0f13c9922dcaf341db713f521b6d184293729c08d9a38e",
+      "archivo": "Capturas/IMG_1926-a5d47d50aa.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1926.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "7911a4b1b9021190ef6c96ec5d584ae0e58c0899fa85cc1d133d3dc267736397",
+      "archivo": "Capturas/IMG_1927-7911a4b1b9.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1927.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "5546dba0d337b0ae9834ba1d14cad08ac5fce2a334cf530f46162609d855bb70",
+      "archivo": "Capturas/IMG_1928-5546dba0d3.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1928.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "6071037ab3a1c46517947209b9d877438d57a12306b76bf9c44d4eae63465c61",
+      "archivo": "Capturas/IMG_1929-6071037ab3.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1929.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "eacde8c7876753401ec89f757228e8edb9a1c0b377b87e75ae0fc4bd2cf2c7e4",
+      "archivo": "Capturas/IMG_1930-eacde8c787.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1930.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "42707da9237c175baf561c83d3a5f652aa9e868aa2e2a920ae9c61a3d6d7c93b",
+      "archivo": "Capturas/IMG_1931-42707da923.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1931.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "7003175693714826c4968e79fc7e5e65e35ff3635899f7c7518c1240cb67720d",
+      "archivo": "Capturas/IMG_1932-7003175693.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1932.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "d8b74f421e3202bd97ffe29be72a42a22bf621efdf288646af8a53fe66ef7d4a",
+      "archivo": "Capturas/IMG_1933-d8b74f421e.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1933.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "d73d3ee4192de0c9ea8a6a3d30d5541bdd7de66690bbcb11ed09884a755694fd",
+      "archivo": "Capturas/IMG_1934-d73d3ee419.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1934.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "d029764a665e3a15a276db1d7660a547b052472b0da2f75cb4556f98601b1a27",
+      "archivo": "Capturas/IMG_1935-d029764a66.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1935.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "7506744e355c3884dcc5f7d82616e8785bfd157327c48b0f61099bd00bfb0158",
+      "archivo": "Capturas/IMG_1936-7506744e35.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1936.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "3bb2c807ab72a95e795019c7a1d7bcff5410fe240e9b73e3cc59355bb69b0ef0",
+      "archivo": "Capturas/IMG_1937-3bb2c807ab.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1937.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "00e7ad6081ecbeb949def558265e60d133890919b4a3a8b97763e401622f56b8",
+      "archivo": "Capturas/IMG_1938-00e7ad6081.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1938.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "0669da34df0810fde0ce7581b7d11f4b289cc34be2fb35cf73a055897a3b01df",
+      "archivo": "Capturas/IMG_1939-0669da34df.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1939.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "d4eed259bf9c138238f8cfdc5720af71f297307ddcdd4a0fc2a6d775602b1588",
+      "archivo": "Capturas/IMG_1940-d4eed259bf.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1940.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "753d86cc89a82827e1e0499cc36464683d8f375a6693259324880693776a0bfc",
+      "archivo": "Capturas/IMG_1941-753d86cc89.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1941.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "b135915c62b0f6136a303a40340f0894d7756547aa7f1b8902a3c2f412aed3d7",
+      "archivo": "Capturas/IMG_1942-b135915c62.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1942.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "8afca550e014b349842b7fb17d59b591a3f964af03e8827328e469263d039ffe",
+      "archivo": "Capturas/IMG_1943-8afca550e0.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1943.PNG"
+        },
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1943 2.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "7ac15faafaeaf5061a1aa08918a52a2fa7f8df7e90a4776ca3b6009e086cdaf4",
+      "archivo": "Capturas/IMG_1944-7ac15faafa.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1944.PNG"
+        },
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1944 2.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "5a2c30fc855b2ac1868495913156e23043d877446714a1e66c559678fa79d3bd",
+      "archivo": "Capturas/IMG_1945-5a2c30fc85.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1945.PNG"
+        },
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1945 2.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "1df6056799abdc593b8a77d96b6d32827fa47ff3450c4afcb4cbb9b70d0d3121",
+      "archivo": "Capturas/IMG_1946-1df6056799.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1946.PNG"
+        },
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1946 2.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "94c874660895c880b12ee4a2d0eb96084c9593ba11479e0dc806ef1688cf86cf",
+      "archivo": "Capturas/IMG_1947-94c8746608.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1947.PNG"
+        },
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1947 2.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "0dcf7ab1a32d5024b434049bf6495cb740d3579b441621c07fecce88e38d8c25",
+      "archivo": "Capturas/IMG_1948-0dcf7ab1a3.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1948.PNG"
+        },
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1948 2.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "b3f7054defc5e1398c6e35e9189840d12ea6def3981de14ae6194d49376ca6b6",
+      "archivo": "Capturas/IMG_1949-b3f7054def.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1949.PNG"
+        },
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1949 2.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "b82c3e7e2ef4ddb1b2e73393bb93bda353a7e76c7f144670b7ed43b1ac1cabf7",
+      "archivo": "Capturas/IMG_1950-b82c3e7e2e.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1950.PNG"
+        },
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1950 2.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "2eaabe1165a1b06c8c693c9ac1b1c9df074b1ec9fa6e6b027e01544f210b1f40",
+      "archivo": "Capturas/IMG_1951-2eaabe1165.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1951.PNG"
+        },
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1951 2.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "aa956041724399b7dfbbcad879f3454ae7fdb47ef3c80f5166ddf1a3c38c51fd",
+      "archivo": "Capturas/IMG_1952-aa95604172.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1952.PNG"
+        },
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1952 2.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "5233c1ffca94fb3c8cd71ee30a262ab64e34007beb4fec0b02339250b622b747",
+      "archivo": "Capturas/IMG_1953-5233c1ffca.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-52/IMG_1953.PNG"
+        },
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1953 2.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "3059030b3f9e15ec3f3812d4266c01cd491e4502e276c070a49394342dcd03fa",
+      "archivo": "Capturas/IMG_1954-3059030b3f.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1954.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "f13159145dcd8bc668383a18443efb35b4e5f44e953843d3ffd3ff51f9e9f8bf",
+      "archivo": "Capturas/IMG_1955-f13159145d.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1955.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "702774099d2120bff560aa013d44b14ccf1ebf0789a1d812e912bfbf0f97dc71",
+      "archivo": "Capturas/IMG_1956-702774099d.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1956.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "40d9386f2bdc61291e1e973a23e67f3379d8471853bffa242c8916851a4ad498",
+      "archivo": "Capturas/IMG_1957-40d9386f2b.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1957.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "08a011d9626772bbafa5c1755d7dd2f4dac09941db9e81880d34b7012b8bbcbd",
+      "archivo": "Capturas/IMG_1958-08a011d962.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1958.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "1a74bd4dd7b68e46fe8f3a537c0c68ea6a7ca072e01daa8c8ec6c26fff8391e2",
+      "archivo": "Capturas/IMG_1959-1a74bd4dd7.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1959.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "9401a151ebdd0077d1d9b367f6c92c448c4d2442abc616e26f7d08c1808e6d3a",
+      "archivo": "Capturas/IMG_1961-9401a151eb.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1961.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "e2b00ad3ae6f565b557b7fec0be54389f3ec1a0153c8b8c63be22c292ff71727",
+      "archivo": "Capturas/IMG_1962-e2b00ad3ae.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1962.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "145024ad48d2e7ae07d4b84c8591d27d20531de603bcc612762c9851aa675ae9",
+      "archivo": "Capturas/IMG_1963-145024ad48.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1963.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "83c6d7e3cba8b89e2e5731912034ed10a89c6814336238dfa26beb531a197f66",
+      "archivo": "Capturas/IMG_1964-83c6d7e3cb.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1964.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "916108a81a1dbe977d668faf6aeaa4706dce21a6f475d7712912673a7de9a78a",
+      "archivo": "Capturas/IMG_1965-916108a81a.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1965.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "7a64afd1b9bd7efff98522b72bc9b3bb398b6ea66a494dff0d3018a4fe950b6f",
+      "archivo": "Capturas/IMG_1966-7a64afd1b9.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1966.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "23c2754636ceb0c345c9b079f91f3cc51b58caff57da511776cf19cfa863f149",
+      "archivo": "Capturas/IMG_1967-23c2754636.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1967.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "bdde1e26e1782fca7e4c1005db6e23f5a88a44e989741655da0943f97e9ad5e4",
+      "archivo": "Capturas/IMG_1968-bdde1e26e1.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1968.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "6fb79764de7f05f325ac2c13cf4ec6e3d406638d79d2fd005dd0ee9b69af159b",
+      "archivo": "Capturas/IMG_1969-6fb79764de.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1969.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "602529b9546766bd953341650ec50ef844d643329eb607aec0ccfb2b8d5508c2",
+      "archivo": "Capturas/IMG_1970-602529b954.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1970.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "2a3e27e8aa2376af4b548743272775925b3df9bc8ed65c2f8f8878530c27bb2b",
+      "archivo": "Capturas/IMG_1971-2a3e27e8aa.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1971.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "80419157040b2a8ee715f9e2b4343fd5c54b70f5f04491599fc7cc3adbf00581",
+      "archivo": "Capturas/IMG_1972-8041915704.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1972.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "326381b5df013665c5d1081e54dec9948feb80992a328abeba278aa632c73aa8",
+      "archivo": "Capturas/IMG_1973-326381b5df.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1973.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "8a84aa85304907902ba1d82b07de67c65454eed605b4f0d27bac7b80965026a5",
+      "archivo": "Capturas/IMG_1974-8a84aa8530.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1974.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "cfff5864f2e87dcb6499d49e76b9552b123769d321b4ff00fbe74f8020a0d93a",
+      "archivo": "Capturas/IMG_1975-cfff5864f2.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1975.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "5647931cb8d3329e07e1af5cebc3e1a8e337260bbd00e1b16d22d071173b7271",
+      "archivo": "Capturas/IMG_1976-5647931cb8.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1976.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "16fc931cbf1ae69ae991565705903c8254e791a8bd8a7dd212bb35f820c719ba",
+      "archivo": "Capturas/IMG_1977-16fc931cbf.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1977.PNG"
+        }
+      ]
+    },
+    {
+      "sha256": "8cabdbccca7707fe5557c828dd165e717c3ded2f5216144f717f9b37b160088d",
+      "archivo": "Capturas/IMG_1978-8cabdbccca.png",
+      "origenes": [
+        {
+          "zip": "PORTADAS WISER 2.zip",
+          "rutaEnZIP": "Referencias/Archivo-53/IMG_1978.PNG"
+        }
+      ]
+    }
+  ]
+}

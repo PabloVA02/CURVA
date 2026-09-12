@@ -1,14 +1,14 @@
-# Revisión de la quinta tanda corregida
+# Revisión del ajuste gráfico de la quinta tanda
 
-- Corrección solicitada por el usuario: 10 portadas de esta misma tanda se han redibujado con escenas o composiciones más ricas, colores vivos y más variedad visual. La belleza del dibujo tiene prioridad; solo algunas cubiertas mantienen una composición sencilla.
-- Las otras 6 portadas de la tanda permanecen idénticas, al igual que los cuatro manifiestos anteriores.
-- Se conservan los títulos y mensajes explicativos contrastados con las fuentes editoriales. Todas mantienen la doblez vertical izquierda.
-- Revisión visual de las nuevas ilustraciones: composición, color, legibilidad, letras, caras y manos cuando aparecen.
-- Las 16 portadas asignadas al catálogo cargan con HTTP 200. Dimensiones de 1024 × 1536; los WebP conservan exactamente los píxeles de sus PNG originales.
-- JavaScript sintácticamente válido; su único cambio es la tabla de portadas. El texto de los libros y el lector permanecen intactos.
-- Historial con 125 originales de 95 libros. Se conservan íntegros los 115 originales anteriores y sus prompts, incluidas las versiones simples reemplazadas. Las copias del repositorio y resultados coinciden byte por byte.
-- Los resúmenes de estos 16 títulos siguen pendientes; sus portadas están asignadas al catálogo.
+- Se han redibujado 4 portadas: Invernando, Productividad lenta, El jardín secreto y La vaca púrpura. La dirección solicitada es dibujo gráfico con colores adecuados al tema y una composición centrada en pocos elementos.
+- Las otras 12 portadas de la tanda permanecen idénticas a la versión 360b46d. Los cuatro manifiestos anteriores tampoco han cambiado.
+- Las referencias principales son cuatro PNG originales de Salud; las dos últimas generaciones también incluyen capturas de los ZIP de Wiser. Ambos ZIP se conservan completos en el repositorio.
+- Se mantienen los títulos y mensajes explicativos contrastados con fuentes editoriales. Revisión visual de la tipografía, composición, rasgos y doblez izquierda. La valoración estética definitiva corresponde al usuario.
+- Las 16 portadas de la tanda cargan con HTTP 200. Sus dimensiones son 1024 × 1536; los WebP conservan exactamente los píxeles de sus PNG originales.
+- JavaScript sintácticamente válido. La única modificación del código de la app es la tabla de portadas; el texto de los libros y el lector permanecen intactos.
+- Historial con 129 originales de 95 libros. Los 125 originales anteriores y sus prompts se conservan íntegros. Las copias de repositorio y resultados coinciden byte por byte.
+- Estos 16 libros siguen pendientes de resumen; las portadas están asignadas a sus entradas del catálogo.
 
 Modo: image_gen integrado.
 
-[Catálogo](portadas-tanda-5.json) · [Antes y después](Antes-y-despues-tanda-5.html) · [Historial y prompts](historial/README.md) · [Fuentes](Fuentes-tanda-5.md)
+[Catálogo](portadas-tanda-5.json) · [Cuatro ajustes](Ajuste-grafico-tanda-5.html) · [Historial y prompts](historial/README.md) · [Referencias Wiser](wiser/README.md)

@@ -1,11 +1,11 @@
-# Criterio visual vigente de la quinta tanda
+# Criterio visual vigente de las portadas
 
-La prioridad expresada por el usuario es que las cubiertas sean bonitas, llamativas y vistosas, con colores vivos adecuados a lo dibujado y composiciones originales como sus referencias de Headway y Wiser. Solo algunas pueden ser sencillas; no debe aplicarse una regla de dos o tres colores a toda la tanda.
+La mayoría de las cubiertas deben tener colores vivos, armoniosos y adecuados a lo representado. Algunas pueden ser más sencillas. La belleza y la composición tienen prioridad sobre la cantidad de colores y de elementos.
 
-Se han elegido diez de las cubiertas más simples para redibujarlas con escenas o metáforas más ricas: El jardín secreto, Un punto azul pálido, Productividad lenta, Ocho citas de amor, La Ilíada, Invernando, La sociedad del cansancio, El curioso incidente del perro a medianoche, La vaca púrpura y El año de menos.
+La última corrección del usuario pide acercarse al dibujo gráfico de sus referencias y retirar el acabado de cuento, las escenas llenas de elementos y los personajes con apariencia de animación generada. Una portada debe tener una idea visual clara, recortes y proporciones cuidados, letras legibles y suficiente espacio libre. Los ojos, manos y demás rasgos deben ser sencillos y estar bien dibujados.
 
-Las ilustraciones ocupan más espacio y tienen encuadres, fondos y detalles propios de cada libro. Las personas mantienen ojos de punto o trazo, pelo en bloques y manos sencillas. Simplificar los rasgos humanos no significa vaciar la composición. Los mensajes explicativos y la doblez lateral se mantienen.
+Para este ajuste se usan los PNG originales de Salud a tamaño completo: Respira, El cuerpo perfecto en 4 horas, Deja de ser tú y La revolución de la glucosa. Se estudia su tratamiento gráfico, sin reproducir sus composiciones. El jardín secreto y La vaca púrpura incluyen además capturas de Wiser como referencia de composición: Atlas del corazón y Desbloqueando el potencial. Las cuatro portadas revisadas son Invernando, Productividad lenta, El jardín secreto y La vaca púrpura.
 
-Referencias aportadas por el usuario: IMG_1896.PNG (productividad), IMG_1897.PNG (hogar y medio ambiente), IMG_1952.PNG (negocios) y IMG_1939.PNG (El libro del bebé, lenguaje gráfico de los personajes). Se utilizan como referencias visuales para crear composiciones originales.
+Mantener la doblez junto al borde izquierdo, los títulos y mensajes explicativos contrastados, y conservar todos los originales y prompts en el historial. La comparación visual y los archivos son propuestas para que el usuario pueda valorar el resultado.
 
-Modo: image_gen integrado. Los prompts exactos y todas las versiones anteriores permanecen en el historial.
+Modo: image_gen integrado.
