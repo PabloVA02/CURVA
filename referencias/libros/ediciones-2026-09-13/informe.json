@@ -1,6 +1,16 @@
 {
   "fecha": "2026-09-13",
   "orden": [
+    "momentos-estelares",
+    "riqueza-naciones",
+    "origen-especies",
+    "van-gogh-cartas",
+    "intro-psicoanalisis",
+    "meditaciones",
+    "principe",
+    "libro-cinco-anillos",
+    "hombre-rico-babilonia",
+    "demian",
     "cartas-a-lucilio",
     "pollyanna",
     "jardin-secreto",
@@ -13,7 +23,7 @@
     "como-un-hombre-piensa",
     "odisea"
   ],
-  "ultimo": "cartas-a-lucilio",
+  "ultimo": "momentos-estelares",
   "libros": [
     {
       "id": "como-un-hombre-piensa",
@@ -198,10 +208,194 @@
         "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_94",
         "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_120"
       ]
+    },
+    {
+      "id": "demian",
+      "titulo": "Demian",
+      "autor": "Hermann Hesse",
+      "categoria": "Literatura",
+      "versionAnterior": false,
+      "palabrasManuscrito": 2294,
+      "palabrasLectura": 2468,
+      "minutos": 18,
+      "paginas": 7,
+      "rayos": 7,
+      "sha256Manuscrito": "9fe653f894b9993c70fe88dbe44d4b7756926938fa3868b92f14a8f987fee9f7",
+      "fuentes": [
+        "https://www.gutenberg.org/cache/epub/74222/pg74222-images.html"
+      ]
+    },
+    {
+      "id": "hombre-rico-babilonia",
+      "titulo": "El hombre más rico de Babilonia",
+      "autor": "George S. Clason",
+      "categoria": "Economía",
+      "versionAnterior": true,
+      "palabrasManuscrito": 2264,
+      "palabrasLectura": 2451,
+      "minutos": 18,
+      "paginas": 8,
+      "rayos": 8,
+      "sha256Manuscrito": "b147f6f684f157b395b67ff4e8513fea0a28037740edc0c42a22c0524a115d8f",
+      "fuentes": [
+        "https://en.wikisource.org/wiki/The_Richest_Man_In_Babylon_and_Other_Stories",
+        "https://en.wikisource.org/wiki/The_Richest_Man_In_Babylon_and_Other_Stories/The_Richest_Man_In_Babylon",
+        "https://en.wikisource.org/wiki/The_Richest_Man_In_Babylon_and_Other_Stories/The_Gold_Lender_of_Babylon",
+        "https://en.wikisource.org/wiki/The_Richest_Man_In_Babylon_and_Other_Stories/The_Camel_Trader_of_Babylon"
+      ]
+    },
+    {
+      "id": "libro-cinco-anillos",
+      "titulo": "El libro de los cinco anillos",
+      "autor": "Miyamoto Musashi",
+      "categoria": "Filosofía",
+      "versionAnterior": false,
+      "palabrasManuscrito": 2202,
+      "palabrasLectura": 2401,
+      "minutos": 17,
+      "paginas": 9,
+      "rayos": 9,
+      "sha256Manuscrito": "e547b95dea90ef33487f7a1507435abd7b3868e843bb411f967d1749a681af8b",
+      "fuentes": [
+        "https://miyamoto-musashi.org/en/genten/gorin/chi/",
+        "https://miyamoto-musashi.org/en/genten/gorin/sui/",
+        "https://miyamoto-musashi.org/en/genten/gorin/ka/",
+        "https://miyamoto-musashi.org/en/genten/gorin/fu/",
+        "https://miyamoto-musashi.org/en/genten/gorin/ku/"
+      ]
+    },
+    {
+      "id": "principe",
+      "titulo": "El príncipe",
+      "autor": "Nicolás Maquiavelo",
+      "categoria": "Filosofía",
+      "versionAnterior": true,
+      "palabrasManuscrito": 2273,
+      "palabrasLectura": 2477,
+      "minutos": 18,
+      "paginas": 9,
+      "rayos": 9,
+      "sha256Manuscrito": "e730e12bcd8ae16e98752eedf6a3926d13f1eeabfeb518783c0e1d6ee7a326bf",
+      "fuentes": [
+        "https://www.gutenberg.org/cache/epub/1232/pg1232-images.html"
+      ]
+    },
+    {
+      "id": "meditaciones",
+      "titulo": "Meditaciones",
+      "autor": "Marco Aurelio",
+      "categoria": "Filosofía",
+      "versionAnterior": true,
+      "palabrasManuscrito": 2181,
+      "palabrasLectura": 2372,
+      "minutos": 17,
+      "paginas": 8,
+      "rayos": 8,
+      "sha256Manuscrito": "2b75f44ec45a84c0a87c1b5323269b040a3672435e91672b304fcaaae5191f83",
+      "fuentes": [
+        "https://www.gutenberg.org/cache/epub/2680/pg2680-images.html"
+      ]
+    },
+    {
+      "id": "intro-psicoanalisis",
+      "titulo": "Introducción al psicoanálisis",
+      "autor": "Sigmund Freud",
+      "categoria": "Psicología",
+      "versionAnterior": true,
+      "palabrasManuscrito": 2658,
+      "palabrasLectura": 2896,
+      "minutos": 21,
+      "paginas": 10,
+      "rayos": 10,
+      "sha256Manuscrito": "244d19079ae79c467152c3c4982b419727e0573b7741f3623ad13e6eb3c90a04",
+      "fuentes": [
+        "https://www.gutenberg.org/cache/epub/38219/pg38219-images.html"
+      ]
+    },
+    {
+      "id": "van-gogh-cartas",
+      "titulo": "Cartas a Theo",
+      "autor": "Vincent van Gogh",
+      "categoria": "Arte",
+      "versionAnterior": true,
+      "palabrasManuscrito": 2415,
+      "palabrasLectura": 2604,
+      "minutos": 19,
+      "paginas": 8,
+      "rayos": 8,
+      "sha256Manuscrito": "cf1f43a459ebb2337f9b34f06fb7140c155ec249bcfdee6383f8b062cd8541ea",
+      "fuentes": [
+        "https://www.gutenberg.org/cache/epub/40393/pg40393-images.html",
+        "https://vangoghletters.org/vg/letters/let497/letter.html",
+        "https://vangoghletters.org/vg/letters/let676/letter.html",
+        "https://vangoghletters.org/vg/letters/let705/letter.html",
+        "https://vangoghletters.org/vg/letters/let800/letter.html"
+      ]
+    },
+    {
+      "id": "origen-especies",
+      "titulo": "El origen de las especies",
+      "autor": "Charles Darwin",
+      "categoria": "Ciencia",
+      "versionAnterior": true,
+      "palabrasManuscrito": 2762,
+      "palabrasLectura": 2999,
+      "minutos": 21,
+      "paginas": 10,
+      "rayos": 10,
+      "sha256Manuscrito": "2813d550275da1f8e1c62ce304f5227369ca7326a7f72d0b2d1bc00daaaed878",
+      "fuentes": [
+        "https://www.gutenberg.org/cache/epub/1228/pg1228-images.html"
+      ]
+    },
+    {
+      "id": "riqueza-naciones",
+      "titulo": "La riqueza de las naciones",
+      "autor": "Adam Smith",
+      "categoria": "Economía",
+      "versionAnterior": true,
+      "palabrasManuscrito": 3027,
+      "palabrasLectura": 3281,
+      "minutos": 23,
+      "paginas": 11,
+      "rayos": 11,
+      "sha256Manuscrito": "b7a4822ac73311241d4f6dc91d35767c99552a94941d803118146bb5c7e1d5bd",
+      "fuentes": [
+        "https://www.gutenberg.org/cache/epub/3300/pg3300-images.html"
+      ]
+    },
+    {
+      "id": "momentos-estelares",
+      "titulo": "Momentos estelares de la humanidad",
+      "autor": "Stefan Zweig",
+      "categoria": "Historia",
+      "versionAnterior": false,
+      "palabrasManuscrito": 3602,
+      "palabrasLectura": 3940,
+      "minutos": 28,
+      "paginas": 14,
+      "rayos": 14,
+      "sha256Manuscrito": "4ac2868a17b47b4cb76928e0060fc7e4a7ce7edd94a921cbba529b7f5bbc8598",
+      "fuentes": [
+        "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/1",
+        "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/2",
+        "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/3",
+        "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/4",
+        "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/5",
+        "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/6",
+        "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/7",
+        "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/8",
+        "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/9",
+        "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/10",
+        "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/11",
+        "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/12",
+        "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/13",
+        "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/14"
+      ]
     }
   ],
-  "js": "index-resumenes-a91e85e337.js",
+  "js": "index-resumenes-67b42ec043.js",
   "css": "index-ediciones-88d390fd47.css",
-  "totalConResumen": 379,
+  "totalConResumen": 382,
   "portadas": 548
 }

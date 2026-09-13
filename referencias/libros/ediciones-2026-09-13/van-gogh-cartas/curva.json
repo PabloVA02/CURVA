@@ -1,0 +1,220 @@
+{
+  "libro": {
+    "id": "van-gogh-cartas",
+    "titulo": "Cartas a Theo",
+    "autor": "Vincent van Gogh",
+    "categoria": "Arte",
+    "versionAnterior": true,
+    "palabrasManuscrito": 2415,
+    "palabrasLectura": 2604,
+    "minutos": 19,
+    "paginas": 8,
+    "rayos": 8,
+    "sha256Manuscrito": "cf1f43a459ebb2337f9b34f06fb7140c155ec249bcfdee6383f8b062cd8541ea",
+    "fuentes": [
+      "https://www.gutenberg.org/cache/epub/40393/pg40393-images.html",
+      "https://vangoghletters.org/vg/letters/let497/letter.html",
+      "https://vangoghletters.org/vg/letters/let676/letter.html",
+      "https://vangoghletters.org/vg/letters/let705/letter.html",
+      "https://vangoghletters.org/vg/letters/let800/letter.html"
+    ]
+  },
+  "paginas": [
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Detrás de una imagen hay decisiones"
+        },
+        {
+          "b": "texto",
+          "texto": "Una cama amarilla, una manta roja y unas paredes violetas. Podrían parecer decisiones caprichosas de un pintor al que le gustaban los colores fuertes. Pero Vincent van Gogh le cuenta a su hermano Theo qué quiere conseguir con ese dormitorio: que quien lo mire experimente descanso. Reduce las sombras, simplifica las formas y deja que el color haga buena parte del trabajo. La habitación no es solamente un lugar donde duerme. Es un intento de dar forma visible a una necesidad. Sus cartas permiten acercarse así a la pintura: desde la decisión que hay detrás de una imagen."
+        },
+        {
+          "b": "texto",
+          "texto": "No estamos ante un manual escrito por alguien que ya conoce el final de su carrera. Vincent escribe mientras trabaja, espera dinero, se entusiasma, discute y vuelve a dudar. Una carta puede empezar con un paisaje y terminar con una factura. En otra conviven un proyecto ambicioso y el temor de estar agotando a Theo. Esta selección se centra en las cartas dirigidas a su hermano y recurre también a su correspondencia con el pintor Émile Bernard. Leídas juntas, muestran cómo se construye una mirada artística y cuánto necesita esa mirada de una relación concreta. El pintor que hoy parece una figura aislada del mundo estaba buscando, una y otra vez, interlocutores."
+        },
+        {
+          "b": "texto",
+          "texto": "Eso cambia la forma de entender su originalidad. Van Gogh no presenta sus cuadros como apariciones inexplicables. Habla de perspectiva, estudia figuras, observa a otros pintores y se pelea con problemas de ejecución. Le importa cómo se sostiene un cuerpo, qué hace creíble un gesto y cómo organizar un grupo. No le basta con que alguien pose correctamente: quiere reconocer en la figura la actividad que realiza. Un campesino cavando tiene que transmitir trabajo. La exactitud académica pierde sentido si, al corregirla todo el tiempo, desaparece la vida que justificaba pintar esa escena."
+        },
+        {
+          "b": "idea",
+          "texto": "Las cartas permiten mirar los cuadros desde los problemas que el pintor intentaba resolver."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "La práctica enseña cuándo insistir y cuándo cambiar"
+        },
+        {
+          "b": "texto",
+          "texto": "Cuando empieza a sentirse más seguro con los óleos, relaciona ese avance con los años anteriores de dibujo. Lo que desde fuera podría parecer una facilidad repentina tiene una preparación larga. Haber trabajado con dificultades no significa que cada intento fuese bueno. Significa que ha aprendido a ver problemas que antes ni siquiera percibía. En las cartas aparecen cuadros que destruye, estudios que considera insuficientes y partes que necesita volver a pintar. Su confianza no consiste en aprobar todo lo que hace. Consiste en creer que esas dificultades todavía pueden enseñarle algo."
+        },
+        {
+          "b": "texto",
+          "texto": "También descubre que insistir no siempre equivale a retocar indefinidamente. A veces conviene raspar una zona y empezar de nuevo; otras, dejar tranquilo un estudio antes de estropearlo. En una ocasión pide que se envíen unas obras porque teme seguir trabajando sobre ellas hasta quitarles lo que tienen de vivo. En otra explica que pintar un motivo en varios lienzos puede ser una forma tan seria de estudiarlo como corregirlo muchas veces en uno solo. La repetición no garantiza un resultado, pero permite comparar decisiones. Y compararlas es distinto de permanecer encerrado en el mismo error."
+        },
+        {
+          "b": "texto",
+          "texto": "Una escena de bosque vuelve especialmente clara esa relación entre observación y técnica. Describe el suelo rojizo, las sombras oscuras, los troncos y la luz que atraviesa las ramas. Al pintar ciertas raíces, el pincel se pierde en una capa espesa y decide aplicar pintura directamente desde el tubo. No está anunciando una regla según la cual todo cuadro deba tener mucha materia. Está buscando el procedimiento que permita expresar ese motivo. En otro lugar será necesario pintar de forma más ligera. La técnica sirve a la imagen; no tiene sentido convertir un recurso que ha funcionado una vez en una obligación permanente."
+        },
+        {
+          "b": "idea",
+          "texto": "Dibujar, corregir y probar materiales forman parte de la mirada que después parece espontánea."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Dar valor a una vida no exige embellecerla"
+        },
+        {
+          "b": "texto",
+          "texto": "Su interés por los trabajadores también tiene una intención precisa. Al explicar Los comedores de patatas, quiere que las manos que se acercan al plato recuerden las manos que han trabajado la tierra. La cena debe hablar de cómo esas personas se ganan el sustento. Por eso no intenta convertirlas en campesinos delicados y agradables para un salón. La aspereza forma parte de lo que busca. Detrás del cuadro hay un invierno de estudios de cabezas y manos, aunque la ejecución del lienzo haya sido relativamente rápida. Lo aparentemente tosco puede ser el resultado de elecciones muy cuidadas."
+        },
+        {
+          "b": "texto",
+          "texto": "Aquí aparece una diferencia importante entre embellecer y dar valor. Van Gogh no necesita suavizar la vida de sus modelos para considerarla digna de una pintura. Su admiración por Millet y por otros artistas que representan el trabajo le ofrece una tradición con la que dialogar. Lee, mira reproducciones y compara soluciones. La voz propia no nace de fingir que nadie ha pintado antes. Nace de reconocer qué merece atención, aprender de quienes lo han visto y encontrar una forma personal de continuar esa búsqueda. En sus cartas, la independencia y la admiración por los maestros pueden convivir."
+        },
+        {
+          "b": "idea",
+          "texto": "En Los comedores de patatas, la aspereza busca expresar la relación entre el trabajo y la comida compartida."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "El color puede hacerte sentir un lugar"
+        },
+        {
+          "b": "texto",
+          "texto": "Con el color lleva esa libertad todavía más lejos. Explica que no siempre quiere reproducir exactamente lo que tiene delante. Puede intensificarlo para expresar lo que siente. Propone el retrato de un amigo rubio: primero intentará captar su parecido; después hará más luminoso el cabello y lo colocará contra un azul profundo. Quiere que esa cabeza produzca un efecto semejante al de una estrella. El cambio no elimina al retratado. Pretende comunicar algo que una copia literal de la pared que había detrás quizá no mostraría: el afecto y la grandeza que el pintor reconoce en él."
+        },
+        {
+          "b": "texto",
+          "texto": "Esa exageración tiene una dirección. No se trata de que cualquier combinación llamativa sea buena. Un color cambia cuando se coloca junto a otro, cuando ocupa más superficie o cuando aparece rodeado de oscuridad. Van Gogh describe estas relaciones con una precisión que desmiente la idea de alguien que simplemente descarga emociones sobre el lienzo. Puede discutir un amarillo, el marco adecuado o la distancia entre una figura y su fondo. El impulso existe, pero se convierte en pintura al tomar decisiones. La emoción necesita una organización para llegar a otra persona."
+        },
+        {
+          "b": "texto",
+          "texto": "En El café de noche busca una sensación muy diferente de la del dormitorio. A Theo le explica que ha enfrentado rojos y verdes para expresar pasiones humanas perturbadoras. La mesa de billar verde, las paredes rojizas y la luz de las lámparas hacen que un interior cotidiano adquiera tensión. No está intentando que el lugar resulte acogedor. Incluso califica el cuadro de feo, sin considerar por ello que carezca de intención. Una obra puede ser valiosa porque consigue inquietar. Juzgarla únicamente por lo agradable que sería colgarla en casa impediría entender qué está tratando de hacer."
+        },
+        {
+          "b": "texto",
+          "texto": "El dormitorio, por el contrario, busca reposo. La solidez de los muebles, las superficies simplificadas y la reducción de las sombras colaboran con esa intención. Van Gogh puede emplear colores intensos sin perseguir agitación. La diferencia está en cómo los relaciona y en qué pide al conjunto. Leer ambas explicaciones permite mirar sus pinturas sin usar una sola etiqueta para todas. No basta con decir que son expresivas. Hay que preguntar qué expresan y mediante qué elecciones. El mismo pintor puede querer que un espacio te expulse y que otro te invite a descansar."
+        },
+        {
+          "b": "idea",
+          "texto": "Van Gogh organiza las relaciones entre colores para comunicar una intención, no solo para copiar una apariencia."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Un estudio también puede ser un proyecto de convivencia"
+        },
+        {
+          "b": "texto",
+          "texto": "La influencia de las estampas japonesas interviene en esa búsqueda de sencillez y claridad. En el sur de Francia, Vincent encuentra paisajes que le recuerdan aquellas imágenes. Eso no significa que haya descubierto un Japón idéntico en otro país. Significa que el arte que conoce está cambiando su manera de mirar lo cercano. Un puente, una rama en flor o una extensión de terreno pueden convertirse en una composición nueva. En sus cartas, aprender a ver no es una operación pasiva. Las imágenes que uno ha estudiado abren posibilidades que antes pasaban inadvertidas."
+        },
+        {
+          "b": "texto",
+          "texto": "Arles aparece como un lugar lleno de esas posibilidades. Describe huertos en flor, tierras violetas, cielos azules y árboles que debe pintar antes de que cambien. A veces el viento hace imposible trabajar; otras, un efecto de luz dura demasiado poco. La urgencia no procede solamente de su carácter: hay un motivo delante que no permanecerá igual. Pero esa prisa tiene costes. Compra materiales, se cansa y teme no haber aprovechado el momento. La belleza del paisaje y las dificultades de pintarlo aparecen juntas, sin que una borre a las otras."
+        },
+        {
+          "b": "texto",
+          "texto": "Los girasoles pertenecen también a un proyecto de convivencia. Vincent imagina una decoración para el estudio que espera compartir con Gauguin. Trabaja desde temprano porque las flores se marchitan y piensa en el efecto que producirán varios cuadros relacionados. No son únicamente flores que le han parecido bonitas. Forman parte del deseo de preparar una casa para otro artista, un espacio donde se pueda trabajar y conversar. Las pinturas que después reconoceremos como obras individuales estuvieron vinculadas a una esperanza compartida. Mirarlas con ese contexto añade una dimensión de hospitalidad a su intensidad visual."
+        },
+        {
+          "b": "texto",
+          "texto": "En muchas cartas insiste en que vivir solo perjudica a los pintores. Se preocupa por Gauguin, calcula si juntos gastarían menos y propone arreglos que permitirían enviar obras a Theo a cambio del apoyo económico. En ocasiones imagina asociaciones más amplias, con artistas que aporten cuadros y compartan recursos. Los planes no son siempre viables, y el propio Vincent reconoce que la necesidad puede alimentar proyectos demasiado optimistas. Pero su insistencia importa: no está defendiendo el aislamiento como condición de la creación. Quiere una comunidad que haga el trabajo posible y reduzca la inseguridad que lo acompaña."
+        },
+        {
+          "b": "idea",
+          "texto": "La búsqueda artística incluye imaginar cómo compartir trabajo, gastos y apoyo entre pintores."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Theo sostiene mucho más que los gastos"
+        },
+        {
+          "b": "texto",
+          "texto": "Theo ocupa el centro de esa posibilidad. Recibe peticiones de pintura, noticias sobre exposiciones, descripciones de obras y propuestas comerciales. Su hermano piensa en la venta de los cuadros y en el valor que podrían tener más adelante. No vive al margen del mercado por una pureza que le impida interesarse por el dinero. Le angustia que la pintura cueste más de lo que produce. Espera compensar a Theo con obras valiosas y recuperar, de algún modo, lo que ambos han invertido. El problema económico atraviesa la relación entre su libertad artística y sus condiciones reales de trabajo."
+        },
+        {
+          "b": "texto",
+          "texto": "Sin embargo, reducir a Theo a la persona que paga sería perder lo esencial. Vincent pregunta por su salud, teme que el empleo lo desgaste y llega a escribir que preferiría dejar la pintura antes que verlo consumirse para mantenerlo. En otro momento compara a los artistas agotados con caballos de trabajo que necesitan salir al campo. La imagen puede sonar amarga, pero contiene una petición concreta de cuidado. Los cuadros no justifican cualquier sacrificio humano. En medio de sus contradicciones, Vincent llega a afirmar una prioridad que el culto posterior al genio suele olvidar: las personas importan más que las cosas que producen."
+        },
+        {
+          "b": "texto",
+          "texto": "Esa prioridad vuelve cuando habla de alguien que ha muerto. Observa que, después de perder a una persona, recordamos sus buenos momentos y sus cualidades. Le parece que deberíamos ser capaces de reconocerlas mientras vive. La reflexión no queda separada de su trabajo. Al recibir la noticia de la muerte de Mauve, dedica un paisaje de melocotoneros en flor a su memoria, con los nombres de Vincent y Theo. Elige algo delicado y alegre, no una imagen pesada de duelo. La pintura permite agradecer sin tener que adoptar una única forma de tristeza."
+        },
+        {
+          "b": "idea",
+          "texto": "La correspondencia muestra una relación donde circulan cuidado, confianza y preocupación por la vida del otro."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "La enfermedad y las dudas no borran los límites"
+        },
+        {
+          "b": "texto",
+          "texto": "Sus juicios sobre sí mismo, en cambio, pueden ser muy duros. Después de realizar numerosos dibujos y estudios, siente que casi no ha hecho nada. A ratos cree que sus cuadros encontrarán compradores; a ratos teme no llegar a lo que debería alcanzar. Las cartas no sostienen una progresión cómoda en la que cada dificultad fortalece necesariamente al protagonista. Hay agotamiento, privaciones y aislamiento. Algunas decisiones empeoran sus condiciones de vida. Leer esa vulnerabilidad exige resistirse a transformar todas sus dificultades en una receta de perseverancia. Que algo haya acompañado a una gran obra no significa que fuese necesario para crearla."
+        },
+        {
+          "b": "texto",
+          "texto": "La enfermedad introduce límites todavía más claros. En las cartas vinculadas a su estancia en el hospital, trata de trabajar con los motivos que tiene cerca y de conservar la calma. Describe árboles, campos y rincones del jardín. No ofrece una explicación médica fiable de todo lo que le sucede, ni sus impresiones deben convertirse en un diagnóstico retrospectivo. Lo que sí podemos escuchar es su necesidad de seguir en contacto con la realidad y de encontrar un trabajo que pueda sostener. La creación aparece como una actividad que a veces le ayuda, pero no como una cura garantizada."
+        },
+        {
+          "b": "texto",
+          "texto": "Incluso dentro de un espacio restringido sigue buscando diferencias expresivas. Describe un árbol dañado, la atmósfera inquietante de un jardín y, por contraste, un campo con un amanecer que pretende comunicar paz. Para transmitir temor no considera imprescindible pintar una escena religiosa explícita; para ofrecer consuelo tampoco necesita representar un episodio bíblico. Un paisaje contemporáneo puede contener esas experiencias. Esta idea amplía lo que una imagen cotidiana puede hacer. El tema visible no agota el significado: unos árboles o unas líneas de cultivo pueden hablar de estados humanos sin dejar de ser árboles y campos."
+        },
+        {
+          "b": "texto",
+          "texto": "Hay otro límite que reconoce con franqueza: no todas las formas de trabajar le convienen igual en cada momento. Después de probar composiciones de imaginación, decide volver a observar la naturaleza con más continuidad. No está decretando que cualquier artista deba hacer lo mismo. Está intentando reconocer qué le permite avanzar y qué le desorganiza. En sus cartas, la identidad artística no es una colección de decisiones que jamás pueden revisarse. Se mantiene una dirección —el color, las figuras, el contacto con la vida— y se cambian medios, ritmos y expectativas cuando la experiencia obliga a hacerlo."
+        },
+        {
+          "b": "idea",
+          "texto": "Van Gogh reconoce restricciones y modos de trabajo que le convienen mejor; sus cartas no justifican idealizar el sufrimiento."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Aprender a mirar exige preguntas concretas"
+        },
+        {
+          "b": "texto",
+          "texto": "Por eso resulta empobrecedor leer esta correspondencia buscando solamente frases sobre no rendirse. La parte más fértil está en las preguntas que mantiene abiertas. Cómo aprender sin perder una intención propia. Cómo expresar afecto mediante una forma. Cómo necesitar ayuda sin dejar de preocuparse por quien la ofrece. Cómo evaluar el trabajo sin confundir un mal día con una incapacidad definitiva. No todas reciben una respuesta estable. Las cartas tienen valor precisamente porque permiten seguir a una persona mientras trata de responderlas, con inteligencia, humor, impaciencia y contradicciones."
+        },
+        {
+          "b": "texto",
+          "texto": "Al cerrar el libro podemos volver a aquella habitación amarilla, roja y violeta. Sabemos un poco más de lo que había detrás: horas de observación, decisiones sobre la composición, cansancio, gastos y el deseo de compartir con Theo algo que todavía estaba tomando forma. El cuadro no deja de ser hermoso por conocer ese proceso. Se vuelve más cercano. Van Gogh quería que sus imágenes dijeran algo reconocible a quien tuviera ojos para mirarlas. Sus cartas nos enseñan a escucharlas con más atención, y a recordar al ser humano que necesitó escribir para seguir haciéndolas."
+        },
+        {
+          "b": "idea",
+          "texto": "Comprender una obra puede empezar por investigar qué efecto buscaba su autor y qué decisiones tomó para conseguirlo."
+        }
+      ]
+    }
+  ]
+}

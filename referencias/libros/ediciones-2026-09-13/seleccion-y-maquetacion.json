@@ -1,7 +1,7 @@
 [
   {
     "id": "como-un-hombre-piensa",
-    "manuscrito": "work/resumenes-tanda-1/manuscritos/como-un-hombre-piensa.txt",
+    "manuscrito": "como-un-hombre-piensa/manuscrito.md",
     "paginas": [
       {
         "fin": 5,
@@ -53,7 +53,7 @@
   },
   {
     "id": "el-profeta",
-    "manuscrito": "work/resumenes-tanda-1/manuscritos/el-profeta.txt",
+    "manuscrito": "el-profeta/manuscrito.md",
     "paginas": [
       {
         "fin": 3,
@@ -110,7 +110,7 @@
   },
   {
     "id": "habitacion-propia",
-    "manuscrito": "work/resumenes-tanda-1/manuscritos/habitacion-propia.txt",
+    "manuscrito": "habitacion-propia/manuscrito.md",
     "paginas": [
       {
         "fin": 3,
@@ -162,7 +162,7 @@
   },
   {
     "id": "autobiografia-franklin",
-    "manuscrito": "work/resumenes-tanda-1/manuscritos/autobiografia-franklin.txt",
+    "manuscrito": "autobiografia-franklin/manuscrito.md",
     "paginas": [
       {
         "fin": 4,
@@ -219,7 +219,7 @@
   },
   {
     "id": "lazarillo",
-    "manuscrito": "work/resumenes-tanda-1/manuscritos/lazarillo.txt",
+    "manuscrito": "lazarillo/manuscrito.md",
     "paginas": [
       {
         "fin": 4,
@@ -266,7 +266,7 @@
   },
   {
     "id": "cuento-de-navidad",
-    "manuscrito": "work/resumenes-tanda-1/manuscritos/cuento-de-navidad.txt",
+    "manuscrito": "cuento-de-navidad/manuscrito.md",
     "paginas": [
       {
         "fin": 4,
@@ -318,7 +318,7 @@
   },
   {
     "id": "sabueso-baskerville",
-    "manuscrito": "work/resumenes-tanda-1/manuscritos/sabueso-baskerville.txt",
+    "manuscrito": "sabueso-baskerville/manuscrito.md",
     "paginas": [
       {
         "fin": 5,
@@ -370,7 +370,7 @@
   },
   {
     "id": "jardin-secreto",
-    "manuscrito": "work/resumenes-tanda-1/manuscritos/jardin-secreto.txt",
+    "manuscrito": "jardin-secreto/manuscrito.md",
     "paginas": [
       {
         "fin": 4,
@@ -422,7 +422,7 @@
   },
   {
     "id": "pollyanna",
-    "manuscrito": "work/resumenes-tanda-1/manuscritos/pollyanna.txt",
+    "manuscrito": "pollyanna/manuscrito.md",
     "paginas": [
       {
         "fin": 5,
@@ -469,7 +469,7 @@
   },
   {
     "id": "cartas-a-lucilio",
-    "manuscrito": "work/resumenes-tanda-1/manuscritos/cartas-a-lucilio.txt",
+    "manuscrito": "cartas-a-lucilio/manuscrito.md",
     "paginas": [
       {
         "fin": 4,
@@ -547,5 +547,619 @@
     "cobertura": "Colección íntegra de 124 cartas localizada y descargada durante la investigación. Para este resumen se consultaron especialmente las cartas enlazadas: lectura completa de 1, 2, 3, 7, 9, 12, 13, 18, 20, 23, 28, 47, 48, 56, 63, 75, 76 y 78; pasajes y recorrido de 83, 88, 90, 91, 94 y 120. Traducción de Richard M. Gummere (1917–1925). Las afirmaciones médicas antiguas no se presentan como recomendaciones actuales.",
     "edicion": "Redacción original en español a partir de la fuente primaria enlazada; no se reproduce una traducción comercial.",
     "gancho": "Séneca escribe a un amigo sobre el tiempo que se escapa, los temores que anticipamos y la distancia entre nuestras ideas y nuestros actos. Sus cartas exploran amistad, envejecimiento, pérdida y carácter desde un estoicismo exigente, atravesado también por sus propias dudas y contradicciones."
+  },
+  {
+    "id": "demian",
+    "manuscrito": "demian/manuscrito.md",
+    "gancho": "Una mentira deja al joven Sinclair a merced de un acosador. Su encuentro con Demian abre una búsqueda de identidad entre el miedo, el deseo y las creencias heredadas.",
+    "paginas": [
+      {
+        "fin": 4,
+        "titulo": "Una mentira rompe el mundo seguro de Sinclair",
+        "idea": "La vergüenza aísla a Sinclair porque le hace creer que mostrar su conflicto destruiría el lugar al que pertenece."
+      },
+      {
+        "fin": 7,
+        "titulo": "Demian le enseña a dudar de lo aprendido",
+        "idea": "Cuestionar una interpretación heredada puede abrir preguntas; no convierte cualquier alternativa en una verdad."
+      },
+      {
+        "fin": 11,
+        "titulo": "Rebelarse también puede ser una forma de obedecer",
+        "idea": "Sinclair empieza a cambiar cuando deja de representar un papel ante sus compañeros y presta atención a lo que le importa."
+      },
+      {
+        "fin": 15,
+        "titulo": "El ave necesita romper el cascarón",
+        "idea": "Los símbolos de la novela expresan una transformación interior, no una autorización para actuar sin límites."
+      },
+      {
+        "fin": 19,
+        "titulo": "Un guía no puede recorrer el camino por ti",
+        "idea": "Aprender de alguien incluye reconocer cuándo sus respuestas dejan de resolver tus propias preguntas."
+      },
+      {
+        "fin": 22,
+        "titulo": "Eva reúne el deseo y la promesa de pertenecer",
+        "idea": "Una identidad compartida puede dar apoyo y también alimentar la ilusión de ser superior a quienes están fuera."
+      },
+      {
+        "fin": 25,
+        "titulo": "La voz de Demian permanece dentro de Sinclair",
+        "idea": "La búsqueda de una vida propia continúa incluso cuando desaparece la seguridad que ofrecían sus guías."
+      }
+    ],
+    "fuentes": [
+      "https://www.gutenberg.org/cache/epub/74222/pg74222-images.html"
+    ],
+    "cobertura": "Se tuvo disponible la novela completa. Lectura sustancial y recorrida de los ocho capítulos, con contraste de las escenas iniciales, Kromer, Beatrice, Pistorius, Knauer, Eva y el desenlace; no se declara lectura íntegra de cada párrafo.",
+    "edicion": "Fuente: traducción inglesa de N. H. Priday, edición de 1923. El final se conserva como ambiguo y las interpretaciones de los personajes no se presentan como hechos históricos. Redacción original en español a partir de la fuente primaria. No se reproduce una traducción comercial ni el texto de los ejemplos de Headway."
+  },
+  {
+    "id": "hombre-rico-babilonia",
+    "manuscrito": "hombre-rico-babilonia/manuscrito.md",
+    "gancho": "Arkad aprende a conservar parte de sus ingresos; Rodan debe decidir si presta un regalo del rey; Dabasir intenta reconstruir su vida entre deudas. Tres relatos sobre ahorro, criterio y responsabilidad al manejar dinero.",
+    "paginas": [
+      {
+        "fin": 3,
+        "titulo": "Cincuenta monedas y una decisión difícil",
+        "idea": "Tener dinero disponible no resuelve por sí solo cómo utilizarlo ni a quién confiarlo."
+      },
+      {
+        "fin": 6,
+        "titulo": "Una parte de los ingresos puede abrir un margen",
+        "idea": "La reserva de Arkad cambia su relación con el futuro; poder crearla depende también de las condiciones de vida."
+      },
+      {
+        "fin": 9,
+        "titulo": "La confianza necesita experiencia pertinente",
+        "idea": "Saber de un oficio no convierte a alguien en una fuente fiable sobre cualquier inversión."
+      },
+      {
+        "fin": 13,
+        "titulo": "Las ganancias también necesitan una decisión",
+        "idea": "La constancia de Arkad combina aprendizaje, reinversión y disfrute; su prosperidad incluye oportunidades que otros le ofrecen."
+      },
+      {
+        "fin": 16,
+        "titulo": "Ayudar no exige asumir a ciegas la carga ajena",
+        "idea": "Antes de prestar, Mathon pregunta de dónde podría salir el dinero para devolver lo recibido."
+      },
+      {
+        "fin": 19,
+        "titulo": "El afecto no sustituye a un plan de devolución",
+        "idea": "Una garantía puede trasladar el riesgo a otra persona sin mejorar la viabilidad del proyecto."
+      },
+      {
+        "fin": 23,
+        "titulo": "Dabasir vuelve para responder ante sus acreedores",
+        "idea": "Su reconstrucción necesita trabajo, acuerdos y ayuda concreta, además de la decisión de dejar de huir."
+      },
+      {
+        "fin": 25,
+        "titulo": "El dinero importa por el margen de vida que permite",
+        "idea": "Los relatos invitan a examinar decisiones y compromisos; no prometen una riqueza asegurada para cualquiera."
+      }
+    ],
+    "fuentes": [
+      "https://en.wikisource.org/wiki/The_Richest_Man_In_Babylon_and_Other_Stories",
+      "https://en.wikisource.org/wiki/The_Richest_Man_In_Babylon_and_Other_Stories/The_Richest_Man_In_Babylon",
+      "https://en.wikisource.org/wiki/The_Richest_Man_In_Babylon_and_Other_Stories/The_Gold_Lender_of_Babylon",
+      "https://en.wikisource.org/wiki/The_Richest_Man_In_Babylon_and_Other_Stories/The_Camel_Trader_of_Babylon"
+    ],
+    "cobertura": "Lectura completa de los tres relatos de la edición de 1930 disponible en Wikisource: Arkad, el prestamista Mathon y el comerciante de camellos Dabasir.",
+    "edicion": "Esta edición contiene tres relatos, no todas las piezas añadidas a compilaciones posteriores. No se atribuyen a esta fuente los siete remedios, las cinco leyes ni el reparto 70/20/10. Las enseñanzas económicas se explican como propuestas del autor, sin garantías de inversión. Redacción original en español a partir de la fuente primaria. No se reproduce una traducción comercial ni el texto de los ejemplos de Headway."
+  },
+  {
+    "id": "libro-cinco-anillos",
+    "manuscrito": "libro-cinco-anillos/manuscrito.md",
+    "gancho": "Musashi revisa sus victorias y descubre que ganar no demuestra haber comprendido un oficio. Sus cinco libros exploran la práctica, la atención, el ritmo y la capacidad de cambiar de estrategia.",
+    "paginas": [
+      {
+        "fin": 3,
+        "titulo": "Ganar no siempre significa comprender",
+        "idea": "Musashi convierte sus éxitos juveniles en una pregunta sobre lo que realmente sabía hacer."
+      },
+      {
+        "fin": 6,
+        "titulo": "El oficio empieza por conocer materiales y personas",
+        "idea": "Una buena decisión relaciona la tarea, las herramientas y la experiencia de quien va a realizarla."
+      },
+      {
+        "fin": 8,
+        "titulo": "La herramienta y el ritmo dependen de la situación",
+        "idea": "Una preferencia se vuelve un límite cuando dejamos de preguntar para qué sirve."
+      },
+      {
+        "fin": 11,
+        "titulo": "Mirar ampliamente exige práctica",
+        "idea": "La atención puede abarcar el conjunto cuando el entrenamiento reduce la preocupación por cada movimiento aislado."
+      },
+      {
+        "fin": 13,
+        "titulo": "La habilidad no necesita parecer apresurada",
+        "idea": "El ritmo adecuado importa más que exhibir velocidad o conservar una posición por costumbre."
+      },
+      {
+        "fin": 17,
+        "titulo": "Antes de cruzar, examina las condiciones",
+        "idea": "Comprender el terreno y la perspectiva de la otra parte cambia lo que parece posible."
+      },
+      {
+        "fin": 20,
+        "titulo": "Cuando una respuesta se atasca, cambia la escala",
+        "idea": "Persistir puede exigir modificar el enfoque en lugar de repetir con más fuerza lo que no avanza."
+      },
+      {
+        "fin": 22,
+        "titulo": "Una escuela también puede quedar presa de su estilo",
+        "idea": "Una enseñanza pierde alcance cuando convierte una ventaja parcial en respuesta para todas las situaciones."
+      },
+      {
+        "fin": 25,
+        "titulo": "El vacío llega después del aprendizaje",
+        "idea": "La claridad final de Musashi se apoya en práctica y discernimiento; no consiste en actuar desde la ignorancia."
+      }
+    ],
+    "fuentes": [
+      "https://miyamoto-musashi.org/en/genten/gorin/chi/",
+      "https://miyamoto-musashi.org/en/genten/gorin/sui/",
+      "https://miyamoto-musashi.org/en/genten/gorin/ka/",
+      "https://miyamoto-musashi.org/en/genten/gorin/fu/",
+      "https://miyamoto-musashi.org/en/genten/gorin/ku/"
+    ],
+    "cobertura": "Consulta de las 83 unidades de los cinco libros, con lectura sustancial de Tierra, Agua, Fuego, Viento y Vacío. Se cotejaron la transcripción japonesa y la traducción de apoyo; alguna unidad de Agua se leyó parcialmente. No se afirma haber inspeccionado los facsímiles enlazados.",
+    "edicion": "El sitio ofrece transcripción de la fuente japonesa, lectura y traducción moderna. Se redacta una síntesis original y se identifican las analogías actuales como extensiones del lector, no como consejos literales de Musashi. Redacción original en español a partir de la fuente primaria. No se reproduce una traducción comercial ni el texto de los ejemplos de Headway."
+  },
+  {
+    "id": "principe",
+    "manuscrito": "principe/manuscrito.md",
+    "gancho": "Conseguir poder y conservarlo son problemas distintos. Maquiavelo analiza las alianzas, el apoyo popular, las apariencias y los cambios de fortuna a través de los gobernantes de una Italia dividida.",
+    "paginas": [
+      {
+        "fin": 3,
+        "titulo": "Conquistar un puesto no asegura conservarlo",
+        "idea": "Las condiciones en que se adquiere un poder cambian las dificultades de mantenerlo."
+      },
+      {
+        "fin": 6,
+        "titulo": "La memoria y la fortuna condicionan al gobernante",
+        "idea": "La capacidad política de Maquiavelo no equivale a virtud moral ni garantiza dominar las circunstancias."
+      },
+      {
+        "fin": 9,
+        "titulo": "Un orden nuevo despierta resistencias concretas",
+        "idea": "Quienes pierden ventajas tienen motivos inmediatos para oponerse; quienes podrían ganar aún no confían en el cambio."
+      },
+      {
+        "fin": 11,
+        "titulo": "La eficacia puede convivir con la crueldad",
+        "idea": "El éxito de una maniobra no elimina las víctimas ni convierte automáticamente al vencedor en alguien admirable."
+      },
+      {
+        "fin": 15,
+        "titulo": "El poder prestado también puede volverse una amenaza",
+        "idea": "Depender de apoyos que no controlas deja tu posición expuesta a las decisiones de otros."
+      },
+      {
+        "fin": 18,
+        "titulo": "La reputación tiene consecuencias materiales",
+        "idea": "Maquiavelo juzga la conducta por sus efectos políticos y distingue el temor del odio que vuelve frágil al gobernante."
+      },
+      {
+        "fin": 20,
+        "titulo": "Lo que se ve influye en lo que se cree",
+        "idea": "La apariencia facilita conservar poder cuando la mayoría conoce al gobernante a distancia."
+      },
+      {
+        "fin": 22,
+        "titulo": "Escuchar exige proteger un espacio para la verdad",
+        "idea": "Un colaborador útil aporta juicio; la adulación priva al gobernante de información que necesita."
+      },
+      {
+        "fin": 25,
+        "titulo": "La conducta que funcionó puede dejar de servir",
+        "idea": "La fortuna cambia con más facilidad que los hábitos de quien se acostumbró a triunfar."
+      }
+    ],
+    "fuentes": [
+      "https://www.gutenberg.org/cache/epub/1232/pg1232-images.html"
+    ],
+    "cobertura": "Se tuvo disponible la obra completa. Lectura sustancial de los 26 capítulos principales y contraste de sus ejemplos centrales; no se leyó íntegramente cada enumeración histórica ni todos los apéndices.",
+    "edicion": "Fuente: traducción inglesa de W. K. Marriott. Se distingue la descripción política de la aprobación moral y no se presenta «el fin justifica los medios» como cita literal. Redacción original en español a partir de la fuente primaria. No se reproduce una traducción comercial ni el texto de los ejemplos de Headway."
+  },
+  {
+    "id": "meditaciones",
+    "manuscrito": "meditaciones/manuscrito.md",
+    "gancho": "Un emperador se recuerda que debe levantarse, tratar con personas difíciles y volver a empezar cuando falla. Sus notas privadas exploran el juicio, la cooperación y una vida menos dependiente de la aprobación.",
+    "paginas": [
+      {
+        "fin": 4,
+        "titulo": "La mejora personal empieza también por la gratitud",
+        "idea": "Marco Aurelio reconoce personas concretas detrás de las cualidades que intenta practicar."
+      },
+      {
+        "fin": 8,
+        "titulo": "Un día difícil no decide cómo responderás",
+        "idea": "Distinguir carácter y circunstancias permite orientar los actos sin negar que el dolor y la necesidad existen."
+      },
+      {
+        "fin": 11,
+        "titulo": "Examina lo que añades a los hechos",
+        "idea": "Revisar una impresión ayuda a separar lo sucedido del prestigio, el miedo o la interpretación que lo envuelven."
+      },
+      {
+        "fin": 14,
+        "titulo": "La atención necesita una tarea y también medida",
+        "idea": "Reducir actividad innecesaria deja más espacio para lo que merece hacerse y para el descanso que lo sostiene."
+      },
+      {
+        "fin": 17,
+        "titulo": "El obstáculo cambia la tarea, y la ayuda cuenta",
+        "idea": "Adaptarse a un impedimento puede incluir pedir apoyo; no todo daño se transforma en un bien."
+      },
+      {
+        "fin": 19,
+        "titulo": "Cada acción ocurre dentro de una vida compartida",
+        "idea": "La cooperación y el cuidado del conjunto forman parte de la práctica estoica de Marco Aurelio."
+      },
+      {
+        "fin": 21,
+        "titulo": "El poder y el aplauso también necesitan examen",
+        "idea": "Conservar el juicio exige aceptar correcciones y no confundir la aprobación con haber actuado bien."
+      },
+      {
+        "fin": 25,
+        "titulo": "Volver a empezar forma parte de la práctica",
+        "idea": "Recordar que el tiempo es limitado puede orientar la siguiente acción sin exigir una perfección imposible."
+      }
+    ],
+    "fuentes": [
+      "https://www.gutenberg.org/cache/epub/2680/pg2680-images.html"
+    ],
+    "cobertura": "Consulta de los doce libros de la obra. Lectura completa de los libros I–III y una selección extensa de los libros IV–XII, con contraste de los pasajes utilizados; no se afirma lectura íntegra de los doce libros.",
+    "edicion": "Fuente: traducción inglesa de Meric Casaubon; la numeración de secciones no coincide necesariamente con ediciones modernas. La cosmología estoica se presenta como la visión del autor. Redacción original en español a partir de la fuente primaria. No se reproduce una traducción comercial ni el texto de los ejemplos de Headway."
+  },
+  {
+    "id": "intro-psicoanalisis",
+    "manuscrito": "intro-psicoanalisis/manuscrito.md",
+    "gancho": "Freud parte de un lapsus y de un sueño para proponer una mente atravesada por conflictos. Esta lectura explica cómo construye sus teorías sobre lo inconsciente, los síntomas y la relación terapéutica, con sus límites históricos.",
+    "paginas": [
+      {
+        "fin": 3,
+        "titulo": "Un error cotidiano abre una pregunta sobre la mente",
+        "idea": "Freud parte de experiencias comunes para proponer que no siempre conocemos todos los motivos de nuestros actos."
+      },
+      {
+        "fin": 7,
+        "titulo": "Un lapsus puede iniciar una investigación",
+        "idea": "Explorar asociaciones no autoriza a dar por cierta cualquier interpretación ni a adivinar la mente ajena."
+      },
+      {
+        "fin": 10,
+        "titulo": "El sueño no coincide con el pensamiento que lo forma",
+        "idea": "Freud distingue el relato recordado de los pensamientos que intenta reconstruir mediante asociaciones."
+      },
+      {
+        "fin": 14,
+        "titulo": "El trabajo del sueño transforma y reúne materiales",
+        "idea": "Condensación y desplazamiento describen operaciones de la teoría freudiana, no un diccionario universal para descifrar sueños."
+      },
+      {
+        "fin": 16,
+        "titulo": "La represión explica un conflicto dentro de su modelo",
+        "idea": "Para Freud, apartar un contenido de la conciencia no equivale a que deje de actuar."
+      },
+      {
+        "fin": 19,
+        "titulo": "Un síntoma puede expresar fuerzas enfrentadas",
+        "idea": "La idea freudiana de compromiso no significa que la persona elija su sufrimiento o quiera conservarlo."
+      },
+      {
+        "fin": 22,
+        "titulo": "La historia temprana ocupa el centro de la explicación",
+        "idea": "Las hipótesis de Freud sobre el desarrollo deben distinguirse de hechos demostrados sobre todas las familias."
+      },
+      {
+        "fin": 25,
+        "titulo": "La realidad psíquica y los hechos no son intercambiables",
+        "idea": "Una reconstrucción clínica no basta para confirmar un recuerdo ni para negar que un daño haya ocurrido."
+      },
+      {
+        "fin": 28,
+        "titulo": "Comprender una interpretación no asegura un cambio",
+        "idea": "Freud sitúa resistencias y transferencia en el proceso terapéutico; explicar ese modelo no demuestra su eficacia clínica."
+      },
+      {
+        "fin": 29,
+        "titulo": "La mente deja de parecer una voz sin contradicciones",
+        "idea": "El valor histórico del libro incluye aprender a separar observaciones, hipótesis y pruebas."
+      }
+    ],
+    "fuentes": [
+      "https://www.gutenberg.org/cache/epub/38219/pg38219-images.html"
+    ],
+    "cobertura": "Se tuvo disponible el texto completo de las 28 conferencias. Lectura sustancial de unas 50.000 palabras entre los tres bloques —actos fallidos, sueños y neurosis—, con contraste de los casos, represión, desarrollo, angustia, narcisismo, transferencia y terapia. No se afirma lectura íntegra de las 28 lecciones.",
+    "edicion": "Fuente: A General Introduction to Psychoanalysis, edición inglesa de 1920, traducción de G. Stanley Hall, conferencias de 1915–1917. No se añaden como si pertenecieran a esta obra los desarrollos posteriores del ello ni la pulsión de muerte. Es una explicación histórica, no una guía de diagnóstico o tratamiento. Redacción original en español a partir de la fuente primaria. No se reproduce una traducción comercial ni el texto de los ejemplos de Headway."
+  },
+  {
+    "id": "van-gogh-cartas",
+    "manuscrito": "van-gogh-cartas/manuscrito.md",
+    "gancho": "Van Gogh explica por qué pinta un dormitorio con colores que buscan descanso y un café con colores que inquietan. Sus cartas revelan ensayos, dudas, trabajo y la relación con Theo detrás de sus cuadros.",
+    "paginas": [
+      {
+        "fin": 3,
+        "titulo": "Detrás de una imagen hay decisiones",
+        "idea": "Las cartas permiten mirar los cuadros desde los problemas que el pintor intentaba resolver."
+      },
+      {
+        "fin": 6,
+        "titulo": "La práctica enseña cuándo insistir y cuándo cambiar",
+        "idea": "Dibujar, corregir y probar materiales forman parte de la mirada que después parece espontánea."
+      },
+      {
+        "fin": 8,
+        "titulo": "Dar valor a una vida no exige embellecerla",
+        "idea": "En Los comedores de patatas, la aspereza busca expresar la relación entre el trabajo y la comida compartida."
+      },
+      {
+        "fin": 12,
+        "titulo": "El color puede hacerte sentir un lugar",
+        "idea": "Van Gogh organiza las relaciones entre colores para comunicar una intención, no solo para copiar una apariencia."
+      },
+      {
+        "fin": 16,
+        "titulo": "Un estudio también puede ser un proyecto de convivencia",
+        "idea": "La búsqueda artística incluye imaginar cómo compartir trabajo, gastos y apoyo entre pintores."
+      },
+      {
+        "fin": 19,
+        "titulo": "Theo sostiene mucho más que los gastos",
+        "idea": "La correspondencia muestra una relación donde circulan cuidado, confianza y preocupación por la vida del otro."
+      },
+      {
+        "fin": 23,
+        "titulo": "La enfermedad y las dudas no borran los límites",
+        "idea": "Van Gogh reconoce restricciones y modos de trabajo que le convienen mejor; sus cartas no justifican idealizar el sufrimiento."
+      },
+      {
+        "fin": 25,
+        "titulo": "Aprender a mirar exige preguntas concretas",
+        "idea": "Comprender una obra puede empezar por investigar qué efecto buscaba su autor y qué decisiones tomó para conseguirlo."
+      }
+    ],
+    "fuentes": [
+      "https://www.gutenberg.org/cache/epub/40393/pg40393-images.html",
+      "https://vangoghletters.org/vg/letters/let497/letter.html",
+      "https://vangoghletters.org/vg/letters/let676/letter.html",
+      "https://vangoghletters.org/vg/letters/let705/letter.html",
+      "https://vangoghletters.org/vg/letters/let800/letter.html"
+    ],
+    "cobertura": "Lectura extensa de la correspondencia seleccionada en la antología: se leyeron las secciones dirigidas a Theo y pasajes finales dirigidos a Émile Bernard; se contrastaron las cartas 497, 676 y 705 con la edición crítica del Van Gogh Museum y Huygens ING, y el comienzo de la carta 800. No se afirma haber leído toda la correspondencia conservada de Van Gogh.",
+    "edicion": "Fuente base: antología inglesa de 1913 de Anthony M. Ludovici, basada en una selección anterior, no corpus epistolar completo. Se excluyen afirmaciones biográficas del prólogo y cierre editorial. Las descripciones del jardín del hospital y del trabajo desde la imaginación proceden de la sección dirigida a Bernard. Redacción original en español a partir de la fuente primaria. No se reproduce una traducción comercial ni el texto de los ejemplos de Headway."
+  },
+  {
+    "id": "origen-especies",
+    "manuscrito": "origen-especies/manuscrito.md",
+    "gancho": "¿Cómo pueden surgir especies distintas sin un plan previo? Darwin construye su explicación con palomas, plantas, hormigas, fósiles e islas, y examina las dificultades que su teoría debe superar.",
+    "paginas": [
+      {
+        "fin": 3,
+        "titulo": "Una explicación que tardó años en construirse",
+        "idea": "Darwin reúne observaciones y problemas antes de presentar la selección natural como una explicación del cambio."
+      },
+      {
+        "fin": 6,
+        "titulo": "Las palomas muestran cómo se acumulan diferencias",
+        "idea": "La selección de los criadores ayuda a comprender el cambio sin suponer que ellos producen deliberadamente cada variación."
+      },
+      {
+        "fin": 9,
+        "titulo": "La vida depende de relaciones y recursos limitados",
+        "idea": "La lucha por la existencia incluye condiciones del entorno y posibilidades de reproducción, además de enfrentamientos directos."
+      },
+      {
+        "fin": 11,
+        "titulo": "Un paisaje tranquilo esconde muchas dependencias",
+        "idea": "Darwin busca relaciones entre organismos; algunas de sus cadenas son propuestas explicativas, no reglas universales comprobadas."
+      },
+      {
+        "fin": 15,
+        "titulo": "La selección necesita variación y descendencia",
+        "idea": "Una ventaja solo se entiende respecto a unas condiciones; no representa superioridad moral ni fuerza absoluta."
+      },
+      {
+        "fin": 19,
+        "titulo": "La historia de la vida se parece a un árbol",
+        "idea": "La diversificación y la extinción explican ramas que se separan y conexiones que ya no podemos observar vivas."
+      },
+      {
+        "fin": 22,
+        "titulo": "Una teoría también debe responder a sus dificultades",
+        "idea": "Los órganos complejos y las obreras estériles obligan a precisar cómo pueden conservarse cambios a lo largo de generaciones."
+      },
+      {
+        "fin": 24,
+        "titulo": "Las semejanzas conservan rastros de una historia",
+        "idea": "La descendencia común permite relacionar estructuras parecidas aunque hoy cumplan funciones diferentes."
+      },
+      {
+        "fin": 27,
+        "titulo": "Fósiles e islas aportan pruebas que se conectan",
+        "idea": "La explicación gana fuerza al relacionar observaciones que, por separado, dejan preguntas abiertas."
+      },
+      {
+        "fin": 29,
+        "titulo": "Leer a Darwin incluye reconocer lo que no sabía",
+        "idea": "La edición de 1859 ofrece un argumento histórico fundamental sin disponer todavía de la genética moderna."
+      }
+    ],
+    "fuentes": [
+      "https://www.gutenberg.org/cache/epub/1228/pg1228-images.html"
+    ],
+    "cobertura": "Texto íntegro disponible de la primera edición de 1859. Lectura sustancial de unas 60.500 palabras: introducción, domesticación, variación, lucha por la existencia, selección, dificultades, hormigas estériles, registro fósil, distribución geográfica, morfología y recapitulación completa. No se afirma haber leído todos los párrafos del volumen.",
+    "edicion": "Se sigue la primera edición, sin introducir la genética posterior como si Darwin la conociera ni convertir sus ejemplos hipotéticos en observaciones comprobadas. Redacción original en español a partir de la fuente primaria. No se reproduce una traducción comercial ni el texto de los ejemplos de Headway."
+  },
+  {
+    "id": "riqueza-naciones",
+    "manuscrito": "riqueza-naciones/manuscrito.md",
+    "gancho": "Un taller de alfileres abre una investigación sobre cómo producimos y repartimos la riqueza. Smith conecta trabajo, salarios, mercados, monopolios, educación e impuestos para preguntar qué hace próspera a una sociedad.",
+    "paginas": [
+      {
+        "fin": 3,
+        "titulo": "La riqueza empieza en la capacidad de producir",
+        "idea": "La organización del trabajo puede aumentar lo que una sociedad obtiene de sus recursos y habilidades."
+      },
+      {
+        "fin": 7,
+        "titulo": "Un abrigo reúne el trabajo de miles de desconocidos",
+        "idea": "El intercambio y las comunicaciones amplían las posibilidades de especializarse y cooperar."
+      },
+      {
+        "fin": 10,
+        "titulo": "Los precios orientan, pero no atienden toda necesidad",
+        "idea": "La demanda efectiva implica capacidad de pago; los monopolios y las barreras pueden alterar los ajustes del mercado."
+      },
+      {
+        "fin": 13,
+        "titulo": "Una sociedad próspera debe incluir a sus trabajadores",
+        "idea": "Smith examina la desigual capacidad de negociar y rechaza identificar prosperidad con una mayoría empobrecida."
+      },
+      {
+        "fin": 16,
+        "titulo": "El capital permite sostener trabajo antes de vender",
+        "idea": "Ahorrar puede ampliar la producción cuando los recursos se emplean para sostenerla; invertir no asegura acertar."
+      },
+      {
+        "fin": 18,
+        "titulo": "El comercio también transforma relaciones de poder",
+        "idea": "Cambiar de quién dependemos para vivir puede modificar nuestra autonomía, incluso sin que nadie haya planeado ese efecto."
+      },
+      {
+        "fin": 21,
+        "titulo": "El interés privado puede coordinar o crear privilegios",
+        "idea": "La mano invisible no convierte toda búsqueda de beneficio en una mejora automática para el conjunto."
+      },
+      {
+        "fin": 23,
+        "titulo": "Abrir mercados también exige mirar los costes",
+        "idea": "Una reforma debe examinar a quién beneficia, quién la paga y qué ocurre durante la transición."
+      },
+      {
+        "fin": 25,
+        "titulo": "La libertad económica necesita instituciones",
+        "idea": "Justicia, defensa e infraestructuras forman parte del orden que Smith considera necesario."
+      },
+      {
+        "fin": 27,
+        "titulo": "La especialización también puede estrechar la mente",
+        "idea": "La educación merece atención pública porque la productividad no resume todo lo que les ocurre a los trabajadores."
+      },
+      {
+        "fin": 30,
+        "titulo": "Las cuentas públicas terminan en vidas concretas",
+        "idea": "Evaluar la riqueza exige relacionar producción, reparto, costes y condiciones de vida de la mayoría."
+      }
+    ],
+    "fuentes": [
+      "https://www.gutenberg.org/cache/epub/3300/pg3300-images.html"
+    ],
+    "cobertura": "Texto íntegro disponible de los cinco libros. Lectura sustancial de más de 64.000 palabras: división del trabajo, intercambio, precios, salarios, capital, historia de las instituciones, sistema mercantil, comercio colonial, funciones públicas, educación, impuestos y deuda. Se recorrieron los cinco libros mediante capítulos completos y selecciones extensas; no se afirma lectura íntegra del tratado.",
+    "edicion": "Se utiliza el texto inglés completo de Project Gutenberg. Las categorías y propuestas se sitúan en la argumentación histórica de Smith, sin convertirlas en asesoramiento económico individual actual. Redacción original en español a partir de la fuente primaria. No se reproduce una traducción comercial ni el texto de los ejemplos de Headway."
+  },
+  {
+    "id": "momentos-estelares",
+    "manuscrito": "momentos-estelares/manuscrito.md",
+    "gancho": "Una canción que supera a su autor, una expedición que llega tarde y un cable que une continentes. Zweig transforma doce episodios históricos en relatos sobre preparación, decisiones, azar y consecuencias inesperadas.",
+    "paginas": [
+      {
+        "fin": 2,
+        "titulo": "El instante decisivo todavía no conoce su final",
+        "idea": "Zweig concentra acontecimientos complejos en escenas cuya intensidad debemos distinguir de una explicación histórica completa."
+      },
+      {
+        "fin": 5,
+        "titulo": "Balboa busca una salida y encuentra otro horizonte",
+        "idea": "La audacia de una hazaña puede coexistir con la violencia y con una lucha por apropiarse de su recuerdo."
+      },
+      {
+        "fin": 8,
+        "titulo": "Una ciudad entera depende de sus defensas",
+        "idea": "La pequeña puerta del relato concentra una crisis preparada también por fuerzas militares, políticas y religiosas."
+      },
+      {
+        "fin": 11,
+        "titulo": "Händel vuelve a encontrar una obra por hacer",
+        "idea": "La creación puede devolver sentido a una experiencia sin demostrar que el sufrimiento sea necesario para el talento."
+      },
+      {
+        "fin": 14,
+        "titulo": "Una canción se separa de su creador",
+        "idea": "Quienes adoptan una obra pueden darle un alcance y un significado que su autor ya no controla."
+      },
+      {
+        "fin": 17,
+        "titulo": "Grouchy debe decidir antes de conocer el desenlace",
+        "idea": "Una situación cambiante puede exigir interpretar la finalidad de una orden, además de cumplir su letra."
+      },
+      {
+        "fin": 20,
+        "titulo": "Goethe da forma a lo que no puede recuperar",
+        "idea": "Expresar una pérdida puede cambiar nuestra relación con ella sin modificar la voluntad de otra persona."
+      },
+      {
+        "fin": 23,
+        "titulo": "El oro amenaza la riqueza de Suter",
+        "idea": "Un recurso valioso no asegura conservar las condiciones de trabajo, seguridad y cooperación que permiten aprovecharlo."
+      },
+      {
+        "fin": 25,
+        "titulo": "Unos minutos cambian la mirada de Dostoievski",
+        "idea": "El poema de Zweig explora el valor de la vida desde un límite extremo; no convierte el trauma en condición de grandeza."
+      },
+      {
+        "fin": 28,
+        "titulo": "Unir continentes exige más de un intento",
+        "idea": "La persistencia de Field necesita avances técnicos, recursos y aprendizaje, además de convicción."
+      },
+      {
+        "fin": 31,
+        "titulo": "Tolstói busca coherencia en medio de sus vínculos",
+        "idea": "Una convicción firme no resuelve por sí sola cómo actuar sin causar dolor a otras personas."
+      },
+      {
+        "fin": 33,
+        "titulo": "Llegar al polo no cumple todos los sueños de Scott",
+        "idea": "El resultado de una expedición no agota la dignidad de sus participantes ni elimina sus límites materiales."
+      },
+      {
+        "fin": 35,
+        "titulo": "Un tren reúne proyectos políticos incompatibles",
+        "idea": "Una coincidencia temporal de intereses puede abrir posibilidades que ninguna parte controla por completo."
+      },
+      {
+        "fin": 37,
+        "titulo": "El pasado también estuvo lleno de incertidumbre",
+        "idea": "Comprender una decisión exige recordar qué podían saber sus protagonistas antes de que llegara el final."
+      }
+    ],
+    "fuentes": [
+      "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/1",
+      "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/2",
+      "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/3",
+      "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/4",
+      "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/5",
+      "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/6",
+      "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/7",
+      "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/8",
+      "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/9",
+      "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/10",
+      "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/11",
+      "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/12",
+      "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/13",
+      "https://projekt-gutenberg.org/authors/stefan-zweig/books/sternstunden-der-menschheit/chapter/14"
+    ],
+    "cobertura": "Texto íntegro disponible de la edición de doce miniaturas. Lectura de unas 51.000 palabras: prólogo completo, Waterloo, Goethe, Suter, Dostoievski y Lenin completos; selecciones extensas de Balboa, Constantinopla, Händel, La Marsellesa, cable atlántico, Tolstói y Scott, incluidos sus desenlaces. No se afirma lectura integral de cada párrafo de las doce piezas.",
+    "edicion": "Fuente alemana: Sternstunden der Menschheit, Zwölf historische Miniaturen, S. Fischer, 1951, en Projekt Gutenberg-DE. Se respeta la selección de doce, sin añadir las dos miniaturas de otras compilaciones. El poema de Dostoievski y el epílogo teatral de Tolstói se identifican como formas literarias; no se convierten sus diálogos ni la psicología narrada en documentos históricos. Redacción original en español a partir de la fuente primaria. No se reproduce una traducción comercial ni el texto de los ejemplos de Headway."
   }
 ]

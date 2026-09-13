@@ -1,0 +1,272 @@
+{
+  "libro": {
+    "id": "riqueza-naciones",
+    "titulo": "La riqueza de las naciones",
+    "autor": "Adam Smith",
+    "categoria": "Economía",
+    "versionAnterior": true,
+    "palabrasManuscrito": 3027,
+    "palabrasLectura": 3281,
+    "minutos": 23,
+    "paginas": 11,
+    "rayos": 11,
+    "sha256Manuscrito": "b7a4822ac73311241d4f6dc91d35767c99552a94941d803118146bb5c7e1d5bd",
+    "fuentes": [
+      "https://www.gutenberg.org/cache/epub/3300/pg3300-images.html"
+    ]
+  },
+  "paginas": [
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "La riqueza empieza en la capacidad de producir"
+        },
+        {
+          "b": "texto",
+          "texto": "Un alfiler parece demasiado insignificante para explicar la riqueza de un país. Sin embargo, Adam Smith empieza precisamente por ahí: por un taller donde varias personas realizan operaciones distintas sobre un pequeño trozo de metal. Una estira el alambre, otra lo endereza, otra lo corta y otras preparan la punta o la cabeza. Smith cuenta que diez trabajadores de una manufactura podían producir juntos miles de alfileres al día. Por separado, sin preparación ni esa organización, su rendimiento habría sido muchísimo menor. La diferencia no está en que de pronto tengan más fuerza. Está en la forma de trabajar juntos."
+        },
+        {
+          "b": "texto",
+          "texto": "Esta escena abre una investigación mucho más amplia. ¿Por qué algunas sociedades consiguen proporcionar a sus habitantes una cantidad creciente de bienes, mientras otras apenas permiten subsistir? Para Smith, la respuesta exige mirar más allá del dinero acumulado por el soberano. La riqueza tiene que ver con lo que el trabajo de un país produce cada año y con lo que puede obtener mediante el intercambio. Alimentos, ropa, herramientas, vivienda: cosas que sostienen la vida y la hacen más cómoda. Un cofre lleno de monedas sirve de poco si alrededor falta la capacidad de producir o conseguir lo necesario."
+        },
+        {
+          "b": "texto",
+          "texto": "La división del trabajo aumenta esa capacidad por varias vías. Repetir una operación permite adquirir destreza. Evita también el tiempo que se pierde al pasar continuamente de una tarea a otra, cambiando herramientas, lugar y atención. Y facilita la invención de máquinas capaces de simplificar una actividad concreta. Algunas mejoras nacen de quienes realizan el trabajo; otras, de fabricantes de maquinaria o de personas que relacionan conocimientos antes separados. El taller no prospera únicamente porque cada obrero se esfuerce más. Prosperan las conexiones entre habilidades, herramientas y conocimientos que vuelven más eficaz ese esfuerzo."
+        },
+        {
+          "b": "idea",
+          "texto": "La organización del trabajo puede aumentar lo que una sociedad obtiene de sus recursos y habilidades."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Un abrigo reúne el trabajo de miles de desconocidos"
+        },
+        {
+          "b": "texto",
+          "texto": "Smith te invita después a mirar una prenda corriente: el abrigo de lana de un trabajador. Detrás hay pastores, personas que cardan y tiñen, hilanderos, tejedores, comerciantes y transportistas. También están quienes construyeron los barcos o fabricaron las herramientas utilizadas por todos ellos. Nadie tuvo que conocer personalmente a cada participante para recibir el resultado de su trabajo. Lo que parece un objeto sencillo encierra una cooperación inmensa. Así cambia la pregunta inicial: además de explicar cómo produce una persona, hay que comprender cómo consiguen coordinarse miles de desconocidos."
+        },
+        {
+          "b": "texto",
+          "texto": "El intercambio ofrece una parte de la respuesta. Si necesitas que alguien te venda su producto, normalmente tendrás que mostrarle qué obtiene a cambio. El ejemplo del carnicero, el cervecero y el panadero explica esa capacidad de atender al interés de la otra parte. Smith no está demostrando que la generosidad sea inútil ni recomendando que nadie sea egoísta en todos los ámbitos de su vida. Está observando que una sociedad extensa no puede depender exclusivamente de favores entre amigos. Podemos colaborar con personas que no nos quieren, porque el acuerdo les permite conseguir algo que también necesitan."
+        },
+        {
+          "b": "texto",
+          "texto": "Esa posibilidad hace viable la especialización, pero la especialización depende del tamaño del mercado. De nada sirve fabricar enormes cantidades de un producto si alrededor apenas hay compradores. En una comunidad pequeña, una misma persona debe realizar trabajos diversos; donde existen más clientes y mejores comunicaciones, puede dedicarse a una actividad mucho más precisa. Por eso Smith concede tanta importancia al transporte por agua. Al reducir el coste de mover mercancías, amplía el espacio dentro del cual compensa intercambiar. Un canal o un puerto pueden transformar la organización del trabajo a muchos kilómetros de sus orillas."
+        },
+        {
+          "b": "texto",
+          "texto": "El dinero facilita estos encuentros porque evita que cada operación necesite una coincidencia exacta de deseos. Quien posee carne no siempre quiere el pan que otro le ofrece en ese momento. Un medio generalmente aceptado permite separar la venta de lo que tienes de la compra de lo que necesitas. Smith desarrolla una explicación histórica del paso hacia ese instrumento; conviene leerla como parte de su razonamiento, sin tomarla por una reconstrucción definitiva de todas las sociedades. Su conclusión económica es más sencilla: la utilidad del dinero está en facilitar la circulación de bienes, no en sustituirlos como finalidad de la actividad humana."
+        },
+        {
+          "b": "idea",
+          "texto": "El intercambio y las comunicaciones amplían las posibilidades de especializarse y cooperar."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Los precios orientan, pero no atienden toda necesidad"
+        },
+        {
+          "b": "texto",
+          "texto": "Ahora bien, cuando una mercancía llega al mercado, ¿qué determina su precio? Smith distingue varios ingresos relacionados con su producción: salarios para el trabajo, beneficios para el capital y, cuando interviene la propiedad de la tierra, renta para su propietario. No supone que el beneficio sea simplemente otro nombre para el sueldo de dirigir una empresa. Puede remunerarse la dirección y existir además un beneficio vinculado al capital empleado. Esta distinción le permite preguntar cómo se reparte el resultado entre personas que ocupan posiciones diferentes. Hablar de riqueza nacional no basta si todavía ignoramos quién recibe qué parte."
+        },
+        {
+          "b": "texto",
+          "texto": "A partir de ahí distingue el precio de mercado del que llama precio natural. El primero es el que efectivamente se paga. El segundo corresponde a cubrir, en las condiciones habituales de una sociedad, los salarios, beneficios y rentas necesarios para llevar el producto al mercado. Si llegan pocas mercancías respecto a lo que compradores solventes quieren adquirir, estos compiten y el precio puede subir. Si llegan demasiadas, los vendedores tienen dificultades para colocarlas. La demanda que mueve este mecanismo no equivale a cualquier deseo o necesidad: implica poder ofrecer un pago suficiente. Esa diferencia impide confundir lo que el mercado atiende con todo lo que las personas necesitan."
+        },
+        {
+          "b": "texto",
+          "texto": "Los precios también orientan decisiones posteriores. Una actividad que deja rendimientos elevados puede atraer recursos y aumentar la oferta; otra que no recupera lo empleado puede perderlos. Smith describe así una tendencia al ajuste, no una promesa de que cada precio concreto sea justo o de que cualquier desequilibrio desaparezca de inmediato. Los monopolios, las restricciones de entrada, determinados secretos de fabricación o las características excepcionales de una tierra pueden alterar el proceso. Para entender un precio alto hay que mirar qué permite a alguien mantenerlo, además de mirar cuánto desean comprar los demás."
+        },
+        {
+          "b": "idea",
+          "texto": "La demanda efectiva implica capacidad de pago; los monopolios y las barreras pueden alterar los ajustes del mercado."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Una sociedad próspera debe incluir a sus trabajadores"
+        },
+        {
+          "b": "texto",
+          "texto": "El trabajo se intercambia en condiciones particularmente desiguales. Smith señala que los empleadores suelen ser menos numerosos y pueden coordinarse con más facilidad. Muchos disponen además de reservas que les permiten aguantar un desacuerdo durante bastante tiempo. Un trabajador que necesita cobrar para alimentarse no siempre puede esperar. En las leyes y costumbres que describe, la organización de los trabajadores encuentra obstáculos que no recaen del mismo modo sobre sus patronos. Por eso una negociación aparentemente libre puede reunir capacidades de resistencia muy distintas. El salario no nace en un espacio vacío de instituciones y poder."
+        },
+        {
+          "b": "texto",
+          "texto": "Tampoco acepta que los salarios bajos sean, por sí mismos, una señal saludable para el país. Si la demanda de trabajo crece, los empleadores pueden competir por contratar y mejorar las remuneraciones. Lo decisivo es el avance de la actividad, no solo el volumen de riqueza que ya existe. Smith insiste en que resulta contradictorio llamar próspera a una sociedad cuya mayoría vive en la pobreza. Quienes producen alimentos, ropa y alojamiento deben poder participar de sus resultados. Este juicio forma parte del libro: no es una preocupación social añadida posteriormente desde fuera de su pensamiento."
+        },
+        {
+          "b": "texto",
+          "texto": "Frente a la sospecha de que pagar mejor vuelve perezosas a las personas, Smith encuentra razones para esperar el efecto contrario: mejores condiciones pueden aumentar la disposición y la capacidad de trabajar. También observa que los incentivos a producir más pueden llevar al exceso y al agotamiento. Una economía no gana necesariamente porque sus trabajadores se consuman más deprisa. Aunque sus explicaciones sobre población y clases sociales pertenecen al siglo XVIII y requieren una lectura crítica, aquí aparece una intuición importante: evaluar la organización económica exige prestar atención a las vidas que la sostienen, no solo a la cantidad de productos que salen de ella."
+        },
+        {
+          "b": "idea",
+          "texto": "Smith examina la desigual capacidad de negociar y rechaza identificar prosperidad con una mayoría empobrecida."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "El capital permite sostener trabajo antes de vender"
+        },
+        {
+          "b": "texto",
+          "texto": "Para producir suele hacer falta esperar antes de cobrar. Hay que disponer de herramientas, materiales y medios para mantenerse mientras el trabajo todavía no se ha convertido en una venta. Ahí entra el capital. Smith distingue los recursos que se conservan y ayudan repetidamente a producir, como ciertas máquinas, de aquellos que circulan y cambian de manos durante la actividad. Esta explicación también aclara una barrera: quien apenas posee lo necesario para sobrevivir no se encuentra en la misma posición que quien puede adelantar recursos durante meses. No basta con recomendar iniciativa sin mirar las condiciones materiales que la hacen posible."
+        },
+        {
+          "b": "texto",
+          "texto": "El ahorro puede aumentar la capacidad de producción cuando permite mantener trabajo y adquirir recursos destinados a producir en el futuro. No se trata simplemente de esconder monedas y dejar que suceda algo milagroso. Lo que una persona deja de consumir puede sostener el trabajo de otra mediante una inversión. Pero ese capital también puede emplearse mal, perderse o dedicarse a actividades que no ofrecen el resultado esperado. Smith se interesa por la acumulación porque amplía posibilidades productivas; no proporciona una fórmula que garantice beneficios al ahorrador individual ni convierte cualquier enriquecimiento particular en una mejora equivalente para toda la sociedad."
+        },
+        {
+          "b": "texto",
+          "texto": "Aquí aparece una distinción que hoy puede desconcertar: trabajo productivo e improductivo. En el uso de Smith, importa si el trabajo queda incorporado a un objeto vendible que conserva un valor después de realizarse. Por eso coloca entre los servicios de consumo inmediato ocupaciones que reconoce como útiles e incluso necesarias. No quiere decir que un médico o un artista carezcan de valor humano. Está empleando una clasificación concreta para explicar la reproducción del capital. Leerla con nuestras categorías actuales, como si declarara inútil todo servicio, haría perder tanto su propósito como los límites históricos de su análisis."
+        },
+        {
+          "b": "idea",
+          "texto": "Ahorrar puede ampliar la producción cuando los recursos se emplean para sostenerla; invertir no asegura acertar."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "El comercio también transforma relaciones de poder"
+        },
+        {
+          "b": "texto",
+          "texto": "El libro dedica también atención a la relación entre campo y ciudad. El campo proporciona alimentos y materias primas; las ciudades ofrecen productos elaborados y mercados donde vender. Smith examina cómo determinadas instituciones europeas dificultaron ese intercambio y la mejora de la tierra. Las reglas sobre la propiedad, la seguridad de los arrendamientos y el poder de los grandes señores afectan a las decisiones de cultivar o invertir. La producción no depende únicamente de capacidades técnicas. Depende de lo que las personas pueden esperar conservar después de haber trabajado y de cuánta autonomía tienen frente a quienes controlan sus recursos."
+        },
+        {
+          "b": "texto",
+          "texto": "Una de sus explicaciones más sorprendentes conecta el gusto por los lujos con el debilitamiento del poder feudal. Antes, un gran propietario podía dedicar sus excedentes a mantener numerosos dependientes. Con nuevos objetos que comprar, empieza a gastar más en su propio consumo y a reducir ese séquito. Los artesanos que le venden bienes, a diferencia de sus antiguos servidores, pueden vivir de muchos clientes y dependen menos de uno solo. Smith interpreta así un cambio político que sus participantes no habían planeado. Los motivos privados y los efectos colectivos pueden ser distintos, incluso cuando el resultado no formaba parte de ninguna intención generosa."
+        },
+        {
+          "b": "idea",
+          "texto": "Cambiar de quién dependemos para vivir puede modificar nuestra autonomía, incluso sin que nadie haya planeado ese efecto."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "El interés privado puede coordinar o crear privilegios"
+        },
+        {
+          "b": "texto",
+          "texto": "Esa atención a los efectos reales impulsa su crítica del sistema mercantil. Si se identifica la riqueza con el oro y la plata, parece lógico intentar vender siempre más al exterior y comprar lo menos posible. Pero recibir productos útiles también puede enriquecer la vida de un país. Smith pregunta qué recursos obliga a emplear una política y qué bienes permite obtener con ellos. Si producir algo dentro exige un esfuerzo extraordinario mientras puede comprarse fuera a menor coste, forzar su producción puede desperdiciar capacidades que tendrían un uso mejor. La protección de una actividad concreta no demuestra por sí sola que mejore la situación del conjunto."
+        },
+        {
+          "b": "texto",
+          "texto": "En este contexto aparece la famosa mano invisible. Smith describe a un inversor que prefiere emplear sus recursos cerca, donde se siente más seguro, y busca darles un uso de mayor valor. Al hacerlo puede contribuir a la producción y los ingresos de la sociedad sin haberlo convertido en su objetivo. El argumento señala una coordinación no diseñada y el valor del conocimiento que poseen quienes toman decisiones concretas. No establece que toda conducta interesada produzca automáticamente el bien común. El mismo libro muestra intereses privados que buscan privilegios, encarecen bienes y trasladan sus costes a otras personas."
+        },
+        {
+          "b": "texto",
+          "texto": "Basta con observar a los comerciantes que intentan limitar la competencia. Smith desconfía de las reglas elaboradas para asegurarles un mercado reservado y de la facilidad con que presentan su beneficio como interés nacional. El consumidor paga más, otros posibles productores quedan excluidos y los recursos se orientan hacia una actividad favorecida artificialmente. Por eso conviene preguntar quién solicita una medida, quién gana con ella y quién asume su coste. Escuchar las necesidades de una empresa no obliga a aceptar que sus deseos coincidan con las necesidades de todos los trabajadores, clientes y contribuyentes."
+        },
+        {
+          "b": "idea",
+          "texto": "La mano invisible no convierte toda búsqueda de beneficio en una mejora automática para el conjunto."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Abrir mercados también exige mirar los costes"
+        },
+        {
+          "b": "texto",
+          "texto": "Su defensa del intercambio admite, además, excepciones y problemas de transición. Considera que la defensa puede justificar ciertas restricciones comerciales y que un impuesto interior puede requerir un trato equivalente para las importaciones. También contempla represalias si existen razones para esperar que consigan eliminar una barrera extranjera, sin suponer que siempre funcionen. Cuando una industria ha crecido bajo protección, propone valorar una apertura gradual por consideración hacia las personas y los recursos comprometidos. El destino deseable de una reforma y la manera de llegar hasta él son cuestiones diferentes. Sus argumentos no autorizan a borrar los costes humanos del cambio."
+        },
+        {
+          "b": "texto",
+          "texto": "El análisis del comercio colonial lleva esta crítica a una escala mayor. Un imperio puede obligar a territorios enteros a comprar a determinados productores y convertir esa exclusividad en una fuente de beneficios privados. Mientras tanto, mantenerlo y defenderlo exige impuestos, gastos militares y deuda. Smith pregunta si la población que paga esas cargas recibe algo comparable a lo que obtiene el grupo favorecido. Su horizonte sigue siendo el de un autor europeo del siglo XVIII y no agota la experiencia de los pueblos colonizados. Aun así, desarma una asociación muy poderosa: poseer más territorios y exhibir más grandeza política no demuestra que se esté mejorando la vida de quienes sostienen ese poder."
+        },
+        {
+          "b": "idea",
+          "texto": "Una reforma debe examinar a quién beneficia, quién la paga y qué ocurre durante la transición."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "La libertad económica necesita instituciones"
+        },
+        {
+          "b": "texto",
+          "texto": "Todo esto requiere instituciones. Smith atribuye al soberano la defensa frente a agresiones exteriores, una administración de justicia que proteja frente a la opresión y ciertas obras e instituciones cuyo beneficio social no permite que un particular recupere por sí solo su coste. La libertad de actuar está condicionada por las leyes de justicia. Los contratos y la seguridad de las personas no se mantienen únicamente porque alguien desee hacer negocios. La pregunta del libro es cómo organizar esas funciones y financiarlas con sensatez, además de cómo evitar que el poder dirija o privilegie innecesariamente actividades particulares."
+        },
+        {
+          "b": "texto",
+          "texto": "Los caminos, puentes, canales y puertos muestran esa preocupación concreta. Una buena infraestructura reduce costes y amplía el mercado, pero hay que conservarla. Smith examina cuándo tiene sentido cobrar a quienes la utilizan y cómo alinear los ingresos con el mantenimiento. No da por hecho que el mismo sistema sirva siempre. Un canal descuidado puede dejar de producir ingresos porque ya no permite navegar; una carretera deteriorada puede seguir siendo transitable y permitir que alguien cobre sin repararla. Esta diferencia importa. La calidad de una institución depende de lo que sus responsables tienen incentivos y posibilidades de hacer, no solo del nombre público o privado que reciba."
+        },
+        {
+          "b": "idea",
+          "texto": "Justicia, defensa e infraestructuras forman parte del orden que Smith considera necesario."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "La especialización también puede estrechar la mente"
+        },
+        {
+          "b": "texto",
+          "texto": "Y entonces el libro regresa al taller de alfileres desde un ángulo inquietante. La división del trabajo que multiplica la producción puede empobrecer la experiencia intelectual de quien repite unas pocas operaciones durante toda su vida. Si el empleo apenas exige comprender problemas nuevos, disminuyen las ocasiones de ejercitar el juicio. Smith utiliza expresiones duras, propias de su época, para describir ese peligro. Pero no lo trata como una inferioridad natural del trabajador. Lo relaciona con sus circunstancias: largas jornadas, tareas uniformes y poco tiempo o dinero para aprender. La organización que hace más rica a una sociedad puede estrechar las capacidades de muchas de sus personas."
+        },
+        {
+          "b": "texto",
+          "texto": "La educación aparece como una respuesta que merece atención pública. Smith propone facilitar el aprendizaje de la lectura, la escritura y el cálculo, junto con conocimientos que puedan resultar útiles en los oficios. Sus propuestas concretas sobre escuelas, financiación y exámenes no equivalen a un sistema educativo actual. También incluyen objetivos de orden social que conviene reconocer. Sin embargo, el problema que plantea permanece claro dentro del libro: no puedes medir el éxito de la especialización únicamente por su producción y desentenderte después de lo que hace con la capacidad de pensar de los trabajadores. La prosperidad necesita sostener a las personas que la crean."
+        },
+        {
+          "b": "idea",
+          "texto": "La educación merece atención pública porque la productividad no resume todo lo que les ocurre a los trabajadores."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Las cuentas públicas terminan en vidas concretas"
+        },
+        {
+          "b": "texto",
+          "texto": "Financiar las funciones comunes lleva a otra cuestión práctica: cómo cobrar impuestos. Smith propone que la contribución guarde relación con la capacidad económica, que las obligaciones sean claras y que el momento y la forma del pago resulten razonablemente convenientes. Añade que el coste impuesto a la sociedad no debería superar innecesariamente lo que llega al tesoro. Importa el dinero destinado a recaudar, pero también los obstáculos a la actividad, las penalizaciones desproporcionadas o las molestias y arbitrariedades que sufre el contribuyente. Un impuesto no se entiende mirando solo su tipo. Hay que examinar cómo opera y sobre quién termina recayendo."
+        },
+        {
+          "b": "texto",
+          "texto": "La deuda pública introduce la relación entre las decisiones presentes y las cargas futuras. Smith observa que una guerra exige recursos inmediatos que los nuevos impuestos tardan en proporcionar. El crédito permite conseguirlos, pero su facilidad puede reducir la disposición de los gobiernos a contener gastos o prepararse con antelación. Al estudiar el imperio británico, enfrenta las aspiraciones de grandeza con su coste efectivo. Es un razonamiento situado en sus circunstancias históricas, no una regla automática para juzgar cualquier deuda de una economía actual. Su exigencia es más general: las promesas políticas deben contrastarse con los recursos que consumen y con las personas que acabarán pagándolas."
+        },
+        {
+          "b": "texto",
+          "texto": "Después de este recorrido, el alfiler ya no representa únicamente una mejora de productividad. Representa también un salario, una relación de dependencia, un mercado, una herramienta financiada antes de vender, un camino por el que viajar y unas instituciones que permiten o dificultan el intercambio. La riqueza de las naciones te enseña a conectar esas piezas. Cuando alguien afirma que una política genera riqueza, puedes preguntar qué capacidad productiva mejora, qué privilegios crea, quién recibe los beneficios y qué ocurre con la mayoría. Para Smith, una sociedad próspera debe poder reconocerse en la vida de quienes la componen. Las monedas y las cifras, por sí solas, nunca cuentan toda esa historia."
+        },
+        {
+          "b": "idea",
+          "texto": "Evaluar la riqueza exige relacionar producción, reparto, costes y condiciones de vida de la mayoría."
+        }
+      ]
+    }
+  ]
+}

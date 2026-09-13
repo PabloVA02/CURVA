@@ -1,0 +1,38 @@
+{
+  "archivo_entregado": "corpus-headway-2.zip",
+  "lectura": "Ocho documentos de ejemplos revisados completos, incluido el contraejemplo de finanzas personales; el archivo de Einstein contiene también material de Michelle Obama.",
+  "referencias": [
+    {
+      "archivo": "brevisima-historia-del-tiempo.txt",
+      "sha256": "a303d8005157833c408085100d77d5182532205e02fe0de6fb19865a4e7955cd"
+    },
+    {
+      "archivo": "corea-del-norte.txt",
+      "sha256": "4875f9040d90327be53ecbfa9e8853e0d2651b15c213336d57079bb7a49de230"
+    },
+    {
+      "archivo": "einstein.txt",
+      "sha256": "b7adb843424d42d99f2df7533a808d937623e379333db9f6c19c249a1126840d"
+    },
+    {
+      "archivo": "el-futbol-a-sol-y-sombra.txt",
+      "sha256": "66e51d0af7be12a9b43ad6370030cf59125fa156c7bf578d047573807b240cc5"
+    },
+    {
+      "archivo": "finanzas-personales-CONTRAEJEMPLO.txt",
+      "sha256": "a20e3f11f357e5edcc96ae4e39bdbfb364fef0abfbd328f52f49e806920c27d5"
+    },
+    {
+      "archivo": "la-digestion-es-la-cuestion.txt",
+      "sha256": "0517a951c6abccc06cbf54dc833816fc29d6e12e30627cba036bc662c03517fb"
+    },
+    {
+      "archivo": "la-sexta-extincion.txt",
+      "sha256": "d26f8db93340d527d6e9464893ea6f628bbda06105d4e8657779fff3f864fe36"
+    },
+    {
+      "archivo": "spqr-roma.txt",
+      "sha256": "efc42c19bbad219c9d777d3b037466754a48b245e3ef873957a37827f80c7290"
+    }
+  ]
+}

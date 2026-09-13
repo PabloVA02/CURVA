@@ -1,0 +1,232 @@
+{
+  "libro": {
+    "id": "libro-cinco-anillos",
+    "titulo": "El libro de los cinco anillos",
+    "autor": "Miyamoto Musashi",
+    "categoria": "Filosofía",
+    "versionAnterior": false,
+    "palabrasManuscrito": 2202,
+    "palabrasLectura": 2401,
+    "minutos": 17,
+    "paginas": 9,
+    "rayos": 9,
+    "sha256Manuscrito": "e547b95dea90ef33487f7a1507435abd7b3868e843bb411f967d1749a681af8b",
+    "fuentes": [
+      "https://miyamoto-musashi.org/en/genten/gorin/chi/",
+      "https://miyamoto-musashi.org/en/genten/gorin/sui/",
+      "https://miyamoto-musashi.org/en/genten/gorin/ka/",
+      "https://miyamoto-musashi.org/en/genten/gorin/fu/",
+      "https://miyamoto-musashi.org/en/genten/gorin/ku/"
+    ]
+  },
+  "paginas": [
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Ganar no siempre significa comprender"
+        },
+        {
+          "b": "texto",
+          "texto": "Un hombre mira hacia atrás y descubre que sus victorias no demuestran lo que había creído. Miyamoto Musashi cuenta que ganó numerosos combates durante su juventud, pero al llegar a los treinta años empezó a preguntarse por qué. Tal vez poseía cierta habilidad natural. Tal vez sus adversarios tenían carencias. Vencer no significaba necesariamente comprender el camino que lo había llevado hasta allí. Según su propio relato, siguió practicando durante años antes de alcanzar una comprensión más profunda. El libro comienza así con una distinción exigente: obtener un resultado y saber producirlo con criterio son cosas diferentes."
+        },
+        {
+          "b": "texto",
+          "texto": "El libro de los cinco anillos recoge la enseñanza que Musashi dejó al final de su vida, en el siglo XVII. Su asunto es la estrategia del guerrero, con especial atención al manejo de la espada y a la relación entre el combate individual y la dirección de fuerzas mayores. No fue escrito como un manual empresarial ni como una guía de bienestar. Sus páginas buscan la victoria en enfrentamientos reales. Desde esa distancia histórica podemos explorar lo que dicen sobre aprender, percibir y adaptarse, sin convertir a compañeros, familiares o clientes en enemigos que deban ser derrotados."
+        },
+        {
+          "b": "texto",
+          "texto": "Musashi organiza el texto en cinco libros: Tierra, Agua, Fuego, Viento y Vacío. Los nombres no son una decoración misteriosa. Cada uno ofrece una perspectiva diferente. Tierra prepara los fundamentos; Agua examina la disposición y la técnica; Fuego trata el enfrentamiento; Viento contrasta otras escuelas; Vacío reflexiona sobre una comprensión que ya no queda atrapada en la confusión. Las partes se relacionan: una decisión rápida depende de lo practicado, y la práctica depende de haber entendido qué se intenta hacer. No hay un último secreto que vuelva innecesario el trabajo anterior."
+        },
+        {
+          "b": "idea",
+          "texto": "Musashi convierte sus éxitos juveniles en una pregunta sobre lo que realmente sabía hacer."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "El oficio empieza por conocer materiales y personas"
+        },
+        {
+          "b": "texto",
+          "texto": "Para explicar los fundamentos, Musashi recurre a un taller de carpintería. El maestro conoce los planos de una construcción, selecciona la madera y distribuye las tareas. No utiliza todas las piezas del mismo modo. Unas sirven para lugares visibles; otras aportan resistencia en puntos menos destacados; otras resultan útiles durante la obra aunque no permanezcan en la casa terminada. La calidad surge de relacionar el material con su función. Desear que toda madera sea idéntica no ayuda a levantar el edificio que realmente puede construirse con ella."
+        },
+        {
+          "b": "texto",
+          "texto": "El maestro también necesita comprender a quienes trabajan a su lado. Musashi observa diferencias de experiencia, habilidad y disposición, y le atribuye la responsabilidad de asignar bien el trabajo, mantener el ritmo y reconocer lo que no conviene forzar. La comparación pertenece a un mundo jerárquico, pero no reduce la dirección a dar órdenes con mayor intensidad. Una mala organización puede desperdiciar buenas capacidades. Antes de culpar a una pieza por no servir, el responsable tendría que preguntarse si la ha colocado donde podía cumplir mejor su función."
+        },
+        {
+          "b": "texto",
+          "texto": "El aprendiz, por su parte, afila sus herramientas y aprende a utilizarlas en trabajos concretos. Una superficie brillante no compensa una unión defectuosa. El criterio está en que la obra se sostenga y cumpla su propósito. Musashi dirige desde ahí una crítica a las escuelas que adornan su enseñanza para venderla: mucho despliegue puede esconder poco resultado. Esa crítica también promociona su propio método, y conviene recordarlo. El autor no es un observador neutral de todas las tradiciones; defiende una forma de practicar frente a otras que considera equivocadas."
+        },
+        {
+          "b": "idea",
+          "texto": "Una buena decisión relaciona la tarea, las herramientas y la experiencia de quien va a realizarla."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "La herramienta y el ritmo dependen de la situación"
+        },
+        {
+          "b": "texto",
+          "texto": "Su atención a las herramientas desemboca en una advertencia contra las preferencias rígidas. Un instrumento tiene ventajas en ciertas condiciones y limitaciones en otras. Favorecer siempre el más grande, el más corto o el más vistoso puede impedir reconocer lo que pide la situación. En su escuela, el estudio de dos espadas busca ampliar las posibilidades de uso, no convertir una combinación en un adorno prestigioso. La herramienta debe ajustarse al cuerpo, al espacio y al propósito. Elegir por imitación deja fuera precisamente esas relaciones."
+        },
+        {
+          "b": "texto",
+          "texto": "El concepto que atraviesa todos los libros es el ritmo. Musashi lo encuentra en la música, en los oficios y en el ascenso o declive de una actividad. No se refiere solamente a moverse deprisa. Importa comprender el momento, la secuencia y la relación entre lo que hacemos y lo que sucede alrededor. Una acción puede ser correcta en sí misma y llegar demasiado pronto o demasiado tarde. Aprender estrategia exige reconocer diferencias entre ritmos que coinciden, que se oponen o que dejan una oportunidad entre ellos."
+        },
+        {
+          "b": "idea",
+          "texto": "Una preferencia se vuelve un límite cuando dejamos de preguntar para qué sirve."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Mirar ampliamente exige práctica"
+        },
+        {
+          "b": "texto",
+          "texto": "El Agua desarrolla esta capacidad de adaptación. El agua toma la forma del recipiente sin dejar de ser agua. Musashi la utiliza como modelo para una disposición que no se agarre a una única posición. Quiere una mente amplia, equilibrada y atenta, sin rigidez excesiva ni abandono. Insiste además en acercar la actitud cotidiana y la actitud de la práctica. Si necesitamos convertirnos en una persona completamente distinta cuando llega la dificultad, quizá no hayamos integrado todavía lo aprendido en el resto de nuestra vida."
+        },
+        {
+          "b": "texto",
+          "texto": "La mirada merece una atención especial. Fijarse únicamente en un detalle puede hacer desaparecer el conjunto. Musashi distingue el acto de mirar de una percepción más amplia de lo que está ocurriendo. No propone ignorar la información cercana, sino evitar que capture toda la atención. En un enfrentamiento, atender solo al arma impediría apreciar el terreno, la distancia o el movimiento del adversario. Fuera de ese contexto, la distinción permite pensar en ocasiones en las que examinamos una cifra o una frase y perdemos de vista la situación que les da sentido."
+        },
+        {
+          "b": "texto",
+          "texto": "El entrenamiento hace posible esa amplitud. Musashi compara al practicante experimentado con personas que manejan objetos o realizan juegos de habilidad sin mirar fijamente cada movimiento. La familiaridad libera parte de la atención. Pero no se obtiene por declarar que uno actuará con naturalidad. Requiere repetición, ajustes y contacto con situaciones diferentes. La soltura que vemos en alguien competente puede hacernos olvidar la cantidad de trabajo que la sostiene. Copiar su apariencia relajada no equivale a adquirir su capacidad."
+        },
+        {
+          "b": "idea",
+          "texto": "La atención puede abarcar el conjunto cuando el entrenamiento reduce la preocupación por cada movimiento aislado."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "La habilidad no necesita parecer apresurada"
+        },
+        {
+          "b": "texto",
+          "texto": "También las posiciones tienen una función que puede perderse cuando se vuelven ceremoniales. Musashi explica varias y, al mismo tiempo, insiste en no quedar fijado a ninguna. Parece una contradicción hasta que distinguimos aprender una forma de obedecerla sin juicio. La forma ayuda a comenzar; después debe permitir responder a lo que sucede. Una regla que funcionó en una situación puede convertirse en obstáculo en otra. Dominarla incluye comprender qué intenta resolver, de manera que podamos modificarla sin perder su propósito."
+        },
+        {
+          "b": "texto",
+          "texto": "La velocidad ofrece otro ejemplo. Musashi desconfía de quien identifica habilidad con prisa visible. El movimiento apresurado puede estar fuera de tiempo y desperdiciar esfuerzo. Un músico experto no se define por acelerar todas las piezas, sino por respetar el ritmo que corresponde a cada una. El caminante habituado a largas distancias tampoco necesita parecer agitado durante toda la jornada. La eficacia puede tener una apariencia tranquila porque elimina movimientos innecesarios y reconoce cuándo debe actuar, no porque la tarea carezca de dificultad."
+        },
+        {
+          "b": "idea",
+          "texto": "El ritmo adecuado importa más que exhibir velocidad o conservar una posición por costumbre."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Antes de cruzar, examina las condiciones"
+        },
+        {
+          "b": "texto",
+          "texto": "Al pasar al Fuego, el libro introduce las presiones de una situación que cambia mientras participamos en ella. Musashi distingue diferentes maneras de tomar la iniciativa: actuar primero, responder a la acción ajena o encontrarse con ella cuando ambos se mueven. No sostiene que empezar siempre sea suficiente. La iniciativa depende de leer la relación entre las partes. Esta perspectiva resulta más rica que una exhortación a ser agresivo: obliga a observar antes de decidir qué significa llevar la situación y qué significa limitarse a reaccionar dentro de un marco establecido por otro."
+        },
+        {
+          "b": "texto",
+          "texto": "Una de sus imágenes más claras es la travesía. Antes de cruzar un paso difícil por mar, el navegante examina el tiempo, la embarcación y sus propias capacidades. Considera cómo utilizar el viento y qué podría hacer si este cambia. Llegado el momento, tiene que cruzar. Prepararse no elimina la incertidumbre, pero permite entrar en ella con una comprensión mayor de las condiciones. Musashi ve pasos parecidos en la vida. Hay dificultades que no se resuelven esperando indefinidamente a que desaparezca cualquier posibilidad de error."
+        },
+        {
+          "b": "texto",
+          "texto": "El terreno forma parte de esas condiciones. El autor recuerda que una habilidad no se ejerce en un espacio abstracto: importan la luz, los obstáculos, las distancias y las posibilidades de movimiento. La enseñanza general que podemos extraer no es una maniobra concreta, sino un cambio de atención. A veces atribuimos un resultado exclusivamente a una persona y dejamos fuera el entorno que la favorece o limita. Comprender una situación exige mirar también las condiciones en las que se desarrolla, incluidas aquellas que parecían simples detalles de fondo."
+        },
+        {
+          "b": "texto",
+          "texto": "Musashi propone además ponerse mentalmente en el lugar del contrario. Al observar desde fuera a alguien atrincherado, podemos imaginarlo más seguro de lo que está. Desde dentro quizá se sienta rodeado y sin salida. La perspectiva modifica la percepción de la fuerza. En el texto, ese desplazamiento se utiliza para obtener ventaja en combate. Una aplicación actual puede ser distinta: comprender por qué alguien se resiste o teme una decisión. Esa adaptación es nuestra, no una afirmación de que Musashi estuviera enseñando empatía cooperativa en el sentido moderno."
+        },
+        {
+          "b": "idea",
+          "texto": "Comprender el terreno y la perspectiva de la otra parte cambia lo que parece posible."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Cuando una respuesta se atasca, cambia la escala"
+        },
+        {
+          "b": "texto",
+          "texto": "El estancamiento es otro de sus grandes asuntos. Dos partes pueden terminar empujándose de la misma manera sin que nada cambie. Musashi pide reconocer ese bloqueo y abandonar la disposición que lo mantiene. Aumentar la intensidad del mismo movimiento no siempre permite salir. Su imagen de la montaña y el mar recuerda la necesidad de variar cuando una respuesta deja de funcionar. La constancia valiosa conserva el propósito mientras revisa los medios; la repetición ciega conserva los medios incluso cuando ya no sirven al propósito."
+        },
+        {
+          "b": "texto",
+          "texto": "Esa flexibilidad incluye cambiar la escala de la atención. Musashi utiliza la imagen de una cabeza pequeña y un cuello grande para pasar de los detalles al conjunto. Mientras resolvemos una dificultad particular, podemos olvidar qué está ocurriendo con la situación completa. Pero mirar únicamente el panorama general también puede dejarnos sin una acción posible. La estrategia se mueve entre ambas escalas. Necesita suficiente cercanía para detectar diferencias y suficiente distancia para saber cuáles importan."
+        },
+        {
+          "b": "texto",
+          "texto": "El Fuego contiene asimismo observaciones sobre cómo se contagian los estados de ánimo y cómo cambian las posibilidades cuando aparece cansancio, confusión o confianza. No conviene suavizar el propósito del autor: busca aprovechar esas variaciones para vencer. Precisamente por eso, trasladarlo a la vida cotidiana requiere juicio. Reconocer la influencia mutua de las emociones puede ayudarnos a comunicarnos mejor; utilizarla para debilitar deliberadamente a cualquier persona sería otra elección. Comprender un mecanismo no decide por nosotros cuándo es correcto emplearlo."
+        },
+        {
+          "b": "idea",
+          "texto": "Persistir puede exigir modificar el enfoque en lugar de repetir con más fuerza lo que no avanza."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "Una escuela también puede quedar presa de su estilo"
+        },
+        {
+          "b": "texto",
+          "texto": "El Viento vuelve hacia las otras escuelas para examinar sus inclinaciones. Unas confían demasiado en la longitud de la espada; otras en la fuerza, la rapidez o una colección de técnicas. Musashi cree que cada preferencia puede estrechar la comprensión. Su argumento no consiste en que lo largo, lo fuerte o lo rápido carezcan siempre de utilidad. El error aparece cuando una ventaja particular se convierte en respuesta universal. En ese momento, el practicante empieza a defender su método frente a la realidad, en lugar de usar la realidad para poner a prueba su método."
+        },
+        {
+          "b": "texto",
+          "texto": "La enseñanza tiene que respetar también el momento de quien aprende. Musashi propone empezar por lo que el alumno puede comprender y avanzar cuando su capacidad lo permita. Rechaza convertir los conocimientos avanzados en un misterio cuyo valor dependa de mantener a otros fuera. Una idea puede ser difícil sin necesitar un aura de secreto. Lo decisivo es que llegue a convertirse en una capacidad propia. De ahí la insistencia del libro en examinar, practicar y volver sobre lo aprendido, en vez de limitarse a memorizar las palabras del maestro."
+        },
+        {
+          "b": "idea",
+          "texto": "Una enseñanza pierde alcance cuando convierte una ventaja parcial en respuesta para todas las situaciones."
+        }
+      ]
+    },
+    {
+      "bloques": [
+        {
+          "b": "rotulo",
+          "texto": "El vacío llega después del aprendizaje"
+        },
+        {
+          "b": "texto",
+          "texto": "El Vacío, la parte final y más breve, puede malinterpretarse como una celebración de no pensar o de no saber nada. Musashi distingue expresamente el vacío de la ignorancia y de la confusión. Quien no comprende una situación no ha alcanzado por ello un estado superior. La claridad que busca llega después de cultivar percepción, juicio y práctica. El objetivo es responder sin quedar atrapado en una fórmula o en la preocupación constante por ejecutar cada paso de manera consciente. Esa libertad es un resultado del aprendizaje, no una excusa para saltárselo."
+        },
+        {
+          "b": "texto",
+          "texto": "El libro contiene afirmaciones de victoria segura y de capacidades extraordinarias que forman parte de la convicción con la que Musashi presenta su escuela. Leerlo bien no exige adoptarlas como garantías. Su enseñanza más fértil aparece en el trabajo que pide antes de cualquier resultado: afinar herramientas, observar condiciones, variar la respuesta y distinguir apariencia de eficacia. Tampoco basta con extraer una frase llamativa. El autor repite una y otra vez que lo escrito tiene que comprobarse en la práctica y hacerse propio. Una idea que no resiste ese contacto continúa siendo solamente una idea."
+        },
+        {
+          "b": "texto",
+          "texto": "Podemos volver ahora al hombre que revisaba sus victorias juveniles. Su pregunta sigue siendo incómoda después de leer los cinco libros: ¿qué parte de lo que me ha salido bien entiendo realmente? Tal vez hubo habilidad, ayuda, buenas condiciones o un error ajeno. Reconocerlo no resta valor al resultado; permite aprender de él con mayor precisión. La práctica que propone Musashi empieza cuando dejamos de proteger la imagen de alguien que ya sabe y nos disponemos a observar de nuevo. Una herramienta mejor afilada importa, pero también importa saber para qué estamos decidiendo utilizarla."
+        },
+        {
+          "b": "idea",
+          "texto": "La claridad final de Musashi se apoya en práctica y discernimiento; no consiste en actuar desde la ignorancia."
+        }
+      ]
+    }
+  ]
+}
