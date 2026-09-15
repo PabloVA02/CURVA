@@ -1,0 +1,6 @@
+- [Cuando digo no, me siento culpable](https://www.penguinrandomhouse.com/books/169305/when-i-say-no-i-feel-guilty-by-manuel-j-smith/9780307785442/): referencia del tema para redactar el mensaje de portada.
+- [Los desafíos de la memoria](https://www.penguinrandomhouse.com/books/301277/moonwalking-with-einstein-by-joshua-foer/): referencia del tema para redactar el mensaje de portada.
+- [Aprende idiomas en 3 meses](https://www.fluentin3months.com/book-uk/): referencia del tema para redactar el mensaje de portada.
+- [Pequeño cerdo capitalista](https://www.penguinlibros.com/es/libro-de-negocio/5846-libro-pequeno-cerdo-capitalista-9788403014695): referencia del tema para redactar el mensaje de portada.
+- [La historia del mundo contada para escépticos](https://www.planetadelibros.com/libro-historia-del-mundo-contada-para-escepticos/69526?soporte=366425): referencia del tema para redactar el mensaje de portada.
+- [La conquista de la felicidad](https://www.penguinlibros.com/es/libros-de-filosofia/36011-libro-la-conquista-de-la-felicidad-9788497592888): referencia del tema para redactar el mensaje de portada.

@@ -2220,3 +2220,8 @@ Seis portadas instaladas y 10 propuestas anteriores conservadas con sus prompts 
 ## Segunda tanda del 15 de septiembre de 2026
 
 Seis portadas nuevas y cuatro versiones anteriores conservadas. [Originales y prompts](../tanda-2026-09-15-b/Prompts.md).
+
+
+## Tercera tanda del 15 de septiembre de 2026
+
+Seis portadas nuevas y tres versiones anteriores conservadas. [Originales y prompts](../tanda-2026-09-15-c/Prompts.md).

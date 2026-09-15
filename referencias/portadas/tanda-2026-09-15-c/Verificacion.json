@@ -1,0 +1,42 @@
+{
+  "fecha": "2026-09-15",
+  "tanda": "2026-09-15-c",
+  "base": "e103191bcbc9dc079350ab5d03b44c35c0b03ca8",
+  "total": 682,
+  "antes": 531,
+  "anadidas": 6,
+  "conPortada": 537,
+  "pendientes": 145,
+  "versionesConservadas": 9,
+  "js": "index-portadas-18ab8f75d6.js",
+  "librosNuevos": [
+    "cuando-digo-no",
+    "desafios-de-la-memoria",
+    "aprende-idiomas-en-3-meses",
+    "pequeno-cerdo-capitalista",
+    "historia-mundo-escepticos",
+    "conquista-felicidad"
+  ],
+  "totalMapaAnterior": 560,
+  "totalMapaActual": 566,
+  "validacion": {
+    "catalogoOriginalConservado": true,
+    "archivosPortadas537Existen": true,
+    "seisAdicionesSinDuplicadosNiReservados": true,
+    "restoAplicacionSinCambios": true,
+    "javascriptValido": true,
+    "originales9ConHashVerificado": true,
+    "movil": {
+      "viewport": "390 × 844",
+      "anchoPortada": 171,
+      "altoPortada": 256.5,
+      "imagenesCargadas": 6,
+      "mensajes": "Revisados visualmente: frases abreviadas, texto ampliado y contraste conservado"
+    },
+    "galeria": {
+      "filtros": true,
+      "busqueda": true
+    },
+    "seisImagenesFinalesOpacas": true
+  }
+}

@@ -1,19 +1,19 @@
 # Los 682 libros de Curva
 
-Estado revisado el 15 de septiembre de 2026, tras la segunda tanda del día: **531 con portada propia y 151 pendientes**. Incluye portadas aportadas y generadas para Curva; se conservan los 682 identificadores recibidos.
+Estado revisado el 15 de septiembre de 2026, tras la tercera tanda del día: **537 con portada propia y 145 pendientes**. Incluye portadas aportadas y generadas para Curva; se conservan los 682 identificadores recibidos.
 
 | Tema | Libros | Con portada | Pendientes |
 |---|---:|---:|---:|
-| Psicología | 238 | 124 | 114 |
-| Economía | 117 | 88 | 29 |
+| Psicología | 238 | 128 | 110 |
+| Economía | 117 | 89 | 28 |
 | Literatura | 75 | 75 | 0 |
-| Historia | 56 | 54 | 2 |
+| Historia | 56 | 55 | 1 |
 | Ciencia | 51 | 51 | 0 |
 | Salud | 51 | 45 | 6 |
 | Filosofía | 42 | 42 | 0 |
 | Arte | 27 | 27 | 0 |
 | Deportes | 25 | 25 | 0 |
-| **Total** | **682** | **531** | **151** |
+| **Total** | **682** | **537** | **145** |
 
 ## Psicología
 
@@ -22,7 +22,7 @@ Estado revisado el 15 de septiembre de 2026, tras la segunda tanda del día: **5
 | El arte de tener siempre razón | Arthur Schopenhauer | 1831 | Pendiente | pendiente | `arte-tener-razon` |
 | La interpretación de los sueños | Sigmund Freud | 1899 | Pendiente | pendiente | `interpretacion-suenos` |
 | Introducción al psicoanálisis | Sigmund Freud | 1917 | Sí | escrito | `intro-psicoanalisis` |
-| La conquista de la felicidad | Bertrand Russell | 1930 | Pendiente | pendiente | `conquista-felicidad` |
+| La conquista de la felicidad | Bertrand Russell | 1930 | Sí | pendiente | `conquista-felicidad` |
 | Cómo ganar amigos e influir sobre las personas | Dale Carnegie | 1936 | Sí | escrito | `amigos-influir` |
 | Cómo leer un libro | Mortimer J. Adler y Charles Van Doren | 1940 | Pendiente | pendiente | `como-leer-un-libro` |
 | Cómo suprimir las preocupaciones y disfrutar de la vida | Dale Carnegie | 1948 | Sí | pendiente | `suprimir-preocupaciones` |
@@ -36,7 +36,7 @@ Estado revisado el 15 de septiembre de 2026, tras la segunda tanda del día: **5
 | El hombre y sus símbolos | Carl Gustav Jung | 1964 | Sí | pendiente | `hombre-y-sus-simbolos` |
 | El vendedor más grande del mundo | Og Mandino | 1968 | Sí | escrito | `vendedor-mas-grande` |
 | Obediencia a la autoridad | Stanley Milgram | 1974 | Pendiente | pendiente | `obediencia-autoridad` |
-| Cuando digo no, me siento culpable | Manuel J. Smith | 1975 | Pendiente | pendiente | `cuando-digo-no` |
+| Cuando digo no, me siento culpable | Manuel J. Smith | 1975 | Sí | pendiente | `cuando-digo-no` |
 | El milagro de mindfulness | Thich Nhat Hanh | 1975 | Pendiente | pendiente | `milagro-mindfulness` |
 | Tus zonas erróneas | Wayne Dyer | 1976 | Sí | escrito | `tus-zonas-erroneas` |
 | Cómo hablar para que los niños escuchen | Adele Faber y Elaine Mazlish | 1980 | Sí | escrito | `ninos-escuchen` |
@@ -137,7 +137,7 @@ Estado revisado el 15 de septiembre de 2026, tras la segunda tanda del día: **5
 | El cerebro del niño | Siegel y Payne Bryson | 2011 | Sí | escrito | `cerebro-del-nino` |
 | Fuerza de voluntad | Roy Baumeister y John Tierney | 2011 | Pendiente | pendiente | `fuerza-de-voluntad` |
 | Los cinco arrepentimientos de los moribundos | Bronnie Ware | 2011 | Sí | escrito | `cinco-arrepentimientos` |
-| Los desafíos de la memoria | Joshua Foer | 2011 | Pendiente | pendiente | `desafios-de-la-memoria` |
+| Los desafíos de la memoria | Joshua Foer | 2011 | Sí | pendiente | `desafios-de-la-memoria` |
 | Modelos | Mark Manson | 2011 | Sí | escrito | `modelos-manson` |
 | Pensar rápido, pensar despacio | Daniel Kahneman | 2011 | Sí | escrito | `pensar-rapido` |
 | Sé amable contigo mismo | Kristin Neff | 2011 | Sí | pendiente | `se-amable-contigo` |
@@ -162,7 +162,7 @@ Estado revisado el 15 de septiembre de 2026, tras la segunda tanda del día: **5
 | Primeros auxilios emocionales | Guy Winch | 2013 | Sí | pendiente | `primeros-auxilios-emocionales` |
 | Solo una cosa | Gary Keller y Jay Papasan | 2013 | Pendiente | pendiente | `solo-una-cosa` |
 | 13 cosas que las personas mentalmente fuertes no hacen | Amy Morin | 2014 | Pendiente | pendiente | `trece-cosas-mentalmente-fuertes` |
-| Aprende idiomas en 3 meses | Benny Lewis | 2014 | Pendiente | pendiente | `aprende-idiomas-en-3-meses` |
+| Aprende idiomas en 3 meses | Benny Lewis | 2014 | Sí | pendiente | `aprende-idiomas-en-3-meses` |
 | Disciplina sin lágrimas | Daniel J. Siegel y Tina Payne Bryson | 2014 | Pendiente | pendiente | `disciplina-sin-lagrimas` |
 | El obstáculo es el camino | Ryan Holiday | 2014 | Sí | escrito | `obstaculo-es-camino` |
 | El placebo eres tú | Joe Dispenza | 2014 | Sí | escrito | `placebo-eres-tu` |
@@ -319,7 +319,7 @@ Estado revisado el 15 de septiembre de 2026, tras la segunda tanda del día: **5
 | El método Lean Startup | Eric Ries | 2011 | Sí | escrito | `lean-startup` |
 | La regla del 10X | Grant Cardone | 2011 | Sí | pendiente | `regla-10x` |
 | La vía rápida del millonario | MJ DeMarco | 2011 | Pendiente | pendiente | `via-rapida-del-millonario` |
-| Pequeño cerdo capitalista | Sofía Macías | 2011 | Pendiente | pendiente | `pequeno-cerdo-capitalista` |
+| Pequeño cerdo capitalista | Sofía Macías | 2011 | Sí | pendiente | `pequeno-cerdo-capitalista` |
 | Steve Jobs | Walter Isaacson | 2011 | Sí | escrito | `steve-jobs` |
 | ¿Cómo medirás tu vida? | Clayton M. Christensen, James Allworth y Karen Dillon | 2012 | Sí | pendiente | `como-mediras-tu-vida` |
 | Antifrágil | Nassim Taleb | 2012 | Sí | escrito | `antifragil` |
@@ -499,7 +499,7 @@ Estado revisado el 15 de septiembre de 2026, tras la segunda tanda del día: **5
 | Sapiens | Yuval Noah Harari | 2011 | Sí | escrito | `sapiens` |
 | 1913: el verano del siglo | Florian Illies | 2012 | Sí | pendiente | `verano-1913` |
 | Desafío total | Arnold Schwarzenegger | 2012 | Pendiente | pendiente | `desafio-total` |
-| La historia del mundo contada para escépticos | Juan Eslava Galán | 2012 | Pendiente | pendiente | `historia-mundo-escepticos` |
+| La historia del mundo contada para escépticos | Juan Eslava Galán | 2012 | Sí | pendiente | `historia-mundo-escepticos` |
 | El fin del Homo Sovieticus | Svetlana Aleksiévich | 2013 | Sí | escrito | `homo-sovieticus` |
 | El verano de 1927 | Bill Bryson | 2013 | Sí | escrito | `verano-1927` |
 | Yo soy Malala | Malala Yousafzai | 2013 | Sí | escrito | `malala` |
