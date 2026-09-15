@@ -2211,3 +2211,7 @@ Archivo: `originales/arte-de-aprender-waitzkin-v2-31f619c498.png`
 Edit the FIRST attached image, an original Curva cover. Other images, if any, are style references only. Remove ALL black blurred patches, vignettes, soft shadows and smudges from this cover, especially upper-right behind the title and across the bottom subtitle. Restore the upper background to perfectly uniform flat APRICOT, retaining the existing crisp coral triangle and cream circle. Replace the entire bottom area below the shoes with one clean, uniform IVORY band, and keep/re-render the subtitle in solid deep navy on that ivory band, all text fully readable. Keep the tai chi woman's coherent pose, flat natural skin, teal clothes, checkerboard directly under her feet, title and left book crease. Keep figure and checkerboard as clean flat drawn colour areas, no photographic lighting anywhere. No extra decorations.
 Exact title: «El arte de aprender». Exact subtitle: «Lecciones del ajedrez y el taichí para aprender mejor y rendir bajo presión».
 One finished vertical cover, 1024×1536. Preserve full-height left pressed-book crease. No new words, logo or author. No surrounding scene or mockup.
+
+## Tanda del 15 de septiembre de 2026
+
+Seis portadas instaladas y 10 propuestas anteriores conservadas con sus prompts en [tanda-2026-09-15](../tanda-2026-09-15/Prompts.md).

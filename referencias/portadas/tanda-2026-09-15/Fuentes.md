@@ -1,0 +1,6 @@
+- [La muerte de Iván Ilich](https://www.penguinlibros.com/es/literatura-contemporanea/617445-libro-la-muerte-de-ivan-ilich-9788491056218): referencia del contenido para el mensaje de portada.
+- [Hiperenfoque](https://chrisbailey.com/hyperfocus/): referencia del contenido para el mensaje de portada.
+- [El hombre y sus símbolos](https://www.planetadelibros.com/libro-el-hombre-y-sus-simbolos/423290): referencia del contenido para el mensaje de portada.
+- [La startup de 100 dólares](https://www.100startup.com/): referencia del contenido para el mensaje de portada.
+- [Lo que nunca cambia](https://www.planetadelibros.com/libro-lo-que-nunca-cambia/390034?soporte=390034): referencia del contenido para el mensaje de portada.
+- [La vida de 100 años](https://www.100yearlife.com/): referencia del contenido para el mensaje de portada.

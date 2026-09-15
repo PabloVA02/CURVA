@@ -1,0 +1,40 @@
+{
+  "fecha": "2026-09-15",
+  "base": "93abecfd8b28c018edd82e6919c2667f571bc6cd",
+  "total": 682,
+  "antes": 519,
+  "anadidas": 6,
+  "conPortada": 525,
+  "pendientes": 157,
+  "versionesConservadas": 16,
+  "js": "index-portadas-fcb11e5387.js",
+  "librosNuevos": [
+    "muerte-de-ivan-ilich",
+    "hiperenfoque",
+    "hombre-y-sus-simbolos",
+    "startup-100-dolares",
+    "lo-que-nunca-cambia",
+    "vida-de-100-anos"
+  ],
+  "totalMapaAnterior": 548,
+  "totalMapaActual": 554,
+  "validacion": {
+    "catalogoOriginalConservado": true,
+    "archivosPortadas525Existen": true,
+    "seisAdicionesSinDuplicadosNiReservados": true,
+    "restoAplicacionSinCambios": true,
+    "javascriptValido": true,
+    "originales16ConHashVerificado": true,
+    "movil": {
+      "viewport": "390 × 844",
+      "anchoPortada": 171,
+      "altoPortada": 256.5,
+      "imagenesCargadas": 6,
+      "mensajes": "Revisados visualmente: frases abreviadas, texto ampliado y contraste conservado"
+    },
+    "galeria": {
+      "filtros": true,
+      "busqueda": true
+    }
+  }
+}

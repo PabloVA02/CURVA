@@ -47,3 +47,5 @@ Las ilustraciones se generan con IA por encargo del usuario; la intención visua
 - Corrección de la octava tanda: variar más los motivos y las composiciones; se repiten demasiado plantas, caminos y objetos enormes con texto encima. Rehacer diez propuestas con escenas, encuadres y relaciones entre texto e imagen distintos.
 
 - Novena tanda: el usuario pide seguir creando portadas lo más bonitas posible y confirma excluir las 50 reservadas para la otra IA. Mantener más variedad de motivos, encuadres, tipografía y color.
+
+- 15 de septiembre: el usuario vuelve a priorizar belleza y dibujos como Wiser/Headway. Formas planas y expresivas, color vivo con sentido, personajes sencillos y composiciones variadas. Se revisaron las capturas originales; se redujo el detalle y el volumen de cuatro propuestas. El catálogo de trabajo es la lista de 682 libros, cruzada con las portadas realmente instaladas para evitar duplicados. También pidió mensajes legibles en móvil: se acortaron y se aumentó su tamaño y espacio en las seis portadas. Comprobarlos a unos 170 píxeles de ancho antes de publicar.
