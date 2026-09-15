@@ -1,0 +1,6 @@
+- [La sabiduría de la inseguridad](https://www.penguinrandomhouse.com/books/205321/the-wisdom-of-insecurity-by-alan-watts/): referencia del tema para redactar el mensaje de portada.
+- [Los dones de la imperfección](https://brenebrown.com/hubs/the-gifts-hub/): referencia del tema para redactar el mensaje de portada.
+- [Hable como en TED](https://www.carminegallo.com/books/talk-like-ted/): referencia del tema para redactar el mensaje de portada.
+- [El camino simple a la riqueza](https://jlcollinsnh.com/): referencia del tema para redactar el mensaje de portada.
+- [Jugarse la piel](https://www.penguinrandomhouse.com/books/537828/skin-in-the-game-by-nassim-nicholas-taleb/): referencia del tema para redactar el mensaje de portada.
+- [El gorila invisible](https://www.penguinrandomhouse.com/books/25716/the-invisible-gorilla-by-christopher-chabris-and-daniel-simons/): referencia del tema para redactar el mensaje de portada.

@@ -1,11 +1,11 @@
 # Los 682 libros de Curva
 
-Estado revisado el 15 de septiembre de 2026, tras la tercera tanda del día: **537 con portada propia y 145 pendientes**. Incluye portadas aportadas y generadas para Curva; se conservan los 682 identificadores recibidos.
+Estado revisado el 15 de septiembre de 2026, tras la cuarta tanda del día: **543 con portada propia y 139 pendientes**. Incluye portadas aportadas y generadas para Curva; se conservan los 682 identificadores recibidos.
 
 | Tema | Libros | Con portada | Pendientes |
 |---|---:|---:|---:|
-| Psicología | 238 | 128 | 110 |
-| Economía | 117 | 89 | 28 |
+| Psicología | 238 | 132 | 106 |
+| Economía | 117 | 91 | 26 |
 | Literatura | 75 | 75 | 0 |
 | Historia | 56 | 55 | 1 |
 | Ciencia | 51 | 51 | 0 |
@@ -13,7 +13,7 @@ Estado revisado el 15 de septiembre de 2026, tras la tercera tanda del día: **5
 | Filosofía | 42 | 42 | 0 |
 | Arte | 27 | 27 | 0 |
 | Deportes | 25 | 25 | 0 |
-| **Total** | **682** | **537** | **145** |
+| **Total** | **682** | **543** | **139** |
 
 ## Psicología
 
@@ -27,7 +27,7 @@ Estado revisado el 15 de septiembre de 2026, tras la tercera tanda del día: **5
 | Cómo leer un libro | Mortimer J. Adler y Charles Van Doren | 1940 | Pendiente | pendiente | `como-leer-un-libro` |
 | Cómo suprimir las preocupaciones y disfrutar de la vida | Dale Carnegie | 1948 | Sí | pendiente | `suprimir-preocupaciones` |
 | Zen en el arte del tiro con arco | Eugen Herrigel | 1948 | Pendiente | pendiente | `zen-tiro-con-arco` |
-| La sabiduría de la inseguridad | Alan Watts | 1951 | Pendiente | pendiente | `sabiduria-inseguridad` |
+| La sabiduría de la inseguridad | Alan Watts | 1951 | Sí | pendiente | `sabiduria-inseguridad` |
 | El poder del pensamiento positivo | Norman Vincent Peale | 1952 | Sí | pendiente | `pensamiento-positivo` |
 | El arte de amar | Erich Fromm | 1956 | Sí | escrito | `arte-de-amar` |
 | La actitud mental positiva | Napoleon Hill y W. Clement Stone | 1959 | Sí | escrito | `actitud-mental-positiva` |
@@ -125,10 +125,10 @@ Estado revisado el 15 de septiembre de 2026, tras la tercera tanda del día: **5
 | Las claves del talento | Daniel Coyle | 2009 | Pendiente | pendiente | `claves-del-talento` |
 | Objetivo: felicidad | Gretchen Rubin | 2009 | Pendiente | pendiente | `objetivo-felicidad` |
 | Cambia el chip | Chip y Dan Heath | 2010 | Sí | escrito | `cambia-el-chip` |
-| El gorila invisible | Christopher Chabris y Daniel Simons | 2010 | Pendiente | pendiente | `gorila-invisible` |
+| El gorila invisible | Christopher Chabris y Daniel Simons | 2010 | Sí | pendiente | `gorila-invisible` |
 | En el principio era el sexo | Christopher Ryan y Cacilda Jethá | 2010 | Pendiente | pendiente | `principio-era-el-sexo` |
 | La felicidad como ventaja | Shawn Achor | 2010 | Pendiente | pendiente | `felicidad-como-ventaja` |
-| Los dones de la imperfección | Brené Brown | 2010 | Pendiente | pendiente | `dones-de-la-imperfeccion` |
+| Los dones de la imperfección | Brené Brown | 2010 | Sí | pendiente | `dones-de-la-imperfeccion` |
 | Maneras de amar | Levine y Heller | 2010 | Sí | escrito | `maneras-de-amar` |
 | Procrastinación | Piers Steel | 2010 | Sí | escrito | `procrastinacion-steel` |
 | Autocontrol | Kelly McGonigal | 2011 | Pendiente | pendiente | `autocontrol-mcgonigal` |
@@ -166,7 +166,7 @@ Estado revisado el 15 de septiembre de 2026, tras la tercera tanda del día: **5
 | Disciplina sin lágrimas | Daniel J. Siegel y Tina Payne Bryson | 2014 | Pendiente | pendiente | `disciplina-sin-lagrimas` |
 | El obstáculo es el camino | Ryan Holiday | 2014 | Sí | escrito | `obstaculo-es-camino` |
 | El placebo eres tú | Joe Dispenza | 2014 | Sí | escrito | `placebo-eres-tu` |
-| Hable como en TED | Carmine Gallo | 2014 | Pendiente | pendiente | `hable-como-en-ted` |
+| Hable como en TED | Carmine Gallo | 2014 | Sí | pendiente | `hable-como-en-ted` |
 | Lo que he aprendido en la vida | Oprah Winfrey | 2014 | Pendiente | pendiente | `lo-que-he-aprendido-vida` |
 | Los hombres me explican cosas | Rebecca Solnit | 2014 | Pendiente | pendiente | `hombres-explican-cosas` |
 | Rodeado de idiotas | Thomas Erikson | 2014 | Pendiente | pendiente | `rodeado-de-idiotas` |
@@ -344,7 +344,7 @@ Estado revisado el 15 de septiembre de 2026, tras la tercera tanda del día: **5
 | Superpronosticadores | Tetlock y Gardner | 2015 | Sí | escrito | `superpronosticadores` |
 | Cómo vivir del day trading | Andrew Aziz | 2016 | Sí | pendiente | `vivir-del-day-trading` |
 | Descansa | Alex Soojung-Kim Pang | 2016 | Sí | pendiente | `descansa` |
-| El camino simple a la riqueza | J. L. Collins | 2016 | Pendiente | pendiente | `camino-simple-riqueza` |
+| El camino simple a la riqueza | J. L. Collins | 2016 | Sí | pendiente | `camino-simple-riqueza` |
 | Eres un chingón haciendo dinero | Jen Sincero | 2017 | Sí | escrito | `chingona-dinero` |
 | Hábitos para ser millonario | Brian Tracy | 2017 | Pendiente | pendiente | `habitos-para-ser-millonario` |
 | Independízate de Papá Estado | Carlos Galán | 2017 | Pendiente | pendiente | `independizate-papa-estado` |
@@ -356,7 +356,7 @@ Estado revisado el 15 de septiembre de 2026, tras la tercera tanda del día: **5
 | Esto es marketing | Seth Godin | 2018 | Sí | pendiente | `esto-es-marketing` |
 | Factfulness | Hans Rosling | 2018 | Sí | escrito | `factfulness` |
 | Gestiona tu dinero como un jo**do adulto | Sam Beckbessinger | 2018 | Sí | pendiente | `gestiona-tu-dinero-adulto` |
-| Jugarse la piel | Nassim Nicholas Taleb | 2018 | Pendiente | pendiente | `jugarse-la-piel` |
+| Jugarse la piel | Nassim Nicholas Taleb | 2018 | Sí | pendiente | `jugarse-la-piel` |
 | Finanzas para chicas listas | Bola Sokunbi | 2019 | Sí | pendiente | `finanzas-para-chicas-listas` |
 | Libertad financiera | Grant Sabatier | 2019 | Pendiente | pendiente | `libertad-financiera-sabatier` |
 | Tonterías que las personas inteligentes hacen con su dinero | Jill Schlesinger | 2019 | Pendiente | pendiente | `tonterias-con-su-dinero` |

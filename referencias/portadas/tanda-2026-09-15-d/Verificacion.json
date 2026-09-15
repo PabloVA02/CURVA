@@ -1,0 +1,41 @@
+{
+  "fecha": "2026-09-15",
+  "tanda": "2026-09-15-d",
+  "base": "d50a78eb5bf4f13454a657346f834ed487fdd195",
+  "total": 682,
+  "antes": 537,
+  "anadidas": 6,
+  "conPortada": 543,
+  "pendientes": 139,
+  "versionesConservadas": 7,
+  "js": "index-portadas-d8fbc44a55.js",
+  "librosNuevos": [
+    "sabiduria-inseguridad",
+    "dones-de-la-imperfeccion",
+    "hable-como-en-ted",
+    "camino-simple-riqueza",
+    "jugarse-la-piel",
+    "gorila-invisible"
+  ],
+  "totalMapaAnterior": 566,
+  "totalMapaActual": 572,
+  "validacion": {
+    "catalogoOriginalConservado": true,
+    "archivosPortadas543Existen": true,
+    "seisAdicionesSinDuplicadosNiReservados": true,
+    "restoAplicacionSinCambios": true,
+    "javascriptValido": true,
+    "originales7ConHashVerificado": true,
+    "movil": {
+      "viewport": "390 × 844",
+      "anchoPortada": 171,
+      "altoPortada": 256.5,
+      "imagenesCargadas": 6,
+      "mensajes": "Revisados visualmente: frases abreviadas, texto ampliado y contraste conservado"
+    },
+    "galeria": {
+      "filtros": true,
+      "busqueda": true
+    }
+  }
+}
