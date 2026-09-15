@@ -1,0 +1,6 @@
+- [Sé amable contigo mismo](https://self-compassion.org/books-by-kristin-neff/): referencia del tema para redactar el mensaje de portada.
+- [Educar en el asombro](https://catherinelecuyer.com/category/educar-en-el-asombro/): referencia del tema para redactar el mensaje de portada.
+- [No te ahogues en un vaso de agua](https://dontsweat.com/books/): referencia del tema para redactar el mensaje de portada.
+- [El año de 12 semanas](https://12weekyear.com/): referencia del tema para redactar el mensaje de portada.
+- [La sabiduría de las multitudes](https://www.penguinrandomhouse.com/books/175380/the-wisdom-of-crowds-by-james-surowiecki/): referencia del tema para redactar el mensaje de portada.
+- [Más joven cada año](https://www.hachettebookgroup.com/series/younger-next-year/?lens=workman-publishing-company): referencia del tema para redactar el mensaje de portada.

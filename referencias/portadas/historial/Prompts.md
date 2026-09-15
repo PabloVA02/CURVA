@@ -2215,3 +2215,8 @@ One finished vertical cover, 1024×1536. Preserve full-height left pressed-book 
 ## Tanda del 15 de septiembre de 2026
 
 Seis portadas instaladas y 10 propuestas anteriores conservadas con sus prompts en [tanda-2026-09-15](../tanda-2026-09-15/Prompts.md).
+
+
+## Segunda tanda del 15 de septiembre de 2026
+
+Seis portadas nuevas y cuatro versiones anteriores conservadas. [Originales y prompts](../tanda-2026-09-15-b/Prompts.md).

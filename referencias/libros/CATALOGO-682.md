@@ -1,19 +1,19 @@
 # Los 682 libros de Curva
 
-Estado de las portadas revisado el 15 de septiembre de 2026: **525 con portada propia y 157 pendientes**. Incluye las aportadas y las generadas para Curva. Se conservaron los 682 identificadores de la lista recibida.
+Estado revisado el 15 de septiembre de 2026, tras la segunda tanda del día: **531 con portada propia y 151 pendientes**. Incluye portadas aportadas y generadas para Curva; se conservan los 682 identificadores recibidos.
 
 | Tema | Libros | Con portada | Pendientes |
 |---|---:|---:|---:|
-| Psicología | 238 | 121 | 117 |
-| Economía | 117 | 86 | 31 |
+| Psicología | 238 | 124 | 114 |
+| Economía | 117 | 88 | 29 |
 | Literatura | 75 | 75 | 0 |
 | Historia | 56 | 54 | 2 |
 | Ciencia | 51 | 51 | 0 |
-| Salud | 51 | 44 | 7 |
+| Salud | 51 | 45 | 6 |
 | Filosofía | 42 | 42 | 0 |
 | Arte | 27 | 27 | 0 |
 | Deportes | 25 | 25 | 0 |
-| **Total** | **682** | **525** | **157** |
+| **Total** | **682** | **531** | **151** |
 
 ## Psicología
 
@@ -65,7 +65,7 @@ Estado de las portadas revisado el 15 de septiembre de 2026: **525 con portada p
 | El don de la sensibilidad | Elaine N. Aron | 1996 | Sí | pendiente | `don-sensibilidad` |
 | El don del miedo | Gavin de Becker | 1997 | Pendiente | pendiente | `don-del-miedo` |
 | El poder del ahora | Eckhart Tolle | 1997 | Sí | escrito | `poder-ahora` |
-| No te ahogues en un vaso de agua | Richard Carlson | 1997 | Pendiente | pendiente | `no-te-ahogues-vaso-agua` |
+| No te ahogues en un vaso de agua | Richard Carlson | 1997 | Sí | pendiente | `no-te-ahogues-vaso-agua` |
 | Cómo controlar la ansiedad antes de que te controle a ti | Albert Ellis | 1998 | Pendiente | pendiente | `controlar-la-ansiedad` |
 | Cómo hablar con cualquiera | Leil Lowndes | 1998 | Pendiente | pendiente | `como-hablar-con-cualquiera` |
 | El arte de la felicidad | Dalái Lama y Howard Cutler | 1998 | Pendiente | pendiente | `arte-felicidad` |
@@ -140,8 +140,8 @@ Estado de las portadas revisado el 15 de septiembre de 2026: **525 con portada p
 | Los desafíos de la memoria | Joshua Foer | 2011 | Pendiente | pendiente | `desafios-de-la-memoria` |
 | Modelos | Mark Manson | 2011 | Sí | escrito | `modelos-manson` |
 | Pensar rápido, pensar despacio | Daniel Kahneman | 2011 | Sí | escrito | `pensar-rapido` |
-| Sé amable contigo mismo | Kristin Neff | 2011 | Pendiente | pendiente | `se-amable-contigo` |
-| Educar en el asombro | Catherine L'Ecuyer | 2012 | Pendiente | pendiente | `educar-en-el-asombro` |
+| Sé amable contigo mismo | Kristin Neff | 2011 | Sí | pendiente | `se-amable-contigo` |
+| Educar en el asombro | Catherine L'Ecuyer | 2012 | Sí | pendiente | `educar-en-el-asombro` |
 | El mito del carisma | Olivia Fox Cabane | 2012 | Pendiente | pendiente | `mito-del-carisma` |
 | El pequeño libro del talento | Daniel Coyle | 2012 | Pendiente | pendiente | `pequeno-libro-del-talento` |
 | El poder de los hábitos | Charles Duhigg | 2012 | Sí | escrito | `poder-habitos` |
@@ -292,7 +292,7 @@ Estado de las portadas revisado el 15 de septiembre de 2026: **525 con portada p
 | La vaca púrpura | Seth Godin | 2003 | Sí | pendiente | `vaca-purpura` |
 | El arte de empezar | Guy Kawasaki | 2004 | Sí | escrito | `arte-de-empezar` |
 | El millonario automático | David Bach | 2004 | Sí | escrito | `millonario-automatico` |
-| La sabiduría de las multitudes | James Surowiecki | 2004 | Pendiente | pendiente | `sabiduria-multitudes` |
+| La sabiduría de las multitudes | James Surowiecki | 2004 | Sí | pendiente | `sabiduria-multitudes` |
 | El economista camuflado | Tim Harford | 2005 | Sí | pendiente | `economista-camuflado` |
 | Freakonomics | Levitt y Dubner | 2005 | Sí | escrito | `freakonomics` |
 | La estrategia del océano azul | Kim y Mauborgne | 2005 | Sí | escrito | `oceano-azul` |
@@ -329,7 +329,7 @@ Estado de las portadas revisado el 15 de septiembre de 2026: **525 con portada p
 | Vender es humano | Daniel H. Pink | 2012 | Sí | escrito | `vender-es-humano` |
 | Comprar felicidad | Elizabeth Dunn y Michael Norton | 2013 | Sí | pendiente | `comprar-felicidad` |
 | Contagioso | Jonah Berger | 2013 | Sí | pendiente | `contagioso` |
-| El año de 12 semanas | Brian P. Moran y Michael Lennington | 2013 | Pendiente | pendiente | `ano-12-semanas` |
+| El año de 12 semanas | Brian P. Moran y Michael Lennington | 2013 | Sí | pendiente | `ano-12-semanas` |
 | El capital en el siglo XXI | Thomas Piketty | 2013 | Sí | escrito | `capital-siglo-xxi` |
 | Vayamos adelante | Sheryl Sandberg | 2013 | Sí | pendiente | `vayamos-adelante` |
 | Creatividad, S.A. | Ed Catmull y Amy Wallace | 2014 | Sí | escrito | `creatividad-sa` |
@@ -586,7 +586,7 @@ Estado de las portadas revisado el 15 de septiembre de 2026: **525 con portada p
 | ¿Por qué las cebras no tienen úlcera? | Robert M. Sapolsky | 1994 | Sí | pendiente | `cebras-no-tienen-ulcera` |
 | El método Dukan | Pierre Dukan | 2000 | Pendiente | pendiente | `metodo-dukan` |
 | El poder del pleno compromiso | Jim Loehr y Tony Schwartz | 2003 | Sí | escrito | `pleno-compromiso` |
-| Más joven cada año | Chris Crowley y Henry S. Lodge | 2004 | Pendiente | pendiente | `mas-joven-cada-ano` |
+| Más joven cada año | Chris Crowley y Henry S. Lodge | 2004 | Sí | pendiente | `mas-joven-cada-ano` |
 | La biología de la creencia | Bruce Lipton | 2005 | Sí | escrito | `biologia-creencia` |
 | La enzima prodigiosa | Hiromi Shinya | 2005 | Pendiente | pendiente | `enzima-prodigiosa` |
 | El dilema del omnívoro | Michael Pollan | 2006 | Sí | escrito | `dilema-omnivoro` |

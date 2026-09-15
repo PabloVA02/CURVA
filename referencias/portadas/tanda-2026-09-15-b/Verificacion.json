@@ -1,0 +1,41 @@
+{
+  "fecha": "2026-09-15",
+  "tanda": "2026-09-15-b",
+  "base": "217c3bdf07c089aa8707a2c4faaa59a1e49ddbcb",
+  "total": 682,
+  "antes": 525,
+  "anadidas": 6,
+  "conPortada": 531,
+  "pendientes": 151,
+  "versionesConservadas": 10,
+  "js": "index-portadas-67b3405d5a.js",
+  "librosNuevos": [
+    "se-amable-contigo",
+    "educar-en-el-asombro",
+    "no-te-ahogues-vaso-agua",
+    "ano-12-semanas",
+    "sabiduria-multitudes",
+    "mas-joven-cada-ano"
+  ],
+  "totalMapaAnterior": 554,
+  "totalMapaActual": 560,
+  "validacion": {
+    "catalogoOriginalConservado": true,
+    "archivosPortadas531Existen": true,
+    "seisAdicionesSinDuplicadosNiReservados": true,
+    "restoAplicacionSinCambios": true,
+    "javascriptValido": true,
+    "originales10ConHashVerificado": true,
+    "movil": {
+      "viewport": "390 × 844",
+      "anchoPortada": 171,
+      "altoPortada": 256.5,
+      "imagenesCargadas": 6,
+      "mensajes": "Revisados visualmente: frases abreviadas, texto ampliado y contraste conservado"
+    },
+    "galeria": {
+      "filtros": true,
+      "busqueda": true
+    }
+  }
+}
