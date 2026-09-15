@@ -1,0 +1,6147 @@
+{
+ "fecha": "2026-09-15",
+ "total": 682,
+ "con_cubierta_propia": 284,
+ "sin_cubierta": 398,
+ "nota": "Catálogo completo de Curva. cubierta_propia = dibujo de Pablo ya hecho; los que la tienen en false son los que necesitan portada. El id es el nombre de fichero que espera la app: <id>.webp.",
+ "libros": [
+  {
+   "id": "arte-tener-razon",
+   "titulo": "El arte de tener siempre razón",
+   "autor": "Arthur Schopenhauer",
+   "ano": 1831,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "interpretacion-suenos",
+   "titulo": "La interpretación de los sueños",
+   "autor": "Sigmund Freud",
+   "ano": 1899,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "intro-psicoanalisis",
+   "titulo": "Introducción al psicoanálisis",
+   "autor": "Sigmund Freud",
+   "ano": 1917,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "conquista-felicidad",
+   "titulo": "La conquista de la felicidad",
+   "autor": "Bertrand Russell",
+   "ano": 1930,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "amigos-influir",
+   "titulo": "Cómo ganar amigos e influir sobre las personas",
+   "autor": "Dale Carnegie",
+   "ano": 1936,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "como-leer-un-libro",
+   "titulo": "Cómo leer un libro",
+   "autor": "Mortimer J. Adler y Charles Van Doren",
+   "ano": 1940,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "suprimir-preocupaciones",
+   "titulo": "Cómo suprimir las preocupaciones y disfrutar de la vida",
+   "autor": "Dale Carnegie",
+   "ano": 1948,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "zen-tiro-con-arco",
+   "titulo": "Zen en el arte del tiro con arco",
+   "autor": "Eugen Herrigel",
+   "ano": 1948,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "sabiduria-inseguridad",
+   "titulo": "La sabiduría de la inseguridad",
+   "autor": "Alan Watts",
+   "ano": 1951,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "pensamiento-positivo",
+   "titulo": "El poder del pensamiento positivo",
+   "autor": "Norman Vincent Peale",
+   "ano": 1952,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "arte-de-amar",
+   "titulo": "El arte de amar",
+   "autor": "Erich Fromm",
+   "ano": 1956,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "actitud-mental-positiva",
+   "titulo": "La actitud mental positiva",
+   "autor": "Napoleon Hill y W. Clement Stone",
+   "ano": 1959,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "magia-pensar-grande",
+   "titulo": "La magia de pensar en grande",
+   "autor": "David Schwartz",
+   "ano": 1959,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "poder-mente-subconsciente",
+   "titulo": "El poder de tu mente subconsciente",
+   "autor": "Joseph Murphy",
+   "ano": 1963,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "hombre-y-sus-simbolos",
+   "titulo": "El hombre y sus símbolos",
+   "autor": "Carl Gustav Jung",
+   "ano": 1964,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "vendedor-mas-grande",
+   "titulo": "El vendedor más grande del mundo",
+   "autor": "Og Mandino",
+   "ano": 1968,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "obediencia-autoridad",
+   "titulo": "Obediencia a la autoridad",
+   "autor": "Stanley Milgram",
+   "ano": 1974,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cuando-digo-no",
+   "titulo": "Cuando digo no, me siento culpable",
+   "autor": "Manuel J. Smith",
+   "ano": 1975,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "milagro-mindfulness",
+   "titulo": "El milagro de mindfulness",
+   "autor": "Thich Nhat Hanh",
+   "ano": 1975,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "tus-zonas-erroneas",
+   "titulo": "Tus zonas erróneas",
+   "autor": "Wayne Dyer",
+   "ano": 1976,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "ninos-escuchen",
+   "titulo": "Cómo hablar para que los niños escuchen",
+   "autor": "Adele Faber y Elaine Mazlish",
+   "ano": 1980,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "sentirse-bien",
+   "titulo": "Sentirse bien",
+   "autor": "David D. Burns",
+   "ano": 1980,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "obtenga-el-si",
+   "titulo": "Obtenga el sí",
+   "autor": "Fisher y Ury",
+   "ano": 1981,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "arte-amargarse-vida",
+   "titulo": "El arte de amargarse la vida",
+   "autor": "Paul Watzlawick",
+   "ano": 1983,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "influencia",
+   "titulo": "Influencia",
+   "autor": "Robert Cialdini",
+   "ano": 1984,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "usted-puede-sanar",
+   "titulo": "Usted puede sanar su vida",
+   "autor": "Louise Hay",
+   "ano": 1984,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "mujeres-aman-demasiado",
+   "titulo": "Mujeres que aman demasiado",
+   "autor": "Robin Norwood",
+   "ano": 1985,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "poder-sin-limites",
+   "titulo": "Poder sin límites",
+   "autor": "Tony Robbins",
+   "ano": 1986,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "aunque-tenga-miedo",
+   "titulo": "Aunque tenga miedo, hágalo igual",
+   "autor": "Susan Jeffers",
+   "ano": 1987,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "muchas-vidas",
+   "titulo": "Muchas vidas, muchos maestros",
+   "autor": "Brian Weiss",
+   "ano": 1988,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "siete-habitos",
+   "titulo": "Los 7 hábitos de la gente altamente efectiva",
+   "autor": "Stephen Covey",
+   "ano": 1989,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "aprenda-optimismo",
+   "titulo": "Aprenda optimismo",
+   "autor": "Martin Seligman",
+   "ano": 1990,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "flow",
+   "titulo": "Fluir",
+   "autor": "Mihály Csíkszentmihályi",
+   "ano": 1990,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "despertando-gigante",
+   "titulo": "Despertando al gigante interior",
+   "autor": "Tony Robbins",
+   "ano": 1991,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "limites-cloud",
+   "titulo": "Límites",
+   "autor": "Henry Cloud y John Townsend",
+   "ano": 1992,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "lenguajes-amor",
+   "titulo": "Los cinco lenguajes del amor",
+   "autor": "Gary Chapman",
+   "ano": 1992,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "hombres-marte-mujeres-venus",
+   "titulo": "Los hombres son de Marte, las mujeres son de Venus",
+   "autor": "John Gray",
+   "ano": 1992,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "mujeres-lobos",
+   "titulo": "Mujeres que corren con los lobos",
+   "autor": "Clarissa Pinkola Estés",
+   "ano": 1992,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "volver-al-amor",
+   "titulo": "Volver al amor",
+   "autor": "Marianne Williamson",
+   "ano": 1992,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "sin-conciencia",
+   "titulo": "Sin conciencia",
+   "autor": "Robert D. Hare",
+   "ano": 1993,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "dejame-que-te-cuente",
+   "titulo": "Déjame que te cuente",
+   "autor": "Jorge Bucay",
+   "ano": 1994,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "seis-pilares-autoestima",
+   "titulo": "Los seis pilares de la autoestima",
+   "autor": "Nathaniel Branden",
+   "ano": 1994,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "inteligencia-emocional",
+   "titulo": "Inteligencia emocional",
+   "autor": "Daniel Goleman",
+   "ano": 1995,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "don-sensibilidad",
+   "titulo": "El don de la sensibilidad",
+   "autor": "Elaine N. Aron",
+   "ano": 1996,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "don-del-miedo",
+   "titulo": "El don del miedo",
+   "autor": "Gavin de Becker",
+   "ano": 1997,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "poder-ahora",
+   "titulo": "El poder del ahora",
+   "autor": "Eckhart Tolle",
+   "ano": 1997,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "no-te-ahogues-vaso-agua",
+   "titulo": "No te ahogues en un vaso de agua",
+   "autor": "Richard Carlson",
+   "ano": 1997,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "controlar-la-ansiedad",
+   "titulo": "Cómo controlar la ansiedad antes de que te controle a ti",
+   "autor": "Albert Ellis",
+   "ano": 1998,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "como-hablar-con-cualquiera",
+   "titulo": "Cómo hablar con cualquiera",
+   "autor": "Leil Lowndes",
+   "ano": 1998,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "arte-felicidad",
+   "titulo": "El arte de la felicidad",
+   "autor": "Dalái Lama y Howard Cutler",
+   "ano": 1998,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "21-leyes-liderazgo",
+   "titulo": "Las 21 leyes irrefutables del liderazgo",
+   "autor": "John C. Maxwell",
+   "ano": 1998,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "48-leyes-poder",
+   "titulo": "Las 48 leyes del poder",
+   "autor": "Robert Greene",
+   "ano": 1998,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "hombres-no-escuchan",
+   "titulo": "Por qué los hombres no escuchan y las mujeres no saben leer los mapas",
+   "autor": "Allan y Barbara Pease",
+   "ano": 1998,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "amar-o-depender",
+   "titulo": "Amar o depender",
+   "autor": "Walter Riso",
+   "ano": 1999,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "comunicacion-no-violenta",
+   "titulo": "Comunicación no violenta",
+   "autor": "Marshall Rosenberg",
+   "ano": 1999,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "gottman-pareja",
+   "titulo": "Siete reglas de oro para vivir en pareja",
+   "autor": "John Gottman",
+   "ano": 1999,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "amarse-ojos-abiertos",
+   "titulo": "Amarse con los ojos abiertos",
+   "autor": "Jorge Bucay y Silvia Salinas",
+   "ano": 2000,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "caer-bien-90-segundos",
+   "titulo": "Cómo caer bien a los demás en menos de 90 segundos",
+   "autor": "Nicholas Boothman",
+   "ano": 2000,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "punto-clave",
+   "titulo": "El punto clave",
+   "autor": "Malcolm Gladwell",
+   "ano": 2000,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cinco-heridas",
+   "titulo": "Las cinco heridas que impiden ser uno mismo",
+   "autor": "Lise Bourbeau",
+   "ano": 2000,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "arte-seduccion",
+   "titulo": "El arte de la seducción",
+   "autor": "Robert Greene",
+   "ano": 2001,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "patitos-feos",
+   "titulo": "Los patitos feos",
+   "autor": "Boris Cyrulnik",
+   "ano": 2001,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "organizate-eficacia",
+   "titulo": "Organízate con eficacia",
+   "autor": "David Allen",
+   "ano": 2001,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "traguese-sapo",
+   "titulo": "Tráguese ese sapo",
+   "autor": "Brian Tracy",
+   "ano": 2001,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "adulto-relaciones",
+   "titulo": "Cómo ser un adulto en las relaciones",
+   "autor": "David Richo",
+   "ano": 2002,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "conversaciones-cruciales",
+   "titulo": "Conversaciones cruciales",
+   "autor": "Patterson, Grenny, McMillan y Switzler",
+   "ano": 2002,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "autentica-felicidad",
+   "titulo": "La auténtica felicidad",
+   "autor": "Martin Seligman",
+   "ano": 2002,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "hombres-aman-cabronas",
+   "titulo": "Por qué los hombres aman a las cabronas",
+   "autor": "Sherry Argov",
+   "ano": 2002,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "besame-mucho",
+   "titulo": "Bésame mucho",
+   "autor": "Carlos González",
+   "ano": 2003,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cuando-cuerpo-dice-no",
+   "titulo": "Cuando el cuerpo dice no",
+   "autor": "Gabor Maté",
+   "ano": 2003,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "inutilidad-del-sufrimiento",
+   "titulo": "La inutilidad del sufrimiento",
+   "autor": "María Jesús Álava Reyes",
+   "ano": 2003,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "lenguaje-del-cuerpo",
+   "titulo": "El lenguaje del cuerpo",
+   "autor": "Allan y Barbara Pease",
+   "ano": 2004,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "no-esta-tan-interesado",
+   "titulo": "Él no está tan interesado en ti",
+   "autor": "Greg Behrendt y Liz Tuccillo",
+   "ano": 2004,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "buena-suerte",
+   "titulo": "La buena suerte",
+   "autor": "Rovira y Trías de Bes",
+   "ano": 2004,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "paradoja-eleccion",
+   "titulo": "La paradoja de la elección",
+   "autor": "Barry Schwartz",
+   "ano": 2004,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "la-vaca-camilo-cruz",
+   "titulo": "La vaca",
+   "autor": "Camilo Cruz",
+   "ano": 2004,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "pequeno-paso-maurer",
+   "titulo": "Un pequeño paso puede cambiar tu vida",
+   "autor": "Robert Maurer",
+   "ano": 2004,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "ano-pensamiento-magico",
+   "titulo": "El año del pensamiento mágico",
+   "autor": "Joan Didion",
+   "ano": 2005,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "el-metodo-strauss",
+   "titulo": "El método",
+   "autor": "Neil Strauss",
+   "ano": 2005,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "inteligencia-intuitiva",
+   "titulo": "Inteligencia intuitiva",
+   "autor": "Malcolm Gladwell",
+   "ano": 2005,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "nunca-comas-solo",
+   "titulo": "Nunca comas solo",
+   "autor": "Keith Ferrazzi",
+   "ano": 2005,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "nuevo-mundo-ahora",
+   "titulo": "Un nuevo mundo, ahora",
+   "autor": "Eckhart Tolle",
+   "ano": 2005,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "secreto-byrne",
+   "titulo": "El secreto",
+   "autor": "Rhonda Byrne",
+   "ano": 2006,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "inteligencia-erotica",
+   "titulo": "Inteligencia erótica",
+   "autor": "Esther Perel",
+   "ano": 2006,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "ley-de-atraccion",
+   "titulo": "La ley de la atracción",
+   "autor": "Esther y Jerry Hicks",
+   "ano": 2006,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "mindset",
+   "titulo": "Mindset",
+   "autor": "Carol Dweck",
+   "ano": 2006,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "tropezar-felicidad",
+   "titulo": "Tropezar con la felicidad",
+   "autor": "Daniel Gilbert",
+   "ano": 2006,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "ataque-de-lucidez",
+   "titulo": "Un ataque de lucidez",
+   "autor": "Jill Bolte Taylor",
+   "ano": 2006,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "arte-de-aprender-waitzkin",
+   "titulo": "El arte de aprender",
+   "autor": "Josh Waitzkin",
+   "ano": 2007,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "arte-de-leer-la-mente",
+   "titulo": "El arte de leer la mente",
+   "autor": "Henrik Fexeus",
+   "ano": 2007,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "efecto-lucifer",
+   "titulo": "El efecto Lucifer",
+   "autor": "Philip Zimbardo",
+   "ano": 2007,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "errores-que-errores",
+   "titulo": "Errores, ¿qué errores?",
+   "autor": "Carol Tavris y Elliot Aronson",
+   "ano": 2007,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "ideas-que-pegan",
+   "titulo": "Ideas que pegan",
+   "autor": "Chip y Dan Heath",
+   "ano": 2007,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "ciencia-de-la-felicidad",
+   "titulo": "La ciencia de la felicidad",
+   "autor": "Sonja Lyubomirsky",
+   "ano": 2007,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "liberacion-del-alma",
+   "titulo": "La liberación del alma",
+   "autor": "Michael A. Singer",
+   "ano": 2007,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "trampa-felicidad",
+   "titulo": "La trampa de la felicidad",
+   "autor": "Russ Harris",
+   "ano": 2007,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "abrazame-fuerte",
+   "titulo": "Abrázame fuerte",
+   "autor": "Sue Johnson",
+   "ano": 2008,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "fuera-de-serie",
+   "titulo": "Fuera de serie",
+   "autor": "Malcolm Gladwell",
+   "ano": 2008,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "gente-toxica",
+   "titulo": "Gente tóxica",
+   "autor": "Bernardo Stamateas",
+   "ano": 2008,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "nudge",
+   "titulo": "Un pequeño empujón",
+   "autor": "Thaler y Sunstein",
+   "ano": 2008,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "actua-dama-piensa-hombre",
+   "titulo": "Actúa como dama, piensa como hombre",
+   "autor": "Steve Harvey",
+   "ano": 2009,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "cerebro-buda",
+   "titulo": "El cerebro de Buda",
+   "autor": "Rick Hanson y Richard Mendius",
+   "ano": 2009,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "sorprendente-verdad-motiva",
+   "titulo": "La sorprendente verdad sobre qué nos motiva",
+   "autor": "Daniel H. Pink",
+   "ano": 2009,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "claves-del-talento",
+   "titulo": "Las claves del talento",
+   "autor": "Daniel Coyle",
+   "ano": 2009,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "objetivo-felicidad",
+   "titulo": "Objetivo: felicidad",
+   "autor": "Gretchen Rubin",
+   "ano": 2009,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cambia-el-chip",
+   "titulo": "Cambia el chip",
+   "autor": "Chip y Dan Heath",
+   "ano": 2010,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "gorila-invisible",
+   "titulo": "El gorila invisible",
+   "autor": "Christopher Chabris y Daniel Simons",
+   "ano": 2010,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "principio-era-el-sexo",
+   "titulo": "En el principio era el sexo",
+   "autor": "Christopher Ryan y Cacilda Jethá",
+   "ano": 2010,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "felicidad-como-ventaja",
+   "titulo": "La felicidad como ventaja",
+   "autor": "Shawn Achor",
+   "ano": 2010,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "dones-de-la-imperfeccion",
+   "titulo": "Los dones de la imperfección",
+   "autor": "Brené Brown",
+   "ano": 2010,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "maneras-de-amar",
+   "titulo": "Maneras de amar",
+   "autor": "Levine y Heller",
+   "ano": 2010,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "procrastinacion-steel",
+   "titulo": "Procrastinación",
+   "autor": "Piers Steel",
+   "ano": 2010,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "autocontrol-mcgonigal",
+   "titulo": "Autocontrol",
+   "autor": "Kelly McGonigal",
+   "ano": 2011,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "arte-no-amargarse",
+   "titulo": "El arte de no amargarse la vida",
+   "autor": "Rafael Santandreu",
+   "ano": 2011,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "arte-de-pensar",
+   "titulo": "El arte de pensar",
+   "autor": "Rolf Dobelli",
+   "ano": 2011,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cerebro-del-nino",
+   "titulo": "El cerebro del niño",
+   "autor": "Siegel y Payne Bryson",
+   "ano": 2011,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "fuerza-de-voluntad",
+   "titulo": "Fuerza de voluntad",
+   "autor": "Roy Baumeister y John Tierney",
+   "ano": 2011,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cinco-arrepentimientos",
+   "titulo": "Los cinco arrepentimientos de los moribundos",
+   "autor": "Bronnie Ware",
+   "ano": 2011,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "desafios-de-la-memoria",
+   "titulo": "Los desafíos de la memoria",
+   "autor": "Joshua Foer",
+   "ano": 2011,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "modelos-manson",
+   "titulo": "Modelos",
+   "autor": "Mark Manson",
+   "ano": 2011,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "pensar-rapido",
+   "titulo": "Pensar rápido, pensar despacio",
+   "autor": "Daniel Kahneman",
+   "ano": 2011,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "se-amable-contigo",
+   "titulo": "Sé amable contigo mismo",
+   "autor": "Kristin Neff",
+   "ano": 2011,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "educar-en-el-asombro",
+   "titulo": "Educar en el asombro",
+   "autor": "Catherine L'Ecuyer",
+   "ano": 2012,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "mito-del-carisma",
+   "titulo": "El mito del carisma",
+   "autor": "Olivia Fox Cabane",
+   "ano": 2012,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "pequeno-libro-del-talento",
+   "titulo": "El pequeño libro del talento",
+   "autor": "Daniel Coyle",
+   "ano": 2012,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "poder-habitos",
+   "titulo": "El poder de los hábitos",
+   "autor": "Charles Duhigg",
+   "ano": 2012,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "poder-introvertidos",
+   "titulo": "El poder de los introvertidos",
+   "autor": "Susan Cain",
+   "ano": 2012,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "poder-ser-vulnerable",
+   "titulo": "El poder de ser vulnerable",
+   "autor": "Brené Brown",
+   "ano": 2012,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "enamorate-de-ti",
+   "titulo": "Enamórate de ti",
+   "autor": "Walter Riso",
+   "ano": 2012,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "mente-justos",
+   "titulo": "La mente de los justos",
+   "autor": "Jonathan Haidt",
+   "ano": 2012,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "sabiduria-psicopatas",
+   "titulo": "La sabiduría de los psicópatas",
+   "autor": "Kevin Dutton",
+   "ano": 2012,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "maestria-greene",
+   "titulo": "Maestría",
+   "autor": "Robert Greene",
+   "ano": 2012,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "gente-exitosa-desayuno",
+   "titulo": "Qué hace la gente exitosa antes del desayuno",
+   "autor": "Laura Vanderkam",
+   "ano": 2012,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "sin-gasolina",
+   "titulo": "Sin gasolina",
+   "autor": "Jonice Webb",
+   "ano": 2012,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "ansiedad-stossel",
+   "titulo": "Ansiedad",
+   "autor": "Scott Stossel",
+   "ano": 2013,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "dar-y-recibir",
+   "titulo": "Dar y recibir",
+   "autor": "Adam Grant",
+   "ano": 2013,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "david-y-goliat",
+   "titulo": "David y Goliat",
+   "autor": "Malcolm Gladwell",
+   "ano": 2013,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "decidete",
+   "titulo": "Decídete",
+   "autor": "Chip y Dan Heath",
+   "ano": 2013,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "eres-un-chingon",
+   "titulo": "Eres un chingón",
+   "autor": "Jen Sincero",
+   "ano": 2013,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "focus-goleman",
+   "titulo": "Focus",
+   "autor": "Daniel Goleman",
+   "ano": 2013,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "primeros-auxilios-emocionales",
+   "titulo": "Primeros auxilios emocionales",
+   "autor": "Guy Winch",
+   "ano": 2013,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "solo-una-cosa",
+   "titulo": "Solo una cosa",
+   "autor": "Gary Keller y Jay Papasan",
+   "ano": 2013,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "trece-cosas-mentalmente-fuertes",
+   "titulo": "13 cosas que las personas mentalmente fuertes no hacen",
+   "autor": "Amy Morin",
+   "ano": 2014,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "aprende-idiomas-en-3-meses",
+   "titulo": "Aprende idiomas en 3 meses",
+   "autor": "Benny Lewis",
+   "ano": 2014,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "disciplina-sin-lagrimas",
+   "titulo": "Disciplina sin lágrimas",
+   "autor": "Daniel J. Siegel y Tina Payne Bryson",
+   "ano": 2014,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "obstaculo-es-camino",
+   "titulo": "El obstáculo es el camino",
+   "autor": "Ryan Holiday",
+   "ano": 2014,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "placebo-eres-tu",
+   "titulo": "El placebo eres tú",
+   "autor": "Joe Dispenza",
+   "ano": 2014,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "hable-como-en-ted",
+   "titulo": "Hable como en TED",
+   "autor": "Carmine Gallo",
+   "ano": 2014,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "lo-que-he-aprendido-vida",
+   "titulo": "Lo que he aprendido en la vida",
+   "autor": "Oprah Winfrey",
+   "ano": 2014,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "hombres-explican-cosas",
+   "titulo": "Los hombres me explican cosas",
+   "autor": "Rebecca Solnit",
+   "ano": 2014,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "rodeado-de-idiotas",
+   "titulo": "Rodeado de idiotas",
+   "autor": "Thomas Erikson",
+   "ano": 2014,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "debo-quedarme-o-irme",
+   "titulo": "¿Debo quedarme o debo irme?",
+   "autor": "Ramani Durvasula",
+   "ano": 2015,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "duenos-responsabilidad",
+   "titulo": "Dueños de la responsabilidad",
+   "autor": "Jocko Willink y Leif Babin",
+   "ano": 2015,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "poder-de-la-presencia",
+   "titulo": "El poder de la presencia",
+   "autor": "Amy Cuddy",
+   "ano": 2015,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "razones-para-seguir-viviendo",
+   "titulo": "Razones para seguir viviendo",
+   "autor": "Matt Haig",
+   "ano": 2015,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "deja-de-chingarte",
+   "titulo": "¡Deja de chingarte!",
+   "autor": "Gary John Bishop",
+   "ano": 2016,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "agilidad-emocional",
+   "titulo": "Agilidad emocional",
+   "autor": "Susan David",
+   "ano": 2016,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "trabajo-profundo",
+   "titulo": "Céntrate",
+   "autor": "Cal Newport",
+   "ano": 2016,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "charlas-ted",
+   "titulo": "Charlas TED",
+   "autor": "Chris Anderson",
+   "ano": 2016,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "determinacion",
+   "titulo": "Determinación",
+   "autor": "Angela Duckworth",
+   "ano": 2016,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "disena-tu-vida",
+   "titulo": "Diseña tu vida",
+   "autor": "Bill Burnett y Dave Evans",
+   "ano": 2016,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "ego-es-el-enemigo",
+   "titulo": "El ego es el enemigo",
+   "autor": "Ryan Holiday",
+   "ano": 2016,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "libro-de-la-alegria",
+   "titulo": "El libro de la alegría",
+   "autor": "Dalái Lama y Desmond Tutu",
+   "ano": 2016,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "libro-hygge",
+   "titulo": "El libro del hygge",
+   "autor": "Meik Wiking",
+   "ano": 2016,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "originales",
+   "titulo": "Originales",
+   "autor": "Adam Grant",
+   "ano": 2016,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "pre-suasion",
+   "titulo": "Pre-suasión",
+   "autor": "Robert Cialdini",
+   "ano": 2016,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "rompe-barrera-no",
+   "titulo": "Rompe la barrera del no",
+   "autor": "Chris Voss",
+   "ano": 2016,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "algoritmo-felicidad",
+   "titulo": "El algoritmo de la felicidad",
+   "autor": "Mo Gawdat",
+   "ano": 2017,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "poder-5-segundos",
+   "titulo": "El poder de los 5 segundos",
+   "autor": "Mel Robbins",
+   "ano": 2017,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "esta-bien-no-estar-bien",
+   "titulo": "Está bien que no estés bien",
+   "autor": "Megan Devine",
+   "ano": 2017,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "hazte-la-cama",
+   "titulo": "Hazte la cama",
+   "autor": "William H. McRaven",
+   "ano": 2017,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "ciencia-de-la-gente",
+   "titulo": "La ciencia de la gente",
+   "autor": "Vanessa Van Edwards",
+   "ano": 2017,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "beneficios-meditacion",
+   "titulo": "Los beneficios de la meditación",
+   "autor": "Daniel Goleman y Richard J. Davidson",
+   "ano": 2017,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "no-seas-amable",
+   "titulo": "No seas amable",
+   "autor": "Aziz Gazipura",
+   "ano": 2017,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "opcion-b",
+   "titulo": "Opción B",
+   "autor": "Sheryl Sandberg y Adam Grant",
+   "ano": 2017,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "todo-el-mundo-miente",
+   "titulo": "Todo el mundo miente",
+   "autor": "Seth Stephens-Davidowitz",
+   "ano": 2017,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "nueva-mirada-infidelidad",
+   "titulo": "Una nueva mirada a la infidelidad",
+   "autor": "Esther Perel",
+   "ano": 2017,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "amiga-lavate-esa-cara",
+   "titulo": "Amiga, lávate esa cara",
+   "autor": "Rachel Hollis",
+   "ano": 2018,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "aprender-a-aprender",
+   "titulo": "Aprender a aprender",
+   "autor": "Barbara Oakley y Terrence Sejnowski",
+   "ano": 2018,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "como-cambiar-tu-mente",
+   "titulo": "Cómo cambiar tu mente",
+   "autor": "Michael Pollan",
+   "ano": 2018,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cosas-buenas",
+   "titulo": "Cómo hacer que te pasen cosas buenas",
+   "autor": "Marian Rojas Estapé",
+   "ano": 2018,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "conexiones-perdidas",
+   "titulo": "Conexiones perdidas",
+   "autor": "Johann Hari",
+   "ano": 2018,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "borrar-redes-sociales",
+   "titulo": "Diez razones para borrar tus redes sociales de inmediato",
+   "autor": "Jaron Lanier",
+   "ano": 2018,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "dopamina-lieberman",
+   "titulo": "Dopamina",
+   "autor": "Daniel Z. Lieberman y Michael E. Long",
+   "ano": 2018,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "club-5-manana",
+   "titulo": "El club de las 5 de la mañana",
+   "autor": "Robin Sharma",
+   "ano": 2018,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "elefante-en-el-cerebro",
+   "titulo": "El elefante en el cerebro",
+   "autor": "Kevin Simler y Robin Hanson",
+   "ano": 2018,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "metodo-bullet-journal",
+   "titulo": "El método Bullet Journal",
+   "autor": "Ryder Carroll",
+   "ano": 2018,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "habitos-atomicos",
+   "titulo": "Hábitos atómicos",
+   "autor": "James Clear",
+   "ano": 2018,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "hiperenfoque",
+   "titulo": "Hiperenfoque",
+   "autor": "Chris Bailey",
+   "ano": 2018,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "leyes-naturaleza-humana",
+   "titulo": "Las leyes de la naturaleza humana",
+   "autor": "Robert Greene",
+   "ano": 2018,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "nada-es-tan-terrible",
+   "titulo": "Nada es tan terrible",
+   "autor": "Rafael Santandreu",
+   "ano": 2018,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "no-me-puedes-lastimar",
+   "titulo": "No me puedes lastimar",
+   "autor": "David Goggins",
+   "ano": 2018,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "pensar-en-apuestas",
+   "titulo": "Pensar en apuestas",
+   "autor": "Annie Duke",
+   "ano": 2018,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "relajate-un-chingo",
+   "titulo": "Relájate un chingo",
+   "autor": "Sarah Knight",
+   "ano": 2018,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "educada",
+   "titulo": "Una educación",
+   "autor": "Tara Westover",
+   "ano": 2018,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "wabi-sabi",
+   "titulo": "Wabi Sabi",
+   "autor": "Beth Kempton",
+   "ano": 2018,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "amplitud-epstein",
+   "titulo": "Amplitud",
+   "autor": "David Epstein",
+   "ano": 2019,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "dignos-de-ser-humanos",
+   "titulo": "Dignos de ser humanos",
+   "autor": "Rutger Bregman",
+   "ano": 2019,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "habitos-minimos",
+   "titulo": "Hábitos mínimos",
+   "autor": "BJ Fogg",
+   "ano": 2019,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "hablar-con-extranos",
+   "titulo": "Hablar con extraños",
+   "autor": "Malcolm Gladwell",
+   "ano": 2019,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "indistraible",
+   "titulo": "Indistraíble",
+   "autor": "Nir Eyal",
+   "ano": 2019,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "mujer-invisible",
+   "titulo": "La mujer invisible",
+   "autor": "Caroline Criado Perez",
+   "ano": 2019,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "quietud-es-la-clave",
+   "titulo": "La quietud es la clave",
+   "autor": "Ryan Holiday",
+   "ano": 2019,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "trampa-de-la-inteligencia",
+   "titulo": "La trampa de la inteligencia",
+   "autor": "David Robson",
+   "ano": 2019,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "minimalismo-digital",
+   "titulo": "Minimalismo digital",
+   "autor": "Cal Newport",
+   "ano": 2019,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "ocho-citas-amor",
+   "titulo": "Ocho citas de amor",
+   "autor": "John y Julie Gottman",
+   "ano": 2019,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "filosofo-griego",
+   "titulo": "Piensa como un emperador romano",
+   "autor": "Donald Robertson",
+   "ano": 2019,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "ultraaprendizaje",
+   "titulo": "Ultraaprendizaje",
+   "autor": "Scott H. Young",
+   "ano": 2019,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "camino-del-perezoso-genial",
+   "titulo": "El camino del perezoso genial",
+   "autor": "Kendra Adachi",
+   "ano": 2020,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "el-gran-farol",
+   "titulo": "El gran farol",
+   "autor": "Maria Konnikova",
+   "ano": 2020,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "el-regalo-eger",
+   "titulo": "El regalo",
+   "autor": "Edith Eva Eger",
+   "ano": 2020,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "sindrome-de-la-impostora",
+   "titulo": "El síndrome de la impostora",
+   "autor": "Élisabeth Cadoche y Anne de Montarlot",
+   "ano": 2020,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "indomable",
+   "titulo": "Indomable",
+   "autor": "Glennon Doyle",
+   "ano": 2020,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "invernando",
+   "titulo": "Invernando",
+   "autor": "Katherine May",
+   "ano": 2020,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "montana-eres-tu",
+   "titulo": "La montaña eres tú",
+   "autor": "Brianna Wiest",
+   "ano": 2020,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cientifico-espacial",
+   "titulo": "Piensa como un científico espacial",
+   "autor": "Ozan Varol",
+   "ano": 2020,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "piensa-como-un-monje",
+   "titulo": "Piensa como un monje",
+   "autor": "Jay Shetty",
+   "ano": 2020,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "sin-limites-kwik",
+   "titulo": "Sin límites",
+   "autor": "Jim Kwik",
+   "ano": 2020,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "charla-kross",
+   "titulo": "Charla",
+   "autor": "Ethan Kross",
+   "ano": 2021,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "como-cambiar",
+   "titulo": "Cómo cambiar",
+   "autor": "Katy Milkman",
+   "ano": 2021,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cuatro-mil-semanas",
+   "titulo": "Cuatro mil semanas",
+   "autor": "Oliver Burkeman",
+   "ano": 2021,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "persona-vitamina",
+   "titulo": "Encuentra tu persona vitamina",
+   "autor": "Marian Rojas Estapé",
+   "ano": 2021,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "piensalo-otra-vez",
+   "titulo": "Piénsalo otra vez",
+   "autor": "Adam Grant",
+   "ano": 2021,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "sanate",
+   "titulo": "Sánate",
+   "autor": "Nicole LePera",
+   "ano": 2021,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "por-que-nadie-me-lo-dijo",
+   "titulo": "¿Por qué nadie me lo dijo antes?",
+   "autor": "Julie Smith",
+   "ano": 2022,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "segundo-cerebro",
+   "titulo": "Crea tu segundo cerebro",
+   "autor": "Tiago Forte",
+   "ano": 2022,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "de-fortaleza-en-fortaleza",
+   "titulo": "De fortaleza en fortaleza",
+   "autor": "Arthur C. Brooks",
+   "ano": 2022,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "valor-de-la-atencion",
+   "titulo": "El valor de la atención",
+   "autor": "Johann Hari",
+   "ano": 2022,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "haz-cosas-dificiles",
+   "titulo": "Haz cosas difíciles",
+   "autor": "Steve Magness",
+   "ano": 2022,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "disciplina-es-destino",
+   "titulo": "La disciplina es el destino",
+   "autor": "Ryan Holiday",
+   "ano": 2022,
+   "tema": "Psicología",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "no-te-creas-todo-lo-que-piensas",
+   "titulo": "No te creas todo lo que piensas",
+   "autor": "Joseph Nguyen",
+   "ano": 2022,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "platonico",
+   "titulo": "Platónico",
+   "autor": "Marisa G. Franco",
+   "ano": 2022,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "productividad-sentirse-bien",
+   "titulo": "Productividad para sentirse bien",
+   "autor": "Ali Abdaal",
+   "ano": 2023,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "se-util",
+   "titulo": "Sé útil",
+   "autor": "Arnold Schwarzenegger",
+   "ano": 2023,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "generacion-ansiosa",
+   "titulo": "La generación ansiosa",
+   "autor": "Jonathan Haidt",
+   "ano": 2024,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "teoria-del-dejalos",
+   "titulo": "La teoría del «Déjalos»",
+   "autor": "Mel Robbins",
+   "ano": 2024,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "meditaciones-para-mortales",
+   "titulo": "Meditaciones para mortales",
+   "autor": "Oliver Burkeman",
+   "ano": 2024,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "supercomunicadores",
+   "titulo": "Supercomunicadores",
+   "autor": "Charles Duhigg",
+   "ano": 2024,
+   "tema": "Psicología",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "camino-hacia-la-riqueza",
+   "titulo": "El camino hacia la riqueza",
+   "autor": "Benjamin Franklin",
+   "ano": 1758,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "riqueza-naciones",
+   "titulo": "La riqueza de las naciones",
+   "autor": "Adam Smith",
+   "ano": 1776,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "manifiesto-comunista",
+   "titulo": "El manifiesto comunista",
+   "autor": "Karl Marx y Friedrich Engels",
+   "ano": 1848,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "ciencia-hacerse-rico",
+   "titulo": "La ciencia de hacerse rico",
+   "autor": "Wallace D. Wattles",
+   "ano": 1910,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "ford-vida-obra",
+   "titulo": "Mi vida y obra",
+   "autor": "Henry Ford",
+   "ano": 1922,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "hombre-rico-babilonia",
+   "titulo": "El hombre más rico de Babilonia",
+   "autor": "George S. Clason",
+   "ano": 1926,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "piensa-hazte-rico",
+   "titulo": "Piensa y hazte rico",
+   "autor": "Napoleon Hill",
+   "ano": 1937,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "inversor-inteligente",
+   "titulo": "El inversor inteligente",
+   "autor": "Benjamin Graham",
+   "ano": 1949,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "de-que-color-paracaidas",
+   "titulo": "¿De qué color es tu paracaídas?",
+   "autor": "Richard N. Bolles",
+   "ano": 1970,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "paseo-aleatorio",
+   "titulo": "Un paseo aleatorio por Wall Street",
+   "autor": "Burton Malkiel",
+   "ano": 1973,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "paso-por-delante-wall-street",
+   "titulo": "Un paso por delante de Wall Street",
+   "autor": "Peter Lynch",
+   "ano": 1989,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "millonario-instantaneo",
+   "titulo": "El millonario instantáneo",
+   "autor": "Mark Fisher",
+   "ano": 1990,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "bolsa-o-vida",
+   "titulo": "La bolsa o la vida",
+   "autor": "Robin y Dominguez",
+   "ano": 1992,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "mito-del-emprendedor",
+   "titulo": "El mito del emprendedor",
+   "autor": "Michael E. Gerber",
+   "ano": 1995,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": true
+  },
+  {
+   "id": "millonario-al-lado",
+   "titulo": "El millonario de al lado",
+   "autor": "Stanley y Danko",
+   "ano": 1996,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "dilema-del-innovador",
+   "titulo": "El dilema del innovador",
+   "autor": "Clayton M. Christensen",
+   "ano": 1997,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "padre-rico",
+   "titulo": "Padre rico, padre pobre",
+   "autor": "Robert Kiyosaki",
+   "ano": 1997,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "quien-queso",
+   "titulo": "¿Quién se ha llevado mi queso?",
+   "autor": "Spencer Johnson",
+   "ano": 1998,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "cuadrante-flujo",
+   "titulo": "El cuadrante del flujo de dinero",
+   "autor": "Robert Kiyosaki",
+   "ano": 1998,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "mujeres-inteligentes-acaban-ricas",
+   "titulo": "Las mujeres inteligentes acaban ricas",
+   "autor": "David Bach",
+   "ano": 1999,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "no-logo",
+   "titulo": "No logo",
+   "autor": "Naomi Klein",
+   "ano": 1999,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "empresas-sobresalen",
+   "titulo": "Empresas que sobresalen",
+   "autor": "Jim Collins",
+   "ano": 2001,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "retirate-joven-rico",
+   "titulo": "Retírate joven y rico",
+   "autor": "Robert Kiyosaki",
+   "ano": 2001,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cinco-disfunciones",
+   "titulo": "Las cinco disfunciones de un equipo",
+   "autor": "Patrick Lencioni",
+   "ano": 2002,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cuatro-pilares-inversion",
+   "titulo": "Los cuatro pilares de la inversión",
+   "autor": "William Bernstein",
+   "ano": 2002,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "vagabonding",
+   "titulo": "Vagabonding: el arte de viajar",
+   "autor": "Rolf Potts",
+   "ano": 2002,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "transformacion-dinero",
+   "titulo": "La transformación total de su dinero",
+   "autor": "Dave Ramsey",
+   "ano": 2003,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "vaca-purpura",
+   "titulo": "La vaca púrpura",
+   "autor": "Seth Godin",
+   "ano": 2003,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "arte-de-empezar",
+   "titulo": "El arte de empezar",
+   "autor": "Guy Kawasaki",
+   "ano": 2004,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "millonario-automatico",
+   "titulo": "El millonario automático",
+   "autor": "David Bach",
+   "ano": 2004,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "sabiduria-multitudes",
+   "titulo": "La sabiduría de las multitudes",
+   "autor": "James Surowiecki",
+   "ano": 2004,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "economista-camuflado",
+   "titulo": "El economista camuflado",
+   "autor": "Tim Harford",
+   "ano": 2005,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "freakonomics",
+   "titulo": "Freakonomics",
+   "autor": "Levitt y Dubner",
+   "ano": 2005,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "oceano-azul",
+   "titulo": "La estrategia del océano azul",
+   "autor": "Kim y Mauborgne",
+   "ano": 2005,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "principios-del-exito",
+   "titulo": "Los principios del éxito",
+   "autor": "Jack Canfield",
+   "ano": 2005,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "mente-millonaria",
+   "titulo": "Los secretos de la mente millonaria",
+   "autor": "T. Harv Eker",
+   "ano": 2005,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "como-hacerse-rico-dennis",
+   "titulo": "Cómo hacerse rico",
+   "autor": "Felix Dennis",
+   "ano": 2006,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cisne-negro",
+   "titulo": "El cisne negro",
+   "autor": "Nassim Taleb",
+   "ano": 2007,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "bogle-sentido-comun",
+   "titulo": "El pequeño libro para invertir con sentido común",
+   "autor": "John C. Bogle",
+   "ano": 2007,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "doctrina-shock",
+   "titulo": "La doctrina del shock",
+   "autor": "Naomi Klein",
+   "ano": 2007,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "semana-4-horas",
+   "titulo": "La semana laboral de 4 horas",
+   "autor": "Tim Ferriss",
+   "ano": 2007,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "tu-dinero-y-tu-cerebro",
+   "titulo": "Tu dinero y tu cerebro",
+   "autor": "Jason Zweig",
+   "ano": 2007,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "bola-de-nieve",
+   "titulo": "Bola de nieve",
+   "autor": "Alice Schroeder",
+   "ano": 2008,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": true
+  },
+  {
+   "id": "triunfo-del-dinero",
+   "titulo": "El triunfo del dinero",
+   "autor": "Niall Ferguson",
+   "ano": 2008,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": true
+  },
+  {
+   "id": "trampas-del-deseo",
+   "titulo": "Las trampas del deseo",
+   "autor": "Dan Ariely",
+   "ano": 2008,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "empieza-porque",
+   "titulo": "Empieza con el porqué",
+   "autor": "Simon Sinek",
+   "ano": 2009,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "superfreakonomics",
+   "titulo": "SuperFreakonomics",
+   "autor": "Steven D. Levitt y Stephen J. Dubner",
+   "ano": 2009,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "ensenare-ser-rico",
+   "titulo": "Te enseñaré a ser rico",
+   "autor": "Ramit Sethi",
+   "ano": 2009,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "veintitres-cosas-capitalismo",
+   "titulo": "23 cosas que no te cuentan sobre el capitalismo",
+   "autor": "Ha-Joon Chang",
+   "ano": 2010,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "delivering-happiness",
+   "titulo": "Delivering Happiness",
+   "autor": "Tony Hsieh",
+   "ano": 2010,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "efecto-compuesto",
+   "titulo": "El efecto compuesto",
+   "autor": "Darren Hardy",
+   "ano": 2010,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "libro-vence-mercado",
+   "titulo": "El pequeño libro que aún vence al mercado",
+   "autor": "Joel Greenblatt",
+   "ano": 2010,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": true
+  },
+  {
+   "id": "la-gran-apuesta",
+   "titulo": "La gran apuesta",
+   "autor": "Michael Lewis",
+   "ano": 2010,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "rework",
+   "titulo": "Rework",
+   "autor": "Jason Fried y David Heinemeier Hansson",
+   "ano": 2010,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "lean-startup",
+   "titulo": "El método Lean Startup",
+   "autor": "Eric Ries",
+   "ano": 2011,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "regla-10x",
+   "titulo": "La regla del 10X",
+   "autor": "Grant Cardone",
+   "ano": 2011,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "via-rapida-del-millonario",
+   "titulo": "La vía rápida del millonario",
+   "autor": "MJ DeMarco",
+   "ano": 2011,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "pequeno-cerdo-capitalista",
+   "titulo": "Pequeño cerdo capitalista",
+   "autor": "Sofía Macías",
+   "ano": 2011,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "steve-jobs",
+   "titulo": "Steve Jobs",
+   "autor": "Walter Isaacson",
+   "ano": 2011,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "como-mediras-tu-vida",
+   "titulo": "¿Cómo medirás tu vida?",
+   "autor": "Clayton M. Christensen, James Allworth y Karen Dillon",
+   "ano": 2012,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "antifragil",
+   "titulo": "Antifrágil",
+   "autor": "Nassim Taleb",
+   "ano": 2012,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "tan-bien-que-no-puedan-ignorarte",
+   "titulo": "Hazlo tan bien que no puedan ignorarte",
+   "autor": "Cal Newport",
+   "ano": 2012,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": true
+  },
+  {
+   "id": "startup-100-dolares",
+   "titulo": "La startup de 100 dólares",
+   "autor": "Chris Guillebeau",
+   "ano": 2012,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "por-que-fracasan",
+   "titulo": "Por qué fracasan los países",
+   "autor": "Acemoglu y Robinson",
+   "ano": 2012,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "vender-es-humano",
+   "titulo": "Vender es humano",
+   "autor": "Daniel H. Pink",
+   "ano": 2012,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "comprar-felicidad",
+   "titulo": "Comprar felicidad",
+   "autor": "Elizabeth Dunn y Michael Norton",
+   "ano": 2013,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": true
+  },
+  {
+   "id": "contagioso",
+   "titulo": "Contagioso",
+   "autor": "Jonah Berger",
+   "ano": 2013,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": true
+  },
+  {
+   "id": "ano-12-semanas",
+   "titulo": "El año de 12 semanas",
+   "autor": "Brian P. Moran y Michael Lennington",
+   "ano": 2013,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "capital-siglo-xxi",
+   "titulo": "El capital en el siglo XXI",
+   "autor": "Thomas Piketty",
+   "ano": 2013,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "vayamos-adelante",
+   "titulo": "Vayamos adelante",
+   "autor": "Sheryl Sandberg",
+   "ano": 2013,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "creatividad-sa",
+   "titulo": "Creatividad, S.A.",
+   "autor": "Ed Catmull y Amy Wallace",
+   "ano": 2014,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "cero-a-uno",
+   "titulo": "De cero a uno",
+   "autor": "Peter Thiel",
+   "ano": 2014,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "dinero-domina-juego",
+   "titulo": "Dinero: domina el juego",
+   "autor": "Tony Robbins",
+   "ano": 2014,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "enganchado",
+   "titulo": "Enganchado",
+   "autor": "Nir Eyal",
+   "ano": 2014,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "esencialismo",
+   "titulo": "Esencialismo",
+   "autor": "Greg McKeown",
+   "ano": 2014,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "lideres-comen-al-final",
+   "titulo": "Los líderes comen al final",
+   "autor": "Simon Sinek",
+   "ano": 2014,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "utopia-para-realistas",
+   "titulo": "Utopía para realistas",
+   "autor": "Rutger Bregman",
+   "ano": 2014,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "adios-cosas",
+   "titulo": "Adiós, cosas",
+   "autor": "Fumio Sasaki",
+   "ano": 2015,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "oro-digital",
+   "titulo": "Oro digital",
+   "autor": "Nathaniel Popper",
+   "ano": 2015,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "superpronosticadores",
+   "titulo": "Superpronosticadores",
+   "autor": "Tetlock y Gardner",
+   "ano": 2015,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "vivir-del-day-trading",
+   "titulo": "Cómo vivir del day trading",
+   "autor": "Andrew Aziz",
+   "ano": 2016,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": true
+  },
+  {
+   "id": "descansa",
+   "titulo": "Descansa",
+   "autor": "Alex Soojung-Kim Pang",
+   "ano": 2016,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": true
+  },
+  {
+   "id": "camino-simple-riqueza",
+   "titulo": "El camino simple a la riqueza",
+   "autor": "J. L. Collins",
+   "ano": 2016,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "chingona-dinero",
+   "titulo": "Eres un chingón haciendo dinero",
+   "autor": "Jen Sincero",
+   "ano": 2017,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "habitos-para-ser-millonario",
+   "titulo": "Hábitos para ser millonario",
+   "autor": "Brian Tracy",
+   "ano": 2017,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "independizate-papa-estado",
+   "titulo": "Independízate de Papá Estado",
+   "autor": "Carlos Galán",
+   "ano": 2017,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "los-cuatro-galloway",
+   "titulo": "Los cuatro",
+   "autor": "Scott Galloway",
+   "ano": 2017,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "milenial-en-quiebra",
+   "titulo": "Milenial en quiebra",
+   "autor": "Erin Lowry",
+   "ano": 2017,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "principios-dalio",
+   "titulo": "Principios",
+   "autor": "Ray Dalio",
+   "ano": 2017,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "side-hustle",
+   "titulo": "Side Hustle",
+   "autor": "Chris Guillebeau",
+   "ano": 2017,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "ano-de-menos",
+   "titulo": "El año de menos",
+   "autor": "Cait Flanders",
+   "ano": 2018,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "esto-es-marketing",
+   "titulo": "Esto es marketing",
+   "autor": "Seth Godin",
+   "ano": 2018,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "factfulness",
+   "titulo": "Factfulness",
+   "autor": "Hans Rosling",
+   "ano": 2018,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "gestiona-tu-dinero-adulto",
+   "titulo": "Gestiona tu dinero como un jo**do adulto",
+   "autor": "Sam Beckbessinger",
+   "ano": 2018,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": true
+  },
+  {
+   "id": "jugarse-la-piel",
+   "titulo": "Jugarse la piel",
+   "autor": "Nassim Nicholas Taleb",
+   "ano": 2018,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "finanzas-para-chicas-listas",
+   "titulo": "Finanzas para chicas listas",
+   "autor": "Bola Sokunbi",
+   "ano": 2019,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": true
+  },
+  {
+   "id": "libertad-financiera-sabatier",
+   "titulo": "Libertad financiera",
+   "autor": "Grant Sabatier",
+   "ano": 2019,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "tonterias-con-su-dinero",
+   "titulo": "Tonterías que las personas inteligentes hacen con su dinero",
+   "autor": "Jill Schlesinger",
+   "ano": 2019,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "almanaque-naval",
+   "titulo": "El almanaque de Naval Ravikant",
+   "autor": "Eric Jorgenson",
+   "ano": 2020,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "psicologia-dinero",
+   "titulo": "La psicología del dinero",
+   "autor": "Morgan Housel",
+   "ano": 2020,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "morir-con-cero",
+   "titulo": "Morir con cero",
+   "autor": "Bill Perkins",
+   "ano": 2020,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "millonario-sexy-feliz",
+   "titulo": "Millonario sexy y feliz",
+   "autor": "Steven Bartlett",
+   "ano": 2021,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "ofertas-100-millones",
+   "titulo": "Ofertas de 100 millones",
+   "autor": "Alex Hormozi",
+   "ano": 2021,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "principios-orden-mundial",
+   "titulo": "Principios para enfrentarse al nuevo orden mundial",
+   "autor": "Ray Dalio",
+   "ano": 2021,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "sin-esfuerzo",
+   "titulo": "Sin esfuerzo",
+   "autor": "Greg McKeown",
+   "ano": 2021,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "guerra-chips",
+   "titulo": "La guerra de los chips",
+   "autor": "Chris Miller",
+   "ano": 2022,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "sigue-comprando",
+   "titulo": "Sigue comprando",
+   "autor": "Nick Maggiulli",
+   "ano": 2022,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "diario-de-un-ceo",
+   "titulo": "Diario de un CEO",
+   "autor": "Steven Bartlett",
+   "ano": 2023,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "elon-musk",
+   "titulo": "Elon Musk",
+   "autor": "Walter Isaacson",
+   "ano": 2023,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "hacia-el-infinito",
+   "titulo": "Hacia el infinito",
+   "autor": "Michael Lewis",
+   "ano": 2023,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": true
+  },
+  {
+   "id": "jodidamente-rico",
+   "titulo": "J*didamente rico",
+   "autor": "Vivian Tu",
+   "ano": 2023,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "lo-que-nunca-cambia",
+   "titulo": "Lo que nunca cambia",
+   "autor": "Morgan Housel",
+   "ano": 2023,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "recompra-tu-tiempo",
+   "titulo": "Recompra tu tiempo",
+   "autor": "Dan Martell",
+   "ano": 2023,
+   "tema": "Economía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "algebra-de-la-riqueza",
+   "titulo": "El álgebra de la riqueza",
+   "autor": "Scott Galloway",
+   "ano": 2024,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "nunca-es-suficiente",
+   "titulo": "Nunca es suficiente",
+   "autor": "Andrew Wilkinson",
+   "ano": 2024,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "productividad-lenta",
+   "titulo": "Productividad lenta",
+   "autor": "Cal Newport",
+   "ano": 2024,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cinco-tipos-riqueza",
+   "titulo": "Los 5 tipos de riqueza",
+   "autor": "Sahil Bloom",
+   "ano": 2025,
+   "tema": "Economía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "odisea",
+   "titulo": "La Odisea",
+   "autor": "Homero",
+   "ano": -750,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "quijote",
+   "titulo": "Don Quijote de la Mancha",
+   "autor": "Miguel de Cervantes",
+   "ano": 1605,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "orgullo-prejuicio",
+   "titulo": "Orgullo y prejuicio",
+   "autor": "Jane Austen",
+   "ano": 1813,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "frankenstein",
+   "titulo": "Frankenstein",
+   "autor": "Mary Shelley",
+   "ano": 1818,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "cuento-de-navidad",
+   "titulo": "Cuento de Navidad",
+   "autor": "Charles Dickens",
+   "ano": 1843,
+   "tema": "Literatura",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "montecristo",
+   "titulo": "El conde de Montecristo",
+   "autor": "Alejandro Dumas",
+   "ano": 1844,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "cuentos-poe",
+   "titulo": "Cuentos de Edgar Allan Poe",
+   "autor": "Edgar Allan Poe",
+   "ano": 1845,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "cumbres-borrascosas",
+   "titulo": "Cumbres borrascosas",
+   "autor": "Emily Brontë",
+   "ano": 1847,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "jane-eyre",
+   "titulo": "Jane Eyre",
+   "autor": "Charlotte Brontë",
+   "ano": 1847,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "moby-dick",
+   "titulo": "Moby Dick",
+   "autor": "Herman Melville",
+   "ano": 1851,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "madame-bovary",
+   "titulo": "Madame Bovary",
+   "autor": "Gustave Flaubert",
+   "ano": 1856,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "los-miserables",
+   "titulo": "Los miserables",
+   "autor": "Victor Hugo",
+   "ano": 1862,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "alicia-maravillas",
+   "titulo": "Alicia en el país de las maravillas",
+   "autor": "Lewis Carroll",
+   "ano": 1865,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "crimen-castigo",
+   "titulo": "Crimen y castigo",
+   "autor": "Fiódor Dostoievski",
+   "ano": 1866,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "mujercitas",
+   "titulo": "Mujercitas",
+   "autor": "Louisa May Alcott",
+   "ano": 1868,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "guerra-y-paz",
+   "titulo": "Guerra y paz",
+   "autor": "León Tolstói",
+   "ano": 1869,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "vuelta-al-mundo-80-dias",
+   "titulo": "La vuelta al mundo en ochenta días",
+   "autor": "Julio Verne",
+   "ano": 1872,
+   "tema": "Literatura",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "ana-karenina",
+   "titulo": "Ana Karenina",
+   "autor": "León Tolstói",
+   "ano": 1877,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "jekyll-hyde",
+   "titulo": "El extraño caso del doctor Jekyll y el señor Hyde",
+   "autor": "R. L. Stevenson",
+   "ano": 1886,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "muerte-de-ivan-ilich",
+   "titulo": "La muerte de Iván Ilich",
+   "autor": "León Tolstói",
+   "ano": 1886,
+   "tema": "Literatura",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "dorian-gray",
+   "titulo": "El retrato de Dorian Gray",
+   "autor": "Oscar Wilde",
+   "ano": 1890,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "dracula",
+   "titulo": "Drácula",
+   "autor": "Bram Stoker",
+   "ano": 1897,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "sabueso-baskerville",
+   "titulo": "El sabueso de los Baskerville",
+   "autor": "Arthur Conan Doyle",
+   "ano": 1902,
+   "tema": "Literatura",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "metamorfosis",
+   "titulo": "La metamorfosis",
+   "autor": "Franz Kafka",
+   "ano": 1915,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "siddhartha",
+   "titulo": "Siddhartha",
+   "autor": "Hermann Hesse",
+   "ano": 1922,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "gran-gatsby",
+   "titulo": "El gran Gatsby",
+   "autor": "F. Scott Fitzgerald",
+   "ano": 1925,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "el-proceso",
+   "titulo": "El proceso",
+   "autor": "Franz Kafka",
+   "ano": 1925,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "mundo-feliz",
+   "titulo": "Un mundo feliz",
+   "autor": "Aldous Huxley",
+   "ano": 1932,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "asesinato-orient-express",
+   "titulo": "Asesinato en el Orient Express",
+   "autor": "Agatha Christie",
+   "ano": 1934,
+   "tema": "Literatura",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "hobbit",
+   "titulo": "El hobbit",
+   "autor": "J. R. R. Tolkien",
+   "ano": 1937,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "y-no-quedo-ninguno",
+   "titulo": "Y no quedó ninguno",
+   "autor": "Agatha Christie",
+   "ano": 1939,
+   "tema": "Literatura",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "extranjero",
+   "titulo": "El extranjero",
+   "autor": "Albert Camus",
+   "ano": 1942,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "principito",
+   "titulo": "El principito",
+   "autor": "Antoine de Saint-Exupéry",
+   "ano": 1943,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "rebelion-granja",
+   "titulo": "Rebelión en la granja",
+   "autor": "George Orwell",
+   "ano": 1945,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "la-peste",
+   "titulo": "La peste",
+   "autor": "Albert Camus",
+   "ano": 1947,
+   "tema": "Literatura",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "el-tunel",
+   "titulo": "El túnel",
+   "autor": "Ernesto Sabato",
+   "ano": 1948,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "1984",
+   "titulo": "1984",
+   "autor": "George Orwell",
+   "ano": 1949,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "leon-bruja-armario",
+   "titulo": "El león, la bruja y el armario",
+   "autor": "C. S. Lewis",
+   "ano": 1950,
+   "tema": "Literatura",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "guardian-centeno",
+   "titulo": "El guardián entre el centeno",
+   "autor": "J. D. Salinger",
+   "ano": 1951,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "viejo-mar",
+   "titulo": "El viejo y el mar",
+   "autor": "Ernest Hemingway",
+   "ano": 1952,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "fahrenheit",
+   "titulo": "Fahrenheit 451",
+   "autor": "Ray Bradbury",
+   "ano": 1953,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "senor-moscas",
+   "titulo": "El señor de las moscas",
+   "autor": "William Golding",
+   "ano": 1954,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "senor-anillos",
+   "titulo": "El señor de los anillos",
+   "autor": "J. R. R. Tolkien",
+   "ano": 1954,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "matar-ruisenor",
+   "titulo": "Matar a un ruiseñor",
+   "autor": "Harper Lee",
+   "ano": 1960,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "cien-anos",
+   "titulo": "Cien años de soledad",
+   "autor": "Gabriel García Márquez",
+   "ano": 1967,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "juan-salvador-gaviota",
+   "titulo": "Juan Salvador Gaviota",
+   "autor": "Richard Bach",
+   "ano": 1970,
+   "tema": "Literatura",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "momo",
+   "titulo": "Momo",
+   "autor": "Michael Ende",
+   "ano": 1973,
+   "tema": "Literatura",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "historia-interminable",
+   "titulo": "La historia interminable",
+   "autor": "Michael Ende",
+   "ano": 1979,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "renglones-torcidos",
+   "titulo": "Los renglones torcidos de Dios",
+   "autor": "Torcuato Luca de Tena",
+   "ano": 1979,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "nombre-rosa",
+   "titulo": "El nombre de la rosa",
+   "autor": "Umberto Eco",
+   "ano": 1980,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "cronica-muerte-anunciada",
+   "titulo": "Crónica de una muerte anunciada",
+   "autor": "Gabriel García Márquez",
+   "ano": 1981,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "casa-espiritus",
+   "titulo": "La casa de los espíritus",
+   "autor": "Isabel Allende",
+   "ano": 1982,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "amor-tiempos-colera",
+   "titulo": "El amor en los tiempos del cólera",
+   "autor": "Gabriel García Márquez",
+   "ano": 1985,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "perfume",
+   "titulo": "El perfume",
+   "autor": "Patrick Süskind",
+   "ano": 1985,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "alquimista",
+   "titulo": "El alquimista",
+   "autor": "Paulo Coelho",
+   "ano": 1988,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "matilda",
+   "titulo": "Matilda",
+   "autor": "Roald Dahl",
+   "ano": 1988,
+   "tema": "Literatura",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "harry-potter-1",
+   "titulo": "Harry Potter y la piedra filosofal",
+   "autor": "J. K. Rowling",
+   "ano": 1997,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "martes-con-mi-profesor",
+   "titulo": "Martes con mi viejo profesor",
+   "autor": "Mitch Albom",
+   "ano": 1997,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "sombra-viento",
+   "titulo": "La sombra del viento",
+   "autor": "Carlos Ruiz Zafón",
+   "ano": 2001,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "vivir-para-contarla",
+   "titulo": "Vivir para contarla",
+   "autor": "Gabriel García Márquez",
+   "ano": 2002,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "kite-runner",
+   "titulo": "Cometas en el cielo",
+   "autor": "Khaled Hosseini",
+   "ano": 2003,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "codigo-da-vinci",
+   "titulo": "El código Da Vinci",
+   "autor": "Dan Brown",
+   "ano": 2003,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "curioso-incidente-perro",
+   "titulo": "El curioso incidente del perro a medianoche",
+   "autor": "Mark Haddon",
+   "ano": 2003,
+   "tema": "Literatura",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cinco-personas-cielo",
+   "titulo": "Las cinco personas que encontrarás en el cielo",
+   "autor": "Mitch Albom",
+   "ano": 2003,
+   "tema": "Literatura",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "ladrona-libros",
+   "titulo": "La ladrona de libros",
+   "autor": "Markus Zusak",
+   "ano": 2005,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "come-reza-ama",
+   "titulo": "Come, reza, ama",
+   "autor": "Elizabeth Gilbert",
+   "ano": 2006,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "elegancia-erizo",
+   "titulo": "La elegancia del erizo",
+   "autor": "Muriel Barbery",
+   "ano": 2006,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "mil-soles",
+   "titulo": "Mil soles espléndidos",
+   "autor": "Khaled Hosseini",
+   "ano": 2007,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "juegos-hambre",
+   "titulo": "Los juegos del hambre",
+   "autor": "Suzanne Collins",
+   "ano": 2008,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "nino-que-domo-el-viento",
+   "titulo": "El niño que domó el viento",
+   "autor": "William Kamkwamba y Bryan Mealer",
+   "ano": 2009,
+   "tema": "Literatura",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "tiempo-entre-costuras",
+   "titulo": "El tiempo entre costuras",
+   "autor": "María Dueñas",
+   "ano": 2009,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "el-marciano",
+   "titulo": "El marciano",
+   "autor": "Andy Weir",
+   "ano": 2011,
+   "tema": "Literatura",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "hombre-llamado-ove",
+   "titulo": "Un hombre llamado Ove",
+   "autor": "Fredrik Backman",
+   "ano": 2012,
+   "tema": "Literatura",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "patria",
+   "titulo": "Patria",
+   "autor": "Fernando Aramburu",
+   "ano": 2016,
+   "tema": "Literatura",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "biblioteca-de-la-medianoche",
+   "titulo": "La biblioteca de la medianoche",
+   "autor": "Matt Haig",
+   "ano": 2020,
+   "tema": "Literatura",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "autobiografia-franklin",
+   "titulo": "Autobiografía",
+   "autor": "Benjamin Franklin",
+   "ano": 1791,
+   "tema": "Historia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "momentos-estelares",
+   "titulo": "Momentos estelares de la humanidad",
+   "autor": "Stefan Zweig",
+   "ano": 1927,
+   "tema": "Historia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "breve-historia-del-mundo",
+   "titulo": "Breve historia del mundo",
+   "autor": "E. H. Gombrich",
+   "ano": 1936,
+   "tema": "Historia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "homenaje-cataluna",
+   "titulo": "Homenaje a Cataluña",
+   "autor": "George Orwell",
+   "ano": 1938,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "mundo-ayer",
+   "titulo": "El mundo de ayer",
+   "autor": "Stefan Zweig",
+   "ano": 1942,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "diario-ana-frank",
+   "titulo": "Diario de Ana Frank",
+   "autor": "Ana Frank",
+   "ano": 1947,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "si-esto-hombre",
+   "titulo": "Si esto es un hombre",
+   "autor": "Primo Levi",
+   "ano": 1947,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "kon-tiki",
+   "titulo": "Kon-Tiki",
+   "autor": "Thor Heyerdahl",
+   "ano": 1948,
+   "tema": "Historia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "origenes-totalitarismo",
+   "titulo": "Los orígenes del totalitarismo",
+   "autor": "Hannah Arendt",
+   "ano": 1951,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "endurance-shackleton",
+   "titulo": "Endurance",
+   "autor": "Alfred Lansing",
+   "ano": 1959,
+   "tema": "Historia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "guerra-civil-thomas",
+   "titulo": "La guerra civil española",
+   "autor": "Hugh Thomas",
+   "ano": 1961,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "canones-agosto",
+   "titulo": "Los cañones de agosto",
+   "autor": "Barbara Tuchman",
+   "ano": 1962,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "eichmann-jerusalen",
+   "titulo": "Eichmann en Jerusalén",
+   "autor": "Hannah Arendt",
+   "ano": 1963,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "malcolm-x",
+   "titulo": "Autobiografía de Malcolm X",
+   "autor": "Malcolm X y Alex Haley",
+   "ano": 1965,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "pilares-tierra",
+   "titulo": "Los pilares de la Tierra",
+   "autor": "Ken Follett",
+   "ano": 1989,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "mandela",
+   "titulo": "El largo camino hacia la libertad",
+   "autor": "Nelson Mandela",
+   "ano": 1994,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "hacia-rutas-salvajes",
+   "titulo": "Hacia rutas salvajes",
+   "autor": "Jon Krakauer",
+   "ano": 1996,
+   "tema": "Historia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "armas-germenes",
+   "titulo": "Armas, gérmenes y acero",
+   "autor": "Jared Diamond",
+   "ano": 1997,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "mal-de-altura",
+   "titulo": "Mal de altura",
+   "autor": "Jon Krakauer",
+   "ano": 1997,
+   "tema": "Historia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "fantasma-rey-leopoldo",
+   "titulo": "El fantasma del rey Leopoldo",
+   "autor": "Adam Hochschild",
+   "ano": 1998,
+   "tema": "Historia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "hitler-kershaw",
+   "titulo": "Hitler",
+   "autor": "Ian Kershaw",
+   "ano": 1998,
+   "tema": "Historia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "stalingrado",
+   "titulo": "Stalingrado",
+   "autor": "Antony Beevor",
+   "ano": 1998,
+   "tema": "Historia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "gulag",
+   "titulo": "Gulag",
+   "autor": "Anne Applebaum",
+   "ano": 2003,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "rubicon",
+   "titulo": "Rubicón",
+   "autor": "Tom Holland",
+   "ano": 2003,
+   "tema": "Historia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "mil-cuatrocientos-noventa-y-uno",
+   "titulo": "1491",
+   "autor": "Charles C. Mann",
+   "ano": 2005,
+   "tema": "Historia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "auschwitz-rees",
+   "titulo": "Auschwitz: los nazis y la solución final",
+   "autor": "Laurence Rees",
+   "ano": 2005,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "colapso",
+   "titulo": "Colapso",
+   "autor": "Jared Diamond",
+   "ano": 2005,
+   "tema": "Historia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "equipo-rivales",
+   "titulo": "Equipo de rivales",
+   "autor": "Doris Kearns Goodwin",
+   "ano": 2005,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "chico-pijama",
+   "titulo": "El niño con el pijama de rayas",
+   "autor": "John Boyne",
+   "ano": 2006,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "cleopatra-schiff",
+   "titulo": "Cleopatra",
+   "autor": "Stacy Schiff",
+   "ano": 2010,
+   "tema": "Historia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "hambruna-mao",
+   "titulo": "La gran hambruna en la China de Mao",
+   "autor": "Frank Dikötter",
+   "ano": 2010,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "historia-mundo-objetos",
+   "titulo": "La historia del mundo en cien objetos",
+   "autor": "Neil MacGregor",
+   "ano": 2010,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "sapiens",
+   "titulo": "Sapiens",
+   "autor": "Yuval Noah Harari",
+   "ano": 2011,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "verano-1913",
+   "titulo": "1913: el verano del siglo",
+   "autor": "Florian Illies",
+   "ano": 2012,
+   "tema": "Historia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "desafio-total",
+   "titulo": "Desafío total",
+   "autor": "Arnold Schwarzenegger",
+   "ano": 2012,
+   "tema": "Historia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "historia-mundo-escepticos",
+   "titulo": "La historia del mundo contada para escépticos",
+   "autor": "Juan Eslava Galán",
+   "ano": 2012,
+   "tema": "Historia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "homo-sovieticus",
+   "titulo": "El fin del Homo Sovieticus",
+   "autor": "Svetlana Aleksiévich",
+   "ano": 2013,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "verano-1927",
+   "titulo": "El verano de 1927",
+   "autor": "Bill Bryson",
+   "ano": 2013,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "malala",
+   "titulo": "Yo soy Malala",
+   "autor": "Malala Yousafzai",
+   "ano": 2013,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "como-llegamos-aqui",
+   "titulo": "Cómo llegamos aquí",
+   "autor": "Steven Johnson",
+   "ano": 2014,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "napoleon-roberts",
+   "titulo": "Napoleón: una vida",
+   "autor": "Andrew Roberts",
+   "ano": 2014,
+   "tema": "Historia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "homo-deus",
+   "titulo": "Homo Deus",
+   "autor": "Yuval Noah Harari",
+   "ano": 2015,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "spqr",
+   "titulo": "SPQR",
+   "autor": "Mary Beard",
+   "ano": 2015,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "imperiofobia",
+   "titulo": "Imperiofobia y leyenda negra",
+   "autor": "María Elvira Roca Barea",
+   "ano": 2016,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "prohibido-nacer",
+   "titulo": "Prohibido nacer",
+   "autor": "Trevor Noah",
+   "ano": 2016,
+   "tema": "Historia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "sobre-tirania",
+   "titulo": "Sobre la tiranía",
+   "autor": "Timothy Snyder",
+   "ano": 2017,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "21-lecciones",
+   "titulo": "21 lecciones para el siglo XXI",
+   "autor": "Yuval Noah Harari",
+   "ano": 2018,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "tatuador",
+   "titulo": "El tatuador de Auschwitz",
+   "autor": "Heather Morris",
+   "ano": 2018,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "espia-traidor",
+   "titulo": "Espía y traidor",
+   "autor": "Ben Macintyre",
+   "ano": 2018,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "becoming",
+   "titulo": "Mi historia",
+   "autor": "Michelle Obama",
+   "ano": 2018,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "prision-americana",
+   "titulo": "Prisión americana",
+   "autor": "Shane Bauer",
+   "ano": 2018,
+   "tema": "Historia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "infinito-junco",
+   "titulo": "El infinito en un junco",
+   "autor": "Irene Vallejo",
+   "ano": 2019,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "historia-espana",
+   "titulo": "Una historia de España",
+   "autor": "Arturo Pérez-Reverte",
+   "ano": 2019,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "luz-verde",
+   "titulo": "Luz verde",
+   "autor": "Matthew McConaughey",
+   "ano": 2020,
+   "tema": "Historia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "en-la-sombra",
+   "titulo": "En la sombra",
+   "autor": "Príncipe Harry",
+   "ano": 2023,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "nexus",
+   "titulo": "Nexus",
+   "autor": "Yuval Noah Harari",
+   "ano": 2024,
+   "tema": "Historia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "origen-especies",
+   "titulo": "El origen de las especies",
+   "autor": "Charles Darwin",
+   "ano": 1859,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "madame-curie",
+   "titulo": "Madame Curie",
+   "autor": "Ève Curie",
+   "ano": 1937,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "revoluciones-cientificas",
+   "titulo": "La estructura de las revoluciones científicas",
+   "autor": "Thomas S. Kuhn",
+   "ano": 1962,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "primavera-silenciosa",
+   "titulo": "Primavera silenciosa",
+   "autor": "Rachel Carson",
+   "ano": 1962,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "mono-desnudo",
+   "titulo": "El mono desnudo",
+   "autor": "Desmond Morris",
+   "ano": 1967,
+   "tema": "Ciencia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "doble-helice",
+   "titulo": "La doble hélice",
+   "autor": "James D. Watson",
+   "ano": 1968,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "despertares",
+   "titulo": "Despertares",
+   "autor": "Oliver Sacks",
+   "ano": 1973,
+   "tema": "Ciencia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "gen-egoista",
+   "titulo": "El gen egoísta",
+   "autor": "Richard Dawkins",
+   "ano": 1976,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cosmos",
+   "titulo": "Cosmos",
+   "autor": "Carl Sagan",
+   "ano": 1980,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "feynman",
+   "titulo": "¿Está usted de broma, Sr. Feynman?",
+   "autor": "Richard Feynman",
+   "ano": 1985,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "hombre-confundio-sombrero",
+   "titulo": "El hombre que confundió a su mujer con un sombrero",
+   "autor": "Oliver Sacks",
+   "ano": 1985,
+   "tema": "Ciencia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "caos-gleick",
+   "titulo": "Caos",
+   "autor": "James Gleick",
+   "ano": 1987,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "breve-historia-tiempo",
+   "titulo": "Breve historia del tiempo",
+   "autor": "Stephen Hawking",
+   "ano": 1988,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "punto-azul-palido",
+   "titulo": "Un punto azul pálido",
+   "autor": "Carl Sagan",
+   "ano": 1994,
+   "tema": "Ciencia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "mundo-demonios",
+   "titulo": "El mundo y sus demonios",
+   "autor": "Carl Sagan",
+   "ano": 1995,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "longitud-sobel",
+   "titulo": "Longitud",
+   "autor": "Dava Sobel",
+   "ano": 1995,
+   "tema": "Ciencia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "diablo-de-los-numeros",
+   "titulo": "El diablo de los números",
+   "autor": "Hans Magnus Enzensberger",
+   "ano": 1997,
+   "tema": "Ciencia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "enigma-de-fermat",
+   "titulo": "El enigma de Fermat",
+   "autor": "Simon Singh",
+   "ano": 1997,
+   "tema": "Ciencia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "universo-cascara",
+   "titulo": "El universo en una cáscara de nuez",
+   "autor": "Stephen Hawking",
+   "ano": 2001,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "fiambres",
+   "titulo": "Fiambres",
+   "autor": "Mary Roach",
+   "ano": 2003,
+   "tema": "Ciencia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "casi-todo",
+   "titulo": "Una breve historia de casi todo",
+   "autor": "Bill Bryson",
+   "ano": 2003,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "por-que-amamos",
+   "titulo": "Por qué amamos",
+   "autor": "Helen Fisher",
+   "ano": 2004,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "cerebro-femenino",
+   "titulo": "El cerebro femenino",
+   "autor": "Louann Brizendine",
+   "ano": 2006,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "tu-cerebro-y-la-musica",
+   "titulo": "Tu cerebro y la música",
+   "autor": "Daniel J. Levitin",
+   "ano": 2006,
+   "tema": "Ciencia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "einstein",
+   "titulo": "Einstein: su vida y su universo",
+   "autor": "Walter Isaacson",
+   "ano": 2007,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cerebro-cambia",
+   "titulo": "El cerebro se cambia a sí mismo",
+   "autor": "Norman Doidge",
+   "ano": 2007,
+   "tema": "Ciencia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "emperador-males",
+   "titulo": "El emperador de todos los males",
+   "autor": "Siddhartha Mukherjee",
+   "ano": 2010,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "optimista-racional",
+   "titulo": "El optimista racional",
+   "autor": "Matt Ridley",
+   "ano": 2010,
+   "tema": "Ciencia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cuchara-menguante",
+   "titulo": "La cuchara menguante",
+   "autor": "Sam Kean",
+   "ano": 2010,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "henrietta-lacks",
+   "titulo": "La vida inmortal de Henrietta Lacks",
+   "autor": "Rebecca Skloot",
+   "ano": 2010,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "incognito",
+   "titulo": "Incógnito",
+   "autor": "David Eagleman",
+   "ano": 2011,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "futuro-nuestra-mente",
+   "titulo": "El futuro de nuestra mente",
+   "autor": "Michio Kaku",
+   "ano": 2014,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "sexta-extincion",
+   "titulo": "La sexta extinción",
+   "autor": "Elizabeth Kolbert",
+   "ano": 2014,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "siete-lecciones-fisica",
+   "titulo": "Siete breves lecciones de física",
+   "autor": "Carlo Rovelli",
+   "ano": 2014,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "el-cerebro",
+   "titulo": "El cerebro",
+   "autor": "David Eagleman",
+   "ano": 2015,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "cerebro-adolescente",
+   "titulo": "El cerebro adolescente",
+   "autor": "Frances Jensen",
+   "ano": 2015,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "universo-mano",
+   "titulo": "El universo en tu mano",
+   "autor": "Christophe Galfard",
+   "ano": 2015,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "invencion-de-la-naturaleza",
+   "titulo": "La invención de la naturaleza",
+   "autor": "Andrea Wulf",
+   "ano": 2015,
+   "tema": "Ciencia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "vida-secreta-mente",
+   "titulo": "La vida secreta de la mente",
+   "autor": "Mariano Sigman",
+   "ano": 2015,
+   "tema": "Ciencia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "vida-arboles",
+   "titulo": "La vida secreta de los árboles",
+   "autor": "Peter Wohlleben",
+   "ano": 2015,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "breve-historia-todos-vivido",
+   "titulo": "Breve historia de todos los que han vivido",
+   "autor": "Adam Rutherford",
+   "ano": 2016,
+   "tema": "Ciencia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cerebro-idiota",
+   "titulo": "El cerebro idiota",
+   "autor": "Dean Burnett",
+   "ano": 2016,
+   "tema": "Ciencia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "gen-historia",
+   "titulo": "El gen",
+   "autor": "Siddhartha Mukherjee",
+   "ano": 2016,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "otras-mentes",
+   "titulo": "Otras mentes",
+   "autor": "Peter Godfrey-Smith",
+   "ano": 2016,
+   "tema": "Ciencia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "astrofisica-prisa",
+   "titulo": "Astrofísica para gente con prisa",
+   "autor": "Neil deGrasse Tyson",
+   "ano": 2017,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "orden-del-tiempo",
+   "titulo": "El orden del tiempo",
+   "autor": "Carlo Rovelli",
+   "ano": 2017,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "vida-3-0",
+   "titulo": "Vida 3.0",
+   "autor": "Max Tegmark",
+   "ano": 2017,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "auge-caida-dinosaurios",
+   "titulo": "Auge y caída de los dinosaurios",
+   "autor": "Steve Brusatte",
+   "ano": 2018,
+   "tema": "Ciencia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "humanos-phillips",
+   "titulo": "Humanos",
+   "autor": "Tom Phillips",
+   "ano": 2018,
+   "tema": "Ciencia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "red-oculta-de-la-vida",
+   "titulo": "La red oculta de la vida",
+   "autor": "Merlin Sheldrake",
+   "ano": 2020,
+   "tema": "Ciencia",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "ultimos-dinosaurios",
+   "titulo": "Los últimos días de los dinosaurios",
+   "autor": "Riley Black",
+   "ano": 2022,
+   "tema": "Ciencia",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "es-facil-dejar-de-fumar",
+   "titulo": "Es fácil dejar de fumar, si sabes cómo",
+   "autor": "Allen Carr",
+   "ano": 1985,
+   "tema": "Salud",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "vivir-plenitud",
+   "titulo": "Vivir con plenitud las crisis",
+   "autor": "Jon Kabat-Zinn",
+   "ano": 1990,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cebras-no-tienen-ulcera",
+   "titulo": "¿Por qué las cebras no tienen úlcera?",
+   "autor": "Robert M. Sapolsky",
+   "ano": 1994,
+   "tema": "Salud",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "metodo-dukan",
+   "titulo": "El método Dukan",
+   "autor": "Pierre Dukan",
+   "ano": 2000,
+   "tema": "Salud",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "pleno-compromiso",
+   "titulo": "El poder del pleno compromiso",
+   "autor": "Jim Loehr y Tony Schwartz",
+   "ano": 2003,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "mas-joven-cada-ano",
+   "titulo": "Más joven cada año",
+   "autor": "Chris Crowley y Henry S. Lodge",
+   "ano": 2004,
+   "tema": "Salud",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "biologia-creencia",
+   "titulo": "La biología de la creencia",
+   "autor": "Bruce Lipton",
+   "ano": 2005,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "enzima-prodigiosa",
+   "titulo": "La enzima prodigiosa",
+   "autor": "Hiromi Shinya",
+   "ano": 2005,
+   "tema": "Salud",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "dilema-omnivoro",
+   "titulo": "El dilema del omnívoro",
+   "autor": "Michael Pollan",
+   "ano": 2006,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "anticancer",
+   "titulo": "Anticáncer",
+   "autor": "David Servan-Schreiber",
+   "ano": 2007,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "zonas-azules",
+   "titulo": "El secreto de las zonas azules",
+   "autor": "Dan Buettner",
+   "ano": 2008,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "en-defensa-de-la-comida",
+   "titulo": "En defensa de la comida",
+   "autor": "Michael Pollan",
+   "ano": 2008,
+   "tema": "Salud",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "spark",
+   "titulo": "Spark",
+   "autor": "John J. Ratey y Eric Hagerman",
+   "ano": 2008,
+   "tema": "Salud",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "nacidos-correr",
+   "titulo": "Nacidos para correr",
+   "autor": "Christopher McDougall",
+   "ano": 2009,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cuerpo-4-horas",
+   "titulo": "El cuerpo perfecto en 4 horas",
+   "autor": "Tim Ferriss",
+   "ano": 2010,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "por-que-engordamos",
+   "titulo": "Por qué engordamos",
+   "autor": "Gary Taubes",
+   "ano": 2010,
+   "tema": "Salud",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "magia-orden",
+   "titulo": "La magia del orden",
+   "autor": "Marie Kondo",
+   "ano": 2011,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "deja-de-ser-tu",
+   "titulo": "Deja de ser tú",
+   "autor": "Joe Dispenza",
+   "ano": 2012,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "milagro-manana",
+   "titulo": "Mañanas milagrosas",
+   "autor": "Hal Elrod",
+   "ano": 2012,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "sin-azucar",
+   "titulo": "Sin azúcar",
+   "autor": "Robert H. Lustig",
+   "ano": 2012,
+   "tema": "Salud",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cerebro-de-pan",
+   "titulo": "Cerebro de pan",
+   "autor": "David Perlmutter",
+   "ano": 2013,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cuerpo-cuenta",
+   "titulo": "El cuerpo lleva la cuenta",
+   "autor": "Bessel van der Kolk",
+   "ano": 2014,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "digestion-cuestion",
+   "titulo": "La digestión es la cuestión",
+   "autor": "Giulia Enders",
+   "ano": 2014,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "ser-mortal",
+   "titulo": "Ser mortal",
+   "autor": "Atul Gawande",
+   "ano": 2014,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "comer-para-no-morir",
+   "titulo": "Comer para no morir",
+   "autor": "Michael Greger",
+   "ano": 2015,
+   "tema": "Salud",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "intestino-feliz",
+   "titulo": "El intestino feliz",
+   "autor": "Justin y Erica Sonnenburg",
+   "ano": 2015,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "estres-el-lado-bueno",
+   "titulo": "Estrés: el lado bueno",
+   "autor": "Kelly McGonigal",
+   "ano": 2015,
+   "tema": "Salud",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "tal-como-eres",
+   "titulo": "Tal como eres",
+   "autor": "Emily Nagoski",
+   "ano": 2015,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "mente-en-forma",
+   "titulo": "Tu mente en forma",
+   "autor": "Wendy Suzuki",
+   "ano": 2015,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "aliento-aire",
+   "titulo": "Cuando el aliento se vuelve aire",
+   "autor": "Paul Kalanithi",
+   "ano": 2016,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "codigo-obesidad",
+   "titulo": "El código de la obesidad",
+   "autor": "Jason Fung",
+   "ano": 2016,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "dieta-longevidad",
+   "titulo": "La dieta de la longevidad",
+   "autor": "Valter Longo",
+   "ano": 2016,
+   "tema": "Salud",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "vida-de-100-anos",
+   "titulo": "La vida de 100 años",
+   "autor": "Lynda Gratton y Andrew Scott",
+   "ano": 2016,
+   "tema": "Salud",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "dieta-cojea",
+   "titulo": "Mi dieta cojea",
+   "autor": "Aitor Sánchez García",
+   "ano": 2016,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cerebro-hambriento",
+   "titulo": "El cerebro hambriento",
+   "autor": "Stephan Guyenet",
+   "ano": 2017,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "solucion-telomeros",
+   "titulo": "La solución de los telómeros",
+   "autor": "Elizabeth Blackburn y Elissa Epel",
+   "ano": 2017,
+   "tema": "Salud",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "por-que-dormimos",
+   "titulo": "Por qué dormimos",
+   "autor": "Matthew Walker",
+   "ano": 2017,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cuando-pink",
+   "titulo": "Cuándo: la ciencia de encontrar el momento preciso",
+   "autor": "Daniel H. Pink",
+   "ano": 2018,
+   "tema": "Salud",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "dieta-ya-no-cojea",
+   "titulo": "Mi dieta ya no cojea",
+   "autor": "Aitor Sánchez García",
+   "ano": 2018,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "alarga-tu-esperanza-de-vida",
+   "titulo": "Alarga tu esperanza de vida",
+   "autor": "David A. Sinclair",
+   "ano": 2019,
+   "tema": "Salud",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "burnout-nagoski",
+   "titulo": "Burnout",
+   "autor": "Emily y Amelia Nagoski",
+   "ano": 2019,
+   "tema": "Salud",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "come-comida-real",
+   "titulo": "Come comida real",
+   "autor": "Carlos Ríos",
+   "ano": 2019,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "el-cuerpo-bryson",
+   "titulo": "El cuerpo",
+   "autor": "Bill Bryson",
+   "ano": 2019,
+   "tema": "Salud",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "metodo-wim-hof",
+   "titulo": "El método Wim Hof",
+   "autor": "Wim Hof",
+   "ano": 2020,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "en-forma-por-naturaleza",
+   "titulo": "En forma por naturaleza",
+   "autor": "Daniel E. Lieberman",
+   "ano": 2020,
+   "tema": "Salud",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "respira",
+   "titulo": "Respira",
+   "autor": "James Nestor",
+   "ano": 2020,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "dopamina-nacion",
+   "titulo": "Dopamina nación",
+   "autor": "Anna Lembke",
+   "ano": 2021,
+   "tema": "Salud",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "entre-dos-reinos",
+   "titulo": "Entre dos reinos",
+   "autor": "Suleika Jaouad",
+   "ano": 2021,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "revolucion-glucosa",
+   "titulo": "La revolución de la glucosa",
+   "autor": "Jessie Inchauspé",
+   "ano": 2022,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "outlive",
+   "titulo": "Outlive: el arte de vivir más y mejor",
+   "autor": "Peter Attia",
+   "ano": 2023,
+   "tema": "Salud",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "una-buena-vida",
+   "titulo": "Una buena vida",
+   "autor": "Robert Waldinger y Marc Schulz",
+   "ano": 2023,
+   "tema": "Salud",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "arte-guerra",
+   "titulo": "El arte de la guerra",
+   "autor": "Sun Tzu",
+   "ano": -500,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "tao",
+   "titulo": "Tao Te Ching",
+   "autor": "Lao Tsé",
+   "ano": -400,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "apologia-socrates",
+   "titulo": "Apología de Sócrates",
+   "autor": "Platón",
+   "ano": -399,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "banquete",
+   "titulo": "El banquete",
+   "autor": "Platón",
+   "ano": -385,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "republica-platon",
+   "titulo": "La República",
+   "autor": "Platón",
+   "ano": -375,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "etica-nicomaco",
+   "titulo": "Ética a Nicómaco",
+   "autor": "Aristóteles",
+   "ano": -340,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "brevedad-vida",
+   "titulo": "Sobre la brevedad de la vida",
+   "autor": "Séneca",
+   "ano": 49,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "cartas-a-lucilio",
+   "titulo": "Cartas a Lucilio",
+   "autor": "Séneca",
+   "ano": 65,
+   "tema": "Filosofía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "enquiridion",
+   "titulo": "Enquiridión",
+   "autor": "Epicteto",
+   "ano": 125,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "meditaciones",
+   "titulo": "Meditaciones",
+   "autor": "Marco Aurelio",
+   "ano": 180,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "principe",
+   "titulo": "El príncipe",
+   "autor": "Nicolás Maquiavelo",
+   "ano": 1532,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "ensayos-montaigne",
+   "titulo": "Ensayos",
+   "autor": "Michel de Montaigne",
+   "ano": 1580,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "discurso-metodo",
+   "titulo": "Discurso del método",
+   "autor": "René Descartes",
+   "ano": 1637,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "libro-cinco-anillos",
+   "titulo": "El libro de los cinco anillos",
+   "autor": "Miyamoto Musashi",
+   "ano": 1645,
+   "tema": "Filosofía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "contrato-social",
+   "titulo": "El contrato social",
+   "autor": "Jean-Jacques Rousseau",
+   "ano": 1762,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "sobre-la-libertad",
+   "titulo": "Sobre la libertad",
+   "autor": "John Stuart Mill",
+   "ano": 1859,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "zaratustra",
+   "titulo": "Así habló Zaratustra",
+   "autor": "Friedrich Nietzsche",
+   "ano": 1883,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "mas-alla-bien-mal",
+   "titulo": "Más allá del bien y del mal",
+   "autor": "Friedrich Nietzsche",
+   "ano": 1886,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "como-un-hombre-piensa",
+   "titulo": "Como un hombre piensa, así es su vida",
+   "autor": "James Allen",
+   "ano": 1903,
+   "tema": "Filosofía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "el-profeta",
+   "titulo": "El profeta",
+   "autor": "Khalil Gibran",
+   "ano": 1923,
+   "tema": "Filosofía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "miedo-libertad",
+   "titulo": "El miedo a la libertad",
+   "autor": "Erich Fromm",
+   "ano": 1941,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "sisifo",
+   "titulo": "El mito de Sísifo",
+   "autor": "Albert Camus",
+   "ano": 1942,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "existencialismo-humanismo",
+   "titulo": "El existencialismo es un humanismo",
+   "autor": "Jean-Paul Sartre",
+   "ano": 1946,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "busca-sentido",
+   "titulo": "El hombre en busca de sentido",
+   "autor": "Viktor Frankl",
+   "ano": 1946,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "segundo-sexo",
+   "titulo": "El segundo sexo",
+   "autor": "Simone de Beauvoir",
+   "ano": 1949,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "tener-o-ser",
+   "titulo": "Tener o ser",
+   "autor": "Erich Fromm",
+   "ano": 1976,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": false
+  },
+  {
+   "id": "caballero-armadura",
+   "titulo": "El caballero de la armadura oxidada",
+   "autor": "Robert Fisher",
+   "ano": 1989,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "mundo-sofia",
+   "titulo": "El mundo de Sofía",
+   "autor": "Jostein Gaarder",
+   "ano": 1991,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "etica-amador",
+   "titulo": "Ética para Amador",
+   "autor": "Fernando Savater",
+   "ano": 1991,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "cuando-todo-se-derrumba",
+   "titulo": "Cuando todo se derrumba",
+   "autor": "Pema Chödrön",
+   "ano": 1997,
+   "tema": "Filosofía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "monje-ferrari",
+   "titulo": "El monje que vendió su Ferrari",
+   "autor": "Robin Sharma",
+   "ano": 1997,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "cuatro-acuerdos",
+   "titulo": "Los cuatro acuerdos",
+   "autor": "Miguel Ruiz",
+   "ano": 1997,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "arte-de-viajar",
+   "titulo": "El arte de viajar",
+   "autor": "Alain de Botton",
+   "ano": 2002,
+   "tema": "Filosofía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "amor-liquido",
+   "titulo": "Amor líquido",
+   "autor": "Zygmunt Bauman",
+   "ano": 2003,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "sociedad-cansancio",
+   "titulo": "La sociedad del cansancio",
+   "autor": "Byung-Chul Han",
+   "ano": 2010,
+   "tema": "Filosofía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "sutil-arte",
+   "titulo": "El sutil arte de que casi todo te importe una mierda",
+   "autor": "Mark Manson",
+   "ano": 2016,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "ikigai",
+   "titulo": "Ikigai",
+   "autor": "García y Miralles",
+   "ano": 2016,
+   "tema": "Filosofía",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "como-ser-estoico",
+   "titulo": "Cómo ser un estoico",
+   "autor": "Massimo Pigliucci",
+   "ano": 2017,
+   "tema": "Filosofía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "arte-buena-vida-dobelli",
+   "titulo": "El arte de la buena vida",
+   "autor": "Rolf Dobelli",
+   "ano": 2017,
+   "tema": "Filosofía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "mythos",
+   "titulo": "Mythos",
+   "autor": "Stephen Fry",
+   "ano": 2017,
+   "tema": "Filosofía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "asombrosos-secretos-vida",
+   "titulo": "Los asombrosos secretos de la vida",
+   "autor": "Gaur Gopal Das",
+   "ano": 2018,
+   "tema": "Filosofía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "como-ser-perfecto",
+   "titulo": "Cómo ser perfecto",
+   "autor": "Michael Schur",
+   "ano": 2022,
+   "tema": "Filosofía",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "van-gogh-cartas",
+   "titulo": "Cartas a Theo",
+   "autor": "Vincent van Gogh",
+   "ano": 1914,
+   "tema": "Arte",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "cartas-joven-poeta",
+   "titulo": "Cartas a un joven poeta",
+   "autor": "Rainer Maria Rilke",
+   "ano": 1929,
+   "tema": "Arte",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "habitacion-propia",
+   "titulo": "Una habitación propia",
+   "autor": "Virginia Woolf",
+   "ano": 1929,
+   "tema": "Arte",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "reproductibilidad",
+   "titulo": "La obra de arte en la época de su reproductibilidad técnica",
+   "autor": "Walter Benjamin",
+   "ano": 1936,
+   "tema": "Arte",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "vida-dali",
+   "titulo": "La vida secreta de Salvador Dalí",
+   "autor": "Salvador Dalí",
+   "ano": 1942,
+   "tema": "Arte",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "heroe-mil-caras",
+   "titulo": "El héroe de las mil caras",
+   "autor": "Joseph Campbell",
+   "ano": 1949,
+   "tema": "Arte",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "historia-arte",
+   "titulo": "La historia del arte",
+   "autor": "E. H. Gombrich",
+   "ano": 1950,
+   "tema": "Arte",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "modos-ver",
+   "titulo": "Modos de ver",
+   "autor": "John Berger",
+   "ano": 1972,
+   "tema": "Arte",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "frida-herrera",
+   "titulo": "Frida",
+   "autor": "Hayden Herrera",
+   "ano": 1983,
+   "tema": "Arte",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "poder-del-mito",
+   "titulo": "El poder del mito",
+   "autor": "Joseph Campbell y Bill Moyers",
+   "ano": 1988,
+   "tema": "Arte",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "bauhaus",
+   "titulo": "La Bauhaus",
+   "autor": "Magdalena Droste",
+   "ano": 1990,
+   "tema": "Arte",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "camino-artista",
+   "titulo": "El camino del artista",
+   "autor": "Julia Cameron",
+   "ano": 1992,
+   "tema": "Arte",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "pajaro-a-pajaro",
+   "titulo": "Pájaro a pájaro",
+   "autor": "Anne Lamott",
+   "ano": 1994,
+   "tema": "Arte",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "diarios-frida",
+   "titulo": "El diario de Frida Kahlo",
+   "autor": "Frida Kahlo",
+   "ano": 1995,
+   "tema": "Arte",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "pensar-como-leonardo",
+   "titulo": "Pensar como Leonardo da Vinci",
+   "autor": "Michael J. Gelb",
+   "ano": 1998,
+   "tema": "Arte",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "confesiones-chef",
+   "titulo": "Confesiones de un chef",
+   "autor": "Anthony Bourdain",
+   "ano": 2000,
+   "tema": "Arte",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "mientras-escribo",
+   "titulo": "Mientras escribo",
+   "autor": "Stephen King",
+   "ano": 2000,
+   "tema": "Arte",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "guerra-arte",
+   "titulo": "La guerra del arte",
+   "autor": "Steven Pressfield",
+   "ano": 2002,
+   "tema": "Arte",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "el-elemento",
+   "titulo": "El elemento",
+   "autor": "Ken Robinson",
+   "ano": 2009,
+   "tema": "Arte",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "just-kids",
+   "titulo": "Éramos unos niños",
+   "autor": "Patti Smith",
+   "ano": 2010,
+   "tema": "Arte",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "roba-artista",
+   "titulo": "Roba como un artista",
+   "autor": "Austin Kleon",
+   "ano": 2012,
+   "tema": "Arte",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "arte-de-pedir",
+   "titulo": "El arte de pedir",
+   "autor": "Amanda Palmer",
+   "ano": 2014,
+   "tema": "Arte",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "magia-crear",
+   "titulo": "La magia de crear",
+   "autor": "Elizabeth Gilbert",
+   "ano": 2015,
+   "tema": "Arte",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "leonardo",
+   "titulo": "Leonardo da Vinci",
+   "autor": "Walter Isaacson",
+   "ano": 2017,
+   "tema": "Arte",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "will-smith",
+   "titulo": "Will",
+   "autor": "Will Smith y Mark Manson",
+   "ano": 2021,
+   "tema": "Arte",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "arte-sin-hombres",
+   "titulo": "Historia del arte sin hombres",
+   "autor": "Katy Hessel",
+   "ano": 2022,
+   "tema": "Arte",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "acto-creativo",
+   "titulo": "El acto creativo",
+   "autor": "Rick Rubin",
+   "ano": 2023,
+   "tema": "Arte",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "fiebre-gradas",
+   "titulo": "Fiebre en las gradas",
+   "autor": "Nick Hornby",
+   "ano": 1992,
+   "tema": "Deportes",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "futbol-contra-enemigo",
+   "titulo": "Fútbol contra el enemigo",
+   "autor": "Simon Kuper",
+   "ano": 1994,
+   "tema": "Deportes",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "futbol-sol-sombra",
+   "titulo": "El fútbol a sol y sombra",
+   "autor": "Eduardo Galeano",
+   "ano": 1995,
+   "tema": "Deportes",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "rey-del-mundo",
+   "titulo": "Rey del mundo",
+   "autor": "David Remnick",
+   "ano": 1998,
+   "tema": "Deportes",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "yo-soy-el-diego",
+   "titulo": "Yo soy el Diego",
+   "autor": "Diego Armando Maradona",
+   "ano": 2000,
+   "tema": "Deportes",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "moneyball",
+   "titulo": "Moneyball",
+   "autor": "Michael Lewis",
+   "ano": 2003,
+   "tema": "Deportes",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "hablo-correr",
+   "titulo": "De qué hablo cuando hablo de correr",
+   "autor": "Haruki Murakami",
+   "ano": 2007,
+   "tema": "Deportes",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "piramide-invertida",
+   "titulo": "La pirámide invertida",
+   "autor": "Jonathan Wilson",
+   "ano": 2008,
+   "tema": "Deportes",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "open-agassi",
+   "titulo": "Open",
+   "autor": "Andre Agassi",
+   "ano": 2009,
+   "tema": "Deportes",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "rafa-mi-historia",
+   "titulo": "Rafa, mi historia",
+   "autor": "Rafael Nadal y John Carlin",
+   "ano": 2011,
+   "tema": "Deportes",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "soy-zlatan",
+   "titulo": "Yo soy Zlatan Ibrahimović",
+   "autor": "David Lagercrantz",
+   "ano": 2011,
+   "tema": "Deportes",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "siete-pecados",
+   "titulo": "Siete pecados capitales",
+   "autor": "David Walsh",
+   "ano": 2012,
+   "tema": "Deportes",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "gen-deportivo",
+   "titulo": "El gen deportivo",
+   "autor": "David Epstein",
+   "ano": 2013,
+   "tema": "Deportes",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "relentless",
+   "titulo": "Imparable",
+   "autor": "Tim Grover",
+   "ano": 2013,
+   "tema": "Deportes",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "legado-all-blacks",
+   "titulo": "Legado",
+   "autor": "James Kerr",
+   "ano": 2013,
+   "tema": "Deportes",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "once-anillos",
+   "titulo": "Once anillos",
+   "autor": "Phil Jackson",
+   "ano": 2013,
+   "tema": "Deportes",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "remando-un-hombre",
+   "titulo": "Remando como un solo hombre",
+   "autor": "Daniel James Brown",
+   "ano": 2013,
+   "tema": "Deportes",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "llegada-de-superman",
+   "titulo": "La llegada de Superman",
+   "autor": "Steven Kotler",
+   "ano": 2014,
+   "tema": "Deportes",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "cruyff-14",
+   "titulo": "14. La autobiografía de Johan Cruyff",
+   "autor": "Johan Cruyff",
+   "ano": 2016,
+   "tema": "Deportes",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "numero-uno",
+   "titulo": "Número uno",
+   "autor": "Anders Ericsson",
+   "ano": 2016,
+   "tema": "Deportes",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "nunca-te-pares",
+   "titulo": "Nunca te pares",
+   "autor": "Phil Knight",
+   "ano": 2016,
+   "tema": "Deportes",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "endure-hutchinson",
+   "titulo": "Endure",
+   "autor": "Alex Hutchinson",
+   "ano": 2018,
+   "tema": "Deportes",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "mamba-mentality",
+   "titulo": "Mamba Mentality",
+   "autor": "Kobe Bryant",
+   "ano": 2018,
+   "tema": "Deportes",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  },
+  {
+   "id": "tiger-woods",
+   "titulo": "Tiger Woods",
+   "autor": "Jeff Benedict y Armen Keteyian",
+   "ano": 2018,
+   "tema": "Deportes",
+   "resumen": "pendiente",
+   "cubierta_propia": false
+  },
+  {
+   "id": "messi-ronaldo",
+   "titulo": "Messi vs. Ronaldo",
+   "autor": "Clegg y Robinson",
+   "ano": 2021,
+   "tema": "Deportes",
+   "resumen": "escrito",
+   "cubierta_propia": true
+  }
+ ]
+}
