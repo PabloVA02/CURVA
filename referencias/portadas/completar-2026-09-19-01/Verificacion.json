@@ -1,0 +1,30 @@
+{
+  "fecha": "2026-09-19",
+  "tanda": "completar-2026-09-19-01",
+  "base": "81bd6bd198689068fe1ad4abfd301e376e16c640",
+  "total": 682,
+  "antes": 555,
+  "anadidas": 6,
+  "conPortada": 561,
+  "pendientes": 121,
+  "versionesConservadas": 9,
+  "resumenesConservados": 114,
+  "js": "index-portadas-0b0c3e0b94.js",
+  "nuevos": [
+    "zen-tiro-con-arco",
+    "poder-mente-subconsciente",
+    "obediencia-autoridad",
+    "milagro-mindfulness",
+    "arte-amargarse-vida",
+    "aunque-tenga-miedo"
+  ],
+  "validacion": {
+    "sinCambiosFueraDelMapa": true,
+    "portadasPreviasConservadas": true,
+    "seleccionAutorizada": true,
+    "catalogo682Conservado": true,
+    "originalesOpacos1024x1536": true,
+    "sinContorno": true,
+    "javascriptValido": true
+  }
+}

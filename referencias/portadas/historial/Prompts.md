@@ -2230,3 +2230,23 @@ Seis portadas nuevas y tres versiones anteriores conservadas. [Originales y prom
 ## Cuarta tanda del 15 de septiembre de 2026
 
 Seis portadas nuevas y una versión anterior conservada. [Originales y prompts](../tanda-2026-09-15-d/Prompts.md).
+
+
+## Tanda del 19 de septiembre de 2026
+
+Seis portadas nuevas y dieciocho propuestas anteriores conservadas, incluidas las pruebas de volumen descartadas por el usuario. [Originales y prompts](../tanda-2026-09-19/Prompts.md).
+
+
+## Segunda tanda del 19 de septiembre de 2026
+
+Seis portadas finales sin contorno y cinco propuestas anteriores conservadas. [Originales, prompts y criterio de variedad](../tanda-2026-09-19-b/LEEME.md).
+
+
+## Continuación 01 del 19 de septiembre
+
+[6 finales y 7 versiones conservadas](../completar-2026-09-19-01/LEEME.md).
+
+
+## Continuación 02 del 19 de septiembre
+
+[6 finales y 6 versiones conservadas](../completar-2026-09-19-02/LEEME.md).

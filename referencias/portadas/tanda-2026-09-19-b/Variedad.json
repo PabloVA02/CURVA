@@ -1,0 +1,45 @@
+{
+  "criterio": "Motivos principales contrastados con los textos alternativos del catálogo y prompts del historial antes de generar; no repetir objetos ni composiciones.",
+  "motivosDescartados": [
+    "Cangrejo: Tus zonas erróneas",
+    "Máscaras: varias cubiertas existentes",
+    "Teléfono: Actúa como dama, piensa como hombre"
+  ],
+  "seleccion": [
+    {
+      "id": "don-del-miedo",
+      "descripcion": "Un tigre naranja de rayas azul noche mira de frente, dibujado con grandes formas planas y ojos verde lima.",
+      "composicion": "Close crop of an expressive flat ORANGE TIGER FACE rising from the bottom-right, face extends past right and bottom edges, bold irregular MIDNIGHT BLUE stripes, two simple lime-green almond eyes, never realistic fur. Rich midnight-blue background. At upper left, enormous warm ivory condensed sans title in three stepped lines: «EL DON / DEL / MIEDO»; MIEDO slightly larger, playful offset alignment. Keep ample navy negative space for subtitle at mid-left, bold lime-green rounded sans in four lines: «Reconoce señales / de peligro y escucha / tu intuición / para protegerte». Tiger occupies lower 48%; title upper 34%; subtitle left middle. Deliberate vivid orange/navy/lime harmony; just these colors plus ivory."
+    },
+    {
+      "id": "meditaciones-para-mortales",
+      "descripcion": "Una persona descansa en una bañera azul de curvas amplias, sobre un suelo de cuadros naranja y crema.",
+      "composicion": "A charming flat editorial bathtub scene, seen slightly from above. A sweeping cobalt and turquoise oval bathtub in the middle, one relaxed brown-skinned adult with simple black hair block, eyes two small closed strokes, head at left and two coherent feet resting on right rim. Body hidden by opaque pale blue bathwater. No nudity detail. Floor in a few LARGE terracotta and cream checker squares, not a dense pattern. Warm pale apricot background. Huge elegant heavy RED rounded serif title at BOTTOM, split «Meditaciones / para mortales», lower-case letter rhythm, not all caps. At TOP RIGHT three lines of large bold dark-blue slightly italic humanist sans: «Acepta tus límites / y vive sin esperar / a tenerlo todo resuelto». Illustration fills middle 48%, title bottom28%, message top20%. Joyful, airy, composed, no plants, no decor, no loose bubbles."
+    },
+    {
+      "id": "milenial-en-quiebra",
+      "descripcion": "Una joven con jersey naranja y pantalón azul se sienta junto a una larga tira de recibo que forma una curva sobre rosa.",
+      "composicion": "Vivid ROSE PINK background. A young adult woman with dark brown skin, black hair in a simple bun, orange oversized sweatshirt and cobalt blue trousers sits cross-legged in lower left. Her face consists of one tiny dot eye, one simple nose mark and a calm short mouth. One long CREAM RECEIPT unfurls in an S curve from her simplified hands towards the right and bottom; few blue marks on receipt, no readable numbers. Large saturated COBALT title at TOP in chunky playful rounded block letters: «MILENIAL / en quiebra», first line wide upright capitals, second flowing lower-case. The drawing sits left middle, while subtitle occupies MID-RIGHT in a compact dark PLUM bold sans block with 4 lines: «Organiza tus gastos, / afronta tus deudas / y aprende / a ahorrar». Character 40%height, not tiny. Strong graphic balanced asymmetry, open pink spaces. No coins, no piggy bank, no extra decoration."
+    },
+    {
+      "id": "enganchado",
+      "descripcion": "Un bumerán naranja con bandas turquesa cruza en diagonal un fondo azul cobalto.",
+      "composicion": "One bold ORANGE BOOMERANG, a wide beautiful asymmetric curved V shape, cuts diagonally across the middle of the cover, one tip near upper right and the other towards lower left. Three broad flat TURQUOISE inlaid bands, no dots or tiny patterns. Strong saturated COBALT BLUE background. Entirely flat editorial cut-paper-style drawing, NO dimensional rendering or shadows. At BOTTOM LEFT huge IVORY bold warm flowing serif title «Enganchado» as ONE wide word, subtly curved baseline but perfectly legible. At TOP LEFT a large LIME GREEN rounded bold sans message in 3 lines: «Cómo los productos / digitales crean hábitos / que nos hacen volver». The boomerang creates a broad dynamic diagonal through the negative space; message upper24%, image middle45%, title bottom23%. Make this the elegantly SIMPLE graphic cover in this collection, striking and beautifully composed. No phones, no magnets, no crabs, no arrows, no motion marks, no extra objects."
+    },
+    {
+      "id": "autocontrol-mcgonigal",
+      "descripcion": "Un patín de bota turquesa, cordones amarillos y ruedas violetas cruza en diagonal un fondo frambuesa.",
+      "composicion": "A retro high-top roller skate in TURQUOISE with SUNFLOWER YELLOW laces, deep VIOLET wheels and one large orange sock emerging from the shoe, cropped diagonally from upper LEFT towards middle. Bold graphic flat shapes, restrained chosen contours, almost a stylish 1970s poster but crisp, no vintage grunge. Rich RASPBERRY background. At TOP RIGHT put large IVORY bold italic sans subtitle «Entrena tu voluntad / para manejar impulsos / y cambiar hábitos», 3 lines. At BOTTOM RIGHT giant LEMON YELLOW ultra-condensed stencil lettering «AUTO / CONTROL», two compact lines, playful slanted alignment, legible as Autocontrol. Illustration occupies middle-left55%, asymmetric title lower-right32%; no motion doodles, no stars, no repeated objects."
+    },
+    {
+      "id": "arte-tener-razon",
+      "descripcion": "Dos pelícanos de grandes picos, uno coral y otro azul, se miran con gestos altivos sobre verde menta.",
+      "composicion": "Two strongly stylized flat editorial PELICANS, one coral-red on LEFT and one royal BLUE on RIGHT, face each other with long expressive oversized orange and pale-yellow beaks partly open, like a lively debate. Both are birds with broad curved necks, simple dot eyes and haughty postures; their bodies crop into the SIDE EDGES, no full landscape. Bright MINT GREEN background. Title at TOP in three large off-center plum-colored BOLD SERIF lines: «El arte de tener / siempre / razón», with «siempre» wider and «razón» largest in a heavy italic serif, beautifully varied scale. Birds dominate MIDDLE42%. At BOTTOM RIGHT use dark navy bold condensed sans, clear large 3-line message: «Las trampas con las que / intentamos ganar discusiones / sin tener razón». Keep message separate from beaks. Composition energetic and joyful, not a symmetrical logo; left bird leans up, right bird leans down. No masks, no speech bubbles, no flowers, no extra symbols."
+    }
+  ],
+  "correcciones": [
+    "Persona de la bañera cambiada por un hombre mayor para diferenciarla de Milenial en quiebra.",
+    "Patín simplificado: sin costuras ni volumen modelado.",
+    "Pelícanos simplificados: siluetas planas y menos detalle de plumas."
+  ]
+}

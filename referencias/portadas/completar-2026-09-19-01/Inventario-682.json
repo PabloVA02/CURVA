@@ -1,8 +1,8 @@
 {
   "fecha": "2026-09-15",
   "total": 682,
-  "con_cubierta_propia": 567,
-  "sin_cubierta": 115,
+  "con_cubierta_propia": 561,
+  "sin_cubierta": 121,
   "nota": "Catálogo de 682 libros contrastado con el mapa de imágenes realmente instalado en la app. Incluye portadas aportadas y generadas. cubierta_en_lista_inicial conserva la clasificación recibida el 15 de septiembre; cubierta_propia refleja el estado actual. Las portadas se asignan aunque el resumen esté pendiente.",
   "libros": [
     {
@@ -331,9 +331,9 @@
       "ano": 1988,
       "tema": "Psicología",
       "resumen": "pendiente",
-      "cubierta_propia": true,
+      "cubierta_propia": false,
       "cubierta_en_lista_inicial": false,
-      "archivo_cubierta": "./assets/portadas-generadas/muchas-vidas-c58ff76222.webp"
+      "archivo_cubierta": null
     },
     {
       "id": "siete-habitos",
@@ -353,9 +353,9 @@
       "ano": 1990,
       "tema": "Psicología",
       "resumen": "pendiente",
-      "cubierta_propia": true,
+      "cubierta_propia": false,
       "cubierta_en_lista_inicial": false,
-      "archivo_cubierta": "./assets/portadas-generadas/aprenda-optimismo-dffad3ea5a.webp"
+      "archivo_cubierta": null
     },
     {
       "id": "flow",
@@ -386,9 +386,9 @@
       "ano": 1992,
       "tema": "Psicología",
       "resumen": "pendiente",
-      "cubierta_propia": true,
+      "cubierta_propia": false,
       "cubierta_en_lista_inicial": false,
-      "archivo_cubierta": "./assets/portadas-generadas/limites-cloud-f086d10175.webp"
+      "archivo_cubierta": null
     },
     {
       "id": "lenguajes-amor",
@@ -430,9 +430,9 @@
       "ano": 1992,
       "tema": "Psicología",
       "resumen": "pendiente",
-      "cubierta_propia": true,
+      "cubierta_propia": false,
       "cubierta_en_lista_inicial": false,
-      "archivo_cubierta": "./assets/portadas-generadas/volver-al-amor-b5ce80e66b.webp"
+      "archivo_cubierta": null
     },
     {
       "id": "sin-conciencia",
@@ -441,9 +441,9 @@
       "ano": 1993,
       "tema": "Psicología",
       "resumen": "pendiente",
-      "cubierta_propia": true,
+      "cubierta_propia": false,
       "cubierta_en_lista_inicial": false,
-      "archivo_cubierta": "./assets/portadas-generadas/sin-conciencia-c15278f580.webp"
+      "archivo_cubierta": null
     },
     {
       "id": "dejame-que-te-cuente",
@@ -452,9 +452,9 @@
       "ano": 1994,
       "tema": "Psicología",
       "resumen": "pendiente",
-      "cubierta_propia": true,
+      "cubierta_propia": false,
       "cubierta_en_lista_inicial": false,
-      "archivo_cubierta": "./assets/portadas-generadas/dejame-que-te-cuente-06418ce4d2.webp"
+      "archivo_cubierta": null
     },
     {
       "id": "seis-pilares-autoestima",
@@ -7509,5 +7509,5 @@
     }
   ],
   "revision_portadas": "2026-09-19",
-  "ultima_tanda_portadas": "completar-2026-09-19-02"
+  "ultima_tanda_portadas": "completar-2026-09-19-01"
 }

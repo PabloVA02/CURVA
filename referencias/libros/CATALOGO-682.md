@@ -1,69 +1,69 @@
 # Los 682 libros de Curva
 
-Estado revisado el 15 de septiembre de 2026, tras la cuarta tanda del día: **543 con portada propia y 139 pendientes**. Incluye portadas aportadas y generadas para Curva; se conservan los 682 identificadores recibidos.
+Estado del 19 de septiembre de 2026: **567 con portada propia y 115 pendientes**. Se conservan los 682 identificadores recibidos.
 
 | Tema | Libros | Con portada | Pendientes |
 |---|---:|---:|---:|
-| Psicología | 238 | 132 | 106 |
-| Economía | 117 | 91 | 26 |
+| Psicología | 238 | 151 | 87 |
+| Economía | 117 | 94 | 23 |
 | Literatura | 75 | 75 | 0 |
-| Historia | 56 | 55 | 1 |
+| Historia | 56 | 56 | 0 |
 | Ciencia | 51 | 51 | 0 |
-| Salud | 51 | 45 | 6 |
+| Salud | 51 | 46 | 5 |
 | Filosofía | 42 | 42 | 0 |
 | Arte | 27 | 27 | 0 |
 | Deportes | 25 | 25 | 0 |
-| **Total** | **682** | **543** | **139** |
+| **Total** | **682** | **567** | **115** |
 
 ## Psicología
 
 | Título | Autor | Año | Portada | Resumen | ID |
 |---|---|---:|---|---|---|
-| El arte de tener siempre razón | Arthur Schopenhauer | 1831 | Pendiente | pendiente | `arte-tener-razon` |
-| La interpretación de los sueños | Sigmund Freud | 1899 | Pendiente | pendiente | `interpretacion-suenos` |
+| El arte de tener siempre razón | Arthur Schopenhauer | 1831 | Sí | pendiente | `arte-tener-razon` |
+| La interpretación de los sueños | Sigmund Freud | 1899 | Sí | pendiente | `interpretacion-suenos` |
 | Introducción al psicoanálisis | Sigmund Freud | 1917 | Sí | escrito | `intro-psicoanalisis` |
 | La conquista de la felicidad | Bertrand Russell | 1930 | Sí | pendiente | `conquista-felicidad` |
 | Cómo ganar amigos e influir sobre las personas | Dale Carnegie | 1936 | Sí | escrito | `amigos-influir` |
-| Cómo leer un libro | Mortimer J. Adler y Charles Van Doren | 1940 | Pendiente | pendiente | `como-leer-un-libro` |
+| Cómo leer un libro | Mortimer J. Adler y Charles Van Doren | 1940 | Sí | pendiente | `como-leer-un-libro` |
 | Cómo suprimir las preocupaciones y disfrutar de la vida | Dale Carnegie | 1948 | Sí | pendiente | `suprimir-preocupaciones` |
-| Zen en el arte del tiro con arco | Eugen Herrigel | 1948 | Pendiente | pendiente | `zen-tiro-con-arco` |
+| Zen en el arte del tiro con arco | Eugen Herrigel | 1948 | Sí | pendiente | `zen-tiro-con-arco` |
 | La sabiduría de la inseguridad | Alan Watts | 1951 | Sí | pendiente | `sabiduria-inseguridad` |
 | El poder del pensamiento positivo | Norman Vincent Peale | 1952 | Sí | pendiente | `pensamiento-positivo` |
 | El arte de amar | Erich Fromm | 1956 | Sí | escrito | `arte-de-amar` |
 | La actitud mental positiva | Napoleon Hill y W. Clement Stone | 1959 | Sí | escrito | `actitud-mental-positiva` |
 | La magia de pensar en grande | David Schwartz | 1959 | Sí | escrito | `magia-pensar-grande` |
-| El poder de tu mente subconsciente | Joseph Murphy | 1963 | Pendiente | pendiente | `poder-mente-subconsciente` |
+| El poder de tu mente subconsciente | Joseph Murphy | 1963 | Sí | pendiente | `poder-mente-subconsciente` |
 | El hombre y sus símbolos | Carl Gustav Jung | 1964 | Sí | pendiente | `hombre-y-sus-simbolos` |
 | El vendedor más grande del mundo | Og Mandino | 1968 | Sí | escrito | `vendedor-mas-grande` |
-| Obediencia a la autoridad | Stanley Milgram | 1974 | Pendiente | pendiente | `obediencia-autoridad` |
+| Obediencia a la autoridad | Stanley Milgram | 1974 | Sí | pendiente | `obediencia-autoridad` |
 | Cuando digo no, me siento culpable | Manuel J. Smith | 1975 | Sí | pendiente | `cuando-digo-no` |
-| El milagro de mindfulness | Thich Nhat Hanh | 1975 | Pendiente | pendiente | `milagro-mindfulness` |
+| El milagro de mindfulness | Thich Nhat Hanh | 1975 | Sí | pendiente | `milagro-mindfulness` |
 | Tus zonas erróneas | Wayne Dyer | 1976 | Sí | escrito | `tus-zonas-erroneas` |
 | Cómo hablar para que los niños escuchen | Adele Faber y Elaine Mazlish | 1980 | Sí | escrito | `ninos-escuchen` |
 | Sentirse bien | David D. Burns | 1980 | Sí | escrito | `sentirse-bien` |
 | Obtenga el sí | Fisher y Ury | 1981 | Sí | escrito | `obtenga-el-si` |
-| El arte de amargarse la vida | Paul Watzlawick | 1983 | Pendiente | pendiente | `arte-amargarse-vida` |
+| El arte de amargarse la vida | Paul Watzlawick | 1983 | Sí | pendiente | `arte-amargarse-vida` |
 | Influencia | Robert Cialdini | 1984 | Sí | escrito | `influencia` |
 | Usted puede sanar su vida | Louise Hay | 1984 | Sí | escrito | `usted-puede-sanar` |
 | Mujeres que aman demasiado | Robin Norwood | 1985 | Sí | escrito | `mujeres-aman-demasiado` |
 | Poder sin límites | Tony Robbins | 1986 | Sí | escrito | `poder-sin-limites` |
-| Aunque tenga miedo, hágalo igual | Susan Jeffers | 1987 | Pendiente | pendiente | `aunque-tenga-miedo` |
-| Muchas vidas, muchos maestros | Brian Weiss | 1988 | Pendiente | pendiente | `muchas-vidas` |
+| Aunque tenga miedo, hágalo igual | Susan Jeffers | 1987 | Sí | pendiente | `aunque-tenga-miedo` |
+| Muchas vidas, muchos maestros | Brian Weiss | 1988 | Sí | pendiente | `muchas-vidas` |
 | Los 7 hábitos de la gente altamente efectiva | Stephen Covey | 1989 | Sí | escrito | `siete-habitos` |
-| Aprenda optimismo | Martin Seligman | 1990 | Pendiente | pendiente | `aprenda-optimismo` |
+| Aprenda optimismo | Martin Seligman | 1990 | Sí | pendiente | `aprenda-optimismo` |
 | Fluir | Mihály Csíkszentmihályi | 1990 | Sí | escrito | `flow` |
 | Despertando al gigante interior | Tony Robbins | 1991 | Sí | escrito | `despertando-gigante` |
-| Límites | Henry Cloud y John Townsend | 1992 | Pendiente | pendiente | `limites-cloud` |
+| Límites | Henry Cloud y John Townsend | 1992 | Sí | pendiente | `limites-cloud` |
 | Los cinco lenguajes del amor | Gary Chapman | 1992 | Sí | escrito | `lenguajes-amor` |
 | Los hombres son de Marte, las mujeres son de Venus | John Gray | 1992 | Sí | escrito | `hombres-marte-mujeres-venus` |
 | Mujeres que corren con los lobos | Clarissa Pinkola Estés | 1992 | Sí | escrito | `mujeres-lobos` |
-| Volver al amor | Marianne Williamson | 1992 | Pendiente | pendiente | `volver-al-amor` |
-| Sin conciencia | Robert D. Hare | 1993 | Pendiente | pendiente | `sin-conciencia` |
-| Déjame que te cuente | Jorge Bucay | 1994 | Pendiente | pendiente | `dejame-que-te-cuente` |
+| Volver al amor | Marianne Williamson | 1992 | Sí | pendiente | `volver-al-amor` |
+| Sin conciencia | Robert D. Hare | 1993 | Sí | pendiente | `sin-conciencia` |
+| Déjame que te cuente | Jorge Bucay | 1994 | Sí | pendiente | `dejame-que-te-cuente` |
 | Los seis pilares de la autoestima | Nathaniel Branden | 1994 | Pendiente | pendiente | `seis-pilares-autoestima` |
 | Inteligencia emocional | Daniel Goleman | 1995 | Sí | escrito | `inteligencia-emocional` |
 | El don de la sensibilidad | Elaine N. Aron | 1996 | Sí | pendiente | `don-sensibilidad` |
-| El don del miedo | Gavin de Becker | 1997 | Pendiente | pendiente | `don-del-miedo` |
+| El don del miedo | Gavin de Becker | 1997 | Sí | pendiente | `don-del-miedo` |
 | El poder del ahora | Eckhart Tolle | 1997 | Sí | escrito | `poder-ahora` |
 | No te ahogues en un vaso de agua | Richard Carlson | 1997 | Sí | pendiente | `no-te-ahogues-vaso-agua` |
 | Cómo controlar la ansiedad antes de que te controle a ti | Albert Ellis | 1998 | Pendiente | pendiente | `controlar-la-ansiedad` |
@@ -131,7 +131,7 @@ Estado revisado el 15 de septiembre de 2026, tras la cuarta tanda del día: **54
 | Los dones de la imperfección | Brené Brown | 2010 | Sí | pendiente | `dones-de-la-imperfeccion` |
 | Maneras de amar | Levine y Heller | 2010 | Sí | escrito | `maneras-de-amar` |
 | Procrastinación | Piers Steel | 2010 | Sí | escrito | `procrastinacion-steel` |
-| Autocontrol | Kelly McGonigal | 2011 | Pendiente | pendiente | `autocontrol-mcgonigal` |
+| Autocontrol | Kelly McGonigal | 2011 | Sí | pendiente | `autocontrol-mcgonigal` |
 | El arte de no amargarse la vida | Rafael Santandreu | 2011 | Sí | escrito | `arte-no-amargarse` |
 | El arte de pensar | Rolf Dobelli | 2011 | Pendiente | pendiente | `arte-de-pensar` |
 | El cerebro del niño | Siegel y Payne Bryson | 2011 | Sí | escrito | `cerebro-del-nino` |
@@ -211,7 +211,7 @@ Estado revisado el 15 de septiembre de 2026, tras la cuarta tanda del día: **54
 | Las leyes de la naturaleza humana | Robert Greene | 2018 | Sí | escrito | `leyes-naturaleza-humana` |
 | Nada es tan terrible | Rafael Santandreu | 2018 | Pendiente | pendiente | `nada-es-tan-terrible` |
 | No me puedes lastimar | David Goggins | 2018 | Pendiente | pendiente | `no-me-puedes-lastimar` |
-| Pensar en apuestas | Annie Duke | 2018 | Pendiente | pendiente | `pensar-en-apuestas` |
+| Pensar en apuestas | Annie Duke | 2018 | Sí | pendiente | `pensar-en-apuestas` |
 | Relájate un chingo | Sarah Knight | 2018 | Pendiente | pendiente | `relajate-un-chingo` |
 | Una educación | Tara Westover | 2018 | Sí | escrito | `educada` |
 | Wabi Sabi | Beth Kempton | 2018 | Sí | pendiente | `wabi-sabi` |
@@ -255,7 +255,7 @@ Estado revisado el 15 de septiembre de 2026, tras la cuarta tanda del día: **54
 | Sé útil | Arnold Schwarzenegger | 2023 | Pendiente | pendiente | `se-util` |
 | La generación ansiosa | Jonathan Haidt | 2024 | Pendiente | pendiente | `generacion-ansiosa` |
 | La teoría del «Déjalos» | Mel Robbins | 2024 | Pendiente | pendiente | `teoria-del-dejalos` |
-| Meditaciones para mortales | Oliver Burkeman | 2024 | Pendiente | pendiente | `meditaciones-para-mortales` |
+| Meditaciones para mortales | Oliver Burkeman | 2024 | Sí | pendiente | `meditaciones-para-mortales` |
 | Supercomunicadores | Charles Duhigg | 2024 | Sí | pendiente | `supercomunicadores` |
 
 ## Economía
@@ -335,7 +335,7 @@ Estado revisado el 15 de septiembre de 2026, tras la cuarta tanda del día: **54
 | Creatividad, S.A. | Ed Catmull y Amy Wallace | 2014 | Sí | escrito | `creatividad-sa` |
 | De cero a uno | Peter Thiel | 2014 | Sí | escrito | `cero-a-uno` |
 | Dinero: domina el juego | Tony Robbins | 2014 | Sí | escrito | `dinero-domina-juego` |
-| Enganchado | Nir Eyal | 2014 | Pendiente | pendiente | `enganchado` |
+| Enganchado | Nir Eyal | 2014 | Sí | pendiente | `enganchado` |
 | Esencialismo | Greg McKeown | 2014 | Sí | escrito | `esencialismo` |
 | Los líderes comen al final | Simon Sinek | 2014 | Sí | pendiente | `lideres-comen-al-final` |
 | Utopía para realistas | Rutger Bregman | 2014 | Sí | pendiente | `utopia-para-realistas` |
@@ -349,8 +349,8 @@ Estado revisado el 15 de septiembre de 2026, tras la cuarta tanda del día: **54
 | Hábitos para ser millonario | Brian Tracy | 2017 | Pendiente | pendiente | `habitos-para-ser-millonario` |
 | Independízate de Papá Estado | Carlos Galán | 2017 | Pendiente | pendiente | `independizate-papa-estado` |
 | Los cuatro | Scott Galloway | 2017 | Pendiente | pendiente | `los-cuatro-galloway` |
-| Milenial en quiebra | Erin Lowry | 2017 | Pendiente | pendiente | `milenial-en-quiebra` |
-| Principios | Ray Dalio | 2017 | Pendiente | pendiente | `principios-dalio` |
+| Milenial en quiebra | Erin Lowry | 2017 | Sí | pendiente | `milenial-en-quiebra` |
+| Principios | Ray Dalio | 2017 | Sí | pendiente | `principios-dalio` |
 | Side Hustle | Chris Guillebeau | 2017 | Sí | escrito | `side-hustle` |
 | El año de menos | Cait Flanders | 2018 | Sí | pendiente | `ano-de-menos` |
 | Esto es marketing | Seth Godin | 2018 | Sí | pendiente | `esto-es-marketing` |
@@ -498,7 +498,7 @@ Estado revisado el 15 de septiembre de 2026, tras la cuarta tanda del día: **54
 | La historia del mundo en cien objetos | Neil MacGregor | 2010 | Sí | escrito | `historia-mundo-objetos` |
 | Sapiens | Yuval Noah Harari | 2011 | Sí | escrito | `sapiens` |
 | 1913: el verano del siglo | Florian Illies | 2012 | Sí | pendiente | `verano-1913` |
-| Desafío total | Arnold Schwarzenegger | 2012 | Pendiente | pendiente | `desafio-total` |
+| Desafío total | Arnold Schwarzenegger | 2012 | Sí | pendiente | `desafio-total` |
 | La historia del mundo contada para escépticos | Juan Eslava Galán | 2012 | Sí | pendiente | `historia-mundo-escepticos` |
 | El fin del Homo Sovieticus | Svetlana Aleksiévich | 2013 | Sí | escrito | `homo-sovieticus` |
 | El verano de 1927 | Bill Bryson | 2013 | Sí | escrito | `verano-1927` |
@@ -605,7 +605,7 @@ Estado revisado el 15 de septiembre de 2026, tras la cuarta tanda del día: **54
 | El cuerpo lleva la cuenta | Bessel van der Kolk | 2014 | Sí | escrito | `cuerpo-cuenta` |
 | La digestión es la cuestión | Giulia Enders | 2014 | Sí | escrito | `digestion-cuestion` |
 | Ser mortal | Atul Gawande | 2014 | Sí | escrito | `ser-mortal` |
-| Comer para no morir | Michael Greger | 2015 | Pendiente | pendiente | `comer-para-no-morir` |
+| Comer para no morir | Michael Greger | 2015 | Sí | pendiente | `comer-para-no-morir` |
 | El intestino feliz | Justin y Erica Sonnenburg | 2015 | Sí | escrito | `intestino-feliz` |
 | Estrés: el lado bueno | Kelly McGonigal | 2015 | Sí | pendiente | `estres-el-lado-bueno` |
 | Tal como eres | Emily Nagoski | 2015 | Sí | escrito | `tal-como-eres` |

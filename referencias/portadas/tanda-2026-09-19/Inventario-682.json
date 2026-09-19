@@ -1,8 +1,8 @@
 {
   "fecha": "2026-09-15",
   "total": 682,
-  "con_cubierta_propia": 567,
-  "sin_cubierta": 115,
+  "con_cubierta_propia": 549,
+  "sin_cubierta": 133,
   "nota": "Catálogo de 682 libros contrastado con el mapa de imágenes realmente instalado en la app. Incluye portadas aportadas y generadas. cubierta_en_lista_inicial conserva la clasificación recibida el 15 de septiembre; cubierta_propia refleja el estado actual. Las portadas se asignan aunque el resumen esté pendiente.",
   "libros": [
     {
@@ -12,9 +12,9 @@
       "ano": 1831,
       "tema": "Psicología",
       "resumen": "pendiente",
-      "cubierta_propia": true,
+      "cubierta_propia": false,
       "cubierta_en_lista_inicial": false,
-      "archivo_cubierta": "./assets/portadas-generadas/arte-tener-razon-56225bc18a.webp"
+      "archivo_cubierta": null
     },
     {
       "id": "interpretacion-suenos",
@@ -89,9 +89,9 @@
       "ano": 1948,
       "tema": "Psicología",
       "resumen": "pendiente",
-      "cubierta_propia": true,
+      "cubierta_propia": false,
       "cubierta_en_lista_inicial": false,
-      "archivo_cubierta": "./assets/portadas-generadas/zen-tiro-con-arco-b7de360c5b.webp"
+      "archivo_cubierta": null
     },
     {
       "id": "sabiduria-inseguridad",
@@ -155,9 +155,9 @@
       "ano": 1963,
       "tema": "Psicología",
       "resumen": "pendiente",
-      "cubierta_propia": true,
+      "cubierta_propia": false,
       "cubierta_en_lista_inicial": false,
-      "archivo_cubierta": "./assets/portadas-generadas/poder-mente-subconsciente-b724349be2.webp"
+      "archivo_cubierta": null
     },
     {
       "id": "hombre-y-sus-simbolos",
@@ -188,9 +188,9 @@
       "ano": 1974,
       "tema": "Psicología",
       "resumen": "pendiente",
-      "cubierta_propia": true,
+      "cubierta_propia": false,
       "cubierta_en_lista_inicial": false,
-      "archivo_cubierta": "./assets/portadas-generadas/obediencia-autoridad-0c10f362c7.webp"
+      "archivo_cubierta": null
     },
     {
       "id": "cuando-digo-no",
@@ -210,9 +210,9 @@
       "ano": 1975,
       "tema": "Psicología",
       "resumen": "pendiente",
-      "cubierta_propia": true,
+      "cubierta_propia": false,
       "cubierta_en_lista_inicial": false,
-      "archivo_cubierta": "./assets/portadas-generadas/milagro-mindfulness-7bfdddf890.webp"
+      "archivo_cubierta": null
     },
     {
       "id": "tus-zonas-erroneas",
@@ -265,9 +265,9 @@
       "ano": 1983,
       "tema": "Psicología",
       "resumen": "pendiente",
-      "cubierta_propia": true,
+      "cubierta_propia": false,
       "cubierta_en_lista_inicial": false,
-      "archivo_cubierta": "./assets/portadas-generadas/arte-amargarse-vida-3423273d59.webp"
+      "archivo_cubierta": null
     },
     {
       "id": "influencia",
@@ -320,9 +320,9 @@
       "ano": 1987,
       "tema": "Psicología",
       "resumen": "pendiente",
-      "cubierta_propia": true,
+      "cubierta_propia": false,
       "cubierta_en_lista_inicial": false,
-      "archivo_cubierta": "./assets/portadas-generadas/aunque-tenga-miedo-4010ad360b.webp"
+      "archivo_cubierta": null
     },
     {
       "id": "muchas-vidas",
@@ -331,9 +331,9 @@
       "ano": 1988,
       "tema": "Psicología",
       "resumen": "pendiente",
-      "cubierta_propia": true,
+      "cubierta_propia": false,
       "cubierta_en_lista_inicial": false,
-      "archivo_cubierta": "./assets/portadas-generadas/muchas-vidas-c58ff76222.webp"
+      "archivo_cubierta": null
     },
     {
       "id": "siete-habitos",
@@ -353,9 +353,9 @@
       "ano": 1990,
       "tema": "Psicología",
       "resumen": "pendiente",
-      "cubierta_propia": true,
+      "cubierta_propia": false,
       "cubierta_en_lista_inicial": false,
-      "archivo_cubierta": "./assets/portadas-generadas/aprenda-optimismo-dffad3ea5a.webp"
+      "archivo_cubierta": null
     },
     {
       "id": "flow",
@@ -386,9 +386,9 @@
       "ano": 1992,
       "tema": "Psicología",
       "resumen": "pendiente",
-      "cubierta_propia": true,
+      "cubierta_propia": false,
       "cubierta_en_lista_inicial": false,
-      "archivo_cubierta": "./assets/portadas-generadas/limites-cloud-f086d10175.webp"
+      "archivo_cubierta": null
     },
     {
       "id": "lenguajes-amor",
@@ -430,9 +430,9 @@
       "ano": 1992,
       "tema": "Psicología",
       "resumen": "pendiente",
-      "cubierta_propia": true,
+      "cubierta_propia": false,
       "cubierta_en_lista_inicial": false,
-      "archivo_cubierta": "./assets/portadas-generadas/volver-al-amor-b5ce80e66b.webp"
+      "archivo_cubierta": null
     },
     {
       "id": "sin-conciencia",
@@ -441,9 +441,9 @@
       "ano": 1993,
       "tema": "Psicología",
       "resumen": "pendiente",
-      "cubierta_propia": true,
+      "cubierta_propia": false,
       "cubierta_en_lista_inicial": false,
-      "archivo_cubierta": "./assets/portadas-generadas/sin-conciencia-c15278f580.webp"
+      "archivo_cubierta": null
     },
     {
       "id": "dejame-que-te-cuente",
@@ -452,9 +452,9 @@
       "ano": 1994,
       "tema": "Psicología",
       "resumen": "pendiente",
-      "cubierta_propia": true,
+      "cubierta_propia": false,
       "cubierta_en_lista_inicial": false,
-      "archivo_cubierta": "./assets/portadas-generadas/dejame-que-te-cuente-06418ce4d2.webp"
+      "archivo_cubierta": null
     },
     {
       "id": "seis-pilares-autoestima",
@@ -496,9 +496,9 @@
       "ano": 1997,
       "tema": "Psicología",
       "resumen": "pendiente",
-      "cubierta_propia": true,
+      "cubierta_propia": false,
       "cubierta_en_lista_inicial": false,
-      "archivo_cubierta": "./assets/portadas-generadas/don-del-miedo-3c8f55cceb.webp"
+      "archivo_cubierta": null
     },
     {
       "id": "poder-ahora",
@@ -1244,9 +1244,9 @@
       "ano": 2011,
       "tema": "Psicología",
       "resumen": "pendiente",
-      "cubierta_propia": true,
+      "cubierta_propia": false,
       "cubierta_en_lista_inicial": false,
-      "archivo_cubierta": "./assets/portadas-generadas/autocontrol-mcgonigal-f908af614e.webp"
+      "archivo_cubierta": null
     },
     {
       "id": "arte-no-amargarse",
@@ -2608,9 +2608,9 @@
       "ano": 2024,
       "tema": "Psicología",
       "resumen": "pendiente",
-      "cubierta_propia": true,
+      "cubierta_propia": false,
       "cubierta_en_lista_inicial": false,
-      "archivo_cubierta": "./assets/portadas-generadas/meditaciones-para-mortales-e79fe2bb62.webp"
+      "archivo_cubierta": null
     },
     {
       "id": "supercomunicadores",
@@ -3433,9 +3433,9 @@
       "ano": 2014,
       "tema": "Economía",
       "resumen": "pendiente",
-      "cubierta_propia": true,
+      "cubierta_propia": false,
       "cubierta_en_lista_inicial": false,
-      "archivo_cubierta": "./assets/portadas-generadas/enganchado-aac7e20286.webp"
+      "archivo_cubierta": null
     },
     {
       "id": "esencialismo",
@@ -3587,9 +3587,9 @@
       "ano": 2017,
       "tema": "Economía",
       "resumen": "pendiente",
-      "cubierta_propia": true,
+      "cubierta_propia": false,
       "cubierta_en_lista_inicial": false,
-      "archivo_cubierta": "./assets/portadas-generadas/milenial-en-quiebra-199e4a6c51.webp"
+      "archivo_cubierta": null
     },
     {
       "id": "principios-dalio",
@@ -7509,5 +7509,5 @@
     }
   ],
   "revision_portadas": "2026-09-19",
-  "ultima_tanda_portadas": "completar-2026-09-19-02"
+  "ultima_tanda_portadas": "2026-09-19"
 }

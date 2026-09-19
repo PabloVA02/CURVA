@@ -88,10 +88,3 @@ El usuario rechaza expresamente el acabado con canto de páginas y pide volver a
 El usuario pide dejar de hacer el contorno porque no le gusta el resultado. No añadir marco, ribete ni borde blanco, tampoco con CSS. Mantener la doblez lateral discreta. Continuar únicamente con los libros sin portada propia. Todas las demás preferencias permanecen: dibujos editoriales bonitos, colores vivos y armoniosos, variedad real de motivos y composición, y variación deliberada del tamaño, forma, color y colocación tanto del título como del mensaje. El mensaje debe explicar fielmente el libro y leerse en móvil. Guardar originales, versiones y prompts e integrar las finales en la aplicación y GitHub. Esta instrucción sustituye las peticiones anteriores de contorno.
 
 - Aclaración posterior: no reutilizar objetos ni diseños parecidos. Comprobar los motivos en los textos alternativos de todo el catálogo y en los prompts del historial antes de generar; si un motivo ya aparece, elegir otro. Variar simultáneamente objeto/escena, paleta, escala, tipografía y distribución de título y mensaje. Usar Headway y Wiser como referencia del lenguaje de dibujo editorial, con composiciones nuevas.
-
-
-## Continuación completa del catálogo
-
-El usuario pide completar todas las portadas pendientes sin detenerse tras una tanda. La doblez lateral debe estar un poco más marcada que en la segunda tanda del día, pero sin exagerar: surco tonal vertical fino junto al lomo, con sombra suave del propio color. Sigue prohibido el contorno blanco y el canto 3D. Mantener todas las reglas de variedad, dibujos y mensajes; comprobar motivos usados antes de generar. Integrar y guardar por tandas para conservar el progreso.
-
-- Excepción autorizada expresamente el 19 de septiembre: incluir también «La dieta de la longevidad» (`dieta-longevidad`), antes reservada para otra IA. Quedan autorizadas las 127 portadas pendientes de la revisión inicial.
