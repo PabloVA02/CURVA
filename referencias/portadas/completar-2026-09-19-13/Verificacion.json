@@ -1,0 +1,33 @@
+{
+  "fecha": "2026-09-19",
+  "tanda": "completar-2026-09-19-13",
+  "base": "c1e5581d124a1108a3e16ba8cc9a86d0d0a62e85",
+  "total": 682,
+  "antes": 647,
+  "anadidas": 8,
+  "reemplazadas": [],
+  "conPortada": 655,
+  "pendientes": 27,
+  "versionesConservadas": 8,
+  "resumenesConservados": 114,
+  "js": "index-portadas-8da457b812.js",
+  "nuevos": [
+    "por-que-nadie-me-lo-dijo",
+    "de-fortaleza-en-fortaleza",
+    "valor-de-la-atencion",
+    "no-te-creas-todo-lo-que-piensas",
+    "se-util",
+    "generacion-ansiosa",
+    "teoria-del-dejalos",
+    "camino-hacia-la-riqueza"
+  ],
+  "validacion": {
+    "sinCambiosFueraDelMapa": true,
+    "portadasPreviasConservadas": true,
+    "seleccionAutorizada": true,
+    "catalogo682Conservado": true,
+    "originalesOpacos1024x1536": true,
+    "sinContorno": true,
+    "javascriptValido": true
+  }
+}

@@ -1,11 +1,11 @@
 # Los 682 libros de Curva
 
-Estado del 19 de septiembre de 2026: **647 con portada propia y 35 pendientes**. Se conservan los 682 identificadores recibidos.
+Estado del 19 de septiembre de 2026: **655 con portada propia y 27 pendientes**. Se conservan los 682 identificadores recibidos.
 
 | Tema | Libros | Con portada | Pendientes |
 |---|---:|---:|---:|
-| Psicología | 238 | 231 | 7 |
-| Economía | 117 | 94 | 23 |
+| Psicología | 238 | 238 | 0 |
+| Economía | 117 | 95 | 22 |
 | Literatura | 75 | 75 | 0 |
 | Historia | 56 | 56 | 0 |
 | Ciencia | 51 | 51 | 0 |
@@ -13,7 +13,7 @@ Estado del 19 de septiembre de 2026: **647 con portada propia y 35 pendientes**.
 | Filosofía | 42 | 42 | 0 |
 | Arte | 27 | 27 | 0 |
 | Deportes | 25 | 25 | 0 |
-| **Total** | **682** | **647** | **35** |
+| **Total** | **682** | **655** | **27** |
 
 ## Psicología
 
@@ -243,18 +243,18 @@ Estado del 19 de septiembre de 2026: **647 con portada propia y 35 pendientes**.
 | Encuentra tu persona vitamina | Marian Rojas Estapé | 2021 | Sí | pendiente | `persona-vitamina` |
 | Piénsalo otra vez | Adam Grant | 2021 | Sí | escrito | `piensalo-otra-vez` |
 | Sánate | Nicole LePera | 2021 | Sí | pendiente | `sanate` |
-| ¿Por qué nadie me lo dijo antes? | Julie Smith | 2022 | Pendiente | pendiente | `por-que-nadie-me-lo-dijo` |
+| ¿Por qué nadie me lo dijo antes? | Julie Smith | 2022 | Sí | pendiente | `por-que-nadie-me-lo-dijo` |
 | Crea tu segundo cerebro | Tiago Forte | 2022 | Sí | escrito | `segundo-cerebro` |
-| De fortaleza en fortaleza | Arthur C. Brooks | 2022 | Pendiente | pendiente | `de-fortaleza-en-fortaleza` |
-| El valor de la atención | Johann Hari | 2022 | Pendiente | pendiente | `valor-de-la-atencion` |
+| De fortaleza en fortaleza | Arthur C. Brooks | 2022 | Sí | pendiente | `de-fortaleza-en-fortaleza` |
+| El valor de la atención | Johann Hari | 2022 | Sí | pendiente | `valor-de-la-atencion` |
 | Haz cosas difíciles | Steve Magness | 2022 | Sí | escrito | `haz-cosas-dificiles` |
 | La disciplina es el destino | Ryan Holiday | 2022 | Sí | escrito | `disciplina-es-destino` |
-| No te creas todo lo que piensas | Joseph Nguyen | 2022 | Pendiente | pendiente | `no-te-creas-todo-lo-que-piensas` |
+| No te creas todo lo que piensas | Joseph Nguyen | 2022 | Sí | pendiente | `no-te-creas-todo-lo-que-piensas` |
 | Platónico | Marisa G. Franco | 2022 | Sí | pendiente | `platonico` |
 | Productividad para sentirse bien | Ali Abdaal | 2023 | Sí | pendiente | `productividad-sentirse-bien` |
-| Sé útil | Arnold Schwarzenegger | 2023 | Pendiente | pendiente | `se-util` |
-| La generación ansiosa | Jonathan Haidt | 2024 | Pendiente | pendiente | `generacion-ansiosa` |
-| La teoría del «Déjalos» | Mel Robbins | 2024 | Pendiente | pendiente | `teoria-del-dejalos` |
+| Sé útil | Arnold Schwarzenegger | 2023 | Sí | pendiente | `se-util` |
+| La generación ansiosa | Jonathan Haidt | 2024 | Sí | pendiente | `generacion-ansiosa` |
+| La teoría del «Déjalos» | Mel Robbins | 2024 | Sí | pendiente | `teoria-del-dejalos` |
 | Meditaciones para mortales | Oliver Burkeman | 2024 | Sí | pendiente | `meditaciones-para-mortales` |
 | Supercomunicadores | Charles Duhigg | 2024 | Sí | pendiente | `supercomunicadores` |
 
@@ -262,7 +262,7 @@ Estado del 19 de septiembre de 2026: **647 con portada propia y 35 pendientes**.
 
 | Título | Autor | Año | Portada | Resumen | ID |
 |---|---|---:|---|---|---|
-| El camino hacia la riqueza | Benjamin Franklin | 1758 | Pendiente | pendiente | `camino-hacia-la-riqueza` |
+| El camino hacia la riqueza | Benjamin Franklin | 1758 | Sí | pendiente | `camino-hacia-la-riqueza` |
 | La riqueza de las naciones | Adam Smith | 1776 | Sí | escrito | `riqueza-naciones` |
 | El manifiesto comunista | Karl Marx y Friedrich Engels | 1848 | Pendiente | pendiente | `manifiesto-comunista` |
 | La ciencia de hacerse rico | Wallace D. Wattles | 1910 | Sí | escrito | `ciencia-hacerse-rico` |

@@ -1,0 +1,54 @@
+{
+  "correccionUsuario": "La mayoría de las cubiertas deben desarrollar escenas o interacciones con detalles significativos; evitar iconos aislados demasiado simples.",
+  "criterio": "Motivos contrastados con los textos alternativos del catálogo y prompts del historial. Variación de motivos, paleta, escala, tipografía, alineación y composición.",
+  "seleccion": [
+    {
+      "id": "por-que-nadie-me-lo-dijo",
+      "motivo": "rallador que transforma tormentas / storm grater",
+      "descripcion": "Un rallador verde transforma una nube negra y rayos en tiras de colores ordenadas.",
+      "composicion": "A broad MINTGREEN BOX GRATER diagonally crops from right edge. A big black storm cloud enters its top; clean flat coral and lilac ribbons emerge through just six oval holes, falling in orderly bands. Surreal domestic storm sorter, no hands, not realistic metal. PEACH background, mint/black/lilac/coral. Title UPPERLEFT black condensed sans huge, question marks coral, stepped lines. Message BOTTOM thick deepplum slabserif 4 lines with wide spaces. Illustration occupies middle right and overlaps whitespace between title levels."
+    },
+    {
+      "id": "de-fortaleza-en-fortaleza",
+      "motivo": "andamio de cruasán / croissant scaffolding",
+      "descripcion": "Un cruasán enorme se apoya en un andamio azul que cambia de forma para sostenerlo.",
+      "composicion": "Golden CROISSANT curve spans cover like surprising architectural roof, resting on three asymmetrical COBALT SCAFFOLD tiers. One scaffold step folds out into a small terracotta balcony beneath crescent. No people or tools. Flat croissant with just three darkbrown curved divisions, no realistic pastry shading. VIVID MUSTARD background, cobalt/ivory/terracotta. Title CENTER LEFT large IVORY elegant heavy serif, split around two scaffold beams, not all at top. Message TOPLEFT cobalt bold angular sans 4 lines. Art across BOTTOM two thirds. Offbeat architectural wit."
+    },
+    {
+      "id": "valor-de-la-atencion",
+      "motivo": "raqueta y humo / racket smoke",
+      "descripcion": "Una raqueta naranja atrapa un lazo de humo lila mientras otras líneas pasan alrededor.",
+      "composicion": "An oversized ORANGE TENNIS RACKET diagonal across LIGHTLILAC background. Its strings form a beautiful black widelyspaced grid; one thick violet SMOKE LOOP is caught through two grid squares, while long red wind marks skirt its edges. It catches ephemeral air, not ball. Flat poster, no perspective/material texture. Title BOTTOMLEFT deepPURPLE heavy rounded lowercase serif, «atención» widest. Message TOPRIGHT black bold condensed sans 4 lines with wide generous width. Art framed partly outside leftedge, excellent bold composition, no decorative generic motifs."
+    },
+    {
+      "id": "no-te-creas-todo-lo-que-piensas",
+      "motivo": "berenjena y sombra imposible / eggplant shadow",
+      "descripcion": "Una berenjena violeta proyecta una sombra verde con forma de cocodrilo de papel.",
+      "composicion": "A smallish PURPLE EGGPLANT with lime stem rests lowerleft, but its HUGE FLAT shadow is an angular TEAL PAPER CROCODILE zigzag silhouette across the rightside, obviously impossible, graphic not scary. Coral red solid background, violet/teal/lime/ivory. NO actual crocodile with realistic details; silhouette one eye dot and triangular teeth. Title TOP fullwidth IVORY tall verybold sans, lines different lengths, «NO» lime. Message LOWERLEFT black heavyitalicserif across bottom width in4shortlines, art middle. Eggplant distinct simpleflatshape, surreal false shadow is the clever story."
+    },
+    {
+      "id": "se-util",
+      "motivo": "fuelle que hincha ladrillos / bellows brick",
+      "descripcion": "Un fuelle rojo hincha un ladrillo hasta convertirlo en un arco flexible.",
+      "composicion": "A huge RED FIREPLACE BELLOWS at bottomleft blows through its narrow spout into a single flexible yellow BRICK ARCH; brick joints widen as arch inflates and bends gracefully overhead. Bellows classic teardrop silhouette with beige zigzag seam, two short handles, no hands. Solid DEEPTEAL background; warmred/yellow/cream. Title RIGHTCENTER exceptionally huge WHITE rounded blocklettering, «Sé» above «útil», letters following archcurve. Message TOPLEFT cream heavyserif 4 lines. Bold editorial impossible construction scene, not product render. Lower edge cropped bellows adds dynamism."
+    },
+    {
+      "id": "generacion-ansiosa",
+      "motivo": "reloj de cuco y coro / cuckoo chorus",
+      "descripcion": "Un reloj de cuco con varias puertas libera pájaros amarillos y líneas de sonido entrecruzadas.",
+      "composicion": "One strange BLUE CUCKOO CLOCK façade fills leftside, with FOUR asymmetric little doorways each releasing a flat YELLOW bird facing a different direction; thick red sound squiggles cross between openings. Clockface plaincream andblack no numerals/extra text. Vivid GRASSGREEN fullbleed background. Title UPPER RIGHT BLACK strongitalicserif stepped down right, «ansiosa» unusuallywide crossing facade. Message BOTTOM fullwidth deepNAVY bold sans fourlines90px. NO phones, no humans, no photo woodgrain. Clock silhouette simplecutpaper, playful overactivation not frightening."
+    },
+    {
+      "id": "teoria-del-dejalos",
+      "motivo": "hurón y lazo libre / ferret untied bow",
+      "descripcion": "Un hurón se desliza fuera de una enorme pajarita rosa que queda suspendida.",
+      "composicion": "A long flat CREAM FERRET with darkbrown mask slides sideways OUT of an enormous loose HOTPINK BOWTIE, its body describing a flowing S acrossmiddle; bowtie stays suspended as a clean angulargraphic form. DARK NAVY background with hotpink/cream/brightorange highlights, no fuzzyfur. Simple face tiny dash eyes one nose, coherent4legs. Title TOPLEFT hotPINK huge whimsicalheavyserif, «Déjalos» in WHITE sweeping centerupper. Message BOTTOM ORANGE bold square sans4lines with goodcontrast. Art diagonal leftmid to rightlower; no humans no decorations."
+    },
+    {
+      "id": "camino-hacia-la-riqueza",
+      "motivo": "pistacho con vela / pistachio sail",
+      "descripcion": "Dos mitades de pistacho forman una pequeña embarcación con una vela verde y un largo oleaje naranja.",
+      "composicion": "Two giant PISTACHIO SHELL halves make a single elegant sailboat: lower cream shell hull, upper shell split open as a bold PALEGREEN fanlike sail, littlegreen kernel balanced at bow. Three broad ORANGE wavebands sweep underneath, no coins/trees/arrows. TURQUOISE background with cream/rust/green/navy. Title BOTTOM huge NAVY refinedrounded slabserif in 3 staggeredlines. Message TOPLEFT BLACK heavyitalic sans 4shortlines. Scene centered uppermiddle, one simple yet developed cover, crisp flat shapes no shaded nuts or photographic shelltexture."
+    }
+  ]
+}
