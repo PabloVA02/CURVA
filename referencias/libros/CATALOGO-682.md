@@ -1,19 +1,19 @@
 # Los 682 libros de Curva
 
-Estado del 19 de septiembre de 2026: **671 con portada propia y 11 pendientes**. Se conservan los 682 identificadores recibidos.
+Estado del 19 de septiembre de 2026: **679 con portada propia y 3 pendientes**. Se conservan los 682 identificadores recibidos.
 
 | Tema | Libros | Con portada | Pendientes |
 |---|---:|---:|---:|
 | Psicología | 238 | 238 | 0 |
-| Economía | 117 | 111 | 6 |
+| Economía | 117 | 117 | 0 |
 | Literatura | 75 | 75 | 0 |
 | Historia | 56 | 56 | 0 |
 | Ciencia | 51 | 51 | 0 |
-| Salud | 51 | 46 | 5 |
+| Salud | 51 | 48 | 3 |
 | Filosofía | 42 | 42 | 0 |
 | Arte | 27 | 27 | 0 |
 | Deportes | 25 | 25 | 0 |
-| **Total** | **682** | **671** | **11** |
+| **Total** | **682** | **679** | **3** |
 
 ## Psicología
 
@@ -364,19 +364,19 @@ Estado del 19 de septiembre de 2026: **671 con portada propia y 11 pendientes**.
 | La psicología del dinero | Morgan Housel | 2020 | Sí | escrito | `psicologia-dinero` |
 | Morir con cero | Bill Perkins | 2020 | Sí | pendiente | `morir-con-cero` |
 | Millonario sexy y feliz | Steven Bartlett | 2021 | Sí | pendiente | `millonario-sexy-feliz` |
-| Ofertas de 100 millones | Alex Hormozi | 2021 | Pendiente | pendiente | `ofertas-100-millones` |
+| Ofertas de 100 millones | Alex Hormozi | 2021 | Sí | pendiente | `ofertas-100-millones` |
 | Principios para enfrentarse al nuevo orden mundial | Ray Dalio | 2021 | Sí | escrito | `principios-orden-mundial` |
 | Sin esfuerzo | Greg McKeown | 2021 | Sí | escrito | `sin-esfuerzo` |
 | La guerra de los chips | Chris Miller | 2022 | Sí | escrito | `guerra-chips` |
-| Sigue comprando | Nick Maggiulli | 2022 | Pendiente | pendiente | `sigue-comprando` |
-| Diario de un CEO | Steven Bartlett | 2023 | Pendiente | pendiente | `diario-de-un-ceo` |
+| Sigue comprando | Nick Maggiulli | 2022 | Sí | pendiente | `sigue-comprando` |
+| Diario de un CEO | Steven Bartlett | 2023 | Sí | pendiente | `diario-de-un-ceo` |
 | Elon Musk | Walter Isaacson | 2023 | Sí | escrito | `elon-musk` |
 | Hacia el infinito | Michael Lewis | 2023 | Sí | pendiente | `hacia-el-infinito` |
-| J*didamente rico | Vivian Tu | 2023 | Pendiente | pendiente | `jodidamente-rico` |
+| J*didamente rico | Vivian Tu | 2023 | Sí | pendiente | `jodidamente-rico` |
 | Lo que nunca cambia | Morgan Housel | 2023 | Sí | pendiente | `lo-que-nunca-cambia` |
 | Recompra tu tiempo | Dan Martell | 2023 | Sí | escrito | `recompra-tu-tiempo` |
-| El álgebra de la riqueza | Scott Galloway | 2024 | Pendiente | pendiente | `algebra-de-la-riqueza` |
-| Nunca es suficiente | Andrew Wilkinson | 2024 | Pendiente | pendiente | `nunca-es-suficiente` |
+| El álgebra de la riqueza | Scott Galloway | 2024 | Sí | pendiente | `algebra-de-la-riqueza` |
+| Nunca es suficiente | Andrew Wilkinson | 2024 | Sí | pendiente | `nunca-es-suficiente` |
 | Productividad lenta | Cal Newport | 2024 | Sí | pendiente | `productividad-lenta` |
 | Los 5 tipos de riqueza | Sahil Bloom | 2025 | Sí | pendiente | `cinco-tipos-riqueza` |
 
@@ -581,10 +581,10 @@ Estado del 19 de septiembre de 2026: **671 con portada propia y 11 pendientes**.
 
 | Título | Autor | Año | Portada | Resumen | ID |
 |---|---|---:|---|---|---|
-| Es fácil dejar de fumar, si sabes cómo | Allen Carr | 1985 | Pendiente | pendiente | `es-facil-dejar-de-fumar` |
+| Es fácil dejar de fumar, si sabes cómo | Allen Carr | 1985 | Sí | pendiente | `es-facil-dejar-de-fumar` |
 | Vivir con plenitud las crisis | Jon Kabat-Zinn | 1990 | Sí | escrito | `vivir-plenitud` |
 | ¿Por qué las cebras no tienen úlcera? | Robert M. Sapolsky | 1994 | Sí | pendiente | `cebras-no-tienen-ulcera` |
-| El método Dukan | Pierre Dukan | 2000 | Pendiente | pendiente | `metodo-dukan` |
+| El método Dukan | Pierre Dukan | 2000 | Sí | pendiente | `metodo-dukan` |
 | El poder del pleno compromiso | Jim Loehr y Tony Schwartz | 2003 | Sí | escrito | `pleno-compromiso` |
 | Más joven cada año | Chris Crowley y Henry S. Lodge | 2004 | Sí | pendiente | `mas-joven-cada-ano` |
 | La biología de la creencia | Bruce Lipton | 2005 | Sí | escrito | `biologia-creencia` |

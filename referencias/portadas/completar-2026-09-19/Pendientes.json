@@ -1516,8 +1516,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/ofertas-100-millones-49684e1cbd.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-16"
   },
   {
     "id": "sigue-comprando",
@@ -1528,8 +1529,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/sigue-comprando-7a6cbb738c.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-16"
   },
   {
     "id": "diario-de-un-ceo",
@@ -1540,8 +1542,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/diario-de-un-ceo-3e171d57a1.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-16"
   },
   {
     "id": "jodidamente-rico",
@@ -1552,8 +1555,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/jodidamente-rico-abc0f4d457.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-16"
   },
   {
     "id": "algebra-de-la-riqueza",
@@ -1564,8 +1568,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/algebra-de-la-riqueza-15d0b96a2d.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-16"
   },
   {
     "id": "nunca-es-suficiente",
@@ -1576,8 +1581,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/nunca-es-suficiente-b78d8882ae.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-16"
   },
   {
     "id": "es-facil-dejar-de-fumar",
@@ -1588,8 +1594,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/es-facil-dejar-de-fumar-dd7b5b4ead.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-16"
   },
   {
     "id": "metodo-dukan",
@@ -1600,8 +1607,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/metodo-dukan-6501fc9a15.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-16"
   },
   {
     "id": "enzima-prodigiosa",

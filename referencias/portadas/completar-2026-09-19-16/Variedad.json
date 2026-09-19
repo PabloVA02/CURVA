@@ -1,0 +1,54 @@
+{
+  "correccionUsuario": "La mayoría de las cubiertas deben desarrollar escenas o interacciones con detalles significativos; evitar iconos aislados demasiado simples.",
+  "criterio": "Motivos contrastados con los textos alternativos del catálogo y prompts del historial. Variación de motivos, paleta, escala, tipografía, alineación y composición.",
+  "seleccion": [
+    {
+      "id": "ofertas-100-millones",
+      "motivo": "grapadora de rayos / stapler rays",
+      "descripcion": "Una grapadora rosa une dos grandes rayos naranjas y azules.",
+      "composicion": "A hotPINK STAPLER closes on two flat broad ZIGZAG LIGHTNING STRIPS, one orangeoneelectricblue, binding them into a striking singlebicolorform which fansout to edges. Fullyflat sideview stapler, no hands. IVORY background, hotpink/orange/cobalt/black. Title TOPLEFT «Ofertas de» BLACK tallserif, enormous «100» COBALT central left, «millones» pinkbroaditalic bottomleft. Message UPPERRIGHT BLACK heavysans4lines FULLrightwidth abouthalfcanvas. Art grows fromlowerleft to middle right andweavesalongnumerals. NO currencyicons or extra numbers, no sparklefiller."
+    },
+    {
+      "id": "sigue-comprando",
+      "motivo": "cinta transportadora de guijarros / pebble conveyor",
+      "descripcion": "Una cinta transportadora naranja lleva guijarros azules que se convierten en un mosaico.",
+      "composicion": "A brightORANGE CONVEYOR BELT is drawn as an impossible elongated OVAL LOOP over deepGREEN background; four PALEBLUE PEBBLES ride it and at top merge into a clean irregular MOSAIC slab, no coins. Two navyrollers with creamcenters. Title RIGHTCENTER hugeCREAM friendlyblockserif in2lines, «Sigue» tiltedslightly, «comprando» condensedtall. Message BOTTOM FULLWIDTH whiteheavygeometric sans4lines. Art upperleftcurves behindtitle thenstopsbeforemessage, industrialplayfulness, no gradients/shading/texture."
+    },
+    {
+      "id": "diario-de-un-ceo",
+      "motivo": "tostadora de conversaciones / toaster dialogue",
+      "descripcion": "Una tostadora verde expulsa dos formas de conversación amarillas y rosas.",
+      "composicion": "Flat FRONT VIEW FORESTGREEN TOASTER croppedlowerleft, two BIG SPEECHBUBBLE cutouts pop out of slots, onePINK oneYELLOW, barecolor NOwriting/symbols; their tailscurl around eachother like conversationbecomes breakfast. Background coralRED, green/pink/yellow/ivory/blackcoherentbold. Title TOPRIGHT WHITE extremelyboldcondensed sans, «CEO» giant at middle right occupyingbubblegap. Message BOTTOMLEFT fullwidth BLACK heavyweightserif4lines on lightpinkintegratedbottomplane. Two blackknobs only, no hands/no photorealappliance, beautifulgraphicwildidea."
+    },
+    {
+      "id": "jodidamente-rico",
+      "motivo": "helicóptero de pomelo / grapefruit helicopter",
+      "descripcion": "Un helicóptero azul lleva palas de pomelo rosa y deja una curva amarilla a su paso.",
+      "composicion": "A simple ELECTRICBLUE HELICOPTER with TWO giant PINK GRAPEFRUIT WEDGES as rotorblades, their segmentedplanescreamoutlined, one sweepingmustardyellowsinglecurvetrail. Only one creamwindow no personinside. DARKPLUM background, blue/pink/yellow/cream. Title BOTTOMLEFT thick CREAM rounded displayserif, «J*didamente» huge overlineand «RICO» brightPINK widerbelow. Message TOP fullwidth YELLOW boldsans4lines, title startsbelowart. Helicopter fliesfrommiddleleft to upperright, 2Dsideview completelyflat, no actualglossymetal."
+    },
+    {
+      "id": "algebra-de-la-riqueza",
+      "motivo": "jengibre como unión estructural / ginger joint",
+      "descripcion": "Una raíz de jengibre naranja une varias vigas azules en una estructura inesperada.",
+      "composicion": "A big ORANGE GINGER ROOT acts as a branching JOINT between three COBALT STRUCTURAL BEAMS, reachingacrosscover at differentangles; chunkyroot silhouette with just3 shortdarklines forrhizomemarks, no realistictexture. LIMEGREEN background, orange/cobalt/cream/navy. Title UPPERLEFT NAVY elegant heavyitalicserif on4staggeredlines, «riqueza» BIG cream atcenterleft. Message BOTTOM fullwidth BLACK boldcondensed sans4lines. Root centeredright butbranches partlycrop, flat botanical-engineeringhybrid, no literalcharts/equations/arrows."
+    },
+    {
+      "id": "nunca-es-suficiente",
+      "motivo": "molinillo interminable / endless peppermill",
+      "descripcion": "Un molinillo morado produce una columna de granos que se convierte en su propio pedestal.",
+      "composicion": "A tall PURPLE PEPPER MILL with simplecurvedsilhouette floatsupperleft; BLACK pepperdots flowfrombottom and progressively become big stacked ORANGE CIRCLES, building the very pedestalunder themill, endless accumulation. No realisticwood/metalshine. PALEPINK background, purple/orange/black/redaccent. Title TOPRIGHT BLACK verylarge roundedserif, «Nunca» hugePURPLE withletteringstaggereddownright. Message BOTTOM broadarea deepPURPLE boldsans4lines. Art asymmetry tallleftandcurvedcolumnlowercenter, no humans no coins."
+    },
+    {
+      "id": "es-facil-dejar-de-fumar",
+      "motivo": "alicates que desanudan humo / pliers smoke",
+      "descripcion": "Unos alicates rojos abren un nudo azul de humo y lo convierten en una línea libre.",
+      "composicion": "RED PLIERS pinch open a large knotted BLUE SMOKE RIBBON that had tied itself in a circle; freed end emergesas long CREAM smooth line. No cigarette/lungs/humanface. BRIGHTTURQUOISE background red/blue/cream/navy. Title UPPERLEFT BLACK bold narrow sans 4lines, «de fumar» enormousdarkblue, «si sabes cómo» CREAMitalic atmiddleleft. Message BOTTOMLEFT blackHEAVYroundedserif fullwidth4lines, readable. Plierscroppedrightcenter, opensmokenotcutting, flat graphicshapes strong simple scene."
+    },
+    {
+      "id": "metodo-dukan",
+      "motivo": "exprimidor y col lombarda / cabbage citrus press",
+      "descripcion": "Una prensa de cítricos amarilla sostiene media col lombarda dibujada en capas rosas.",
+      "composicion": "A YELLOW MANUAL CITRUS PRESS with long handle at left bends like an elegant arch above a giant HALF RED CABBAGE, pink/purple broadswirlinglayers, heldontopofpressbase. One broadpinkdroplet falls to a lilacflatsemicircle. DEEPFORESTGREEN background with yellow/hotpink/lilac/cream. Title BOTTOMRIGHT CREAM heavyfriendly roundedserif, «Dukan» hotPINKhuge. Message TOPLEFT WHITEboldblock sans4lines fullwidth. No actualperson/hand, no detailedphotorealcabbageveins, no scale/tape or bodybeforeafter, completelyflat culinary surrealposter."
+    }
+  ]
+}

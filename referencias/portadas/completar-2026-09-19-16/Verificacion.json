@@ -1,0 +1,33 @@
+{
+  "fecha": "2026-09-19",
+  "tanda": "completar-2026-09-19-16",
+  "base": "30a6ccd922c72d64e9e8445ccc8386faf1765492",
+  "total": 682,
+  "antes": 671,
+  "anadidas": 8,
+  "reemplazadas": [],
+  "conPortada": 679,
+  "pendientes": 3,
+  "versionesConservadas": 8,
+  "resumenesConservados": 114,
+  "js": "index-portadas-15425aff38.js",
+  "nuevos": [
+    "ofertas-100-millones",
+    "sigue-comprando",
+    "diario-de-un-ceo",
+    "jodidamente-rico",
+    "algebra-de-la-riqueza",
+    "nunca-es-suficiente",
+    "es-facil-dejar-de-fumar",
+    "metodo-dukan"
+  ],
+  "validacion": {
+    "sinCambiosFueraDelMapa": true,
+    "portadasPreviasConservadas": true,
+    "seleccionAutorizada": true,
+    "catalogo682Conservado": true,
+    "originalesOpacos1024x1536": true,
+    "sinContorno": true,
+    "javascriptValido": true
+  }
+}
