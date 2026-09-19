@@ -788,8 +788,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/hombres-explican-cosas-a23b82db89.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-09"
   },
   {
     "id": "rodeado-de-idiotas",
@@ -800,8 +801,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/rodeado-de-idiotas-ef8b804ffc.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-09"
   },
   {
     "id": "debo-quedarme-o-irme",
@@ -812,8 +814,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/debo-quedarme-o-irme-52341f5cdb.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-09"
   },
   {
     "id": "duenos-responsabilidad",
@@ -824,8 +827,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/duenos-responsabilidad-1cbf3fade8.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-09"
   },
   {
     "id": "razones-para-seguir-viviendo",
@@ -836,8 +840,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/razones-para-seguir-viviendo-4cc1acd2eb.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-09"
   },
   {
     "id": "algoritmo-felicidad",
@@ -848,8 +853,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/algoritmo-felicidad-2247804198.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-09"
   },
   {
     "id": "ciencia-de-la-gente",
@@ -860,8 +866,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/ciencia-de-la-gente-3252cf29be.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-09"
   },
   {
     "id": "beneficios-meditacion",
@@ -872,8 +879,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/beneficios-meditacion-72cc333bd6.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-09"
   },
   {
     "id": "no-seas-amable",

@@ -1,0 +1,54 @@
+{
+  "correccionUsuario": "La mayoría de las cubiertas deben desarrollar escenas o interacciones con detalles significativos; evitar iconos aislados demasiado simples.",
+  "criterio": "Motivos contrastados con los textos alternativos del catálogo y prompts del historial. Variación de motivos, paleta, escala, tipografía, alineación y composición.",
+  "seleccion": [
+    {
+      "id": "hombres-explican-cosas",
+      "motivo": "descoser con abreojales / seam ripper",
+      "descripcion": "Un abreojales coral libera una costura amarilla sobre un tejido azul y deja aparecer un espacio rosa con ondas.",
+      "composicion": "NO PEOPLE. Top-down graphic composition: giant cobalt fabric panel with a slit closed by six chunky ochre stitches. A bright coral SEAM RIPPER unpicks the last stitch; loose thread curls left while slit opens to reveal a vivid pink interior with three bold cream sound-wave arcs escaping. Fabric is utterly FLAT blue, no folds or textile texture. Purple outer background with hotpink corner. Title lower-left in enormous CREAM expressive sharp serif, varied line widths, 'me explican' italic and 'cosas' largest. Message upper-right in yellow heavy squared sans, FOUR lines85px on purple. Deliberate off-center developed interaction, no extra icons."
+    },
+    {
+      "id": "rodeado-de-idiotas",
+      "motivo": "cuatro ocarinas / ocarinas",
+      "descripcion": "Cuatro ocarinas de formas distintas dibujan ritmos de puntos, barras, ondas y zigzags alrededor del título.",
+      "composicion": "NO HUMANS. Four elegant OCARINA wind instruments, deliberately different silhouettes, arranged in asymmetric conversation around central typography: round RED left, elongated BLUE right, angular YELLOW bottom, small GREEN top. Each has 3–5 bold dark finger-holes and a short mouthpiece, no glossy ceramics. Their sound patterns differ: red bars, blue waves, yellow zigzags, green dots, exactly three marks each, no confetti. RICH DARK NAVY background. Title CENTRAL HUGE white bold rounded sans, 'Rodeado' on shallow rising curve, 'de idiotas' compact stacked. Message bottomright yellow thick italic serif FOUR lines85px. Strong flat poster not diagram, mature bright harmonious graphic design."
+    },
+    {
+      "id": "debo-quedarme-o-irme",
+      "motivo": "venus atrapamoscas / venus flytrap",
+      "descripcion": "Una venus atrapamoscas verde sujeta una cinta coral cuyo extremo logra escapar entre sus hojas abiertas.",
+      "composicion": "NO PEOPLE. Venus FLYTRAP closeup with two huge opposing lobes in deep teal and lime, simple broad triangular teeth, open rather than scary. A coral ribbon runs through its mouth, one end trapped, other end escaping in a bold flat zigzag to bottomleft. Two thick curving stems connect the lobes, no pot, no extra greenery. Vivid warm PINK background, green/coral/navy. Title UPPER LEFT darknavy thick condensed sans, question marks prominent, 'quedarme' and 'irme' different weight and sizes. Exact message BOTTOM RIGHT on open pink in darkteal heavy slab serif FOUR lines85px. Rich graphic interaction without realistic leaf veins or shading."
+    },
+    {
+      "id": "duenos-responsabilidad",
+      "motivo": "rueda hidráulica / waterwheel",
+      "descripcion": "Una rueda hidráulica de paletas amarillas y rojas transforma varios cauces azules en un flujo compartido.",
+      "composicion": "NO PEOPLE. Bold geometric WATERWHEEL seen directly side-on, five broad ochre and red paddles around navy axle, cobalt water enters as three solid flat channels from upperright and flows away as ONE sweeping turquoise band lowerleft. Orange terracotta background. No gears or factory, no realism. Idea: distinct actions contribute to one shared current. Title TOP LEFT in enormous IVORY heavy squared sans, 'Dueños' huge with small 'de la' inset, 'responsabilidad' bold condensed across two lines if needed but do NOT split syllables. Message curves gently along lower clear terracotta margin in navy heavy rounded serif FOUR clear lines85px. Wheel rightcenter partly cropped, vibrant developed composition."
+    },
+    {
+      "id": "razones-para-seguir-viviendo",
+      "motivo": "caja de música mecánica / music box",
+      "descripcion": "Una caja de música abierta despliega un cilindro coral, un peine dorado y ondas azules que se expanden sobre fondo menta.",
+      "composicion": "NO HUMANS or ballerina or birds. A hand-cranked MUSIC BOX opened in top-down flat cutaway, not perspective: darkblue rectangular case with coral pin-barrel and five gold metal comb-teeth. Curving brass crank emerges left. Three broad cobalt and ultramarine SOUND RIBBONS grow from the mechanism into the upperhalf; dignified hopeful mood. Bright MINT background with peach rectangular case-interior. Title BOTTOM LEFT in deepblue heavy warm serif, 'seguir viviendo' largest; message TOP LEFT darknavy thick condensed sans FOUR lines85px woven into ample negative space between two broad soundbands. No tiny musical notes, no 3D, no wood texture."
+    },
+    {
+      "id": "algoritmo-felicidad",
+      "motivo": "regla de cálculo / slide rule",
+      "descripcion": "Una regla de cálculo coral y azul alinea dos escalas de marcas bajo un cursor amarillo, sobre fondo violeta.",
+      "composicion": "NO PEOPLE. An oversized SLIDE RULE with coral outerbody, mint sliding bar, navy simple tickmarks and a yellow square cursor. Sliders misaligned left then align exactly under cursor, visually meaningful adjustment. Broad diagonally staggered bars across middle, flat not perspective. Vivid deep VIOLET background. No numerals/equations/extra lettering. Title TOP RIGHT in YELLOW enormous rounded geometric sans, 'algoritmo' tightly tracked and 'felicidad' playful wide italic. Message BOTTOM LEFT in IVORY strong slab serif FOUR lines85px. Developed mechanical overlap and rhythm, not a ruler isolated in empty space. Solid colors no materials."
+    },
+    {
+      "id": "ciencia-de-la-gente",
+      "motivo": "sepias comunicando patrones / cuttlefish",
+      "descripcion": "Dos sepias coral y azul se comunican con patrones de rayas y puntos sobre un fondo amarillo.",
+      "composicion": "NO HUMANS. Two CUTTLEFISH circle each other in elegant opposing curves: large coral one lowerleft with four bold navy stripes and small blue one upperright with four cream spots. Broad undulating sidefins, short simplified tentacles, single tiny dot eyes. Their striped and spotted signals form three intervening patterned wedges, visual conversation. Vivid YELLOW backdrop with deepteal sweeping lowercorner, no plants, no aquarium, no bubbles. Title CENTER LEFT darkteal heavy italic serif, 'La ciencia' medium and 'de la GENTE' very large and irregular baseline. Message UPPER LEFT navy squared bold sans FOUR lines85px. Flat editorial creatures no realistic tentacle textures or shiny eyes."
+    },
+    {
+      "id": "beneficios-meditacion",
+      "motivo": "ganchillo en formación / crochet",
+      "descripcion": "Un ganchillo amarillo enlaza un hilo coral con una trama circular azul y verde que crece por capas.",
+      "composicion": "NO PEOPLE OR HANDS. CLOSE CROPPED crochet-in-progress: oversized golden CROCHET HOOK diagonally catches a loose coral loop, joining a circular mat of broad mint and blue interlocking loops. Lowerhalf dominated by beautiful organized loops, top-left loose thread forms two open curves. Every stitch is ONE flat rounded shape, no fibers or wooltexture, no photorealism. Rich RED ORANGE background, cobalt/mint/cream/yellow. Title TOP RIGHT CREAM big condensed slab serif, 'beneficios' largest, 'de la meditación' stacked, dynamic offsetline lengths. Message MIDDLE LEFT navy heavy geometric sans FOUR lines85px in clear rednegative space. No brain/lotus/pillow icons."
+    }
+  ]
+}

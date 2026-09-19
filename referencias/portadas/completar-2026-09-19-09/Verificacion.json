@@ -1,0 +1,33 @@
+{
+  "fecha": "2026-09-19",
+  "tanda": "completar-2026-09-19-09",
+  "base": "5f5b9f0ad468affabf108aa148a00a6666a9ff8f",
+  "total": 682,
+  "antes": 615,
+  "anadidas": 8,
+  "reemplazadas": [],
+  "conPortada": 623,
+  "pendientes": 59,
+  "versionesConservadas": 8,
+  "resumenesConservados": 114,
+  "js": "index-portadas-3e291e22c5.js",
+  "nuevos": [
+    "hombres-explican-cosas",
+    "rodeado-de-idiotas",
+    "debo-quedarme-o-irme",
+    "duenos-responsabilidad",
+    "razones-para-seguir-viviendo",
+    "algoritmo-felicidad",
+    "ciencia-de-la-gente",
+    "beneficios-meditacion"
+  ],
+  "validacion": {
+    "sinCambiosFueraDelMapa": true,
+    "portadasPreviasConservadas": true,
+    "seleccionAutorizada": true,
+    "catalogo682Conservado": true,
+    "originalesOpacos1024x1536": true,
+    "sinContorno": true,
+    "javascriptValido": true
+  }
+}
