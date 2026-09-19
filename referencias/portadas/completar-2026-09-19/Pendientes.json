@@ -996,8 +996,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/elefante-en-el-cerebro-cc80669ffc.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-11"
   },
   {
     "id": "nada-es-tan-terrible",
@@ -1008,8 +1009,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/nada-es-tan-terrible-6303d1f20b.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-11"
   },
   {
     "id": "no-me-puedes-lastimar",
@@ -1020,8 +1022,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/no-me-puedes-lastimar-736325feb6.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-11"
   },
   {
     "id": "relajate-un-chingo",
@@ -1032,8 +1035,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/relajate-un-chingo-60fd20c84e.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-11"
   },
   {
     "id": "dignos-de-ser-humanos",
@@ -1044,8 +1048,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/dignos-de-ser-humanos-a0f9acd188.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-11"
   },
   {
     "id": "hablar-con-extranos",
@@ -1056,8 +1061,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/hablar-con-extranos-47b75e66de.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-11"
   },
   {
     "id": "trampa-de-la-inteligencia",
@@ -1068,8 +1074,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/trampa-de-la-inteligencia-165aee4db9.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-11"
   },
   {
     "id": "ultraaprendizaje",
@@ -1080,8 +1087,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/ultraaprendizaje-ab4cc0fd31.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-11"
   },
   {
     "id": "camino-del-perezoso-genial",

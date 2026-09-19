@@ -1,0 +1,33 @@
+{
+  "fecha": "2026-09-19",
+  "tanda": "completar-2026-09-19-11",
+  "base": "7425f2316a0e8f4f6c1419abb42093af4294575b",
+  "total": 682,
+  "antes": 631,
+  "anadidas": 8,
+  "reemplazadas": [],
+  "conPortada": 639,
+  "pendientes": 43,
+  "versionesConservadas": 8,
+  "resumenesConservados": 114,
+  "js": "index-portadas-3c479f083d.js",
+  "nuevos": [
+    "elefante-en-el-cerebro",
+    "nada-es-tan-terrible",
+    "no-me-puedes-lastimar",
+    "relajate-un-chingo",
+    "dignos-de-ser-humanos",
+    "hablar-con-extranos",
+    "trampa-de-la-inteligencia",
+    "ultraaprendizaje"
+  ],
+  "validacion": {
+    "sinCambiosFueraDelMapa": true,
+    "portadasPreviasConservadas": true,
+    "seleccionAutorizada": true,
+    "catalogo682Conservado": true,
+    "originalesOpacos1024x1536": true,
+    "sinContorno": true,
+    "javascriptValido": true
+  }
+}

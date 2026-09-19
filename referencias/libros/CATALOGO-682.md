@@ -1,10 +1,10 @@
 # Los 682 libros de Curva
 
-Estado del 19 de septiembre de 2026: **631 con portada propia y 51 pendientes**. Se conservan los 682 identificadores recibidos.
+Estado del 19 de septiembre de 2026: **639 con portada propia y 43 pendientes**. Se conservan los 682 identificadores recibidos.
 
 | Tema | Libros | Con portada | Pendientes |
 |---|---:|---:|---:|
-| Psicología | 238 | 215 | 23 |
+| Psicología | 238 | 223 | 15 |
 | Economía | 117 | 94 | 23 |
 | Literatura | 75 | 75 | 0 |
 | Historia | 56 | 56 | 0 |
@@ -13,7 +13,7 @@ Estado del 19 de septiembre de 2026: **631 con portada propia y 51 pendientes**.
 | Filosofía | 42 | 42 | 0 |
 | Arte | 27 | 27 | 0 |
 | Deportes | 25 | 25 | 0 |
-| **Total** | **682** | **631** | **51** |
+| **Total** | **682** | **639** | **43** |
 
 ## Psicología
 
@@ -204,29 +204,29 @@ Estado del 19 de septiembre de 2026: **631 con portada propia y 51 pendientes**.
 | Diez razones para borrar tus redes sociales de inmediato | Jaron Lanier | 2018 | Sí | pendiente | `borrar-redes-sociales` |
 | Dopamina | Daniel Z. Lieberman y Michael E. Long | 2018 | Sí | escrito | `dopamina-lieberman` |
 | El club de las 5 de la mañana | Robin Sharma | 2018 | Sí | escrito | `club-5-manana` |
-| El elefante en el cerebro | Kevin Simler y Robin Hanson | 2018 | Pendiente | pendiente | `elefante-en-el-cerebro` |
+| El elefante en el cerebro | Kevin Simler y Robin Hanson | 2018 | Sí | pendiente | `elefante-en-el-cerebro` |
 | El método Bullet Journal | Ryder Carroll | 2018 | Sí | pendiente | `metodo-bullet-journal` |
 | Hábitos atómicos | James Clear | 2018 | Sí | escrito | `habitos-atomicos` |
 | Hiperenfoque | Chris Bailey | 2018 | Sí | pendiente | `hiperenfoque` |
 | Las leyes de la naturaleza humana | Robert Greene | 2018 | Sí | escrito | `leyes-naturaleza-humana` |
-| Nada es tan terrible | Rafael Santandreu | 2018 | Pendiente | pendiente | `nada-es-tan-terrible` |
-| No me puedes lastimar | David Goggins | 2018 | Pendiente | pendiente | `no-me-puedes-lastimar` |
+| Nada es tan terrible | Rafael Santandreu | 2018 | Sí | pendiente | `nada-es-tan-terrible` |
+| No me puedes lastimar | David Goggins | 2018 | Sí | pendiente | `no-me-puedes-lastimar` |
 | Pensar en apuestas | Annie Duke | 2018 | Sí | pendiente | `pensar-en-apuestas` |
-| Relájate un chingo | Sarah Knight | 2018 | Pendiente | pendiente | `relajate-un-chingo` |
+| Relájate un chingo | Sarah Knight | 2018 | Sí | pendiente | `relajate-un-chingo` |
 | Una educación | Tara Westover | 2018 | Sí | escrito | `educada` |
 | Wabi Sabi | Beth Kempton | 2018 | Sí | pendiente | `wabi-sabi` |
 | Amplitud | David Epstein | 2019 | Sí | pendiente | `amplitud-epstein` |
-| Dignos de ser humanos | Rutger Bregman | 2019 | Pendiente | pendiente | `dignos-de-ser-humanos` |
+| Dignos de ser humanos | Rutger Bregman | 2019 | Sí | pendiente | `dignos-de-ser-humanos` |
 | Hábitos mínimos | BJ Fogg | 2019 | Sí | pendiente | `habitos-minimos` |
-| Hablar con extraños | Malcolm Gladwell | 2019 | Pendiente | pendiente | `hablar-con-extranos` |
+| Hablar con extraños | Malcolm Gladwell | 2019 | Sí | pendiente | `hablar-con-extranos` |
 | Indistraíble | Nir Eyal | 2019 | Sí | pendiente | `indistraible` |
 | La mujer invisible | Caroline Criado Perez | 2019 | Sí | pendiente | `mujer-invisible` |
 | La quietud es la clave | Ryan Holiday | 2019 | Sí | escrito | `quietud-es-la-clave` |
-| La trampa de la inteligencia | David Robson | 2019 | Pendiente | pendiente | `trampa-de-la-inteligencia` |
+| La trampa de la inteligencia | David Robson | 2019 | Sí | pendiente | `trampa-de-la-inteligencia` |
 | Minimalismo digital | Cal Newport | 2019 | Sí | pendiente | `minimalismo-digital` |
 | Ocho citas de amor | John y Julie Gottman | 2019 | Sí | pendiente | `ocho-citas-amor` |
 | Piensa como un emperador romano | Donald Robertson | 2019 | Sí | escrito | `filosofo-griego` |
-| Ultraaprendizaje | Scott H. Young | 2019 | Pendiente | pendiente | `ultraaprendizaje` |
+| Ultraaprendizaje | Scott H. Young | 2019 | Sí | pendiente | `ultraaprendizaje` |
 | El camino del perezoso genial | Kendra Adachi | 2020 | Pendiente | pendiente | `camino-del-perezoso-genial` |
 | El gran farol | Maria Konnikova | 2020 | Sí | pendiente | `el-gran-farol` |
 | El regalo | Edith Eva Eger | 2020 | Pendiente | pendiente | `el-regalo-eger` |

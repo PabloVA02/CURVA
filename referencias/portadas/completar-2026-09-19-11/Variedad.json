@@ -1,0 +1,54 @@
+{
+  "correccionUsuario": "La mayoría de las cubiertas deben desarrollar escenas o interacciones con detalles significativos; evitar iconos aislados demasiado simples.",
+  "criterio": "Motivos contrastados con los textos alternativos del catálogo y prompts del historial. Variación de motivos, paleta, escala, tipografía, alineación y composición.",
+  "seleccion": [
+    {
+      "id": "elefante-en-el-cerebro",
+      "motivo": "ventriloquia invertida / reversed ventriloquist",
+      "descripcion": "Un pequeño muñeco de ventrílocuo maneja los hilos del propio artista, invirtiendo sus papeles sobre un escenario rojo.",
+      "composicion": "ONE graphic HUMAN ventriloquist with tiny dash eyes and flat auburn hair, simple cream face, burnt-orange jacket, plum trousers. A small WOODEN DUMMY in mustard suit on his knee secretly controls two plum strings leading to performer's raised sleeve and chin: REVERSED CONTROL, surreal witty but visually readable. No realistic faces, joints, woodgrain or fingers. Only two arms per figure. Background brilliant SCARLET stage plane with deepBURGUNDY curved floor; mustard/cream/plum, NO BLUE/MINT/CORAL. Title upper-right in PALE YELLOW huge narrow slabserif, «elefante» largest and «en el cerebro» compact. Message BOTTOM fullwidth CREAM heavy sans, 4 lines90px. Performer at leftcenter, no curtains extraobjects or elephants."
+    },
+    {
+      "id": "nada-es-tan-terrible",
+      "motivo": "termómetro que hace palomitas / popcorn thermometer",
+      "descripcion": "Un termómetro rojo se curva y transforma su columna en palomitas blancas sobre fondo amarillo.",
+      "composicion": "NO PEOPLE/HANDS. Impossible delightful THERMOMETER: red bulb at lowerleft, long cream tube bends in broad upside-down U; its crimson liquid emerges from upper tip as FOUR oversized white POPCORN shapes, worry becoming harmless. Black simple ticks only, no numbers. One popcorn piece tucked across titleedge. Solid bright BUTTER YELLOW background, SCARLET/BLACK/CREAM, NOblue/purple/mint. Title lower-right enormous BLACK rounded serif, «Nada» huge, «es tan» small inset, «terrible» wide italic. Message TOP LEFT BLACK thick geometric sans 4 lines90px. Dynamic silhouette spans left and top, utterly flat print shapes."
+    },
+    {
+      "id": "no-me-puedes-lastimar",
+      "motivo": "crampón escalando su correa / self-climbing crampon",
+      "descripcion": "Un crampón naranja avanza por una correa negra que se pliega como una pared imposible, sobre fondo azul hielo.",
+      "composicion": "NO PEOPLE/FEET/BOOTS. A graphic ORANGE mountaineering CRAMPON with six bold triangular ivory teeth grips its OWN long black strap, which folds upward like an impossible climbing wall. Strap has four broad rectangular slots and makes sharp angular switches. Tiny triangular icechip marks show progress; no rocks or mountains. Pale bright ICE BLUE background, black/orange/ivory only. Title TOP in BLACK huge ultra-condensed sans, «NO ME PUEDES» smallline, «LASTIMAR» huge across middle; strap weaves behind without hiding any word. Message lower-left BLACK heavy italic serif 4 lines90px with ample lightblue clearfield. Completely flat graphic sporting surrealism, no metallic shading or 3D."
+    },
+    {
+      "id": "relajate-un-chingo",
+      "motivo": "rastrillo peinando una nube / cloud rake",
+      "descripcion": "Un rastrillo amarillo peina una nube fucsia y la transforma en cinco bandas ordenadas sobre fondo verde agua.",
+      "composicion": "NO PEOPLE/HANDS. A huge YELLOW RAKE combs a raspberry-pink CLOUD into five neat horizontal plum bands. Cloud is chunky with 4 lobes, original fun weather impossible act; broad rake teeth clearly enter rightedge of cloud, straight bands exit left. Clean SEAFOAM green background with one white irregular lowerfield. Palette raspberry/yellow/plum/seafoam. Title CENTERBOTTOM in PLUM huge irregular rounded sans, «Relájate» slightly wavy baseline, «un chingo» black heavyserif. Exact message TOP in PLUM tall strong narrow sans, 4 lines90px. Flat paper-cut feeling without paper texture. No traditional garden/zen sand/landscape or sunny face."
+    },
+    {
+      "id": "dignos-de-ser-humanos",
+      "motivo": "perritos de la pradera transportando puerro / prairie dogs leek",
+      "descripcion": "Tres perritos de la pradera transportan juntos un puerro gigante cuyas hojas se despliegan como un toldo.",
+      "composicion": "NO HUMANS. Three small stylized PRAIRIE DOGS with caramel/ochre bodies and tiny dash eyes cooperate to carry ONE ENORMOUS LEEK horizontally like a parade float. Ivory leek trunk spans across them, three giant olive/emerald leaves fan upward like extravagant canopy. Weird scale relation, warm humorous editorial image, not cute 3D animals. PURPLE BLACKBERRY background, ochre/cream/olive/emerald, no blue/coral. Title upperleft huge CREAM warm heavy serif, «Dignos» broad and «de ser humanos» smaller staggered. Message lower-right YELLOW thick squared sans 4 lines90px along broadbottomcleararea. No accessories, detailed fur or filler plants."
+    },
+    {
+      "id": "hablar-con-extranos",
+      "motivo": "radar detectando una bellota / acorn radar",
+      "descripcion": "Un radar verde detecta una bellota gigante que parece un planeta, con ondas que cambian de forma.",
+      "composicion": "NO PEOPLE. A large lime-green circular RADAR dial tilts like a flat semicircle at bottomright, four lavender scanarcs travel upward, unexpectedly discover ONE giant rust-brown ACORN floating like a mysterious planet in upperleft. Acorn cap made of exactly four broad black diamondshapes, tiny stalk, solid ochre body. Flat broad echoes change from circles to pointed ovals, no stars or sci-fi glow. Background bold PURPLE, lime/lavender/rust/black. Title central on shallow DIAGONAL in WHITE huge bold condensed sans, «Hablar» small atop «con extraños» largest. Message BOTTOMLEFT WHITE heavy softserif 4 lines90px spanning fullwidth below radar. Ingenious strange graphic encounter, zero gradients."
+    },
+    {
+      "id": "trampa-de-la-inteligencia",
+      "motivo": "astrolabio atrapado / trapped astrolabe",
+      "descripcion": "Un astrolabio dorado queda atascado entre recortes geométricos de su propia forma sobre fondo verde oliva.",
+      "composicion": "NO PEOPLE. Flat GOLDEN ASTROLABE with three broad circular plates and one long black pointer, hangs from a small gold ring at top. Device tries to rotate but is caught inside mismatched angular cutouts of an oversized cream geometric stencil. One plate slips free at lowerright. Rich OLIVE GREEN background, goldenyellow/black/ivory with a tiny scarlet pointertip. No tiny numerals, no stars or cogwheels; 6 bold tickmarks only. Title TOPLEFT in BLACK huge severe square sans, «trampa» largest with one deepyellow inset word, remaining title balanced bold. Message BOTTOM in IVORY thick condensed serif 4 lines90px. Developed odd mechanical predicament, no metallic gloss/perspective."
+    },
+    {
+      "id": "ultraaprendizaje",
+      "motivo": "berbiquí y tablero imposible / brace drill portal",
+      "descripcion": "Un berbiquí rojo abre un agujero en un tablero ajedrezado del que sale una espiral amarilla.",
+      "composicion": "NO PEOPLE OR HANDS. An old-fashioned BRACE DRILL, bold scarlet crank and black two rounded handles, turns into a warm-yellow spiralbit. It bores through a flat checkerboard plane drawn as four large peach-and-cream squares; the circular hole releases an elegant YELLOW HELIX that curls around the crank like impossible ribbon. No realistic materials/shavings, geometric flat mysterious visual. SOFT PEACH backdrop with sharp RED/BLACK/YELLOW palette. Title CENTERLEFT BLACK ultra-heavy condensed sans across TWO lines «ULTRA» and «APRENDIZAJE», exact continuous word logically readable, finalword may be slightlydiagonal. Message TOPLEFT DARKRED heavy italic serif 4 lines90px on broadcleararea. Artwork lower and right, typography confident, no extra logos."
+    }
+  ]
+}
