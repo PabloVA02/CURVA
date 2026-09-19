@@ -1,10 +1,10 @@
 # Los 682 libros de Curva
 
-Estado del 19 de septiembre de 2026: **639 con portada propia y 43 pendientes**. Se conservan los 682 identificadores recibidos.
+Estado del 19 de septiembre de 2026: **647 con portada propia y 35 pendientes**. Se conservan los 682 identificadores recibidos.
 
 | Tema | Libros | Con portada | Pendientes |
 |---|---:|---:|---:|
-| Psicología | 238 | 223 | 15 |
+| Psicología | 238 | 231 | 7 |
 | Economía | 117 | 94 | 23 |
 | Literatura | 75 | 75 | 0 |
 | Historia | 56 | 56 | 0 |
@@ -13,7 +13,7 @@ Estado del 19 de septiembre de 2026: **639 con portada propia y 43 pendientes**.
 | Filosofía | 42 | 42 | 0 |
 | Arte | 27 | 27 | 0 |
 | Deportes | 25 | 25 | 0 |
-| **Total** | **682** | **639** | **43** |
+| **Total** | **682** | **647** | **35** |
 
 ## Psicología
 
@@ -227,20 +227,20 @@ Estado del 19 de septiembre de 2026: **639 con portada propia y 43 pendientes**.
 | Ocho citas de amor | John y Julie Gottman | 2019 | Sí | pendiente | `ocho-citas-amor` |
 | Piensa como un emperador romano | Donald Robertson | 2019 | Sí | escrito | `filosofo-griego` |
 | Ultraaprendizaje | Scott H. Young | 2019 | Sí | pendiente | `ultraaprendizaje` |
-| El camino del perezoso genial | Kendra Adachi | 2020 | Pendiente | pendiente | `camino-del-perezoso-genial` |
+| El camino del perezoso genial | Kendra Adachi | 2020 | Sí | pendiente | `camino-del-perezoso-genial` |
 | El gran farol | Maria Konnikova | 2020 | Sí | pendiente | `el-gran-farol` |
-| El regalo | Edith Eva Eger | 2020 | Pendiente | pendiente | `el-regalo-eger` |
-| El síndrome de la impostora | Élisabeth Cadoche y Anne de Montarlot | 2020 | Pendiente | pendiente | `sindrome-de-la-impostora` |
-| Indomable | Glennon Doyle | 2020 | Pendiente | pendiente | `indomable` |
+| El regalo | Edith Eva Eger | 2020 | Sí | pendiente | `el-regalo-eger` |
+| El síndrome de la impostora | Élisabeth Cadoche y Anne de Montarlot | 2020 | Sí | pendiente | `sindrome-de-la-impostora` |
+| Indomable | Glennon Doyle | 2020 | Sí | pendiente | `indomable` |
 | Invernando | Katherine May | 2020 | Sí | pendiente | `invernando` |
-| La montaña eres tú | Brianna Wiest | 2020 | Pendiente | pendiente | `montana-eres-tu` |
+| La montaña eres tú | Brianna Wiest | 2020 | Sí | pendiente | `montana-eres-tu` |
 | Piensa como un científico espacial | Ozan Varol | 2020 | Sí | escrito | `cientifico-espacial` |
-| Piensa como un monje | Jay Shetty | 2020 | Pendiente | pendiente | `piensa-como-un-monje` |
-| Sin límites | Jim Kwik | 2020 | Pendiente | pendiente | `sin-limites-kwik` |
+| Piensa como un monje | Jay Shetty | 2020 | Sí | pendiente | `piensa-como-un-monje` |
+| Sin límites | Jim Kwik | 2020 | Sí | pendiente | `sin-limites-kwik` |
 | Charla | Ethan Kross | 2021 | Sí | pendiente | `charla-kross` |
 | Cómo cambiar | Katy Milkman | 2021 | Sí | pendiente | `como-cambiar` |
 | Cuatro mil semanas | Oliver Burkeman | 2021 | Sí | escrito | `cuatro-mil-semanas` |
-| Encuentra tu persona vitamina | Marian Rojas Estapé | 2021 | Pendiente | pendiente | `persona-vitamina` |
+| Encuentra tu persona vitamina | Marian Rojas Estapé | 2021 | Sí | pendiente | `persona-vitamina` |
 | Piénsalo otra vez | Adam Grant | 2021 | Sí | escrito | `piensalo-otra-vez` |
 | Sánate | Nicole LePera | 2021 | Sí | pendiente | `sanate` |
 | ¿Por qué nadie me lo dijo antes? | Julie Smith | 2022 | Pendiente | pendiente | `por-que-nadie-me-lo-dijo` |

@@ -1,0 +1,54 @@
+{
+  "correccionUsuario": "La mayoría de las cubiertas deben desarrollar escenas o interacciones con detalles significativos; evitar iconos aislados demasiado simples.",
+  "criterio": "Motivos contrastados con los textos alternativos del catálogo y prompts del historial. Variación de motivos, paleta, escala, tipografía, alineación y composición.",
+  "seleccion": [
+    {
+      "id": "camino-del-perezoso-genial",
+      "motivo": "perezoso en pinzas de ensalada / sloth salad tongs",
+      "descripcion": "Un perezoso duerme entre unas pinzas de ensalada gigantes, que funcionan como una hamaca sobre fondo naranja.",
+      "composicion": "NO HUMANS. A flat beige SLOTH naps stretched between the two scooped ends of enormous darkPLUM SALAD TONGS, an absurd improvised hammock. One foot casually presses the tonghinge; two sagegreen lettuce shapes tuck beneath as canopy support, not plantfiller. SUNSET ORANGE solid background with plum/peach/sage/cream. Sloth features just 2 sleepy dashes and small nose, NO cute glossy eyes/fur/anatomical shading. Title UPPERLEFT in cream thickrounded serif, «perezoso» huge lazyangled and remainingwords medium. Message BOTTOM RIGHT in darkplum heavy squared sans 4 lines90px across bottomwidth. Tongs sweep diagonal around title, delightfully odd mature editorialdrawing."
+    },
+    {
+      "id": "el-regalo-eger",
+      "motivo": "matrioskas como arquitectura / nesting doll architecture",
+      "descripcion": "Una matrioska abierta contiene otra que se transforma en una escalera amarilla hacia el exterior.",
+      "composicion": "NO HUMAN PEOPLE. Three MATRYOSHKA nesting forms behave like impossible architecture: outer indigo doll split sideways, middle skyblue form offset with simple tiny closed eyes, innermost form turns into a broad golden staircase flowing OUT of the shell through a red arch. No ornate folkflowers; just two wide white geometric decorative bands. Bright warm VERMILION background with indigo/skyblue/yellow/ivory. Title BOTTOMLEFT huge WHITE chunky slabserif, «EL» tiny and «REGALO» exceptionallybig. Message TOP fullwidth darknavy thickrounded sans 4 lines90px on clear creamyellowsmalltopplane if needed. Draw EVERYTHING as flat colored silhouettes, no volumetric hollow dolls or perspective."
+    },
+    {
+      "id": "sindrome-de-la-impostora",
+      "motivo": "imperdible sujetando el cielo / safety pin sky",
+      "descripcion": "Un imperdible rojo mantiene unidas dos partes del cielo estampadas con grandes formas blancas.",
+      "composicion": "NO PEOPLE. One large SCARLET SAFETY PIN seems to hold together two enormous torn panels of paleBLUE SKY; one panel has three big flat white cloudshapes, other is deepNAVY and blank. The pin bridges their zigzag seam confidently despite its light construction. Pure flat blue/white/scarlet/navy shapes, bright lightblue background, no metal shines or 3D. Title LOWERLEFT in deepNAVY tall bold geometric sans, «impostora» much wider/larger, title wraps round diagonal pin. Message UPPERLEFT BLACK heavy italicserif 4 lines90px extending broadwidth, not tiny. Sophisticated poster mixing domesticobject and impossibly big sky, not sewingphotograph, no extrastitches or tools."
+    },
+    {
+      "id": "indomable",
+      "motivo": "caballito de mar desensillado / unsaddled seahorse",
+      "descripcion": "Un caballito de mar rosa se sacude una silla de montar negra mientras su cola se despliega con libertad.",
+      "composicion": "NO HUMANS. A huge graphic HOTPINK SEAHORSE with darkburgundy tinyeye and rounded fins shakes off an absurd BLACK WESTERN SADDLE made of 3 simple planes. Saddle floats up-right, its two loose beltends curl away; seahorse tail uncoils downward into a beautifully designed S. Bright LIME background, pink/black/ivory. Title «INDOMABLE» in oversized BLACK striking wide bold italicserif across CENTRAL horizontal space, seahorse surrounds notobscuresletters. Message TOPLEFT BLACK heavy condensed sans 4 lines90px. No bubbles/aquarium/seaweed/realisticscales, just 4broad decorative dashsegments on body. Bold strange free mood."
+    },
+    {
+      "id": "montana-eres-tu",
+      "motivo": "pretzel que se desanuda / untying pretzel",
+      "descripcion": "Un pretzel naranja se deshace por un extremo y convierte su nudo en una línea libre sobre fondo azul.",
+      "composicion": "NO PEOPLE/MOUNTAINS. Giant graphic ORANGE PRETZEL at rightmiddle starts to UNKNOT ITSELF: traditional two-loop pretzel shape at top, one end pulls outward into an unexpectedly long, elegant free yellow curve sweeping through lowercover. Six large white salt dots only, no crumbtexture/realisticfood. Deep ELECTRIC BLUE background, orange/yellow/white/black. Title TOPLEFT WHITE exceptionallybold squaredsans, «La montaña» widest, «eres tú» smaller BLACK on yellowinset left. Message BOTTOMLEFT WHITE robust italicserif 4 lines90px. Offbeat graphic, original metaphor, flat uniform fills no shadows or shine."
+    },
+    {
+      "id": "piensa-como-un-monje",
+      "motivo": "plomada quieta entre corrientes / plumb bob currents",
+      "descripcion": "Una plomada roja permanece vertical mientras varias franjas onduladas pasan a su alrededor sobre fondo marfil.",
+      "composicion": "NO PEOPLE. An oversize RED PLUMB BOB with simple conical triangle tip and roundeduppercap hangs deadstraight from a fine black cord at rightthird. Four bold TEAL and mustard WIND BANDS sweep horizontally but split and bend gracefully around the quiet plumbbob, as if gravity bends weather. WARM IVORY fullbleed background, red/teal/mustard/black palette, flat midcentury editorial precision, beautiful one slightlysimpler cover with meaningfulnegative space. Title CENTRAL LEFT in huge BLACK warmrounded serif, 'Piensa' high, 'como un monje' staggered around winds. Message TOPLEFT deepteal heavy condensed sans4lines90px. No meditatingperson, lotus, bowl, shadows, metalrealism."
+    },
+    {
+      "id": "sin-limites-kwik",
+      "motivo": "cometa de sandía / watermelon kite",
+      "descripcion": "Una cometa hecha de sandía despliega sus alas rojas y verdes, con una cola de pepitas negras sobre fondo rosa claro.",
+      "composicion": "NO PEOPLE. An impossible WATERMELON KITE: two red triangular watermelon slices joined at tips become broad winglike kite geometry, brightgreen rind outlines edges, five flat BLACK seeds. Its long blackstring spirals through two oversized seedshapes like attached pennants. Not literal bird, not realisticfruit. LIGHT ROSE background with vivid RED/FORESTGREEN/BLACK and tiny yellowtriangle accent. Title BOTTOM in huge deepGREEN rounded geometric sans, «SIN» narrow and «LÍMITES» wide tilted. Message TOPRIGHT BLACK bold soft slabserif four lines90px. Art spread diagonally from upperleft to rightmiddle, flat strangesummer exuberance, no gradients/shading/extraneousicons."
+    },
+    {
+      "id": "persona-vitamina",
+      "motivo": "manoplas cuidando una casa helada / oven mitts frozen house",
+      "descripcion": "Dos manoplas berenjena y naranja rodean una pequeña casa roja dentro de un cubo de hielo azul.",
+      "composicion": "NO PEOPLE OR ARMS. Two autonomous giant OVEN MITTS, aubergine left and rustyORANGE right, gently cradle a SKYBLUE ICE CUBE containing one tiny simple RED HOUSE (single roof and creamdoor). Mitts are flat silhouettes with 3 short darkquiltingstrokes each, cuffsstripedcream. A few large angular icechips begin fallingoff as warmth, but no dropgradients or shine. Bright AQUA background with warm IVORY lowerquarter. Title UPPERCENTER in huge darkAUBERGINE condensed serif, «persona» largest and «vitamina» playfulwide. Message BOTTOM darkAUBERGINE thick roundedsans 4 lines90px. Sweet weird original still life, no hearts/faces/photorealism, cube represented by flat polygonfacets."
+    }
+  ]
+}

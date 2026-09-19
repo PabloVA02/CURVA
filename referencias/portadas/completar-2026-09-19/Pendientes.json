@@ -1100,8 +1100,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/camino-del-perezoso-genial-cdbf507b21.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-12"
   },
   {
     "id": "el-regalo-eger",
@@ -1112,8 +1113,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/el-regalo-eger-678df62370.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-12"
   },
   {
     "id": "sindrome-de-la-impostora",
@@ -1124,8 +1126,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/sindrome-de-la-impostora-49d831ea14.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-12"
   },
   {
     "id": "indomable",
@@ -1136,8 +1139,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/indomable-3c2a967c41.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-12"
   },
   {
     "id": "montana-eres-tu",
@@ -1148,8 +1152,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/montana-eres-tu-d0c2fa3d89.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-12"
   },
   {
     "id": "piensa-como-un-monje",
@@ -1160,8 +1165,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/piensa-como-un-monje-7920417811.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-12"
   },
   {
     "id": "sin-limites-kwik",
@@ -1172,8 +1178,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/sin-limites-kwik-f98682f671.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-12"
   },
   {
     "id": "persona-vitamina",
@@ -1184,8 +1191,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/persona-vitamina-1d90179d11.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-12"
   },
   {
     "id": "por-que-nadie-me-lo-dijo",

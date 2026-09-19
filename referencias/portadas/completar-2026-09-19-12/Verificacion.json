@@ -1,0 +1,33 @@
+{
+  "fecha": "2026-09-19",
+  "tanda": "completar-2026-09-19-12",
+  "base": "ceeeabb304ea3ea889fe82704a3bd7fcc439fdbd",
+  "total": 682,
+  "antes": 639,
+  "anadidas": 8,
+  "reemplazadas": [],
+  "conPortada": 647,
+  "pendientes": 35,
+  "versionesConservadas": 9,
+  "resumenesConservados": 114,
+  "js": "index-portadas-c53ef5082d.js",
+  "nuevos": [
+    "camino-del-perezoso-genial",
+    "el-regalo-eger",
+    "sindrome-de-la-impostora",
+    "indomable",
+    "montana-eres-tu",
+    "piensa-como-un-monje",
+    "sin-limites-kwik",
+    "persona-vitamina"
+  ],
+  "validacion": {
+    "sinCambiosFueraDelMapa": true,
+    "portadasPreviasConservadas": true,
+    "seleccionAutorizada": true,
+    "catalogo682Conservado": true,
+    "originalesOpacos1024x1536": true,
+    "sinContorno": true,
+    "javascriptValido": true
+  }
+}
