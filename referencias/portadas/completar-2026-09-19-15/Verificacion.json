@@ -1,0 +1,33 @@
+{
+  "fecha": "2026-09-19",
+  "tanda": "completar-2026-09-19-15",
+  "base": "7c39c0f083698ad154891d3a8dc41d9a52f5535f",
+  "total": 682,
+  "antes": 663,
+  "anadidas": 8,
+  "reemplazadas": [],
+  "conPortada": 671,
+  "pendientes": 11,
+  "versionesConservadas": 8,
+  "resumenesConservados": 114,
+  "js": "index-portadas-14b4788c22.js",
+  "nuevos": [
+    "via-rapida-del-millonario",
+    "habitos-para-ser-millonario",
+    "independizate-papa-estado",
+    "los-cuatro-galloway",
+    "libertad-financiera-sabatier",
+    "tonterias-con-su-dinero",
+    "almanaque-naval",
+    "millonario-sexy-feliz"
+  ],
+  "validacion": {
+    "sinCambiosFueraDelMapa": true,
+    "portadasPreviasConservadas": true,
+    "seleccionAutorizada": true,
+    "catalogo682Conservado": true,
+    "originalesOpacos1024x1536": true,
+    "sinContorno": true,
+    "javascriptValido": true
+  }
+}

@@ -1412,8 +1412,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/via-rapida-del-millonario-182232d6ee.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-15"
   },
   {
     "id": "habitos-para-ser-millonario",
@@ -1424,8 +1425,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/habitos-para-ser-millonario-1f5d63ffd9.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-15"
   },
   {
     "id": "independizate-papa-estado",
@@ -1436,8 +1438,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/independizate-papa-estado-8fe5e3ddd5.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-15"
   },
   {
     "id": "los-cuatro-galloway",
@@ -1448,8 +1451,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/los-cuatro-galloway-77c2673c96.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-15"
   },
   {
     "id": "libertad-financiera-sabatier",
@@ -1460,8 +1464,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/libertad-financiera-sabatier-710ed30385.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-15"
   },
   {
     "id": "tonterias-con-su-dinero",
@@ -1472,8 +1477,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/tonterias-con-su-dinero-974e8ee53e.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-15"
   },
   {
     "id": "almanaque-naval",
@@ -1484,8 +1490,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/almanaque-naval-cca3e9ce01.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-15"
   },
   {
     "id": "millonario-sexy-feliz",
@@ -1496,8 +1503,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/millonario-sexy-feliz-4fed1be38f.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-15"
   },
   {
     "id": "ofertas-100-millones",

@@ -1,11 +1,11 @@
 # Los 682 libros de Curva
 
-Estado del 19 de septiembre de 2026: **663 con portada propia y 19 pendientes**. Se conservan los 682 identificadores recibidos.
+Estado del 19 de septiembre de 2026: **671 con portada propia y 11 pendientes**. Se conservan los 682 identificadores recibidos.
 
 | Tema | Libros | Con portada | Pendientes |
 |---|---:|---:|---:|
 | Psicología | 238 | 238 | 0 |
-| Economía | 117 | 103 | 14 |
+| Economía | 117 | 111 | 6 |
 | Literatura | 75 | 75 | 0 |
 | Historia | 56 | 56 | 0 |
 | Ciencia | 51 | 51 | 0 |
@@ -13,7 +13,7 @@ Estado del 19 de septiembre de 2026: **663 con portada propia y 19 pendientes**.
 | Filosofía | 42 | 42 | 0 |
 | Arte | 27 | 27 | 0 |
 | Deportes | 25 | 25 | 0 |
-| **Total** | **682** | **663** | **19** |
+| **Total** | **682** | **671** | **11** |
 
 ## Psicología
 
@@ -318,7 +318,7 @@ Estado del 19 de septiembre de 2026: **663 con portada propia y 19 pendientes**.
 | Rework | Jason Fried y David Heinemeier Hansson | 2010 | Sí | pendiente | `rework` |
 | El método Lean Startup | Eric Ries | 2011 | Sí | escrito | `lean-startup` |
 | La regla del 10X | Grant Cardone | 2011 | Sí | pendiente | `regla-10x` |
-| La vía rápida del millonario | MJ DeMarco | 2011 | Pendiente | pendiente | `via-rapida-del-millonario` |
+| La vía rápida del millonario | MJ DeMarco | 2011 | Sí | pendiente | `via-rapida-del-millonario` |
 | Pequeño cerdo capitalista | Sofía Macías | 2011 | Sí | pendiente | `pequeno-cerdo-capitalista` |
 | Steve Jobs | Walter Isaacson | 2011 | Sí | escrito | `steve-jobs` |
 | ¿Cómo medirás tu vida? | Clayton M. Christensen, James Allworth y Karen Dillon | 2012 | Sí | pendiente | `como-mediras-tu-vida` |
@@ -346,9 +346,9 @@ Estado del 19 de septiembre de 2026: **663 con portada propia y 19 pendientes**.
 | Descansa | Alex Soojung-Kim Pang | 2016 | Sí | pendiente | `descansa` |
 | El camino simple a la riqueza | J. L. Collins | 2016 | Sí | pendiente | `camino-simple-riqueza` |
 | Eres un chingón haciendo dinero | Jen Sincero | 2017 | Sí | escrito | `chingona-dinero` |
-| Hábitos para ser millonario | Brian Tracy | 2017 | Pendiente | pendiente | `habitos-para-ser-millonario` |
-| Independízate de Papá Estado | Carlos Galán | 2017 | Pendiente | pendiente | `independizate-papa-estado` |
-| Los cuatro | Scott Galloway | 2017 | Pendiente | pendiente | `los-cuatro-galloway` |
+| Hábitos para ser millonario | Brian Tracy | 2017 | Sí | pendiente | `habitos-para-ser-millonario` |
+| Independízate de Papá Estado | Carlos Galán | 2017 | Sí | pendiente | `independizate-papa-estado` |
+| Los cuatro | Scott Galloway | 2017 | Sí | pendiente | `los-cuatro-galloway` |
 | Milenial en quiebra | Erin Lowry | 2017 | Sí | pendiente | `milenial-en-quiebra` |
 | Principios | Ray Dalio | 2017 | Sí | pendiente | `principios-dalio` |
 | Side Hustle | Chris Guillebeau | 2017 | Sí | escrito | `side-hustle` |
@@ -358,12 +358,12 @@ Estado del 19 de septiembre de 2026: **663 con portada propia y 19 pendientes**.
 | Gestiona tu dinero como un jo**do adulto | Sam Beckbessinger | 2018 | Sí | pendiente | `gestiona-tu-dinero-adulto` |
 | Jugarse la piel | Nassim Nicholas Taleb | 2018 | Sí | pendiente | `jugarse-la-piel` |
 | Finanzas para chicas listas | Bola Sokunbi | 2019 | Sí | pendiente | `finanzas-para-chicas-listas` |
-| Libertad financiera | Grant Sabatier | 2019 | Pendiente | pendiente | `libertad-financiera-sabatier` |
-| Tonterías que las personas inteligentes hacen con su dinero | Jill Schlesinger | 2019 | Pendiente | pendiente | `tonterias-con-su-dinero` |
-| El almanaque de Naval Ravikant | Eric Jorgenson | 2020 | Pendiente | pendiente | `almanaque-naval` |
+| Libertad financiera | Grant Sabatier | 2019 | Sí | pendiente | `libertad-financiera-sabatier` |
+| Tonterías que las personas inteligentes hacen con su dinero | Jill Schlesinger | 2019 | Sí | pendiente | `tonterias-con-su-dinero` |
+| El almanaque de Naval Ravikant | Eric Jorgenson | 2020 | Sí | pendiente | `almanaque-naval` |
 | La psicología del dinero | Morgan Housel | 2020 | Sí | escrito | `psicologia-dinero` |
 | Morir con cero | Bill Perkins | 2020 | Sí | pendiente | `morir-con-cero` |
-| Millonario sexy y feliz | Steven Bartlett | 2021 | Pendiente | pendiente | `millonario-sexy-feliz` |
+| Millonario sexy y feliz | Steven Bartlett | 2021 | Sí | pendiente | `millonario-sexy-feliz` |
 | Ofertas de 100 millones | Alex Hormozi | 2021 | Pendiente | pendiente | `ofertas-100-millones` |
 | Principios para enfrentarse al nuevo orden mundial | Ray Dalio | 2021 | Sí | escrito | `principios-orden-mundial` |
 | Sin esfuerzo | Greg McKeown | 2021 | Sí | escrito | `sin-esfuerzo` |

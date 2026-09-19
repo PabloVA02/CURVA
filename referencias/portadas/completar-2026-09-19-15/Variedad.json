@@ -1,0 +1,54 @@
+{
+  "correccionUsuario": "La mayoría de las cubiertas deben desarrollar escenas o interacciones con detalles significativos; evitar iconos aislados demasiado simples.",
+  "criterio": "Motivos contrastados con los textos alternativos del catálogo y prompts del historial. Variación de motivos, paleta, escala, tipografía, alineación y composición.",
+  "seleccion": [
+    {
+      "id": "via-rapida-del-millonario",
+      "motivo": "trineo sobre olas de papel / paperwave sled",
+      "descripcion": "Un trineo rojo recorre tres olas de papel azul que se pliegan hacia arriba.",
+      "composicion": "One RED SLED diagonally rides three huge COBALT FOLDED PAPER WAVES that curve UP instead of down. Sled just four boldshapes, creamrunnerlines, no person, no snowmountains. PALEMINT background, red/cobalt/cream/black. Composition art along LEFT and BOTTOM; title UPPER RIGHT black veryheavy narrow serif in3lines, «rápida» hugeRED. Message CENTER RIGHT deepnavy widebold sans4lines occupyingatleastquartercover. Graphic dynamic folds representedby differentuniformcolorplanes, notgradients."
+    },
+    {
+      "id": "habitos-para-ser-millonario",
+      "motivo": "máquina de escribir tejedora / weaving typewriter",
+      "descripcion": "Una máquina de escribir naranja teje una banda ancha de casillas azules.",
+      "composicion": "Flat FRONT VIEW ORANGE TYPEWRITER at bottomcenter: eight broadnavy blankkeycircles, a roll of broad WHITE PAPER climbsout and becomes a flat WOVEN CHECKERBOARD band orange/navy/ivory, curving leftabove. No printedletters onkeysorpage. ElectricBLUE background. Title UPPERRIGHT WHITE thickrounded blocktext, «Hábitos» oversize towardleft, title4lines. Message MIDDLELEFT IVORY heavyitalicserif acrosswidearea in4lines. Playful repeateddailyacts expressedweaving, no texture/wood/3D/perspective, no hands."
+    },
+    {
+      "id": "independizate-papa-estado",
+      "motivo": "punzón y hoja calada / awl perforated leaf",
+      "descripcion": "Un punzón azul perfora una hoja roja y deja pasar formas de luz amarilla.",
+      "composicion": "A giant RED LEAF has carefullyplaced OVAL HOLES instead ofveins; a BLUE AWL with roundedhandle passes throughonehole, and threeYELLOW flattenedoval lightshapes emerge below as if newly freed. No human hand. Solid LEMON background, red/cobalt/forestgreen. Asymmetric artwork diagonal from upperright to lowerleft, leafwidth~60%cover. Title BOTTOMLEFT deepGREEN bold slabserif, «Independízate» narrowhuge, «Papá Estado» wide. Message TOPLEFT darknavy extraheavy sans4lines acrosswidearea. Not botanicalrealism or sewing, one surrealgraphic action."
+    },
+    {
+      "id": "los-cuatro-galloway",
+      "motivo": "biombo de cuatro universos / fourpanel screen",
+      "descripcion": "Un biombo de cuatro colores dobla y encierra una gran curva blanca.",
+      "composicion": "FOURPANEL FOLDING SCREEN viewed fromabove/frontmixedFLAT, eachpanel one boldcolor orange/pink/cyan/green, linked by three simpleblackhingelines. One enormous WHITE WAVELIKE CURL weaves betweenpanels and appearscontained by them. No logos/symbols/extraobjects. BLACK background. Title CENTRAL UPPER WHITE geometricrounded sans, «Los» smallleft and «CUATRO» hugewideletterforms partly betweenpanels. Message BOTTOM warmCREAM heavyserif4shortlines. Screen fills middlebottom with compelling 4rhythms; colorscoherent againstblack. No 3Drender/shadow."
+    },
+    {
+      "id": "libertad-financiera-sabatier",
+      "motivo": "trípode como asiento / tripod perch",
+      "descripcion": "Una persona pequeña descansa sobre un trípode rojo cuyas patas se abren como abanicos.",
+      "composicion": "ONE tinyflatgraphicperson reclines on the top of enormous RED TRIPOD with feetdangling, handsbehindhead, navyclothes andbrownskin, simpledash eyes, noanatomyrealism. Three tripodlegs spread as broad RED angularfanblades balancingthem; no camerabody. SKYBLUE background, red/navy/yellow/cream. Title BOTTOMWHITE veryhuge condensedserif, «Libertad» broad and «financiera» indarknavy staggeredtoleft. Message TOPLEFT navyheavy rounded sans4lines acrossbroadwidth. Character only10%canvas andrest formsdominate. Flatbeautifulgraphic impossiblechair, no clouds/trees."
+    },
+    {
+      "id": "tonterias-con-su-dinero",
+      "motivo": "ajolote y mapa invertido / axolotl wrongmap",
+      "descripcion": "Un ajolote coral sostiene un mapa al revés y camina en dirección contraria.",
+      "composicion": "A CORAL AXOLOTL at lowerright, simpleexternalgills3boldbranches per side, tinyblackeyes noanimegloss, carries a small YELLOW foldmap UPSIDEDOWN, while its body faces otherway. Map just oneblackzigzagroute andtwo dots, no text/numbers. AQUAMARINE background, coral/yellow/black/cream. Title TOPLEFT BLACK ultraheavy condensed sans5staggeredlines but readable, «Tonterías» bigwhite oncoralflatblock; longtitlegets42%cover. Message LOWERLEFT navyheavyserif4lines fullbottomwidth, art occupies MIDDLE right~30%, no extraobjects, nodetailedhands."
+    },
+    {
+      "id": "almanaque-naval",
+      "motivo": "pluviómetro de lluvia angular / angular rain gauge",
+      "descripcion": "Un pluviómetro verde recoge lluvia cuadrada y la transforma en una curva naranja.",
+      "composicion": "A huge FORESTGREEN RAIN GAUGE cylinder is CUT OPEN on oneside: four broadBLUE square raindrops enter at top, ONE graceful ORANGE liquidcurve leaves sideways and runsalongbottom. Cylinder drawnas FLAT RECTANGLE with green semicirclelip and fourboldwhite tickmarks NO numbers, no transparentrender. WARMIVORY background, forestgreen/orange/royalblue/black. Title UPPERRIGHT BLACK large elegant roundedserif, «Naval» orangegiant, «Ravikant» forestgreen medium. Message BOTTOMLEFT blueHEAVYboldsans4lines. Artwork occupiesleftmiddle~60%, plentyofdeliberatenegativespace."
+    },
+    {
+      "id": "millonario-sexy-feliz",
+      "motivo": "cascabel y rábano / bell radish",
+      "descripcion": "Un cascabel morado se abre y revela un rábano rojo en lugar de su pequeña bola.",
+      "composicion": "An oversized PURPLE JINGLE BELL cracked into two FLAT ROUND halves opens like stagecurtains; insideis a large RED RADISH instead of metalclapper, its two greenleaves kickedup like lounginglegs. Bellhas distinctivecrossslit notrealmetal. VIVIDORANGE background, purple/red/leafgreen/cream. Title CENTERLEFT CREAM bold italicwarmserif, «sexy» largePURPLE and «feliz» curvedbaseline nearbottom, allreadable. Message TOPRIGHT darkplum heavyrounded sans4lines. Radish fillsrightmiddle, intentionalstrange humorousnature, no people, no shading/gradients."
+    }
+  ]
+}
