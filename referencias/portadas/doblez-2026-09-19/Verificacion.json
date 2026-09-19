@@ -1,0 +1,16 @@
+{
+  "base": "2893d30b4996429130d93025e0e7454d0b8eaddc",
+  "css": "assets/doblez-libro-579f5f1a39.css",
+  "sha256CSS": "579f5f1a39b8a39e23ccc3cdb53addefa3527ede038469b64696a46b9316c442",
+  "catalogo682SinCambios": true,
+  "bundleYResumenesSinCambios": true,
+  "datosGaleriaSinCambios": true,
+  "imagenesOriginalesSinCambios": true,
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "anchoGaleria": 171,
+  "anchoRelieveGaleria": 11.1094,
+  "clicPortadaAbreFicha": true
+}

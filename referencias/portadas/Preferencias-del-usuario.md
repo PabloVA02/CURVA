@@ -107,3 +107,8 @@ El usuario rechaza recurrir continuamente a personas. Variar mucho más el lengu
 
 ## Última ampliación creativa: inventar incluso ideas raras
 El usuario pide variar todavía más, hacer cosas distintas y permite cualquier idea aunque sea rara. Explorar surrealismo gráfico, cambios de escala, asociaciones inesperadas y objetos realizando acciones imposibles. Evitar convertir la nueva variedad en otra plantilla fija de objeto grande centrado. Mantener belleza, dibujos planos, colores vivos coherentes, composición y tipografía variables; el mensaje sigue explicando fielmente el contenido. No abusar de personas.
+
+
+## Ajuste de la doblez tras completar el catálogo
+
+El usuario pide mejorar la doblez porque apenas se aprecia y no parece una encuadernación. Debe notarse un poco más como un pliegue real: una franja estrecha de luz en el lomo, una hendidura oscura y una transición suave a la tapa. Aplicar el acabado de forma consistente en las tarjetas y fichas de la app y en la galería, proporcionado al tamaño de la cubierta. Mantener los dibujos originales. Sigue sin contorno blanco, bloque de páginas ni perspectiva 3D.
