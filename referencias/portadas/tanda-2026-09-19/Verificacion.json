@@ -1,0 +1,45 @@
+{
+  "fecha": "2026-09-19",
+  "tanda": "2026-09-19",
+  "base": "c9a89b7c5f541cf9b01218fea0a1f474dd645e0e",
+  "total": 682,
+  "antes": 543,
+  "anadidas": 6,
+  "restauradas": 230,
+  "portadasEnBundlePrevio": 313,
+  "resumenesActualesConservados": 114,
+  "conPortada": 549,
+  "pendientes": 133,
+  "versionesConservadas": 24,
+  "js": "index-portadas-7b3455bd61.js",
+  "librosNuevos": [
+    "interpretacion-suenos",
+    "como-leer-un-libro",
+    "pensar-en-apuestas",
+    "principios-dalio",
+    "comer-para-no-morir",
+    "desafio-total"
+  ],
+  "totalMapaAnterior": 502,
+  "totalMapaActual": 550,
+  "validacion": {
+    "catalogo682Conservado": true,
+    "resumenes114SinCambios": true,
+    "restoDelBundleIdentico": true,
+    "asignacionesRecuperadas": 230,
+    "portadasPropias549ConArchivo": true,
+    "nuevas6SinDuplicadosNiReservados": true,
+    "originales24ConHashVerificado": true,
+    "soloVersion4Instalada": true,
+    "javascriptValido": true
+  },
+  "revisionMovil": {
+    "viewport": "390×844",
+    "portadasNuevasCargadas": 6,
+    "miniatura": "171×256.5 px",
+    "busquedaYFiltrosCorrectos": true,
+    "cubiertaRecuperadaComprobada": "sabiduria-inseguridad",
+    "bordeBlancoContinuoCSS": "0.5px, incluidas esquinas redondeadas",
+    "erroresConsolaApp": 0
+  }
+}

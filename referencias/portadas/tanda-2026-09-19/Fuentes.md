@@ -1,0 +1,6 @@
+- [La interpretación de los sueños](https://www.penguinrandomhouse.com/books/56407/the-interpretation-of-dreams-by-sigmund-freud/): referencia del tema para redactar el mensaje de portada.
+- [Cómo leer un libro](https://www.simonandschuster.com/books/How-to-Read-a-Book/Mortimer-J-Adler/9781476790152): referencia del tema para redactar el mensaje de portada.
+- [Pensar en apuestas](https://www.penguinrandomhouse.com/books/552885/thinking-in-bets-by-annie-duke/): referencia del tema para redactar el mensaje de portada.
+- [Principios](https://www.simonandschuster.com/books/Principles/Ray-Dalio/Principles/9781501124020): referencia del tema para redactar el mensaje de portada.
+- [Comer para no morir](https://nutritionfacts.org/video/book-trailer-for-how-not-to-die/): referencia del tema para redactar el mensaje de portada.
+- [Desafío total](https://www.simonandschuster.com/books/Total-Recall/Arnold-Schwarzenegger/9781451662443): referencia del tema para redactar el mensaje de portada.

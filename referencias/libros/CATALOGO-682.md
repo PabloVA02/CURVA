@@ -1,30 +1,30 @@
 # Los 682 libros de Curva
 
-Estado revisado el 15 de septiembre de 2026, tras la cuarta tanda del día: **543 con portada propia y 139 pendientes**. Incluye portadas aportadas y generadas para Curva; se conservan los 682 identificadores recibidos.
+Estado revisado el 19 de septiembre de 2026: **549 con portada propia y 133 pendientes**. Incluye portadas aportadas y generadas para Curva; se conservan los 682 identificadores recibidos.
 
 | Tema | Libros | Con portada | Pendientes |
 |---|---:|---:|---:|
-| Psicología | 238 | 132 | 106 |
-| Economía | 117 | 91 | 26 |
+| Psicología | 238 | 135 | 103 |
+| Economía | 117 | 92 | 25 |
 | Literatura | 75 | 75 | 0 |
-| Historia | 56 | 55 | 1 |
+| Historia | 56 | 56 | 0 |
 | Ciencia | 51 | 51 | 0 |
-| Salud | 51 | 45 | 6 |
+| Salud | 51 | 46 | 5 |
 | Filosofía | 42 | 42 | 0 |
 | Arte | 27 | 27 | 0 |
 | Deportes | 25 | 25 | 0 |
-| **Total** | **682** | **543** | **139** |
+| **Total** | **682** | **549** | **133** |
 
 ## Psicología
 
 | Título | Autor | Año | Portada | Resumen | ID |
 |---|---|---:|---|---|---|
 | El arte de tener siempre razón | Arthur Schopenhauer | 1831 | Pendiente | pendiente | `arte-tener-razon` |
-| La interpretación de los sueños | Sigmund Freud | 1899 | Pendiente | pendiente | `interpretacion-suenos` |
+| La interpretación de los sueños | Sigmund Freud | 1899 | Sí | pendiente | `interpretacion-suenos` |
 | Introducción al psicoanálisis | Sigmund Freud | 1917 | Sí | escrito | `intro-psicoanalisis` |
 | La conquista de la felicidad | Bertrand Russell | 1930 | Sí | pendiente | `conquista-felicidad` |
 | Cómo ganar amigos e influir sobre las personas | Dale Carnegie | 1936 | Sí | escrito | `amigos-influir` |
-| Cómo leer un libro | Mortimer J. Adler y Charles Van Doren | 1940 | Pendiente | pendiente | `como-leer-un-libro` |
+| Cómo leer un libro | Mortimer J. Adler y Charles Van Doren | 1940 | Sí | pendiente | `como-leer-un-libro` |
 | Cómo suprimir las preocupaciones y disfrutar de la vida | Dale Carnegie | 1948 | Sí | pendiente | `suprimir-preocupaciones` |
 | Zen en el arte del tiro con arco | Eugen Herrigel | 1948 | Pendiente | pendiente | `zen-tiro-con-arco` |
 | La sabiduría de la inseguridad | Alan Watts | 1951 | Sí | pendiente | `sabiduria-inseguridad` |
@@ -211,7 +211,7 @@ Estado revisado el 15 de septiembre de 2026, tras la cuarta tanda del día: **54
 | Las leyes de la naturaleza humana | Robert Greene | 2018 | Sí | escrito | `leyes-naturaleza-humana` |
 | Nada es tan terrible | Rafael Santandreu | 2018 | Pendiente | pendiente | `nada-es-tan-terrible` |
 | No me puedes lastimar | David Goggins | 2018 | Pendiente | pendiente | `no-me-puedes-lastimar` |
-| Pensar en apuestas | Annie Duke | 2018 | Pendiente | pendiente | `pensar-en-apuestas` |
+| Pensar en apuestas | Annie Duke | 2018 | Sí | pendiente | `pensar-en-apuestas` |
 | Relájate un chingo | Sarah Knight | 2018 | Pendiente | pendiente | `relajate-un-chingo` |
 | Una educación | Tara Westover | 2018 | Sí | escrito | `educada` |
 | Wabi Sabi | Beth Kempton | 2018 | Sí | pendiente | `wabi-sabi` |
@@ -350,7 +350,7 @@ Estado revisado el 15 de septiembre de 2026, tras la cuarta tanda del día: **54
 | Independízate de Papá Estado | Carlos Galán | 2017 | Pendiente | pendiente | `independizate-papa-estado` |
 | Los cuatro | Scott Galloway | 2017 | Pendiente | pendiente | `los-cuatro-galloway` |
 | Milenial en quiebra | Erin Lowry | 2017 | Pendiente | pendiente | `milenial-en-quiebra` |
-| Principios | Ray Dalio | 2017 | Pendiente | pendiente | `principios-dalio` |
+| Principios | Ray Dalio | 2017 | Sí | pendiente | `principios-dalio` |
 | Side Hustle | Chris Guillebeau | 2017 | Sí | escrito | `side-hustle` |
 | El año de menos | Cait Flanders | 2018 | Sí | pendiente | `ano-de-menos` |
 | Esto es marketing | Seth Godin | 2018 | Sí | pendiente | `esto-es-marketing` |
@@ -498,7 +498,7 @@ Estado revisado el 15 de septiembre de 2026, tras la cuarta tanda del día: **54
 | La historia del mundo en cien objetos | Neil MacGregor | 2010 | Sí | escrito | `historia-mundo-objetos` |
 | Sapiens | Yuval Noah Harari | 2011 | Sí | escrito | `sapiens` |
 | 1913: el verano del siglo | Florian Illies | 2012 | Sí | pendiente | `verano-1913` |
-| Desafío total | Arnold Schwarzenegger | 2012 | Pendiente | pendiente | `desafio-total` |
+| Desafío total | Arnold Schwarzenegger | 2012 | Sí | pendiente | `desafio-total` |
 | La historia del mundo contada para escépticos | Juan Eslava Galán | 2012 | Sí | pendiente | `historia-mundo-escepticos` |
 | El fin del Homo Sovieticus | Svetlana Aleksiévich | 2013 | Sí | escrito | `homo-sovieticus` |
 | El verano de 1927 | Bill Bryson | 2013 | Sí | escrito | `verano-1927` |
@@ -605,7 +605,7 @@ Estado revisado el 15 de septiembre de 2026, tras la cuarta tanda del día: **54
 | El cuerpo lleva la cuenta | Bessel van der Kolk | 2014 | Sí | escrito | `cuerpo-cuenta` |
 | La digestión es la cuestión | Giulia Enders | 2014 | Sí | escrito | `digestion-cuestion` |
 | Ser mortal | Atul Gawande | 2014 | Sí | escrito | `ser-mortal` |
-| Comer para no morir | Michael Greger | 2015 | Pendiente | pendiente | `comer-para-no-morir` |
+| Comer para no morir | Michael Greger | 2015 | Sí | pendiente | `comer-para-no-morir` |
 | El intestino feliz | Justin y Erica Sonnenburg | 2015 | Sí | escrito | `intestino-feliz` |
 | Estrés: el lado bueno | Kelly McGonigal | 2015 | Sí | pendiente | `estres-el-lado-bueno` |
 | Tal como eres | Emily Nagoski | 2015 | Sí | escrito | `tal-como-eres` |

@@ -2230,3 +2230,8 @@ Seis portadas nuevas y tres versiones anteriores conservadas. [Originales y prom
 ## Cuarta tanda del 15 de septiembre de 2026
 
 Seis portadas nuevas y una versión anterior conservada. [Originales y prompts](../tanda-2026-09-15-d/Prompts.md).
+
+
+## Tanda del 19 de septiembre de 2026
+
+Seis portadas nuevas y dieciocho propuestas anteriores conservadas, incluidas las pruebas de volumen descartadas por el usuario. [Originales y prompts](../tanda-2026-09-19/Prompts.md).

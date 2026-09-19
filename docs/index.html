@@ -29,8 +29,19 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <meta name="apple-mobile-web-app-title" content="Curva" />
-    <script type="module" crossorigin src="./assets/index-9zMFLanr.js"></script>
+    <script type="module" crossorigin src="./assets/index-portadas-7b3455bd61.js"></script>
     <link rel="stylesheet" crossorigin href="./assets/index-BAkDuUCk.css">
+    <style id="contorno-portadas">
+      .port-obra[data-propia="si"]::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        border: .5px solid #fff;
+        border-radius: inherit;
+        pointer-events: none;
+        z-index: 3;
+      }
+    </style>
   </head>
   <body>
     <div id="root"></div>
