@@ -1,0 +1,24 @@
+{
+  "correccionUsuario": "La mayoría de las cubiertas deben desarrollar escenas o interacciones con detalles significativos; evitar iconos aislados demasiado simples.",
+  "criterio": "Motivos contrastados con los textos alternativos del catálogo y prompts del historial. Variación de motivos, paleta, escala, tipografía, alineación y composición.",
+  "seleccion": [
+    {
+      "id": "enzima-prodigiosa",
+      "motivo": "batidora de raviolis / ravioli blender",
+      "descripcion": "Una batidora coral vierte raviolis verdes y crema que se despliegan como pequeñas alas.",
+      "composicion": "Flat CORAL BLENDER with one blackknob and opaqueBLUE pitcher leans diagonallyleft; instead of liquid it pours THREE OVERSIZED RAVIOLI in cream withgreen centers, squarewavyedges; raviolis unfoldas asymmetric FLAT WINGS midair, notrealbirds. SUNFLOWER YELLOW background, coral/royalblue/forestgreen/cream. Title CENTERLEFT in hugeROYALBLUE softslabserif, «La enzima» above and «prodigiosa» wideacrosslower. Message TOP FULLWIDTH deepGREEN chunkyboldsans exactly4shortlines80-92px. Blenderatrightmiddle partlycropped, pastaextendsintolowerleft, novelgraphicfoodtransformation, no gradients/glassrender orsmalldecorativeobjects."
+    },
+    {
+      "id": "dieta-longevidad",
+      "motivo": "invernadero de espárragos / asparagus greenhouse",
+      "descripcion": "Tres espárragos forman los arcos de un pequeño invernadero con paneles rosas.",
+      "composicion": "A surreal GREENHOUSE whose structuralribs are THREE OVERSIZE ASPARAGUS STALKS arcingoverhead: forestgreen stemswithlime triangular tips. Interior is a setof4bold PINK geometric windowpanels withone huge creamseedshape beneath, no genericplants orfurniture. WarmCORAL RED background, green/pink/cream/darkplum. Title BOTTOMLEFT CREAM tallheavyserif, «longevidad» verywide,3staggeredlines. Message TOPLEFT deepPLUM boldcondensed sans4lines90px acrossentirewidth. Art middlerightasymmetricalcutpaperbuilding, flatfrontview no glassshine/shading/3D, elegantbeautifulodd botanicalarchitecture."
+    },
+    {
+      "id": "alarga-tu-esperanza-de-vida",
+      "motivo": "cuentagotas y retícula viva / pipette living grid",
+      "descripcion": "Un cuentagotas rosa deja caer una gota amarilla que transforma una cuadrícula en ondas.",
+      "composicion": "A large HOTPINK PIPETTE with cream tip slants from upperright toward middleleft. A SINGLE HUGE YELLOW DROPLET lands on a broad TURQUOISE GRID surface: gridline onleftstraight becomes organicflowingcurves onright exactlywhere droptouches. Crispflat solids, no glowingmedicaleffects, no humans/clock/DNA. DEEPNAVY background with pink/yellow/turquoise/cream. Title TOPLEFT YELLOW thickrounded blockletters in4staggeredlines, «VIDA» CREAM exceptionallylarge atmiddleleft. Message BOTTOM FULLWIDTH CREAM heavyweightitalicserif4shortlines around85px. Pipette overlapsgridatrightcenter, developedabstracteditorialideawithlargegraphicforms, no excessive detail orgradient."
+    }
+  ]
+}

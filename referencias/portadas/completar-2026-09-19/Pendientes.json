@@ -1620,8 +1620,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/enzima-prodigiosa-2aeb5d891c.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-17"
   },
   {
     "id": "dieta-longevidad",
@@ -1632,8 +1633,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/dieta-longevidad-ed7569d538.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-17"
   },
   {
     "id": "alarga-tu-esperanza-de-vida",
@@ -1644,7 +1646,8 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/alarga-tu-esperanza-de-vida-877ad335a4.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-17"
   }
 ]

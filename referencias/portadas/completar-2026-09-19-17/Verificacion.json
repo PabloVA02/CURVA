@@ -1,0 +1,28 @@
+{
+  "fecha": "2026-09-19",
+  "tanda": "completar-2026-09-19-17",
+  "base": "4a8710db58b5cd1581a2aefd9cce7d8ffe719095",
+  "total": 682,
+  "antes": 679,
+  "anadidas": 3,
+  "reemplazadas": [],
+  "conPortada": 682,
+  "pendientes": 0,
+  "versionesConservadas": 3,
+  "resumenesConservados": 114,
+  "js": "index-portadas-928658d396.js",
+  "nuevos": [
+    "enzima-prodigiosa",
+    "dieta-longevidad",
+    "alarga-tu-esperanza-de-vida"
+  ],
+  "validacion": {
+    "sinCambiosFueraDelMapa": true,
+    "portadasPreviasConservadas": true,
+    "seleccionAutorizada": true,
+    "catalogo682Conservado": true,
+    "originalesOpacos1024x1536": true,
+    "sinContorno": true,
+    "javascriptValido": true
+  }
+}

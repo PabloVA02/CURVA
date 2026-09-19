@@ -10577,5 +10577,83 @@
     "archivoApp": "docs/assets/portadas-generadas/nunca-es-suficiente-b78d8882ae.webp",
     "sha256Webp": "7712a15cce854487651d0862d0c2fb08921423e25e3073d7ffea740aa319f445",
     "bytesWebp": 111880
+  },
+  {
+    "id": "enzima-prodigiosa",
+    "titulo": "La enzima prodigiosa",
+    "autor": "Hiromi Shinya",
+    "version": 1,
+    "estado": "Instalada",
+    "archivo": "../completar-2026-09-19-17/originales/enzima-prodigiosa-v1-2aeb5d891c.png",
+    "archivoGenerado": "exec-cdf7c8cc-0914-4bd1-9427-2a1905e2894b.png",
+    "fechaArchivo": "2026-09-19",
+    "tanda": "completar-2026-09-19-17",
+    "sha256": "2aeb5d891c22d85d109710f0eb6821318a9d8e0075547bdaee61c147a914acc1",
+    "bytes": 1437164,
+    "width": 1024,
+    "height": 1536,
+    "modo": "image_gen integrado",
+    "tipoPrompt": "Generación",
+    "prompt": "Use case illustration-story. NEW ORIGINAL Spanish cover,1024x1536 portrait,opaque fullbleed. Reference attached is ONLY the Wiser drawing style: uniform solid color shapes, no shading whatsoever, decisive silhouettes. Do NOT copy its woman, title, hand gesture or palette. Make the specific original scene below. STRICTLY FLAT like crisp cut-paper poster: NO gradients, lighting, glossy surfaces, texture, noise,photorealism,shadows on illustratedobjects,3D,extrusions. Beauty and richness come from the idea,shape,composition. Flat human features if requested: tiny dash eyes, blockhair, minimal nose. No people unless explicitly requested. No unrequested furniture/plants/skyicons. Thin tonalcrease 25pxfromleft slightlyvisible,NO whiteborder,NOpageblock. Title and explanatorymessage EXACT below, noauthor/logo/othertext. Message must be BOLD verylegible, 80-95px around4-5shortlines, never tinycornercaption. Varytitle lettering,position,color. Surprise with surreal associations, but communicatebeautifully, deliberate coherentvividpalette.\nFlat CORAL BLENDER with one blackknob and opaqueBLUE pitcher leans diagonallyleft; instead of liquid it pours THREE OVERSIZED RAVIOLI in cream withgreen centers, squarewavyedges; raviolis unfoldas asymmetric FLAT WINGS midair, notrealbirds. SUNFLOWER YELLOW background, coral/royalblue/forestgreen/cream. Title CENTERLEFT in hugeROYALBLUE softslabserif, «La enzima» above and «prodigiosa» wideacrosslower. Message TOP FULLWIDTH deepGREEN chunkyboldsans exactly4shortlines80-92px. Blenderatrightmiddle partlycropped, pastaextendsintolowerleft, novelgraphicfoodtransformation, no gradients/glassrender orsmalldecorativeobjects.\nExact title: La enzima prodigiosa\nExact message: La visión de Shinya sobre alimentación, enzimas y hábitos de salud",
+    "mensaje": "La visión de Shinya sobre alimentación, enzimas y hábitos de salud",
+    "fuenteContenido": "https://www.penguinlibros.com/es/libros-nutricion-fitness-belleza/304164-libro-la-enzima-prodigiosa-9788466330275",
+    "referenciasEdicion": [
+      "IMG_1936.PNG"
+    ],
+    "archivoApp": "docs/assets/portadas-generadas/enzima-prodigiosa-2aeb5d891c.webp",
+    "sha256Webp": "5d32b14411b40bc7c87aad96ba130b29dad869d79eef82052eb6da712628df7e",
+    "bytesWebp": 152390
+  },
+  {
+    "id": "alarga-tu-esperanza-de-vida",
+    "titulo": "Alarga tu esperanza de vida",
+    "autor": "David A. Sinclair",
+    "version": 1,
+    "estado": "Instalada",
+    "archivo": "../completar-2026-09-19-17/originales/alarga-tu-esperanza-de-vida-v1-877ad335a4.png",
+    "archivoGenerado": "exec-7f5dc47f-38be-4b16-8a7b-f0ec2e0398fe.png",
+    "fechaArchivo": "2026-09-19",
+    "tanda": "completar-2026-09-19-17",
+    "sha256": "877ad335a48c83a2a253c0218096bd7dc7ff6581bb2e3727f78d3268140c6bd2",
+    "bytes": 1504946,
+    "width": 1024,
+    "height": 1536,
+    "modo": "image_gen integrado",
+    "tipoPrompt": "Generación",
+    "prompt": "Use case illustration-story. NEW ORIGINAL Spanish cover,1024x1536 portrait,opaque fullbleed. Reference attached is ONLY the Wiser drawing style: uniform solid color shapes, no shading whatsoever, decisive silhouettes. Do NOT copy its woman, title, hand gesture or palette. Make the specific original scene below. STRICTLY FLAT like crisp cut-paper poster: NO gradients, lighting, glossy surfaces, texture, noise,photorealism,shadows on illustratedobjects,3D,extrusions. Beauty and richness come from the idea,shape,composition. Flat human features if requested: tiny dash eyes, blockhair, minimal nose. No people unless explicitly requested. No unrequested furniture/plants/skyicons. Thin tonalcrease 25pxfromleft slightlyvisible,NO whiteborder,NOpageblock. Title and explanatorymessage EXACT below, noauthor/logo/othertext. Message must be BOLD verylegible, 80-95px around4-5shortlines, never tinycornercaption. Varytitle lettering,position,color. Surprise with surreal associations, but communicatebeautifully, deliberate coherentvividpalette.\nA large HOTPINK PIPETTE with cream tip slants from upperright toward middleleft. A SINGLE HUGE YELLOW DROPLET lands on a broad TURQUOISE GRID surface: gridline onleftstraight becomes organicflowingcurves onright exactlywhere droptouches. Crispflat solids, no glowingmedicaleffects, no humans/clock/DNA. DEEPNAVY background with pink/yellow/turquoise/cream. Title TOPLEFT YELLOW thickrounded blockletters in4staggeredlines, «VIDA» CREAM exceptionallylarge atmiddleleft. Message BOTTOM FULLWIDTH CREAM heavyweightitalicserif4shortlines around85px. Pipette overlapsgridatrightcenter, developedabstracteditorialideawithlargegraphicforms, no excessive detail orgradient.\nExact title: Alarga tu esperanza de vida\nExact message: Una exploración de las causas del envejecimiento y las investigaciones para abordarlo",
+    "mensaje": "Una exploración de las causas del envejecimiento y las investigaciones para abordarlo",
+    "fuenteContenido": "https://www.simonandschuster.com/books/Lifespan/David-Sinclair/9781501191978",
+    "referenciasEdicion": [
+      "IMG_1936.PNG"
+    ],
+    "archivoApp": "docs/assets/portadas-generadas/alarga-tu-esperanza-de-vida-877ad335a4.webp",
+    "sha256Webp": "9b7e5887dac46660d8b41be50e7e47c10848904345fb65d3336288ba978203c6",
+    "bytesWebp": 179200
+  },
+  {
+    "id": "dieta-longevidad",
+    "titulo": "La dieta de la longevidad",
+    "autor": "Valter Longo",
+    "version": 1,
+    "estado": "Instalada",
+    "archivo": "../completar-2026-09-19-17/originales/dieta-longevidad-v1-ed7569d538.png",
+    "archivoGenerado": "exec-bfa28dc2-c8f3-4f16-85dc-3d04a8dd70a4.png",
+    "fechaArchivo": "2026-09-19",
+    "tanda": "completar-2026-09-19-17",
+    "sha256": "ed7569d538471539881a63e4453f55ef58500746430f26b86781b0a5475f0e72",
+    "bytes": 1383274,
+    "width": 1024,
+    "height": 1536,
+    "modo": "image_gen integrado",
+    "tipoPrompt": "Generación",
+    "prompt": "Use case illustration-story. NEW ORIGINAL Spanish cover,1024x1536 portrait,opaque fullbleed. Reference attached is ONLY the Wiser drawing style: uniform solid color shapes, no shading whatsoever, decisive silhouettes. Do NOT copy its woman, title, hand gesture or palette. Make the specific original scene below. STRICTLY FLAT like crisp cut-paper poster: NO gradients, lighting, glossy surfaces, texture, noise,photorealism,shadows on illustratedobjects,3D,extrusions. Beauty and richness come from the idea,shape,composition. Flat human features if requested: tiny dash eyes, blockhair, minimal nose. No people unless explicitly requested. No unrequested furniture/plants/skyicons. Thin tonalcrease 25pxfromleft slightlyvisible,NO whiteborder,NOpageblock. Title and explanatorymessage EXACT below, noauthor/logo/othertext. Message must be BOLD verylegible, 80-95px around4-5shortlines, never tinycornercaption. Varytitle lettering,position,color. Surprise with surreal associations, but communicatebeautifully, deliberate coherentvividpalette.\nA surreal GREENHOUSE whose structuralribs are THREE OVERSIZE ASPARAGUS STALKS arcingoverhead: forestgreen stemswithlime triangular tips. Interior is a setof4bold PINK geometric windowpanels withone huge creamseedshape beneath, no genericplants orfurniture. WarmCORAL RED background, green/pink/cream/darkplum. Title BOTTOMLEFT CREAM tallheavyserif, «longevidad» verywide,3staggeredlines. Message TOPLEFT deepPLUM boldcondensed sans4lines90px acrossentirewidth. Art middlerightasymmetricalcutpaperbuilding, flatfrontview no glassshine/shading/3D, elegantbeautifulodd botanicalarchitecture.\nExact title: La dieta de la longevidad\nExact message: La propuesta de Longo sobre alimentación y ayuno en el envejecimiento",
+    "mensaje": "La propuesta de Longo sobre alimentación y ayuno en el envejecimiento",
+    "fuenteContenido": "https://valterlongo.com/the-longevity-diet/",
+    "referenciasEdicion": [
+      "IMG_1936.PNG"
+    ],
+    "archivoApp": "docs/assets/portadas-generadas/dieta-longevidad-ed7569d538.webp",
+    "sha256Webp": "ce26d2d6c6b70fc8072c605ed05bf35107a98da6b0d61ebb09721874f2fd4846",
+    "bytesWebp": 121736
   }
 ]

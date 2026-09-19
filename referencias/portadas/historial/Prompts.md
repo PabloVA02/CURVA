@@ -2320,3 +2320,8 @@ Seis portadas finales sin contorno y cinco propuestas anteriores conservadas. [O
 ## Continuación 16 del 19 de septiembre
 
 [8 finales y 8 versiones conservadas](../completar-2026-09-19-16/LEEME.md).
+
+
+## Continuación 17 del 19 de septiembre
+
+[3 finales y 3 versiones conservadas](../completar-2026-09-19-17/LEEME.md).

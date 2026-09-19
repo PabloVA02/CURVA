@@ -1,6 +1,6 @@
 # Los 682 libros de Curva
 
-Estado del 19 de septiembre de 2026: **679 con portada propia y 3 pendientes**. Se conservan los 682 identificadores recibidos.
+Estado del 19 de septiembre de 2026: **682 con portada propia y 0 pendientes**. Se conservan los 682 identificadores recibidos.
 
 | Tema | Libros | Con portada | Pendientes |
 |---|---:|---:|---:|
@@ -9,11 +9,11 @@ Estado del 19 de septiembre de 2026: **679 con portada propia y 3 pendientes**. 
 | Literatura | 75 | 75 | 0 |
 | Historia | 56 | 56 | 0 |
 | Ciencia | 51 | 51 | 0 |
-| Salud | 51 | 48 | 3 |
+| Salud | 51 | 51 | 0 |
 | Filosofía | 42 | 42 | 0 |
 | Arte | 27 | 27 | 0 |
 | Deportes | 25 | 25 | 0 |
-| **Total** | **682** | **679** | **3** |
+| **Total** | **682** | **682** | **0** |
 
 ## Psicología
 
@@ -588,7 +588,7 @@ Estado del 19 de septiembre de 2026: **679 con portada propia y 3 pendientes**. 
 | El poder del pleno compromiso | Jim Loehr y Tony Schwartz | 2003 | Sí | escrito | `pleno-compromiso` |
 | Más joven cada año | Chris Crowley y Henry S. Lodge | 2004 | Sí | pendiente | `mas-joven-cada-ano` |
 | La biología de la creencia | Bruce Lipton | 2005 | Sí | escrito | `biologia-creencia` |
-| La enzima prodigiosa | Hiromi Shinya | 2005 | Pendiente | pendiente | `enzima-prodigiosa` |
+| La enzima prodigiosa | Hiromi Shinya | 2005 | Sí | pendiente | `enzima-prodigiosa` |
 | El dilema del omnívoro | Michael Pollan | 2006 | Sí | escrito | `dilema-omnivoro` |
 | Anticáncer | David Servan-Schreiber | 2007 | Sí | escrito | `anticancer` |
 | El secreto de las zonas azules | Dan Buettner | 2008 | Sí | escrito | `zonas-azules` |
@@ -612,7 +612,7 @@ Estado del 19 de septiembre de 2026: **679 con portada propia y 3 pendientes**. 
 | Tu mente en forma | Wendy Suzuki | 2015 | Sí | escrito | `mente-en-forma` |
 | Cuando el aliento se vuelve aire | Paul Kalanithi | 2016 | Sí | escrito | `aliento-aire` |
 | El código de la obesidad | Jason Fung | 2016 | Sí | escrito | `codigo-obesidad` |
-| La dieta de la longevidad | Valter Longo | 2016 | Pendiente | pendiente | `dieta-longevidad` |
+| La dieta de la longevidad | Valter Longo | 2016 | Sí | pendiente | `dieta-longevidad` |
 | La vida de 100 años | Lynda Gratton y Andrew Scott | 2016 | Sí | pendiente | `vida-de-100-anos` |
 | Mi dieta cojea | Aitor Sánchez García | 2016 | Sí | escrito | `dieta-cojea` |
 | El cerebro hambriento | Stephan Guyenet | 2017 | Sí | escrito | `cerebro-hambriento` |
@@ -620,7 +620,7 @@ Estado del 19 de septiembre de 2026: **679 con portada propia y 3 pendientes**. 
 | Por qué dormimos | Matthew Walker | 2017 | Sí | escrito | `por-que-dormimos` |
 | Cuándo: la ciencia de encontrar el momento preciso | Daniel H. Pink | 2018 | Sí | pendiente | `cuando-pink` |
 | Mi dieta ya no cojea | Aitor Sánchez García | 2018 | Sí | escrito | `dieta-ya-no-cojea` |
-| Alarga tu esperanza de vida | David A. Sinclair | 2019 | Pendiente | pendiente | `alarga-tu-esperanza-de-vida` |
+| Alarga tu esperanza de vida | David A. Sinclair | 2019 | Sí | pendiente | `alarga-tu-esperanza-de-vida` |
 | Burnout | Emily y Amelia Nagoski | 2019 | Sí | pendiente | `burnout-nagoski` |
 | Come comida real | Carlos Ríos | 2019 | Sí | escrito | `come-comida-real` |
 | El cuerpo | Bill Bryson | 2019 | Sí | pendiente | `el-cuerpo-bryson` |
