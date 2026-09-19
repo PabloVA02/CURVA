@@ -1,10 +1,10 @@
 # Los 682 libros de Curva
 
-Estado del 19 de septiembre de 2026: **575 con portada propia y 107 pendientes**. Se conservan los 682 identificadores recibidos.
+Estado del 19 de septiembre de 2026: **583 con portada propia y 99 pendientes**. Se conservan los 682 identificadores recibidos.
 
 | Tema | Libros | Con portada | Pendientes |
 |---|---:|---:|---:|
-| Psicología | 238 | 159 | 79 |
+| Psicología | 238 | 167 | 71 |
 | Economía | 117 | 94 | 23 |
 | Literatura | 75 | 75 | 0 |
 | Historia | 56 | 56 | 0 |
@@ -13,7 +13,7 @@ Estado del 19 de septiembre de 2026: **575 con portada propia y 107 pendientes**
 | Filosofía | 42 | 42 | 0 |
 | Arte | 27 | 27 | 0 |
 | Deportes | 25 | 25 | 0 |
-| **Total** | **682** | **575** | **107** |
+| **Total** | **682** | **583** | **99** |
 
 ## Psicología
 
@@ -85,17 +85,17 @@ Estado del 19 de septiembre de 2026: **575 con portada propia y 107 pendientes**
 | Tráguese ese sapo | Brian Tracy | 2001 | Sí | escrito | `traguese-sapo` |
 | Cómo ser un adulto en las relaciones | David Richo | 2002 | Sí | escrito | `adulto-relaciones` |
 | Conversaciones cruciales | Patterson, Grenny, McMillan y Switzler | 2002 | Sí | escrito | `conversaciones-cruciales` |
-| La auténtica felicidad | Martin Seligman | 2002 | Pendiente | pendiente | `autentica-felicidad` |
-| Por qué los hombres aman a las cabronas | Sherry Argov | 2002 | Pendiente | pendiente | `hombres-aman-cabronas` |
-| Bésame mucho | Carlos González | 2003 | Pendiente | pendiente | `besame-mucho` |
-| Cuando el cuerpo dice no | Gabor Maté | 2003 | Pendiente | pendiente | `cuando-cuerpo-dice-no` |
-| La inutilidad del sufrimiento | María Jesús Álava Reyes | 2003 | Pendiente | pendiente | `inutilidad-del-sufrimiento` |
+| La auténtica felicidad | Martin Seligman | 2002 | Sí | pendiente | `autentica-felicidad` |
+| Por qué los hombres aman a las cabronas | Sherry Argov | 2002 | Sí | pendiente | `hombres-aman-cabronas` |
+| Bésame mucho | Carlos González | 2003 | Sí | pendiente | `besame-mucho` |
+| Cuando el cuerpo dice no | Gabor Maté | 2003 | Sí | pendiente | `cuando-cuerpo-dice-no` |
+| La inutilidad del sufrimiento | María Jesús Álava Reyes | 2003 | Sí | pendiente | `inutilidad-del-sufrimiento` |
 | El lenguaje del cuerpo | Allan y Barbara Pease | 2004 | Sí | escrito | `lenguaje-del-cuerpo` |
-| Él no está tan interesado en ti | Greg Behrendt y Liz Tuccillo | 2004 | Pendiente | pendiente | `no-esta-tan-interesado` |
+| Él no está tan interesado en ti | Greg Behrendt y Liz Tuccillo | 2004 | Sí | pendiente | `no-esta-tan-interesado` |
 | La buena suerte | Rovira y Trías de Bes | 2004 | Sí | escrito | `buena-suerte` |
 | La paradoja de la elección | Barry Schwartz | 2004 | Sí | pendiente | `paradoja-eleccion` |
-| La vaca | Camilo Cruz | 2004 | Pendiente | pendiente | `la-vaca-camilo-cruz` |
-| Un pequeño paso puede cambiar tu vida | Robert Maurer | 2004 | Pendiente | pendiente | `pequeno-paso-maurer` |
+| La vaca | Camilo Cruz | 2004 | Sí | pendiente | `la-vaca-camilo-cruz` |
+| Un pequeño paso puede cambiar tu vida | Robert Maurer | 2004 | Sí | pendiente | `pequeno-paso-maurer` |
 | El año del pensamiento mágico | Joan Didion | 2005 | Pendiente | pendiente | `ano-pensamiento-magico` |
 | El método | Neil Strauss | 2005 | Pendiente | pendiente | `el-metodo-strauss` |
 | Inteligencia intuitiva | Malcolm Gladwell | 2005 | Pendiente | pendiente | `inteligencia-intuitiva` |

@@ -1,0 +1,33 @@
+{
+  "fecha": "2026-09-19",
+  "tanda": "completar-2026-09-19-04",
+  "base": "3be6353848edbaa8339ce056aabfc50c4c87ea94",
+  "total": 682,
+  "antes": 575,
+  "anadidas": 8,
+  "reemplazadas": [],
+  "conPortada": 583,
+  "pendientes": 99,
+  "versionesConservadas": 11,
+  "resumenesConservados": 114,
+  "js": "index-portadas-710175d8fd.js",
+  "nuevos": [
+    "autentica-felicidad",
+    "hombres-aman-cabronas",
+    "besame-mucho",
+    "cuando-cuerpo-dice-no",
+    "inutilidad-del-sufrimiento",
+    "no-esta-tan-interesado",
+    "la-vaca-camilo-cruz",
+    "pequeno-paso-maurer"
+  ],
+  "validacion": {
+    "sinCambiosFueraDelMapa": true,
+    "portadasPreviasConservadas": true,
+    "seleccionAutorizada": true,
+    "catalogo682Conservado": true,
+    "originalesOpacos1024x1536": true,
+    "sinContorno": true,
+    "javascriptValido": true
+  }
+}

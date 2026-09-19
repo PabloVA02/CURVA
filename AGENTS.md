@@ -7,3 +7,5 @@ El criterio vigente del 19 de septiembre de 2026 pide dibujos editoriales bonito
 Crear portadas únicamente para libros sin cubierta propia, excluyendo los reservados para otra IA, salvo `dieta-longevidad`, cuya reserva ha levantado expresamente el usuario. Conservar todas las imágenes mostradas, incluidas correcciones y descartes, con sus prompts y procedencia.
 
 Este repositorio contiene la app compilada. Trabajar siempre sobre su versión actual y conservar los resúmenes y demás cambios existentes. Antes de publicar, contrastar el mapa de portadas con `referencias/libros/catalogo-682.json` y los archivos: una reconstrucción anterior perdió asignaciones aunque las imágenes seguían guardadas. Evitar que nuevas publicaciones vuelvan a perderlas.
+
+El archivo activo `docs/assets/index-portadas-*.js` contiene la app completa de Curva con sus textos y mapa de cubiertas. La galería independiente es `docs/portadas.html`; no confundirla con ese bundle ni cambiar `docs/index.html` a otra compilación sin fusionar antes sus datos y portadas. Se conserva también la compilación `index-CtIMkUnl.js` aportada por otra sesión.

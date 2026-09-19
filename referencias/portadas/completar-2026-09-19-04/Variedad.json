@@ -1,0 +1,54 @@
+{
+  "correccionUsuario": "La mayoría de las cubiertas deben desarrollar escenas o interacciones con detalles significativos; evitar iconos aislados demasiado simples.",
+  "criterio": "Motivos contrastados con los textos alternativos del catálogo y prompts del historial. Variación de motivos, paleta, escala, tipografía, alineación y composición.",
+  "seleccion": [
+    {
+      "id": "autentica-felicidad",
+      "motivo": "taller de motocicleta / motor scooter workshop",
+      "descripcion": "Una mecánica repara una motocicleta coral en un banco violeta, con herramientas y una rueda de repuesto sobre amarillo.",
+      "composicion": "A young female mechanic with pale brown skin, black block curly ponytail and ultramarine overalls happily repairs a CORAL SCOOTER resting sideways on a VIOLET WORKBENCH. One simple yellow spanner in hand, two large sparewheel shapes aligned underbench, one wide flat diagonal coral floorstripe grounds scene. Sunny YELLOW background. Clearly purposeful workshop action, no scattered smallparts. Art occupies lower-left60%; TITLE at TOP RIGHT in deep violet strong upright serif «La auténtica / felicidad», felicidad larger and flowing rightaligned. MESSAGE at MIDDLE RIGHT in dark cobalt block sans FOUR lines «Descubre tus fortalezas / y úsalas para vivir / con más sentido»,80px. Person simple one solid skincolor, doteyes, no polished rendering. Cheerful editorial composition with 4 coherent colors."
+    },
+    {
+      "id": "hombres-aman-cabronas",
+      "motivo": "esgrima / fencing",
+      "descripcion": "Una esgrimista de traje marfil adopta una postura firme con florete granate sobre rosa intenso y franjas lilas.",
+      "composicion": "An assertive adult female FENCER in cream padded sports suit, short angular dark plum hair, brown skin, stands in confident diagonal lunge. Holds one thin burgundy FOIL forward and a simple lavender fencing helmet tucked under the other arm. Two broad lavender/ivory fencing piste floorstripes add context; no opponent and no aggression. HOT PINK background. Exact long title TOP LEFT in burgundy heavy condensed italic sans FIVE stepped lines «Por qué los hombres / aman a las / CABRONAS», CABRONAS biggest130px. MESSAGE bottom-right plum bold soft serif THREE lines «Defiende tu independencia / y tu autoestima / en las relaciones»,80px. Figure rightmiddle extending foil into leftnegative space; text clear; drawnadult sportseditorial not realisticportrait, simple hands coherent."
+    },
+    {
+      "id": "besame-mucho",
+      "motivo": "padre con portabebés / father baby sling",
+      "descripcion": "Un padre abraza a su bebé en un portabebés azul con dibujo de luna, sobre fondo rojo anaranjado.",
+      "composicion": "Tender close-cropped graphic scene of a FATHER wearing a cobalt BABY SLING with simple large ivory crescent motif, his orange sleeve arm protectively supports the baby, other hand gently touches baby head. Dad has deep brown skin, black flat short hair and small graphic moustache, tiny eyes; baby lightbrown skin with closed single-dash eyes and ONE small curl. No glossy cheeks or detailedfacialanatomy. Cobalt fabric folds shown with only2navycurves, whitebabyshirt. Background vibrant WARM RED ORANGE. TITLE at BOTTOM LEFT in PALE SKY BLUE enormous rounded cursive «Bésame / mucho», thick beautiful letters. MESSAGE TOP LEFT in ivory bold squared sans «Comprende a tus hijos / y críalos con respeto / y afecto»,85px. Faces large at right-middle cropped but entirebabyheadvisible, expressive hands and realinteraction, no flowersheartsstars."
+    },
+    {
+      "id": "cuando-cuerpo-dice-no",
+      "motivo": "caldera con manómetro / boiler pressure gauge",
+      "descripcion": "Una persona con mono azul regula una caldera naranja con manómetro y tuberías curvas sobre fondo verde agua.",
+      "composicion": "A striking visual metaphor of HIDDEN PRESSURE: a bright ORANGE BOILER with large ivory pressure gauge showing redneedle, two deep blue curved pipes running along lowerleft; adult maintenance worker in violet overalls and simplebrownskin at right calmly turns one coral circular release valve, a single broad ivory steamcurve escapes above. Boiler is flat rounded red/orange silhouette, gauge face only three bold marks no numerals. AQUA GREEN background. This is a developed illustration with visible action, not realistic machinery. Exact title TOP LEFT navy ultra-bold narrow grotesk «CUANDO EL CUERPO / DICE NO», NO huge. MESSAGE at BOTTOM across clear aquaband in dark purple heavy italic serif, three lines «Explora la relación entre / el estrés, las emociones / y la salud»,80px. Art in middle45%. No 3Dgradients/whiteborder."
+    },
+    {
+      "id": "inutilidad-del-sufrimiento",
+      "motivo": "sifón de soda / soda siphon",
+      "descripcion": "Un sifón azul libera una nube coral que una mujer guía hacia fuera, con vaso y bandeja verde sobre fondo lavanda.",
+      "composicion": "An unusual elegant editorial SCENE: a large cobalt SODA SIPHON on emerald oval servingtray releases an oversized coral foamy curved stream as a woman's simple hand presses its silver nozzle; the flowing foam curls away harmlessly towardupperright. One short ivory drinking glass catches a small modestpour at base while excessfoamisabsurdlylarge, a visual metaphor of unnecessary escalation. Woman seen as cropped upperbodyatleft wearing tangerineblouse, her freehandcalmlyredirects nozzle, tiny simplefeatures, no panic. Lavender background. Title BOTTOM in dark plum angular heavy serif, «La inutilidad / del sufrimiento», two varied biglines. Message TOP RIGHT dark cobalt bold rounded sans FOUR lines «Cambia los pensamientos / y hábitos que prolongan / tu malestar»,80px. Meaningful contextual detail, broadflatshapes, no glassreflections or realism."
+    },
+    {
+      "id": "no-esta-tan-interesado",
+      "motivo": "buzón / mailbox",
+      "descripcion": "Una mujer cierra un buzón vacío y se aleja con paso decidido, sobre fondo azul con detalles rojos y amarillos.",
+      "composicion": "A confident woman with short dark angular bobhair, flat warm brownskin, mustard coat and redboots turns away from an OPEN RED RURAL MAILBOX on a navy post; the empty dark interior is visible and she gently pushes down its small yellowflag. Three broad cream pavement rectangles lead towardedgewithout landscape. Not a sad lonelyface: purposeful calmadultprofile. Vivid CORNFLOWER BLUE background. Title TOP LEFT in IVORY bold slabserif, steppedhierarchy «Él no está / tan interesado / EN TI», EN TI darknavy larger. Message bottomleft in navy bold condensed sans three lines «Reconoce el desinterés / y deja de justificar / relaciones sin futuro»,85px. Mailboxonleftmiddle, womanmovingrightmiddle, positiveclearstory. No hearts,phones,lettersorfiller."
+    },
+    {
+      "id": "la-vaca-camilo-cruz",
+      "motivo": "abrelatas / can opener",
+      "descripcion": "Un abrelatas rojo abre una lata de la que sale una figura pequeña con mono azul, sobre fondo verde claro.",
+      "composicion": "Clever rich editorial METAPHOR: a huge RED MANUAL CAN OPENER cranks open a turquoise tin can. Tin lid curls upward like a door; one small adult in cobalt jumpsuit climbs out over the rolled rim, arms balanced confidently. Can's blank cream paper label has just one broad navy horizontal stripe, NO WORDS. Canopenerseesbigtwohandles andoneblackgear, stylizednottechnicalphotoreal. PALE PISTACHIO background with deepforestgreen flatgroundwedge. TITLE «LA VACA» huge red geometric squaredcaps at LOWER LEFT acrossfullwidth; message TOP LEFT deepgreen bold italic serif THREE lines «Una fábula sobre las excusas / que te impiden / avanzar»,85px. Arttilts rightinmiddle, person clearlyescapingconfinement, nospookyhuman. NO cow (alreadyusedinothercovers), no decorations."
+    },
+    {
+      "id": "pequeno-paso-maurer",
+      "motivo": "castor construyendo presa / beaver dam",
+      "descripcion": "Un castor coral coloca una ramita en una presa de madera azul y marfil sobre agua turquesa.",
+      "composicion": "Beautiful graphic BEAVER diligently adds ONE small ivory twig to an emerging dam of six broad blue and cream logs arranged across TURQUOISE WATER, tail darkplum crosshatchedwithonly4broadlines. Beaver terracotta/coral, tinyeyes, two visibleflatteeth and simple paws. A pair of flat lilac riverbank shapes frame lowercorners, waterhas3wide navycurves. Background upperarea warm PEACH. Story showsoneincrementalaction, engaging detailed-but-clear adulteditorial illustration, notcutechildrenbook. Title TOP in DARK NAVY heavy rounded serif on four staggeredlines «Un pequeño paso / puede cambiar / tu vida», tuvida largest120px. Message lower-right on a large uncluttered palepeachzone in DEEP TEAL condensed bold sans FOUR lines «Aplica el método kaizen / para mejorar con / pequeños cambios diarios»,80px. Art occupies diagonalleftmiddle60%, no treesflowersorotheranimals."
+    }
+  ]
+}

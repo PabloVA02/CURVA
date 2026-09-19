@@ -268,8 +268,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/autentica-felicidad-19d273b028.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-04"
   },
   {
     "id": "hombres-aman-cabronas",
@@ -280,8 +281,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/hombres-aman-cabronas-771e654f61.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-04"
   },
   {
     "id": "besame-mucho",
@@ -292,8 +294,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/besame-mucho-49f8788856.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-04"
   },
   {
     "id": "cuando-cuerpo-dice-no",
@@ -304,8 +307,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/cuando-cuerpo-dice-no-961d65e03b.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-04"
   },
   {
     "id": "inutilidad-del-sufrimiento",
@@ -316,8 +320,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/inutilidad-del-sufrimiento-b27bea1b31.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-04"
   },
   {
     "id": "no-esta-tan-interesado",
@@ -328,8 +333,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/no-esta-tan-interesado-f6dadad261.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-04"
   },
   {
     "id": "la-vaca-camilo-cruz",
@@ -340,8 +346,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/la-vaca-camilo-cruz-ed35690577.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-04"
   },
   {
     "id": "pequeno-paso-maurer",
@@ -352,8 +359,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/pequeno-paso-maurer-a8810f7064.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-04"
   },
   {
     "id": "ano-pensamiento-magico",
