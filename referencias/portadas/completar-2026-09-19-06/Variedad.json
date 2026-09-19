@@ -1,0 +1,54 @@
+{
+  "correccionUsuario": "La mayoría de las cubiertas deben desarrollar escenas o interacciones con detalles significativos; evitar iconos aislados demasiado simples.",
+  "criterio": "Motivos contrastados con los textos alternativos del catálogo y prompts del historial. Variación de motivos, paleta, escala, tipografía, alineación y composición.",
+  "seleccion": [
+    {
+      "id": "errores-que-errores",
+      "motivo": "cinta correctora / correction tape",
+      "descripcion": "Una figura empuja un corrector gigante para ocultar un trazo torcido, que reaparece bajo la cinta.",
+      "composicion": "A small adult in COBALT overalls pushes an enormous CORRECTION TAPE DISPENSER in bright RED; it lays a thick cream tape over a very crooked navy line on pink floor. Some of the hidden crooked line sticks out at both sides, exposing the failed cover-up. Visible spool inside dispenser is two plain flat circles, no shiny plastic. Vivid ROSE background with red/cream/navy, theatrical asymmetric action. Huge title BOTTOM LEFT in darkblue irregular block slab serif, «Errores,» at angle and «¿qué errores?» enormous beneath. Exact message TOP RIGHT dark navy condensed heavy sans 3-4 lines, size 85px. Only this developed scene, no extra props."
+    },
+    {
+      "id": "ciencia-de-la-felicidad",
+      "motivo": "terrario cuidado / terrarium",
+      "descripcion": "Una mujer ajusta un terrario geométrico con capas de tierra y hojas coral, sobre fondo amarillo y turquesa.",
+      "composicion": "A beautiful geometric TERRARIUM with open turquoise polygonal frame, layered plum-and-coral soil and three broad coral leaves. A simple woman in blue sleeves leans in from left, uses one long mint tweezer to tend a tiny sprout, and supports terrarium base with other hand. Scientific care rather than a stock flowerpot, flat glass shown ONLY by one ivory plane. Vibrant GOLDEN YELLOW background. TITLE TOP LEFT deep teal bulbous heavy serif, «La ciencia» small then «de la felicidad» large playful stacked. MESSAGE at bottom right in blue heavy sans, 3 lines at 90px. Broad shapes, no fabric texture, no gradients, no additional plants."
+    },
+    {
+      "id": "liberacion-del-alma",
+      "motivo": "diente de león y semillas / dandelion",
+      "descripcion": "Un perfil humano sopla las semillas de un diente de león azul, que se separan en un fondo naranja.",
+      "composicion": "Close crop graphic brown-skinned adult PROFILE at lower right with plum block hair, lips gently blowing toward a giant DANDELION seed head at left. Dandelion made of 9 big ivory/navy umbrella-like seed shapes, FOUR fly free on a rising diagonal; thick teal stem held in simple fingers. Flat VIVID ORANGE background, cobalt, cream and plum, no sky or clouds. Title UPPER RIGHT in extra bold dark-plum condensed sans 4 staggered lines, «ALMA» huge. Exact message lower left in ivory heavy slab serif 4 lines, 85px. Developed interaction with seed movement, NOT realistic botanical painting; no shading on face, tiny closed dash eye."
+    },
+    {
+      "id": "abrazame-fuerte",
+      "motivo": "pareja de canguros / kangaroo pair",
+      "descripcion": "Dos canguros coral y ocre se acercan bajo una bufanda azul compartida sobre fondo lavanda.",
+      "composicion": "Two expressive adult KANGAROOS sit facing each other, one warm terracotta, one ochre, long strong tails curling in opposite directions as a balanced base. Their simple paws gently meet; one continuous wide COBALT SCARF rests around both shoulders with ivory stripe at ends, a visual bond. Ears tilted inward, tiny dot eyes, mature editorial drawing not baby animals. Broad lavender ground wedge on rich PERIWINKLE background. Title BOTTOM RIGHT in oversized IVORY rounded chunky serif, «Abrázame» slightly arched and «fuerte» very large. Message TOP LEFT dark plum strong geometric sans 4 lines 80–85px. Art fills middle and left with open space. No hearts, flowers or babies."
+    },
+    {
+      "id": "gente-toxica",
+      "motivo": "erizo de mar manipulado / sea urchin",
+      "descripcion": "Unas manos con guantes coral colocan un erizo de mar violeta en un embalaje azul que permite protegerse de sus púas.",
+      "composicion": "A striking editorial closeup of two CORAL PROTECTIVE GLOVES placing a deep VIOLET SEA URCHIN with 12 large graphic spines into an open folded COBALT protective paper sleeve. Sleeves make a neat space around its sharp edges, clear metaphor of boundaries, NOT a hazardous chemical or slime. Sea urchin big and round with 5 tiny lavender dots, glove hands solid simplified mitten shapes. AQUA MINT background. Title TOP CENTER in enormous dark violet sharp angular bold sans two lines «GENTE / TÓXICA», slightly offset alignment. Exact message along BOTTOM LEFT in cobalt thick rounded serif, 3 lines 90px. Art extends diagonally middle right, beautiful restrained coherent palette, no other objects."
+    },
+    {
+      "id": "sorprendente-verdad-motiva",
+      "motivo": "yoyó en movimiento / yo-yo",
+      "descripcion": "Una persona ejecuta una figura con un yoyó coral y su cuerda azul sobre fondo verde lima.",
+      "composicion": "Dynamic adult with flat brown skin, indigo trousers and coral shirt performs a YO-YO string trick. The large coral circular yo-yo at lower-left has one ivory ring; a single taut cobalt string makes a clear triangle between two simple raised hands, person cropped waist-up on right and yoyo visible left. Vivid LIME YELLOW backdrop with deep blue bottom area. Long title TOP LEFT in heavy cobalt condensed sans stacked into 5 large lines; «QUÉ NOS MOTIVA» biggest and coral on clear lime. Exact message BOTTOM in IVORY slab serif 3-4 lines 80px. Developed confident performance, no rewards/coins or random background. Flat poster drawing, no glossy yo-yo."
+    },
+    {
+      "id": "claves-del-talento",
+      "motivo": "salto con pértiga / pole vault",
+      "descripcion": "Una atleta salta con pértiga mientras su entrenadora orienta el movimiento, con formas turquesas y violetas.",
+      "composicion": "A graceful POLE VAULTER in purple athletic suit arcs over a slender coral bar using one long flexible navy pole; below-left a small coach in mint tracksuit gestures upward, visible concrete learning interaction. Broad turquoise landing mat as simple rectangular shape, two coral support uprights. Vivid SALMON PINK background, cobalt, mint, violet. Title BOTTOM LEFT in huge navy heavy italic serif «Las claves / del talento», talento largest. Exact message TOP LEFT in navy rounded heavy sans on 4 lines 80px. Art sweeps from lower-left to upper-right, leaves all letters clear. Simple tiny eyes, coherent limbs, no stadium crowd or trophies."
+    },
+    {
+      "id": "objetivo-felicidad",
+      "motivo": "hula hoop / hula hoop",
+      "descripcion": "Una mujer hace girar un aro coral alrededor de la cintura con una pose alegre y decidida sobre fondo turquesa.",
+      "composicion": "A stylish adult woman with short angular black hair, flat warm brown skin, bright yellow trousers and cream sleeveless top joyfully practices a CORAL HULA HOOP at her waist. Hoop is bold oval with three slim coral motion curves; elbows in different relaxed poses, body dances on small plum semicircle ground. One additional blue hoop leans diagonally far behind her, context of practicing, no clutter. Rich TURQUOISE background, warm mustard, coral, dark plum. Title huge at UPPER RIGHT in PLUM condensed block caps with «felicidad» warm ivory wide serif crossing below the firstword, preserve colon. Message LOWER LEFT in dark purple heavy italic serif 3 lines 85px. Confident flat graphic character, not photo/cartoon3D."
+    }
+  ]
+}

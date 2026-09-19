@@ -1,0 +1,33 @@
+{
+  "fecha": "2026-09-19",
+  "tanda": "completar-2026-09-19-06",
+  "base": "1bd37e32fc23186b23a0c1dc3ec6e80c801e4f15",
+  "total": 682,
+  "antes": 591,
+  "anadidas": 8,
+  "reemplazadas": [],
+  "conPortada": 599,
+  "pendientes": 83,
+  "versionesConservadas": 9,
+  "resumenesConservados": 114,
+  "js": "index-portadas-b6b10be57b.js",
+  "nuevos": [
+    "errores-que-errores",
+    "ciencia-de-la-felicidad",
+    "liberacion-del-alma",
+    "abrazame-fuerte",
+    "gente-toxica",
+    "sorprendente-verdad-motiva",
+    "claves-del-talento",
+    "objetivo-felicidad"
+  ],
+  "validacion": {
+    "sinCambiosFueraDelMapa": true,
+    "portadasPreviasConservadas": true,
+    "seleccionAutorizada": true,
+    "catalogo682Conservado": true,
+    "originalesOpacos1024x1536": true,
+    "sinContorno": true,
+    "javascriptValido": true
+  }
+}

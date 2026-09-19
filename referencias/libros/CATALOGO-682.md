@@ -1,10 +1,10 @@
 # Los 682 libros de Curva
 
-Estado del 19 de septiembre de 2026: **591 con portada propia y 91 pendientes**. Se conservan los 682 identificadores recibidos.
+Estado del 19 de septiembre de 2026: **599 con portada propia y 83 pendientes**. Se conservan los 682 identificadores recibidos.
 
 | Tema | Libros | Con portada | Pendientes |
 |---|---:|---:|---:|
-| Psicología | 238 | 175 | 63 |
+| Psicología | 238 | 183 | 55 |
 | Economía | 117 | 94 | 23 |
 | Literatura | 75 | 75 | 0 |
 | Historia | 56 | 56 | 0 |
@@ -13,7 +13,7 @@ Estado del 19 de septiembre de 2026: **591 con portada propia y 91 pendientes**.
 | Filosofía | 42 | 42 | 0 |
 | Arte | 27 | 27 | 0 |
 | Deportes | 25 | 25 | 0 |
-| **Total** | **682** | **591** | **91** |
+| **Total** | **682** | **599** | **83** |
 
 ## Psicología
 
@@ -110,20 +110,20 @@ Estado del 19 de septiembre de 2026: **591 con portada propia y 91 pendientes**.
 | El arte de aprender | Josh Waitzkin | 2007 | Sí | pendiente | `arte-de-aprender-waitzkin` |
 | El arte de leer la mente | Henrik Fexeus | 2007 | Sí | pendiente | `arte-de-leer-la-mente` |
 | El efecto Lucifer | Philip Zimbardo | 2007 | Sí | pendiente | `efecto-lucifer` |
-| Errores, ¿qué errores? | Carol Tavris y Elliot Aronson | 2007 | Pendiente | pendiente | `errores-que-errores` |
+| Errores, ¿qué errores? | Carol Tavris y Elliot Aronson | 2007 | Sí | pendiente | `errores-que-errores` |
 | Ideas que pegan | Chip y Dan Heath | 2007 | Sí | escrito | `ideas-que-pegan` |
-| La ciencia de la felicidad | Sonja Lyubomirsky | 2007 | Pendiente | pendiente | `ciencia-de-la-felicidad` |
-| La liberación del alma | Michael A. Singer | 2007 | Pendiente | pendiente | `liberacion-del-alma` |
+| La ciencia de la felicidad | Sonja Lyubomirsky | 2007 | Sí | pendiente | `ciencia-de-la-felicidad` |
+| La liberación del alma | Michael A. Singer | 2007 | Sí | pendiente | `liberacion-del-alma` |
 | La trampa de la felicidad | Russ Harris | 2007 | Sí | pendiente | `trampa-felicidad` |
-| Abrázame fuerte | Sue Johnson | 2008 | Pendiente | pendiente | `abrazame-fuerte` |
+| Abrázame fuerte | Sue Johnson | 2008 | Sí | pendiente | `abrazame-fuerte` |
 | Fuera de serie | Malcolm Gladwell | 2008 | Sí | pendiente | `fuera-de-serie` |
-| Gente tóxica | Bernardo Stamateas | 2008 | Pendiente | pendiente | `gente-toxica` |
+| Gente tóxica | Bernardo Stamateas | 2008 | Sí | pendiente | `gente-toxica` |
 | Un pequeño empujón | Thaler y Sunstein | 2008 | Sí | escrito | `nudge` |
 | Actúa como dama, piensa como hombre | Steve Harvey | 2009 | Sí | escrito | `actua-dama-piensa-hombre` |
 | El cerebro de Buda | Rick Hanson y Richard Mendius | 2009 | Sí | escrito | `cerebro-buda` |
-| La sorprendente verdad sobre qué nos motiva | Daniel H. Pink | 2009 | Pendiente | pendiente | `sorprendente-verdad-motiva` |
-| Las claves del talento | Daniel Coyle | 2009 | Pendiente | pendiente | `claves-del-talento` |
-| Objetivo: felicidad | Gretchen Rubin | 2009 | Pendiente | pendiente | `objetivo-felicidad` |
+| La sorprendente verdad sobre qué nos motiva | Daniel H. Pink | 2009 | Sí | pendiente | `sorprendente-verdad-motiva` |
+| Las claves del talento | Daniel Coyle | 2009 | Sí | pendiente | `claves-del-talento` |
+| Objetivo: felicidad | Gretchen Rubin | 2009 | Sí | pendiente | `objetivo-felicidad` |
 | Cambia el chip | Chip y Dan Heath | 2010 | Sí | escrito | `cambia-el-chip` |
 | El gorila invisible | Christopher Chabris y Daniel Simons | 2010 | Sí | pendiente | `gorila-invisible` |
 | En el principio era el sexo | Christopher Ryan y Cacilda Jethá | 2010 | Pendiente | pendiente | `principio-era-el-sexo` |

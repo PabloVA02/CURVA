@@ -476,8 +476,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/errores-que-errores-31b614bd8d.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-06"
   },
   {
     "id": "ciencia-de-la-felicidad",
@@ -488,8 +489,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/ciencia-de-la-felicidad-56a518ec4e.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-06"
   },
   {
     "id": "liberacion-del-alma",
@@ -500,8 +502,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/liberacion-del-alma-a74898f736.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-06"
   },
   {
     "id": "abrazame-fuerte",
@@ -512,8 +515,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/abrazame-fuerte-6698ed8274.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-06"
   },
   {
     "id": "gente-toxica",
@@ -524,8 +528,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/gente-toxica-374c64a568.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-06"
   },
   {
     "id": "sorprendente-verdad-motiva",
@@ -536,8 +541,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/sorprendente-verdad-motiva-7bc6b2b1a9.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-06"
   },
   {
     "id": "claves-del-talento",
@@ -548,8 +554,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/claves-del-talento-f7b1cdfe57.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-06"
   },
   {
     "id": "objetivo-felicidad",
@@ -560,8 +567,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/objetivo-felicidad-9155eb8fb7.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-06"
   },
   {
     "id": "principio-era-el-sexo",
