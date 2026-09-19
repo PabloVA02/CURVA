@@ -1,11 +1,11 @@
 # Los 682 libros de Curva
 
-Estado revisado el 19 de septiembre de 2026: **549 con portada propia y 133 pendientes**. Incluye portadas aportadas y generadas para Curva; se conservan los 682 identificadores recibidos.
+Estado de las portadas revisado el 19 de septiembre de 2026: **555 con portada propia y 127 pendientes**. Se conservan los 682 identificadores recibidos.
 
 | Tema | Libros | Con portada | Pendientes |
 |---|---:|---:|---:|
-| Psicología | 238 | 135 | 103 |
-| Economía | 117 | 92 | 25 |
+| Psicología | 238 | 139 | 99 |
+| Economía | 117 | 94 | 23 |
 | Literatura | 75 | 75 | 0 |
 | Historia | 56 | 56 | 0 |
 | Ciencia | 51 | 51 | 0 |
@@ -13,13 +13,13 @@ Estado revisado el 19 de septiembre de 2026: **549 con portada propia y 133 pend
 | Filosofía | 42 | 42 | 0 |
 | Arte | 27 | 27 | 0 |
 | Deportes | 25 | 25 | 0 |
-| **Total** | **682** | **549** | **133** |
+| **Total** | **682** | **555** | **127** |
 
 ## Psicología
 
 | Título | Autor | Año | Portada | Resumen | ID |
 |---|---|---:|---|---|---|
-| El arte de tener siempre razón | Arthur Schopenhauer | 1831 | Pendiente | pendiente | `arte-tener-razon` |
+| El arte de tener siempre razón | Arthur Schopenhauer | 1831 | Sí | pendiente | `arte-tener-razon` |
 | La interpretación de los sueños | Sigmund Freud | 1899 | Sí | pendiente | `interpretacion-suenos` |
 | Introducción al psicoanálisis | Sigmund Freud | 1917 | Sí | escrito | `intro-psicoanalisis` |
 | La conquista de la felicidad | Bertrand Russell | 1930 | Sí | pendiente | `conquista-felicidad` |
@@ -63,7 +63,7 @@ Estado revisado el 19 de septiembre de 2026: **549 con portada propia y 133 pend
 | Los seis pilares de la autoestima | Nathaniel Branden | 1994 | Pendiente | pendiente | `seis-pilares-autoestima` |
 | Inteligencia emocional | Daniel Goleman | 1995 | Sí | escrito | `inteligencia-emocional` |
 | El don de la sensibilidad | Elaine N. Aron | 1996 | Sí | pendiente | `don-sensibilidad` |
-| El don del miedo | Gavin de Becker | 1997 | Pendiente | pendiente | `don-del-miedo` |
+| El don del miedo | Gavin de Becker | 1997 | Sí | pendiente | `don-del-miedo` |
 | El poder del ahora | Eckhart Tolle | 1997 | Sí | escrito | `poder-ahora` |
 | No te ahogues en un vaso de agua | Richard Carlson | 1997 | Sí | pendiente | `no-te-ahogues-vaso-agua` |
 | Cómo controlar la ansiedad antes de que te controle a ti | Albert Ellis | 1998 | Pendiente | pendiente | `controlar-la-ansiedad` |
@@ -131,7 +131,7 @@ Estado revisado el 19 de septiembre de 2026: **549 con portada propia y 133 pend
 | Los dones de la imperfección | Brené Brown | 2010 | Sí | pendiente | `dones-de-la-imperfeccion` |
 | Maneras de amar | Levine y Heller | 2010 | Sí | escrito | `maneras-de-amar` |
 | Procrastinación | Piers Steel | 2010 | Sí | escrito | `procrastinacion-steel` |
-| Autocontrol | Kelly McGonigal | 2011 | Pendiente | pendiente | `autocontrol-mcgonigal` |
+| Autocontrol | Kelly McGonigal | 2011 | Sí | pendiente | `autocontrol-mcgonigal` |
 | El arte de no amargarse la vida | Rafael Santandreu | 2011 | Sí | escrito | `arte-no-amargarse` |
 | El arte de pensar | Rolf Dobelli | 2011 | Pendiente | pendiente | `arte-de-pensar` |
 | El cerebro del niño | Siegel y Payne Bryson | 2011 | Sí | escrito | `cerebro-del-nino` |
@@ -255,7 +255,7 @@ Estado revisado el 19 de septiembre de 2026: **549 con portada propia y 133 pend
 | Sé útil | Arnold Schwarzenegger | 2023 | Pendiente | pendiente | `se-util` |
 | La generación ansiosa | Jonathan Haidt | 2024 | Pendiente | pendiente | `generacion-ansiosa` |
 | La teoría del «Déjalos» | Mel Robbins | 2024 | Pendiente | pendiente | `teoria-del-dejalos` |
-| Meditaciones para mortales | Oliver Burkeman | 2024 | Pendiente | pendiente | `meditaciones-para-mortales` |
+| Meditaciones para mortales | Oliver Burkeman | 2024 | Sí | pendiente | `meditaciones-para-mortales` |
 | Supercomunicadores | Charles Duhigg | 2024 | Sí | pendiente | `supercomunicadores` |
 
 ## Economía
@@ -335,7 +335,7 @@ Estado revisado el 19 de septiembre de 2026: **549 con portada propia y 133 pend
 | Creatividad, S.A. | Ed Catmull y Amy Wallace | 2014 | Sí | escrito | `creatividad-sa` |
 | De cero a uno | Peter Thiel | 2014 | Sí | escrito | `cero-a-uno` |
 | Dinero: domina el juego | Tony Robbins | 2014 | Sí | escrito | `dinero-domina-juego` |
-| Enganchado | Nir Eyal | 2014 | Pendiente | pendiente | `enganchado` |
+| Enganchado | Nir Eyal | 2014 | Sí | pendiente | `enganchado` |
 | Esencialismo | Greg McKeown | 2014 | Sí | escrito | `esencialismo` |
 | Los líderes comen al final | Simon Sinek | 2014 | Sí | pendiente | `lideres-comen-al-final` |
 | Utopía para realistas | Rutger Bregman | 2014 | Sí | pendiente | `utopia-para-realistas` |
@@ -349,7 +349,7 @@ Estado revisado el 19 de septiembre de 2026: **549 con portada propia y 133 pend
 | Hábitos para ser millonario | Brian Tracy | 2017 | Pendiente | pendiente | `habitos-para-ser-millonario` |
 | Independízate de Papá Estado | Carlos Galán | 2017 | Pendiente | pendiente | `independizate-papa-estado` |
 | Los cuatro | Scott Galloway | 2017 | Pendiente | pendiente | `los-cuatro-galloway` |
-| Milenial en quiebra | Erin Lowry | 2017 | Pendiente | pendiente | `milenial-en-quiebra` |
+| Milenial en quiebra | Erin Lowry | 2017 | Sí | pendiente | `milenial-en-quiebra` |
 | Principios | Ray Dalio | 2017 | Sí | pendiente | `principios-dalio` |
 | Side Hustle | Chris Guillebeau | 2017 | Sí | escrito | `side-hustle` |
 | El año de menos | Cait Flanders | 2018 | Sí | pendiente | `ano-de-menos` |

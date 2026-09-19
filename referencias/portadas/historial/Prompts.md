@@ -2235,3 +2235,8 @@ Seis portadas nuevas y una versión anterior conservada. [Originales y prompts](
 ## Tanda del 19 de septiembre de 2026
 
 Seis portadas nuevas y dieciocho propuestas anteriores conservadas, incluidas las pruebas de volumen descartadas por el usuario. [Originales y prompts](../tanda-2026-09-19/Prompts.md).
+
+
+## Segunda tanda del 19 de septiembre de 2026
+
+Seis portadas finales sin contorno y cinco propuestas anteriores conservadas. [Originales, prompts y criterio de variedad](../tanda-2026-09-19-b/LEEME.md).

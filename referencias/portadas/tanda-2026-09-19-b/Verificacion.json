@@ -1,0 +1,42 @@
+{
+  "fecha": "2026-09-19",
+  "tanda": "2026-09-19-b",
+  "base": "a0fc51d38f7450d9e59750b5a342ba04e2bee494",
+  "total": 682,
+  "antes": 549,
+  "anadidas": 6,
+  "conPortada": 555,
+  "pendientes": 127,
+  "versionesConservadas": 11,
+  "resumenesConservados": 114,
+  "js": "index-portadas-ec4cdad17a.js",
+  "nuevos": [
+    "don-del-miedo",
+    "meditaciones-para-mortales",
+    "milenial-en-quiebra",
+    "enganchado",
+    "autocontrol-mcgonigal",
+    "arte-tener-razon"
+  ],
+  "validacion": {
+    "sinCambiosFueraDelMapa": true,
+    "portadasPreviasConservadas": true,
+    "seleccionNoReservada": true,
+    "catalogo682Conservado": true,
+    "originalesOpacos1024x1536": true,
+    "contornoCSSRetirado": true,
+    "javascriptValido": true
+  },
+  "revisionMovil": {
+    "viewport": "390×844",
+    "portadasCargadas": 6,
+    "anchoMiniatura": 171,
+    "bordeCSS": "0px",
+    "mensajesAmpliados": [
+      "don-del-miedo",
+      "arte-tener-razon"
+    ],
+    "busquedaPorTitulo": true,
+    "filtroPendientes": true
+  }
+}
