@@ -1,0 +1,54 @@
+{
+  "correccionUsuario": "La mayoría de las cubiertas deben desarrollar escenas o interacciones con detalles significativos; evitar iconos aislados demasiado simples.",
+  "criterio": "Motivos contrastados con los textos alternativos del catálogo y prompts del historial. Variación de motivos, paleta, escala, tipografía, alineación y composición.",
+  "seleccion": [
+    {
+      "id": "ano-pensamiento-magico",
+      "motivo": "globo de nieve / snow globe",
+      "descripcion": "Una mujer sostiene un globo de nieve que guarda una escena íntima de dos figuras, sobre fondo azul y coral.",
+      "composicion": "A woman with cropped black angular hair and red-orange sleeves cradles an oversized SNOW GLOBE; inside, two tiny ivory silhouettes sit face to face in a calm memory, surrounded by just seven snow dots. Globe is flat pale periwinkle circle with one simple curved blue stroke, coral base with three broad ridges, no realistic glass. Woman cropped from shoulders at bottom, globe at left-center; emotion through embracing pose, no tears. Rich deep cobalt background, coral and pale peach. Title TOP RIGHT in bold warm ivory high-contrast serif, staggered lines and MÁGICO large. Message lower left on clear coral zone in dark blue rounded heavy sans, 3 lines. Poignant adult illustration, not cute."
+    },
+    {
+      "id": "el-metodo-strauss",
+      "motivo": "pavo real en escenario / peacock stage",
+      "descripcion": "Un pavo real exhibe su cola azul y verde en un escenario rojo mientras una ayudante sostiene la estructura que mantiene la pose.",
+      "composicion": "A beautiful TEAL PEACOCK performs with spectacular fan-shaped tail made of 7 oversized graphic feathers, plum and mint eyespots with coral centers. Small stage red step at lower-left and one swept-back coral curtain on right; peacock's tiny feet stand on tiptoe, a slim backstage support holds the elaborate fan, revealing effort behind display. Strong poppy RED background, deep turquoise/ivory/pink accents. Huge title «EL MÉTODO» in condensed IVORY sans at BOTTOM aligned right, slightly rising baseline. Message top left in dark plum heavy slab serif 4 readable lines. Elegant theatrical scene, no more birds or trinkets."
+    },
+    {
+      "id": "inteligencia-intuitiva",
+      "motivo": "peonza y urraca / spinning top magpie",
+      "descripcion": "Una urraca azul y blanca intercepta la cuerda de una peonza naranja en pleno giro sobre un plano verde.",
+      "composicion": "A graphic blue-and-ivory MAGPIE leans diagonally from right to catch the last loop of a cord that sets a large orange SPINNING TOP in motion. Top has 3 flat cream/plum bands and simple navy pin; two sweeping curved movement marks show instant action, no other decoration. Vivid mint GREEN background, dark forest-green table wedge. Title at TOP LEFT in dark plum extra bold rounded sans, two staggered words, INTUITIVA larger. Message lower right in ivory heavy italic serif on darkgreen zone, 4 short lines. Main scene dynamically bridges title and message without occluding letters. No gradients."
+    },
+    {
+      "id": "nuevo-mundo-ahora",
+      "motivo": "medusa y buceador / jellyfish diver",
+      "descripcion": "Una medusa naranja abre su silueta sobre un buceador pequeño en un mar violeta, con tentáculos azules amplios.",
+      "composicion": "A huge ORANGE JELLYFISH dome like a gently billowing parasol rises through VIOLET sea; exactly six broad cobalt/coral ribbon tentacles sweep downward around a tiny turquoise swimmer with simple snorkel who floats freely in the open center. One pale lavender coral silhouette in lower-left gives ocean context, three bubbles only. Flat adult editorial drawing, luminous vivid complementary colors, NO translucent realism. Title stacked BOTTOM LEFT in warm ivory strong slab serif, AHORA orange on a clear violet area. Message TOP RIGHT in ivory bold narrow sans, 3 lines. Art fills center and left, asymmetric peaceful space."
+    },
+    {
+      "id": "tropezar-felicidad",
+      "motivo": "carrusel de feria / carousel",
+      "descripcion": "Una persona intenta alcanzar una anilla desde un carrusel rojo y azul, sobre fondo amarillo con letras violetas.",
+      "composicion": "A charming graphic FAIRGROUND CHAIR CAROUSEL, red scalloped canopy with navy central mast and three suspended blue seats. One adult with solid brown skin wearing lilac overalls stretches toward a brass ring just beyond reach while their seat continues in a circular path. Other two seats empty, broad geometry, only 3 chains drawn with clean lines. SUNNY YELLOW background, navy and red with violet. Title TOP in very heavy VIOLET italic serif, descending stepped arrangement; message at lower left in deep navy geometric bold sans, 3 lines. Developed kinetic composition, no horses, circus stars or confetti. Person tiny simple eyes."
+    },
+    {
+      "id": "ataque-de-lucidez",
+      "motivo": "dedal y reparación textil / thimble mending",
+      "descripcion": "Una mano con dedal turquesa repara con puntadas coral una tela azul abierta sobre fondo melocotón.",
+      "composicion": "Close-cropped elegant editorial hands with flat dark brown skin repairing a broad COBALT CLOTH tear using a giant TURQUOISE THIMBLE and one coral needle with a thick coral thread. The tear initially exposes peach ground, several clear coral stitches reconnect the fabric. Thumb and index coherent and simplified, no fingerprints/nails. Cloth unfolds in broad ribbon-like geometric planes, no floral fabric patterns. Warm bright PEACH background. Title BOTTOM RIGHT in deep blue angular heavy sans, «UN ATAQUE / DE LUCIDEZ», LUCIDEZ coral on peach. Message upper left in dark plum bold rounded serif, 4 lines. Art middle and lowerleft, intentional craft detail; no sewing-machine or scissors."
+    },
+    {
+      "id": "arte-de-leer-la-mente",
+      "motivo": "mimo y observadora / mime",
+      "descripcion": "Un mimo comunica una pared invisible con sus manos mientras una mujer interpreta el gesto, sobre fondo verde y rosa.",
+      "composicion": "A lanky MIME in navy-and-ivory striped shirt and red beret, tiny black dot eyes, simple ivory face, holds palms against an invisible surface. Opposite him a seated woman in coral trousers and turquoise blouse recognizes the gesture, tilts her head and extends one palm toward the same imaginary plane. Two people interact clearly, white gloves simple mitten shapes, stage indicated by one dark green oval. Fresh bright LIME GREEN backdrop with a broad pink geometric right area. Title UPPER LEFT in large dark green rounded serif with «leer la mente» huge; message lower right in dark plum bold condensed sans 3 lines. No speech bubbles, hearts, lamps or background props."
+    },
+    {
+      "id": "efecto-lucifer",
+      "motivo": "hormiguero disciplinado / anthill",
+      "descripcion": "Un hormiguero en corte muestra filas de hormigas siguiendo órdenes mientras una se aparta del recorrido.",
+      "composicion": "A bold graphic cutaway ANTHILL shaped like a rust-red mound with three broad deep navy tunnels. A procession of six simplified navy ANTS carries rust-red thorn fragments into the same route, while one pale ivory ant at fork turns away from the procession toward open turquoise space. Top ant larger with squared head silhouette directing the line, no uniforms/weapons/faces. Refined flat broad shapes, not detailed biology. TURQUOISE background, orange/rust/cobalt, cream contrast. Huge TITLE at BOTTOM in navy block slab serif, «El efecto» smaller and «LUCIFER» enormous. Message TOP LEFT in navy heavy sans, four lines, with «poder» and «presión» rust-red on light clear patch. No flames, devil, skull, crosses or photorealism."
+    }
+  ]
+}

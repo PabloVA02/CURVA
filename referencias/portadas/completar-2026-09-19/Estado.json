@@ -21,10 +21,15 @@
       "tanda": "03",
       "commit": "3be6353848edbaa8339ce056aabfc50c4c87ea94",
       "conPortada": 575
+    },
+    {
+      "tanda": "04",
+      "commit": "eaaf606bd735500905f2ee535938d9e89577180e",
+      "conPortada": 583
     }
   ],
   "autorizacion_dieta_longevidad": "Usuario: Incluirla también",
-  "conPortada": 583,
-  "pendientes": 99,
-  "ultimaTandaIntegrada": "completar-2026-09-19-04"
+  "conPortada": 591,
+  "pendientes": 91,
+  "ultimaTandaIntegrada": "completar-2026-09-19-05"
 }

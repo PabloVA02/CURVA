@@ -1,0 +1,33 @@
+{
+  "fecha": "2026-09-19",
+  "tanda": "completar-2026-09-19-05",
+  "base": "eaaf606bd735500905f2ee535938d9e89577180e",
+  "total": 682,
+  "antes": 583,
+  "anadidas": 8,
+  "reemplazadas": [],
+  "conPortada": 591,
+  "pendientes": 91,
+  "versionesConservadas": 10,
+  "resumenesConservados": 114,
+  "js": "index-portadas-7a1412df2b.js",
+  "nuevos": [
+    "ano-pensamiento-magico",
+    "el-metodo-strauss",
+    "inteligencia-intuitiva",
+    "nuevo-mundo-ahora",
+    "tropezar-felicidad",
+    "ataque-de-lucidez",
+    "arte-de-leer-la-mente",
+    "efecto-lucifer"
+  ],
+  "validacion": {
+    "sinCambiosFueraDelMapa": true,
+    "portadasPreviasConservadas": true,
+    "seleccionAutorizada": true,
+    "catalogo682Conservado": true,
+    "originalesOpacos1024x1536": true,
+    "sinContorno": true,
+    "javascriptValido": true
+  }
+}

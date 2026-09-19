@@ -1,10 +1,10 @@
 # Los 682 libros de Curva
 
-Estado del 19 de septiembre de 2026: **583 con portada propia y 99 pendientes**. Se conservan los 682 identificadores recibidos.
+Estado del 19 de septiembre de 2026: **591 con portada propia y 91 pendientes**. Se conservan los 682 identificadores recibidos.
 
 | Tema | Libros | Con portada | Pendientes |
 |---|---:|---:|---:|
-| Psicología | 238 | 167 | 71 |
+| Psicología | 238 | 175 | 63 |
 | Economía | 117 | 94 | 23 |
 | Literatura | 75 | 75 | 0 |
 | Historia | 56 | 56 | 0 |
@@ -13,7 +13,7 @@ Estado del 19 de septiembre de 2026: **583 con portada propia y 99 pendientes**.
 | Filosofía | 42 | 42 | 0 |
 | Arte | 27 | 27 | 0 |
 | Deportes | 25 | 25 | 0 |
-| **Total** | **682** | **583** | **99** |
+| **Total** | **682** | **591** | **91** |
 
 ## Psicología
 
@@ -96,20 +96,20 @@ Estado del 19 de septiembre de 2026: **583 con portada propia y 99 pendientes**.
 | La paradoja de la elección | Barry Schwartz | 2004 | Sí | pendiente | `paradoja-eleccion` |
 | La vaca | Camilo Cruz | 2004 | Sí | pendiente | `la-vaca-camilo-cruz` |
 | Un pequeño paso puede cambiar tu vida | Robert Maurer | 2004 | Sí | pendiente | `pequeno-paso-maurer` |
-| El año del pensamiento mágico | Joan Didion | 2005 | Pendiente | pendiente | `ano-pensamiento-magico` |
-| El método | Neil Strauss | 2005 | Pendiente | pendiente | `el-metodo-strauss` |
-| Inteligencia intuitiva | Malcolm Gladwell | 2005 | Pendiente | pendiente | `inteligencia-intuitiva` |
+| El año del pensamiento mágico | Joan Didion | 2005 | Sí | pendiente | `ano-pensamiento-magico` |
+| El método | Neil Strauss | 2005 | Sí | pendiente | `el-metodo-strauss` |
+| Inteligencia intuitiva | Malcolm Gladwell | 2005 | Sí | pendiente | `inteligencia-intuitiva` |
 | Nunca comas solo | Keith Ferrazzi | 2005 | Sí | escrito | `nunca-comas-solo` |
-| Un nuevo mundo, ahora | Eckhart Tolle | 2005 | Pendiente | pendiente | `nuevo-mundo-ahora` |
+| Un nuevo mundo, ahora | Eckhart Tolle | 2005 | Sí | pendiente | `nuevo-mundo-ahora` |
 | El secreto | Rhonda Byrne | 2006 | Sí | escrito | `secreto-byrne` |
 | Inteligencia erótica | Esther Perel | 2006 | Sí | escrito | `inteligencia-erotica` |
 | La ley de la atracción | Esther y Jerry Hicks | 2006 | Sí | escrito | `ley-de-atraccion` |
 | Mindset | Carol Dweck | 2006 | Sí | escrito | `mindset` |
-| Tropezar con la felicidad | Daniel Gilbert | 2006 | Pendiente | pendiente | `tropezar-felicidad` |
-| Un ataque de lucidez | Jill Bolte Taylor | 2006 | Pendiente | pendiente | `ataque-de-lucidez` |
+| Tropezar con la felicidad | Daniel Gilbert | 2006 | Sí | pendiente | `tropezar-felicidad` |
+| Un ataque de lucidez | Jill Bolte Taylor | 2006 | Sí | pendiente | `ataque-de-lucidez` |
 | El arte de aprender | Josh Waitzkin | 2007 | Sí | pendiente | `arte-de-aprender-waitzkin` |
-| El arte de leer la mente | Henrik Fexeus | 2007 | Pendiente | pendiente | `arte-de-leer-la-mente` |
-| El efecto Lucifer | Philip Zimbardo | 2007 | Pendiente | pendiente | `efecto-lucifer` |
+| El arte de leer la mente | Henrik Fexeus | 2007 | Sí | pendiente | `arte-de-leer-la-mente` |
+| El efecto Lucifer | Philip Zimbardo | 2007 | Sí | pendiente | `efecto-lucifer` |
 | Errores, ¿qué errores? | Carol Tavris y Elliot Aronson | 2007 | Pendiente | pendiente | `errores-que-errores` |
 | Ideas que pegan | Chip y Dan Heath | 2007 | Sí | escrito | `ideas-que-pegan` |
 | La ciencia de la felicidad | Sonja Lyubomirsky | 2007 | Pendiente | pendiente | `ciencia-de-la-felicidad` |

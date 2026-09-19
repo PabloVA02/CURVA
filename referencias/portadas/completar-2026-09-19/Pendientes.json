@@ -372,8 +372,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/ano-pensamiento-magico-99d0fe9134.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-05"
   },
   {
     "id": "el-metodo-strauss",
@@ -384,8 +385,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/el-metodo-strauss-fa93f3d8e7.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-05"
   },
   {
     "id": "inteligencia-intuitiva",
@@ -396,8 +398,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/inteligencia-intuitiva-60cf31e08a.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-05"
   },
   {
     "id": "nuevo-mundo-ahora",
@@ -408,8 +411,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/nuevo-mundo-ahora-53980f37e9.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-05"
   },
   {
     "id": "tropezar-felicidad",
@@ -420,8 +424,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/tropezar-felicidad-42b371fdce.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-05"
   },
   {
     "id": "ataque-de-lucidez",
@@ -432,8 +437,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/ataque-de-lucidez-10c5497eea.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-05"
   },
   {
     "id": "arte-de-leer-la-mente",
@@ -444,8 +450,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/arte-de-leer-la-mente-55f555b699.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-05"
   },
   {
     "id": "efecto-lucifer",
@@ -456,8 +463,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/efecto-lucifer-2ea88c51c9.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-05"
   },
   {
     "id": "errores-que-errores",
