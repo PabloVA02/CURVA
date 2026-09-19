@@ -580,8 +580,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/principio-era-el-sexo-55e3af9b93.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-07"
   },
   {
     "id": "felicidad-como-ventaja",
@@ -592,8 +593,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/felicidad-como-ventaja-1f9a3833a2.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-07"
   },
   {
     "id": "arte-de-pensar",
@@ -604,8 +606,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/arte-de-pensar-afbb9d2754.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-07"
   },
   {
     "id": "fuerza-de-voluntad",
@@ -616,8 +619,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/fuerza-de-voluntad-0042bc4950.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-07"
   },
   {
     "id": "mito-del-carisma",
@@ -628,8 +632,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/mito-del-carisma-c5717e2b3a.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-07"
   },
   {
     "id": "pequeno-libro-del-talento",
@@ -640,8 +645,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/pequeno-libro-del-talento-c096b09868.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-07"
   },
   {
     "id": "sabiduria-psicopatas",
@@ -652,8 +658,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/sabiduria-psicopatas-490c09383f.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-07"
   },
   {
     "id": "sin-gasolina",
@@ -664,8 +671,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/sin-gasolina-d187a97e30.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-07"
   },
   {
     "id": "ansiedad-stossel",

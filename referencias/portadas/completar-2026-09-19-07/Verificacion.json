@@ -1,0 +1,33 @@
+{
+  "fecha": "2026-09-19",
+  "tanda": "completar-2026-09-19-07",
+  "base": "2eaa22ba2a9857486b552cf9642f5be8a3323ad3",
+  "total": 682,
+  "antes": 599,
+  "anadidas": 8,
+  "reemplazadas": [],
+  "conPortada": 607,
+  "pendientes": 75,
+  "versionesConservadas": 8,
+  "resumenesConservados": 114,
+  "js": "index-portadas-7d7646380b.js",
+  "nuevos": [
+    "principio-era-el-sexo",
+    "felicidad-como-ventaja",
+    "arte-de-pensar",
+    "fuerza-de-voluntad",
+    "mito-del-carisma",
+    "pequeno-libro-del-talento",
+    "sabiduria-psicopatas",
+    "sin-gasolina"
+  ],
+  "validacion": {
+    "sinCambiosFueraDelMapa": true,
+    "portadasPreviasConservadas": true,
+    "seleccionAutorizada": true,
+    "catalogo682Conservado": true,
+    "originalesOpacos1024x1536": true,
+    "sinContorno": true,
+    "javascriptValido": true
+  }
+}

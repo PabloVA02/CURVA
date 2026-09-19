@@ -1,10 +1,10 @@
 # Los 682 libros de Curva
 
-Estado del 19 de septiembre de 2026: **599 con portada propia y 83 pendientes**. Se conservan los 682 identificadores recibidos.
+Estado del 19 de septiembre de 2026: **607 con portada propia y 75 pendientes**. Se conservan los 682 identificadores recibidos.
 
 | Tema | Libros | Con portada | Pendientes |
 |---|---:|---:|---:|
-| Psicología | 238 | 183 | 55 |
+| Psicología | 238 | 191 | 47 |
 | Economía | 117 | 94 | 23 |
 | Literatura | 75 | 75 | 0 |
 | Historia | 56 | 56 | 0 |
@@ -13,7 +13,7 @@ Estado del 19 de septiembre de 2026: **599 con portada propia y 83 pendientes**.
 | Filosofía | 42 | 42 | 0 |
 | Arte | 27 | 27 | 0 |
 | Deportes | 25 | 25 | 0 |
-| **Total** | **682** | **599** | **83** |
+| **Total** | **682** | **607** | **75** |
 
 ## Psicología
 
@@ -126,33 +126,33 @@ Estado del 19 de septiembre de 2026: **599 con portada propia y 83 pendientes**.
 | Objetivo: felicidad | Gretchen Rubin | 2009 | Sí | pendiente | `objetivo-felicidad` |
 | Cambia el chip | Chip y Dan Heath | 2010 | Sí | escrito | `cambia-el-chip` |
 | El gorila invisible | Christopher Chabris y Daniel Simons | 2010 | Sí | pendiente | `gorila-invisible` |
-| En el principio era el sexo | Christopher Ryan y Cacilda Jethá | 2010 | Pendiente | pendiente | `principio-era-el-sexo` |
-| La felicidad como ventaja | Shawn Achor | 2010 | Pendiente | pendiente | `felicidad-como-ventaja` |
+| En el principio era el sexo | Christopher Ryan y Cacilda Jethá | 2010 | Sí | pendiente | `principio-era-el-sexo` |
+| La felicidad como ventaja | Shawn Achor | 2010 | Sí | pendiente | `felicidad-como-ventaja` |
 | Los dones de la imperfección | Brené Brown | 2010 | Sí | pendiente | `dones-de-la-imperfeccion` |
 | Maneras de amar | Levine y Heller | 2010 | Sí | escrito | `maneras-de-amar` |
 | Procrastinación | Piers Steel | 2010 | Sí | escrito | `procrastinacion-steel` |
 | Autocontrol | Kelly McGonigal | 2011 | Sí | pendiente | `autocontrol-mcgonigal` |
 | El arte de no amargarse la vida | Rafael Santandreu | 2011 | Sí | escrito | `arte-no-amargarse` |
-| El arte de pensar | Rolf Dobelli | 2011 | Pendiente | pendiente | `arte-de-pensar` |
+| El arte de pensar | Rolf Dobelli | 2011 | Sí | pendiente | `arte-de-pensar` |
 | El cerebro del niño | Siegel y Payne Bryson | 2011 | Sí | escrito | `cerebro-del-nino` |
-| Fuerza de voluntad | Roy Baumeister y John Tierney | 2011 | Pendiente | pendiente | `fuerza-de-voluntad` |
+| Fuerza de voluntad | Roy Baumeister y John Tierney | 2011 | Sí | pendiente | `fuerza-de-voluntad` |
 | Los cinco arrepentimientos de los moribundos | Bronnie Ware | 2011 | Sí | escrito | `cinco-arrepentimientos` |
 | Los desafíos de la memoria | Joshua Foer | 2011 | Sí | pendiente | `desafios-de-la-memoria` |
 | Modelos | Mark Manson | 2011 | Sí | escrito | `modelos-manson` |
 | Pensar rápido, pensar despacio | Daniel Kahneman | 2011 | Sí | escrito | `pensar-rapido` |
 | Sé amable contigo mismo | Kristin Neff | 2011 | Sí | pendiente | `se-amable-contigo` |
 | Educar en el asombro | Catherine L'Ecuyer | 2012 | Sí | pendiente | `educar-en-el-asombro` |
-| El mito del carisma | Olivia Fox Cabane | 2012 | Pendiente | pendiente | `mito-del-carisma` |
-| El pequeño libro del talento | Daniel Coyle | 2012 | Pendiente | pendiente | `pequeno-libro-del-talento` |
+| El mito del carisma | Olivia Fox Cabane | 2012 | Sí | pendiente | `mito-del-carisma` |
+| El pequeño libro del talento | Daniel Coyle | 2012 | Sí | pendiente | `pequeno-libro-del-talento` |
 | El poder de los hábitos | Charles Duhigg | 2012 | Sí | escrito | `poder-habitos` |
 | El poder de los introvertidos | Susan Cain | 2012 | Sí | escrito | `poder-introvertidos` |
 | El poder de ser vulnerable | Brené Brown | 2012 | Sí | pendiente | `poder-ser-vulnerable` |
 | Enamórate de ti | Walter Riso | 2012 | Sí | escrito | `enamorate-de-ti` |
 | La mente de los justos | Jonathan Haidt | 2012 | Sí | escrito | `mente-justos` |
-| La sabiduría de los psicópatas | Kevin Dutton | 2012 | Pendiente | pendiente | `sabiduria-psicopatas` |
+| La sabiduría de los psicópatas | Kevin Dutton | 2012 | Sí | pendiente | `sabiduria-psicopatas` |
 | Maestría | Robert Greene | 2012 | Sí | escrito | `maestria-greene` |
 | Qué hace la gente exitosa antes del desayuno | Laura Vanderkam | 2012 | Sí | pendiente | `gente-exitosa-desayuno` |
-| Sin gasolina | Jonice Webb | 2012 | Pendiente | pendiente | `sin-gasolina` |
+| Sin gasolina | Jonice Webb | 2012 | Sí | pendiente | `sin-gasolina` |
 | Ansiedad | Scott Stossel | 2013 | Pendiente | pendiente | `ansiedad-stossel` |
 | Dar y recibir | Adam Grant | 2013 | Sí | escrito | `dar-y-recibir` |
 | David y Goliat | Malcolm Gladwell | 2013 | Pendiente | pendiente | `david-y-goliat` |
