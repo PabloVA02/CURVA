@@ -1,0 +1,30 @@
+{
+  "fecha": "2026-09-19",
+  "tanda": "completar-2026-09-19-02",
+  "base": "94523ab68a66b92d55fd1220d89dbd908d09f958",
+  "total": 682,
+  "antes": 561,
+  "anadidas": 6,
+  "conPortada": 567,
+  "pendientes": 115,
+  "versionesConservadas": 6,
+  "resumenesConservados": 114,
+  "js": "index-portadas-591b75cb27.js",
+  "nuevos": [
+    "muchas-vidas",
+    "aprenda-optimismo",
+    "limites-cloud",
+    "volver-al-amor",
+    "sin-conciencia",
+    "dejame-que-te-cuente"
+  ],
+  "validacion": {
+    "sinCambiosFueraDelMapa": true,
+    "portadasPreviasConservadas": true,
+    "seleccionAutorizada": true,
+    "catalogo682Conservado": true,
+    "originalesOpacos1024x1536": true,
+    "sinContorno": true,
+    "javascriptValido": true
+  }
+}

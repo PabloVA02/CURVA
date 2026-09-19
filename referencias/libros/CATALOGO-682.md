@@ -1,10 +1,10 @@
 # Los 682 libros de Curva
 
-Estado del 19 de septiembre de 2026: **561 con portada propia y 121 pendientes**. Se conservan los 682 identificadores recibidos.
+Estado del 19 de septiembre de 2026: **567 con portada propia y 115 pendientes**. Se conservan los 682 identificadores recibidos.
 
 | Tema | Libros | Con portada | Pendientes |
 |---|---:|---:|---:|
-| Psicología | 238 | 145 | 93 |
+| Psicología | 238 | 151 | 87 |
 | Economía | 117 | 94 | 23 |
 | Literatura | 75 | 75 | 0 |
 | Historia | 56 | 56 | 0 |
@@ -13,7 +13,7 @@ Estado del 19 de septiembre de 2026: **561 con portada propia y 121 pendientes**
 | Filosofía | 42 | 42 | 0 |
 | Arte | 27 | 27 | 0 |
 | Deportes | 25 | 25 | 0 |
-| **Total** | **682** | **561** | **121** |
+| **Total** | **682** | **567** | **115** |
 
 ## Psicología
 
@@ -48,18 +48,18 @@ Estado del 19 de septiembre de 2026: **561 con portada propia y 121 pendientes**
 | Mujeres que aman demasiado | Robin Norwood | 1985 | Sí | escrito | `mujeres-aman-demasiado` |
 | Poder sin límites | Tony Robbins | 1986 | Sí | escrito | `poder-sin-limites` |
 | Aunque tenga miedo, hágalo igual | Susan Jeffers | 1987 | Sí | pendiente | `aunque-tenga-miedo` |
-| Muchas vidas, muchos maestros | Brian Weiss | 1988 | Pendiente | pendiente | `muchas-vidas` |
+| Muchas vidas, muchos maestros | Brian Weiss | 1988 | Sí | pendiente | `muchas-vidas` |
 | Los 7 hábitos de la gente altamente efectiva | Stephen Covey | 1989 | Sí | escrito | `siete-habitos` |
-| Aprenda optimismo | Martin Seligman | 1990 | Pendiente | pendiente | `aprenda-optimismo` |
+| Aprenda optimismo | Martin Seligman | 1990 | Sí | pendiente | `aprenda-optimismo` |
 | Fluir | Mihály Csíkszentmihályi | 1990 | Sí | escrito | `flow` |
 | Despertando al gigante interior | Tony Robbins | 1991 | Sí | escrito | `despertando-gigante` |
-| Límites | Henry Cloud y John Townsend | 1992 | Pendiente | pendiente | `limites-cloud` |
+| Límites | Henry Cloud y John Townsend | 1992 | Sí | pendiente | `limites-cloud` |
 | Los cinco lenguajes del amor | Gary Chapman | 1992 | Sí | escrito | `lenguajes-amor` |
 | Los hombres son de Marte, las mujeres son de Venus | John Gray | 1992 | Sí | escrito | `hombres-marte-mujeres-venus` |
 | Mujeres que corren con los lobos | Clarissa Pinkola Estés | 1992 | Sí | escrito | `mujeres-lobos` |
-| Volver al amor | Marianne Williamson | 1992 | Pendiente | pendiente | `volver-al-amor` |
-| Sin conciencia | Robert D. Hare | 1993 | Pendiente | pendiente | `sin-conciencia` |
-| Déjame que te cuente | Jorge Bucay | 1994 | Pendiente | pendiente | `dejame-que-te-cuente` |
+| Volver al amor | Marianne Williamson | 1992 | Sí | pendiente | `volver-al-amor` |
+| Sin conciencia | Robert D. Hare | 1993 | Sí | pendiente | `sin-conciencia` |
+| Déjame que te cuente | Jorge Bucay | 1994 | Sí | pendiente | `dejame-que-te-cuente` |
 | Los seis pilares de la autoestima | Nathaniel Branden | 1994 | Pendiente | pendiente | `seis-pilares-autoestima` |
 | Inteligencia emocional | Daniel Goleman | 1995 | Sí | escrito | `inteligencia-emocional` |
 | El don de la sensibilidad | Elaine N. Aron | 1996 | Sí | pendiente | `don-sensibilidad` |
