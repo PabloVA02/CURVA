@@ -684,8 +684,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/ansiedad-stossel-a770bd26df.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-08"
   },
   {
     "id": "david-y-goliat",
@@ -696,8 +697,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/david-y-goliat-e15fb94a9f.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-08"
   },
   {
     "id": "decidete",
@@ -708,8 +710,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/decidete-b904c9e34b.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-08"
   },
   {
     "id": "eres-un-chingon",
@@ -720,8 +723,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/eres-un-chingon-e58fe50213.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-08"
   },
   {
     "id": "solo-una-cosa",
@@ -732,8 +736,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/solo-una-cosa-b8ae5c6b29.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-08"
   },
   {
     "id": "trece-cosas-mentalmente-fuertes",
@@ -744,8 +749,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/trece-cosas-mentalmente-fuertes-1ff952e486.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-08"
   },
   {
     "id": "disciplina-sin-lagrimas",
@@ -756,8 +762,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/disciplina-sin-lagrimas-62d2ea654d.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-08"
   },
   {
     "id": "lo-que-he-aprendido-vida",
@@ -768,8 +775,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/lo-que-he-aprendido-vida-571f397b0c.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-08"
   },
   {
     "id": "hombres-explican-cosas",

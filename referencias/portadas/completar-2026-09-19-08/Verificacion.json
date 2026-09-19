@@ -1,0 +1,33 @@
+{
+  "fecha": "2026-09-19",
+  "tanda": "completar-2026-09-19-08",
+  "base": "94e841e9e719e5ecab640ad16441b4b294684d19",
+  "total": 682,
+  "antes": 607,
+  "anadidas": 8,
+  "reemplazadas": [],
+  "conPortada": 615,
+  "pendientes": 67,
+  "versionesConservadas": 8,
+  "resumenesConservados": 114,
+  "js": "index-portadas-3739262255.js",
+  "nuevos": [
+    "ansiedad-stossel",
+    "david-y-goliat",
+    "decidete",
+    "eres-un-chingon",
+    "solo-una-cosa",
+    "trece-cosas-mentalmente-fuertes",
+    "disciplina-sin-lagrimas",
+    "lo-que-he-aprendido-vida"
+  ],
+  "validacion": {
+    "sinCambiosFueraDelMapa": true,
+    "portadasPreviasConservadas": true,
+    "seleccionAutorizada": true,
+    "catalogo682Conservado": true,
+    "originalesOpacos1024x1536": true,
+    "sinContorno": true,
+    "javascriptValido": true
+  }
+}

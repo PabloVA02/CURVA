@@ -1,10 +1,10 @@
 # Los 682 libros de Curva
 
-Estado del 19 de septiembre de 2026: **607 con portada propia y 75 pendientes**. Se conservan los 682 identificadores recibidos.
+Estado del 19 de septiembre de 2026: **615 con portada propia y 67 pendientes**. Se conservan los 682 identificadores recibidos.
 
 | Tema | Libros | Con portada | Pendientes |
 |---|---:|---:|---:|
-| Psicología | 238 | 191 | 47 |
+| Psicología | 238 | 199 | 39 |
 | Economía | 117 | 94 | 23 |
 | Literatura | 75 | 75 | 0 |
 | Historia | 56 | 56 | 0 |
@@ -13,7 +13,7 @@ Estado del 19 de septiembre de 2026: **607 con portada propia y 75 pendientes**.
 | Filosofía | 42 | 42 | 0 |
 | Arte | 27 | 27 | 0 |
 | Deportes | 25 | 25 | 0 |
-| **Total** | **682** | **607** | **75** |
+| **Total** | **682** | **615** | **67** |
 
 ## Psicología
 
@@ -153,21 +153,21 @@ Estado del 19 de septiembre de 2026: **607 con portada propia y 75 pendientes**.
 | Maestría | Robert Greene | 2012 | Sí | escrito | `maestria-greene` |
 | Qué hace la gente exitosa antes del desayuno | Laura Vanderkam | 2012 | Sí | pendiente | `gente-exitosa-desayuno` |
 | Sin gasolina | Jonice Webb | 2012 | Sí | pendiente | `sin-gasolina` |
-| Ansiedad | Scott Stossel | 2013 | Pendiente | pendiente | `ansiedad-stossel` |
+| Ansiedad | Scott Stossel | 2013 | Sí | pendiente | `ansiedad-stossel` |
 | Dar y recibir | Adam Grant | 2013 | Sí | escrito | `dar-y-recibir` |
-| David y Goliat | Malcolm Gladwell | 2013 | Pendiente | pendiente | `david-y-goliat` |
-| Decídete | Chip y Dan Heath | 2013 | Pendiente | pendiente | `decidete` |
-| Eres un chingón | Jen Sincero | 2013 | Pendiente | pendiente | `eres-un-chingon` |
+| David y Goliat | Malcolm Gladwell | 2013 | Sí | pendiente | `david-y-goliat` |
+| Decídete | Chip y Dan Heath | 2013 | Sí | pendiente | `decidete` |
+| Eres un chingón | Jen Sincero | 2013 | Sí | pendiente | `eres-un-chingon` |
 | Focus | Daniel Goleman | 2013 | Sí | escrito | `focus-goleman` |
 | Primeros auxilios emocionales | Guy Winch | 2013 | Sí | pendiente | `primeros-auxilios-emocionales` |
-| Solo una cosa | Gary Keller y Jay Papasan | 2013 | Pendiente | pendiente | `solo-una-cosa` |
-| 13 cosas que las personas mentalmente fuertes no hacen | Amy Morin | 2014 | Pendiente | pendiente | `trece-cosas-mentalmente-fuertes` |
+| Solo una cosa | Gary Keller y Jay Papasan | 2013 | Sí | pendiente | `solo-una-cosa` |
+| 13 cosas que las personas mentalmente fuertes no hacen | Amy Morin | 2014 | Sí | pendiente | `trece-cosas-mentalmente-fuertes` |
 | Aprende idiomas en 3 meses | Benny Lewis | 2014 | Sí | pendiente | `aprende-idiomas-en-3-meses` |
-| Disciplina sin lágrimas | Daniel J. Siegel y Tina Payne Bryson | 2014 | Pendiente | pendiente | `disciplina-sin-lagrimas` |
+| Disciplina sin lágrimas | Daniel J. Siegel y Tina Payne Bryson | 2014 | Sí | pendiente | `disciplina-sin-lagrimas` |
 | El obstáculo es el camino | Ryan Holiday | 2014 | Sí | escrito | `obstaculo-es-camino` |
 | El placebo eres tú | Joe Dispenza | 2014 | Sí | escrito | `placebo-eres-tu` |
 | Hable como en TED | Carmine Gallo | 2014 | Sí | pendiente | `hable-como-en-ted` |
-| Lo que he aprendido en la vida | Oprah Winfrey | 2014 | Pendiente | pendiente | `lo-que-he-aprendido-vida` |
+| Lo que he aprendido en la vida | Oprah Winfrey | 2014 | Sí | pendiente | `lo-que-he-aprendido-vida` |
 | Los hombres me explican cosas | Rebecca Solnit | 2014 | Pendiente | pendiente | `hombres-explican-cosas` |
 | Rodeado de idiotas | Thomas Erikson | 2014 | Pendiente | pendiente | `rodeado-de-idiotas` |
 | ¿Debo quedarme o debo irme? | Ramani Durvasula | 2015 | Pendiente | pendiente | `debo-quedarme-o-irme` |
