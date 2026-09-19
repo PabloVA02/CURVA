@@ -1,10 +1,10 @@
 # Los 682 libros de Curva
 
-Estado de las portadas revisado el 19 de septiembre de 2026: **555 con portada propia y 127 pendientes**. Se conservan los 682 identificadores recibidos.
+Estado del 19 de septiembre de 2026: **561 con portada propia y 121 pendientes**. Se conservan los 682 identificadores recibidos.
 
 | Tema | Libros | Con portada | Pendientes |
 |---|---:|---:|---:|
-| Psicología | 238 | 139 | 99 |
+| Psicología | 238 | 145 | 93 |
 | Economía | 117 | 94 | 23 |
 | Literatura | 75 | 75 | 0 |
 | Historia | 56 | 56 | 0 |
@@ -13,7 +13,7 @@ Estado de las portadas revisado el 19 de septiembre de 2026: **555 con portada p
 | Filosofía | 42 | 42 | 0 |
 | Arte | 27 | 27 | 0 |
 | Deportes | 25 | 25 | 0 |
-| **Total** | **682** | **555** | **127** |
+| **Total** | **682** | **561** | **121** |
 
 ## Psicología
 
@@ -26,28 +26,28 @@ Estado de las portadas revisado el 19 de septiembre de 2026: **555 con portada p
 | Cómo ganar amigos e influir sobre las personas | Dale Carnegie | 1936 | Sí | escrito | `amigos-influir` |
 | Cómo leer un libro | Mortimer J. Adler y Charles Van Doren | 1940 | Sí | pendiente | `como-leer-un-libro` |
 | Cómo suprimir las preocupaciones y disfrutar de la vida | Dale Carnegie | 1948 | Sí | pendiente | `suprimir-preocupaciones` |
-| Zen en el arte del tiro con arco | Eugen Herrigel | 1948 | Pendiente | pendiente | `zen-tiro-con-arco` |
+| Zen en el arte del tiro con arco | Eugen Herrigel | 1948 | Sí | pendiente | `zen-tiro-con-arco` |
 | La sabiduría de la inseguridad | Alan Watts | 1951 | Sí | pendiente | `sabiduria-inseguridad` |
 | El poder del pensamiento positivo | Norman Vincent Peale | 1952 | Sí | pendiente | `pensamiento-positivo` |
 | El arte de amar | Erich Fromm | 1956 | Sí | escrito | `arte-de-amar` |
 | La actitud mental positiva | Napoleon Hill y W. Clement Stone | 1959 | Sí | escrito | `actitud-mental-positiva` |
 | La magia de pensar en grande | David Schwartz | 1959 | Sí | escrito | `magia-pensar-grande` |
-| El poder de tu mente subconsciente | Joseph Murphy | 1963 | Pendiente | pendiente | `poder-mente-subconsciente` |
+| El poder de tu mente subconsciente | Joseph Murphy | 1963 | Sí | pendiente | `poder-mente-subconsciente` |
 | El hombre y sus símbolos | Carl Gustav Jung | 1964 | Sí | pendiente | `hombre-y-sus-simbolos` |
 | El vendedor más grande del mundo | Og Mandino | 1968 | Sí | escrito | `vendedor-mas-grande` |
-| Obediencia a la autoridad | Stanley Milgram | 1974 | Pendiente | pendiente | `obediencia-autoridad` |
+| Obediencia a la autoridad | Stanley Milgram | 1974 | Sí | pendiente | `obediencia-autoridad` |
 | Cuando digo no, me siento culpable | Manuel J. Smith | 1975 | Sí | pendiente | `cuando-digo-no` |
-| El milagro de mindfulness | Thich Nhat Hanh | 1975 | Pendiente | pendiente | `milagro-mindfulness` |
+| El milagro de mindfulness | Thich Nhat Hanh | 1975 | Sí | pendiente | `milagro-mindfulness` |
 | Tus zonas erróneas | Wayne Dyer | 1976 | Sí | escrito | `tus-zonas-erroneas` |
 | Cómo hablar para que los niños escuchen | Adele Faber y Elaine Mazlish | 1980 | Sí | escrito | `ninos-escuchen` |
 | Sentirse bien | David D. Burns | 1980 | Sí | escrito | `sentirse-bien` |
 | Obtenga el sí | Fisher y Ury | 1981 | Sí | escrito | `obtenga-el-si` |
-| El arte de amargarse la vida | Paul Watzlawick | 1983 | Pendiente | pendiente | `arte-amargarse-vida` |
+| El arte de amargarse la vida | Paul Watzlawick | 1983 | Sí | pendiente | `arte-amargarse-vida` |
 | Influencia | Robert Cialdini | 1984 | Sí | escrito | `influencia` |
 | Usted puede sanar su vida | Louise Hay | 1984 | Sí | escrito | `usted-puede-sanar` |
 | Mujeres que aman demasiado | Robin Norwood | 1985 | Sí | escrito | `mujeres-aman-demasiado` |
 | Poder sin límites | Tony Robbins | 1986 | Sí | escrito | `poder-sin-limites` |
-| Aunque tenga miedo, hágalo igual | Susan Jeffers | 1987 | Pendiente | pendiente | `aunque-tenga-miedo` |
+| Aunque tenga miedo, hágalo igual | Susan Jeffers | 1987 | Sí | pendiente | `aunque-tenga-miedo` |
 | Muchas vidas, muchos maestros | Brian Weiss | 1988 | Pendiente | pendiente | `muchas-vidas` |
 | Los 7 hábitos de la gente altamente efectiva | Stephen Covey | 1989 | Sí | escrito | `siete-habitos` |
 | Aprenda optimismo | Martin Seligman | 1990 | Pendiente | pendiente | `aprenda-optimismo` |

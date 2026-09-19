@@ -1,0 +1,41 @@
+{
+  "criterio": "Motivos contrastados con los textos alternativos del catálogo y prompts del historial. Variación de motivos, paleta, escala, tipografía, alineación y composición.",
+  "seleccion": [
+    {
+      "id": "zen-tiro-con-arco",
+      "motivo": "diapasón / tuning fork",
+      "descripcion": "Un diapasón azul de gran tamaño y dos ondas coral sobre verde jade.",
+      "composicion": "A giant graphic ultramarine TUNING FORK tilts gently from bottom-left to upper-right; two bold coral curved vibration marks beside its prongs, no other objects. Jade green background. Layout: huge elegant ivory slab-serif «ZEN» across top-left; continuation «en el arte del / tiro con arco» in dark navy rounded sans at lower-right, all together unmistakably the title. Message coral-dark (high contrast) bold serif in the open middle-left, THREE lines «Atención y desapego / a través de la / práctica del arco». Fork forms a clean asymmetric U around part of the type, but never covers it. A beautiful restrained yet vivid graphic composition, not decorative."
+    },
+    {
+      "id": "poder-mente-subconsciente",
+      "motivo": "gramófono / gramophone",
+      "descripcion": "Un gramófono de bocina naranja y cuerpo ciruela sobre un fondo azul hielo.",
+      "composicion": "A vintage GRAMOPHONE reimagined as gorgeous flat cut-paper editorial shapes: enormous orange horn faces upper-left, plum body and one dark disc, cobalt winding handle. Ice blue background, orange and plum accents. Title at BOTTOM in tall heavy plum neo-grotesk, three lines «EL PODER DE TU / MENTE / SUBCONSCIENTE», SUBCONSCIENTE smaller to fit but strong. Message at TOP RIGHT in cobalt bold rounded italic sans, THREE lines «Cómo la sugestión / y las creencias / influyen en tu vida». Gramophone occupies asymmetrically left-middle50%, open blue space right. No music notes, no tiny mechanical details, no other objects."
+    },
+    {
+      "id": "obediencia-autoridad",
+      "motivo": "torniquete de acceso / turnstile",
+      "descripcion": "Un torniquete de acceso de brazos marfil y cuerpo violeta cruza un fondo rojo intenso.",
+      "composicion": "A bold simplified ACCESS TURNSTILE, deep purple body and three broad IVORY rotating arms, is cropped dramatically from the right edge, tilted in flat axonometric graphic perspective with only two flat face colors, no 3D shading. VERMILION RED background. One tiny orange shoe just approaching the barrier at lower left, no person details. Title at TOP LEFT in huge condensed purple grotesk caps «OBEDIENCIA / a la / AUTORIDAD», varied scale and tightly structured left alignment. Message at BOTTOM LEFT in IVORY heavy broad sans, THREE lines «Por qué seguimos órdenes / incluso cuando / hacen daño», very legible70px. Turnstile dominates right-middle45% and creates the central angular form. An original arresting political editorial illustration with no people in rows, no batons, no military symbols, no other props."
+    },
+    {
+      "id": "milagro-mindfulness",
+      "motivo": "plancha de ropa / clothes iron",
+      "descripcion": "Una plancha violeta sobre una tela amarilla, con una amplia curva de vapor dibujada en turquesa.",
+      "composicion": "Close-up flat editorial everyday scene: a bold violet CLOTHES IRON rests on a broad SUNFLOWER YELLOW folded cloth that crosses the cover diagonally. One single wide pale mint steam curve sweeps upward, no tiny steam wisps. Lavender background. Title in large saturated deep-teal heavy italic SERIF in the upper-right «El milagro / de mindfulness», curved energetic line rhythm. Message at BOTTOM LEFT in violet bold friendly sans on the yellow cloth: «Aprende a meditar / y estar presente / en lo cotidiano». Iron cropped at left, type beautifully integrated in fabric area. No ironing person, no baskets, no plants, no many objects. Warm lively domestic graphic drawing."
+    },
+    {
+      "id": "arte-amargarse-vida",
+      "motivo": "sacapuntas / pencil sharpener",
+      "descripcion": "Un sacapuntas rojo convierte un lápiz azul en una gran viruta ondulada sobre amarillo limón.",
+      "composicion": "An enormous RED PENCIL SHARPENER, a simple rounded rectangular object with one visible dark slit, transforms a short COBALT pencil into an absurdly long single curling orange shaving, creating a striking wave across the middle. Flat ink-like drawing, no realistic metal. Vibrant LEMON YELLOW background, blue and red. Title big dark cobalt angular geometric sans at TOP in irregular lines «El arte de / AMARGARSE / la vida», AMARGARSE widest block. Message bottom-right in RED heavy serif, THREE lines «Cómo convertimos / pequeños problemas / en grandes sufrimientos». Clever humorous composition with one exaggerated curl, no scattered shavings, no face or decorative doodles."
+    },
+    {
+      "id": "aunque-tenga-miedo",
+      "motivo": "cama elástica / trampoline",
+      "descripcion": "Una mujer de silueta sencilla salta sobre una cama elástica turquesa frente a un fondo rosa coral.",
+      "composicion": "One expressive simplified adult woman with dark brown skin, black cropped geometric hair, purple loose trousers and yellow top leaps joyfully ABOVE a TURQUOISE TRAMPOLINE oval. Side-on graphic posture, bent knees, arms lifted, hands simple mittens, eyes tiny dashes. Background clear CORAL PINK. Trampoline cropped into bottom-left, woman small-medium in upper-right, no environment. Title at LOWER RIGHT in large dark plum chunky hand-lettered caps, stepped lines «AUNQUE TENGA / MIEDO, / HÁGALO IGUAL», accented Á exact, middle MIEDO much larger. Message top-left in PLUM bold italic sans «Da el paso y gana confianza / sin esperar a / perder el miedo», at least70px, not tiny. Dynamic diagonal airy composition, no motion doodles or confetti, not a cute children's illustration."
+    }
+  ]
+}
