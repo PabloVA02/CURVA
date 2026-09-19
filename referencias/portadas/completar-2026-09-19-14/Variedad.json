@@ -1,0 +1,54 @@
+{
+  "correccionUsuario": "La mayoría de las cubiertas deben desarrollar escenas o interacciones con detalles significativos; evitar iconos aislados demasiado simples.",
+  "criterio": "Motivos contrastados con los textos alternativos del catálogo y prompts del historial. Variación de motivos, paleta, escala, tipografía, alineación y composición.",
+  "seleccion": [
+    {
+      "id": "manifiesto-comunista",
+      "motivo": "escoba fábrica / broom factory",
+      "descripcion": "Las cerdas de una escoba roja se convierten en chimeneas de una fábrica gráfica.",
+      "composicion": "A giant BROOM seen upside-down: straight red handle rises from top edge; bristlefan at lowerleft becomes a row of alternating black and red FACTORY CHIMNEYS. Smoke forms two sharp cream zigzags, no people/flags/star/emblems. RICH RED and WARMIVORY split diagonally, black/red/ivoryonly with tiny cobaltstripe. TITLE «El manifiesto» upperright BLACK hugeblocksans, «comunista» in red on ivory broad bottom diagonal. Message LEFTMIDDLE BLACK heavy condensed serif 4lines. Broom/factory silhouette offcenter creates political constructivist editorial energy, no texture."
+    },
+    {
+      "id": "paso-por-delante-wall-street",
+      "motivo": "libélula de vidrieras / dragonfly stained glass",
+      "descripcion": "Una libélula tiene alas que parecen pequeñas vidrieras con fragmentos de ciudad.",
+      "composicion": "Huge NAVY DRAGONFLY spans top half at 30degrees; four wings made from broad translucent-looking BUT OPAQUE FLAT rectangles CORAL/YELLOW/LIGHTBLUE, small geometric CITY fragment reflected inside two wings. Not magnifying glass. BRIGHTCYAN background; navy/coral/yellow/cream. Title BOTTOMRIGHT verylarge CREAM condensed slabserif, «Wall Street» NAVY boldwide at bottom. Message UPPERRIGHT blackheavy sans4shortlines outside wing. Delicate six singleline legs, simple no realisticcompoundeyes, editorial airy but vivid."
+    },
+    {
+      "id": "millonario-instantaneo",
+      "motivo": "sello de caucho y puerta / rubber stamp doorway",
+      "descripcion": "Un sello de caucho levanta una puerta naranja de una hoja morada.",
+      "composicion": "A comically BIG GREEN RUBBER STAMP lifts upward; instead of ink, it has STAMPED A REAL tiny ORANGE DOOR that stands upright from a broad PURPLE paper sheet. Door slightlyajar shows plain ivoryspace, no extraobjects. VIVID PINK fullbleed background, green/purple/orange/ivory. Title TOPLEFT darkPURPLE heavyfriendlyserif, «instantáneo» inWHITE risingdiagonal at middleleft. Message BOTTOMLEFT blackboldsquare sans4lines. Graphicorthogonal forms, no stamptext except title/message, no hands. Door is majorinteraction, not lone rubberstamp."
+    },
+    {
+      "id": "mujeres-inteligentes-acaban-ricas",
+      "motivo": "resorte y peldaños / spring steps",
+      "descripcion": "Un resorte azul sostiene y conecta peldaños naranjas de distintas alturas.",
+      "composicion": "A single COBALT COIL SPRING is a continuous broad handdrawn helix travelling diagonally; three wide ORANGE STEP PLATFORMS perch securely inside different coils, forming a playful impossible elasticstaircase. Solid LEMON YELLOW background, cobalt/orange/black/ivory. Title CENTER LEFT in hugeBLACK elegantbolditalicserif, words interlock with big spaces between coils, 5 staggeredlines. Message TOP fullwidth cobalt thickrounded sans4lines92px. No womenfigure needed, no moneyicons. Solidgraphicforms, spring not chrome, no specular highlights."
+    },
+    {
+      "id": "como-hacerse-rico-dennis",
+      "motivo": "tornillo de banco y diamante de madera / vise wood",
+      "descripcion": "Un tornillo de banco naranja comprime un bloque hasta darle una forma inesperada.",
+      "composicion": "Huge ORANGE BENCH VISE occupies bottom, its opposing jaws squeeze a simple TEAL rectangularblock; from the TOP of the block rises an impossible cream faceted kite-like prism, as though compression gives a new shape. Block/vice one flat fill perpart no metallicshading. DEEPBURGUNDY background, orange/teal/ivory. Title TOPRIGHT enormous IVORY squaredsans, «RICO» verticallytaller andgreen, three lines. Message LEFTBOTTOM WHITE thick serif fourlines besidevice handle but wideenough. Mechanical drawing bold croppedbase, no coin/gemsphotorealism."
+    },
+    {
+      "id": "superfreakonomics",
+      "motivo": "ornitorrinco y ondas cuadradas / platypus square ripples",
+      "descripcion": "Un ornitorrinco turquesa nada en un charco amarillo que produce ondas cuadradas.",
+      "composicion": "A TEAL PLATYPUS seen overhead swims through a vivid YELLOW oval puddle that makes SQUARE ORANGE RIPPLES instead of circles. Animal recognizable wide ochre duckbill, beavertail but flatlong; foursmallflippers coherent, eyeone dot. PURPLE background, teal/yellow/orange/cream. Title CENTER TOP immenseWHITE verycondensed playfulsans over TWO lines «Super» and «Freakonomics», no hyphen, staggered baseline. Message BOTTOMRIGHT yellowheavyrounded serif4lines. Puddle expands from lowerleft, squarewaves framewithoutborder, unexpected economicquestions representedfreely, flat clean shapes."
+    },
+    {
+      "id": "veintitres-cosas-capitalismo",
+      "motivo": "carpeta de anillas y fachada / ring binder facade",
+      "descripcion": "Tres grandes anillas atraviesan una fachada naranja y permiten abrirla como una carpeta.",
+      "composicion": "A tall ORANGE BUILDING façade is hinged with THREE OVERSIZED BLACK RINGBINDER RINGS along left. One wall swingsopen like a bindercover, revealing a BRIGHTGREEN innerplane and structuralcolumns, no papers/humanwindows/coins. LIGHTCREAM background, orange/black/green. Title TOPLEFT «23» ENORMOUS green slabserif, remainingwordsBLACK condensedboldsans 4 staggeredlines across TOPMIDDLE. Message BOTTOM broad orangepanel BLACK heavyitalicserif4lines. Flat sideview architecture no perspectivevolume, some building cutoffs at rightedge, clever world behindsurface."
+    },
+    {
+      "id": "delivering-happiness",
+      "motivo": "carretilla de carambola / starfruit wheelbarrow",
+      "descripcion": "Una carretilla azul lleva una carambola gigante abierta en rodajas de estrella.",
+      "composicion": "A COBALT WHEELBARROW tilts forward, carrying a giant LIME STARFRUIT whose cut orange-yellow starshaped slices tumble slowly upward instead of down. Only3slices, one largewholefruit with fivebroad angularridges, no photorealfood/no decorative stars. VIVIDORANGE background with cobalt/lime/cream/navy. Title BOTTOMLEFT huge CREAM playfulroundserif «Delivering» slightcurve then «Happiness» boldstraight, title nearwheel negativearea. Message TOPLEFT deepNAVY strongwide sans4lines. Wheelbarrow lowerleft partiallycropped, starfruit breaks towardsupperright. Beautiful sunny surreal editorial, no people."
+    }
+  ]
+}

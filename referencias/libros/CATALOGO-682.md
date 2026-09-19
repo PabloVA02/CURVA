@@ -1,11 +1,11 @@
 # Los 682 libros de Curva
 
-Estado del 19 de septiembre de 2026: **655 con portada propia y 27 pendientes**. Se conservan los 682 identificadores recibidos.
+Estado del 19 de septiembre de 2026: **663 con portada propia y 19 pendientes**. Se conservan los 682 identificadores recibidos.
 
 | Tema | Libros | Con portada | Pendientes |
 |---|---:|---:|---:|
 | Psicología | 238 | 238 | 0 |
-| Economía | 117 | 95 | 22 |
+| Economía | 117 | 103 | 14 |
 | Literatura | 75 | 75 | 0 |
 | Historia | 56 | 56 | 0 |
 | Ciencia | 51 | 51 | 0 |
@@ -13,7 +13,7 @@ Estado del 19 de septiembre de 2026: **655 con portada propia y 27 pendientes**.
 | Filosofía | 42 | 42 | 0 |
 | Arte | 27 | 27 | 0 |
 | Deportes | 25 | 25 | 0 |
-| **Total** | **682** | **655** | **27** |
+| **Total** | **682** | **663** | **19** |
 
 ## Psicología
 
@@ -264,7 +264,7 @@ Estado del 19 de septiembre de 2026: **655 con portada propia y 27 pendientes**.
 |---|---|---:|---|---|---|
 | El camino hacia la riqueza | Benjamin Franklin | 1758 | Sí | pendiente | `camino-hacia-la-riqueza` |
 | La riqueza de las naciones | Adam Smith | 1776 | Sí | escrito | `riqueza-naciones` |
-| El manifiesto comunista | Karl Marx y Friedrich Engels | 1848 | Pendiente | pendiente | `manifiesto-comunista` |
+| El manifiesto comunista | Karl Marx y Friedrich Engels | 1848 | Sí | pendiente | `manifiesto-comunista` |
 | La ciencia de hacerse rico | Wallace D. Wattles | 1910 | Sí | escrito | `ciencia-hacerse-rico` |
 | Mi vida y obra | Henry Ford | 1922 | Sí | escrito | `ford-vida-obra` |
 | El hombre más rico de Babilonia | George S. Clason | 1926 | Sí | escrito | `hombre-rico-babilonia` |
@@ -272,8 +272,8 @@ Estado del 19 de septiembre de 2026: **655 con portada propia y 27 pendientes**.
 | El inversor inteligente | Benjamin Graham | 1949 | Sí | escrito | `inversor-inteligente` |
 | ¿De qué color es tu paracaídas? | Richard N. Bolles | 1970 | Sí | pendiente | `de-que-color-paracaidas` |
 | Un paseo aleatorio por Wall Street | Burton Malkiel | 1973 | Sí | escrito | `paseo-aleatorio` |
-| Un paso por delante de Wall Street | Peter Lynch | 1989 | Pendiente | pendiente | `paso-por-delante-wall-street` |
-| El millonario instantáneo | Mark Fisher | 1990 | Pendiente | pendiente | `millonario-instantaneo` |
+| Un paso por delante de Wall Street | Peter Lynch | 1989 | Sí | pendiente | `paso-por-delante-wall-street` |
+| El millonario instantáneo | Mark Fisher | 1990 | Sí | pendiente | `millonario-instantaneo` |
 | La bolsa o la vida | Robin y Dominguez | 1992 | Sí | escrito | `bolsa-o-vida` |
 | El mito del emprendedor | Michael E. Gerber | 1995 | Sí | pendiente | `mito-del-emprendedor` |
 | El millonario de al lado | Stanley y Danko | 1996 | Sí | escrito | `millonario-al-lado` |
@@ -281,7 +281,7 @@ Estado del 19 de septiembre de 2026: **655 con portada propia y 27 pendientes**.
 | Padre rico, padre pobre | Robert Kiyosaki | 1997 | Sí | escrito | `padre-rico` |
 | ¿Quién se ha llevado mi queso? | Spencer Johnson | 1998 | Sí | escrito | `quien-queso` |
 | El cuadrante del flujo de dinero | Robert Kiyosaki | 1998 | Sí | escrito | `cuadrante-flujo` |
-| Las mujeres inteligentes acaban ricas | David Bach | 1999 | Pendiente | pendiente | `mujeres-inteligentes-acaban-ricas` |
+| Las mujeres inteligentes acaban ricas | David Bach | 1999 | Sí | pendiente | `mujeres-inteligentes-acaban-ricas` |
 | No logo | Naomi Klein | 1999 | Sí | pendiente | `no-logo` |
 | Empresas que sobresalen | Jim Collins | 2001 | Sí | escrito | `empresas-sobresalen` |
 | Retírate joven y rico | Robert Kiyosaki | 2001 | Sí | escrito | `retirate-joven-rico` |
@@ -298,7 +298,7 @@ Estado del 19 de septiembre de 2026: **655 con portada propia y 27 pendientes**.
 | La estrategia del océano azul | Kim y Mauborgne | 2005 | Sí | escrito | `oceano-azul` |
 | Los principios del éxito | Jack Canfield | 2005 | Sí | pendiente | `principios-del-exito` |
 | Los secretos de la mente millonaria | T. Harv Eker | 2005 | Sí | escrito | `mente-millonaria` |
-| Cómo hacerse rico | Felix Dennis | 2006 | Pendiente | pendiente | `como-hacerse-rico-dennis` |
+| Cómo hacerse rico | Felix Dennis | 2006 | Sí | pendiente | `como-hacerse-rico-dennis` |
 | El cisne negro | Nassim Taleb | 2007 | Sí | escrito | `cisne-negro` |
 | El pequeño libro para invertir con sentido común | John C. Bogle | 2007 | Sí | escrito | `bogle-sentido-comun` |
 | La doctrina del shock | Naomi Klein | 2007 | Sí | escrito | `doctrina-shock` |
@@ -308,10 +308,10 @@ Estado del 19 de septiembre de 2026: **655 con portada propia y 27 pendientes**.
 | El triunfo del dinero | Niall Ferguson | 2008 | Sí | pendiente | `triunfo-del-dinero` |
 | Las trampas del deseo | Dan Ariely | 2008 | Sí | pendiente | `trampas-del-deseo` |
 | Empieza con el porqué | Simon Sinek | 2009 | Sí | escrito | `empieza-porque` |
-| SuperFreakonomics | Steven D. Levitt y Stephen J. Dubner | 2009 | Pendiente | pendiente | `superfreakonomics` |
+| SuperFreakonomics | Steven D. Levitt y Stephen J. Dubner | 2009 | Sí | pendiente | `superfreakonomics` |
 | Te enseñaré a ser rico | Ramit Sethi | 2009 | Sí | escrito | `ensenare-ser-rico` |
-| 23 cosas que no te cuentan sobre el capitalismo | Ha-Joon Chang | 2010 | Pendiente | pendiente | `veintitres-cosas-capitalismo` |
-| Delivering Happiness | Tony Hsieh | 2010 | Pendiente | pendiente | `delivering-happiness` |
+| 23 cosas que no te cuentan sobre el capitalismo | Ha-Joon Chang | 2010 | Sí | pendiente | `veintitres-cosas-capitalismo` |
+| Delivering Happiness | Tony Hsieh | 2010 | Sí | pendiente | `delivering-happiness` |
 | El efecto compuesto | Darren Hardy | 2010 | Sí | escrito | `efecto-compuesto` |
 | El pequeño libro que aún vence al mercado | Joel Greenblatt | 2010 | Sí | pendiente | `libro-vence-mercado` |
 | La gran apuesta | Michael Lewis | 2010 | Sí | pendiente | `la-gran-apuesta` |

@@ -1308,8 +1308,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/manifiesto-comunista-880c05490b.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-14"
   },
   {
     "id": "paso-por-delante-wall-street",
@@ -1320,8 +1321,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/paso-por-delante-wall-street-db843261dd.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-14"
   },
   {
     "id": "millonario-instantaneo",
@@ -1332,8 +1334,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/millonario-instantaneo-5eb08caa8b.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-14"
   },
   {
     "id": "mujeres-inteligentes-acaban-ricas",
@@ -1344,8 +1347,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/mujeres-inteligentes-acaban-ricas-a47ad22596.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-14"
   },
   {
     "id": "como-hacerse-rico-dennis",
@@ -1356,8 +1360,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/como-hacerse-rico-dennis-d77e9d8482.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-14"
   },
   {
     "id": "superfreakonomics",
@@ -1368,8 +1373,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/superfreakonomics-2516b6e307.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-14"
   },
   {
     "id": "veintitres-cosas-capitalismo",
@@ -1380,8 +1386,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/veintitres-cosas-capitalismo-0986a0cf11.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-14"
   },
   {
     "id": "delivering-happiness",
@@ -1392,8 +1399,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/delivering-happiness-cb280d3706.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-14"
   },
   {
     "id": "via-rapida-del-millonario",

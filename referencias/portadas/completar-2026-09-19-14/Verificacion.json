@@ -1,0 +1,33 @@
+{
+  "fecha": "2026-09-19",
+  "tanda": "completar-2026-09-19-14",
+  "base": "613c46b30a7a27d938dc48ab4f8e6c9d4e98498c",
+  "total": 682,
+  "antes": 655,
+  "anadidas": 8,
+  "reemplazadas": [],
+  "conPortada": 663,
+  "pendientes": 19,
+  "versionesConservadas": 10,
+  "resumenesConservados": 114,
+  "js": "index-portadas-59ec48dcc0.js",
+  "nuevos": [
+    "manifiesto-comunista",
+    "paso-por-delante-wall-street",
+    "millonario-instantaneo",
+    "mujeres-inteligentes-acaban-ricas",
+    "como-hacerse-rico-dennis",
+    "superfreakonomics",
+    "veintitres-cosas-capitalismo",
+    "delivering-happiness"
+  ],
+  "validacion": {
+    "sinCambiosFueraDelMapa": true,
+    "portadasPreviasConservadas": true,
+    "seleccionAutorizada": true,
+    "catalogo682Conservado": true,
+    "originalesOpacos1024x1536": true,
+    "sinContorno": true,
+    "javascriptValido": true
+  }
+}
