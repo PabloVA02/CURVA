@@ -1,10 +1,10 @@
 # Los 682 libros de Curva
 
-Estado del 19 de septiembre de 2026: **567 con portada propia y 115 pendientes**. Se conservan los 682 identificadores recibidos.
+Estado del 19 de septiembre de 2026: **575 con portada propia y 107 pendientes**. Se conservan los 682 identificadores recibidos.
 
 | Tema | Libros | Con portada | Pendientes |
 |---|---:|---:|---:|
-| Psicología | 238 | 151 | 87 |
+| Psicología | 238 | 159 | 79 |
 | Economía | 117 | 94 | 23 |
 | Literatura | 75 | 75 | 0 |
 | Historia | 56 | 56 | 0 |
@@ -13,7 +13,7 @@ Estado del 19 de septiembre de 2026: **567 con portada propia y 115 pendientes**
 | Filosofía | 42 | 42 | 0 |
 | Arte | 27 | 27 | 0 |
 | Deportes | 25 | 25 | 0 |
-| **Total** | **682** | **567** | **115** |
+| **Total** | **682** | **575** | **107** |
 
 ## Psicología
 
@@ -60,27 +60,27 @@ Estado del 19 de septiembre de 2026: **567 con portada propia y 115 pendientes**
 | Volver al amor | Marianne Williamson | 1992 | Sí | pendiente | `volver-al-amor` |
 | Sin conciencia | Robert D. Hare | 1993 | Sí | pendiente | `sin-conciencia` |
 | Déjame que te cuente | Jorge Bucay | 1994 | Sí | pendiente | `dejame-que-te-cuente` |
-| Los seis pilares de la autoestima | Nathaniel Branden | 1994 | Pendiente | pendiente | `seis-pilares-autoestima` |
+| Los seis pilares de la autoestima | Nathaniel Branden | 1994 | Sí | pendiente | `seis-pilares-autoestima` |
 | Inteligencia emocional | Daniel Goleman | 1995 | Sí | escrito | `inteligencia-emocional` |
 | El don de la sensibilidad | Elaine N. Aron | 1996 | Sí | pendiente | `don-sensibilidad` |
 | El don del miedo | Gavin de Becker | 1997 | Sí | pendiente | `don-del-miedo` |
 | El poder del ahora | Eckhart Tolle | 1997 | Sí | escrito | `poder-ahora` |
 | No te ahogues en un vaso de agua | Richard Carlson | 1997 | Sí | pendiente | `no-te-ahogues-vaso-agua` |
-| Cómo controlar la ansiedad antes de que te controle a ti | Albert Ellis | 1998 | Pendiente | pendiente | `controlar-la-ansiedad` |
-| Cómo hablar con cualquiera | Leil Lowndes | 1998 | Pendiente | pendiente | `como-hablar-con-cualquiera` |
-| El arte de la felicidad | Dalái Lama y Howard Cutler | 1998 | Pendiente | pendiente | `arte-felicidad` |
+| Cómo controlar la ansiedad antes de que te controle a ti | Albert Ellis | 1998 | Sí | pendiente | `controlar-la-ansiedad` |
+| Cómo hablar con cualquiera | Leil Lowndes | 1998 | Sí | pendiente | `como-hablar-con-cualquiera` |
+| El arte de la felicidad | Dalái Lama y Howard Cutler | 1998 | Sí | pendiente | `arte-felicidad` |
 | Las 21 leyes irrefutables del liderazgo | John C. Maxwell | 1998 | Sí | escrito | `21-leyes-liderazgo` |
 | Las 48 leyes del poder | Robert Greene | 1998 | Sí | escrito | `48-leyes-poder` |
 | Por qué los hombres no escuchan y las mujeres no saben leer los mapas | Allan y Barbara Pease | 1998 | Sí | escrito | `hombres-no-escuchan` |
 | Amar o depender | Walter Riso | 1999 | Sí | escrito | `amar-o-depender` |
 | Comunicación no violenta | Marshall Rosenberg | 1999 | Sí | escrito | `comunicacion-no-violenta` |
 | Siete reglas de oro para vivir en pareja | John Gottman | 1999 | Sí | escrito | `gottman-pareja` |
-| Amarse con los ojos abiertos | Jorge Bucay y Silvia Salinas | 2000 | Pendiente | pendiente | `amarse-ojos-abiertos` |
-| Cómo caer bien a los demás en menos de 90 segundos | Nicholas Boothman | 2000 | Pendiente | pendiente | `caer-bien-90-segundos` |
-| El punto clave | Malcolm Gladwell | 2000 | Pendiente | pendiente | `punto-clave` |
+| Amarse con los ojos abiertos | Jorge Bucay y Silvia Salinas | 2000 | Sí | pendiente | `amarse-ojos-abiertos` |
+| Cómo caer bien a los demás en menos de 90 segundos | Nicholas Boothman | 2000 | Sí | pendiente | `caer-bien-90-segundos` |
+| El punto clave | Malcolm Gladwell | 2000 | Sí | pendiente | `punto-clave` |
 | Las cinco heridas que impiden ser uno mismo | Lise Bourbeau | 2000 | Sí | escrito | `cinco-heridas` |
 | El arte de la seducción | Robert Greene | 2001 | Sí | escrito | `arte-seduccion` |
-| Los patitos feos | Boris Cyrulnik | 2001 | Pendiente | pendiente | `patitos-feos` |
+| Los patitos feos | Boris Cyrulnik | 2001 | Sí | pendiente | `patitos-feos` |
 | Organízate con eficacia | David Allen | 2001 | Sí | escrito | `organizate-eficacia` |
 | Tráguese ese sapo | Brian Tracy | 2001 | Sí | escrito | `traguese-sapo` |
 | Cómo ser un adulto en las relaciones | David Richo | 2002 | Sí | escrito | `adulto-relaciones` |

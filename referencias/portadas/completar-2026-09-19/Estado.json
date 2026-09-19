@@ -6,9 +6,20 @@
   "reservadas": 0,
   "objetivo": "Completar todas las portadas pendientes autorizadas, integrar y conservar todo en GitHub.",
   "doblez": "Un poco más marcada: surco lateral fino con sombra suave en el tono del fondo, sin borde ni canto 3D.",
-  "tandasPublicadas": [],
+  "tandasPublicadas": [
+    {
+      "tanda": "01",
+      "commit": "94523ab68a66b92d55fd1220d89dbd908d09f958",
+      "conPortada": 561
+    },
+    {
+      "tanda": "02",
+      "commit": "438b1b7",
+      "conPortada": 567
+    }
+  ],
   "autorizacion_dieta_longevidad": "Usuario: Incluirla también",
-  "conPortada": 567,
-  "pendientes": 115,
-  "ultimaTandaIntegrada": "completar-2026-09-19-02"
+  "conPortada": 575,
+  "pendientes": 107,
+  "ultimaTandaIntegrada": "completar-2026-09-19-03"
 }

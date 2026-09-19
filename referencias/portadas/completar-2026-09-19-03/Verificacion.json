@@ -1,0 +1,36 @@
+{
+  "fecha": "2026-09-19",
+  "tanda": "completar-2026-09-19-03",
+  "base": "af5897791c20181d164a1796caccd1a0229a8a57",
+  "total": 682,
+  "antes": 567,
+  "anadidas": 8,
+  "reemplazadas": [
+    "sin-conciencia"
+  ],
+  "conPortada": 575,
+  "pendientes": 107,
+  "versionesConservadas": 11,
+  "resumenesConservados": 114,
+  "js": "index-portadas-28eb571b1c.js",
+  "nuevos": [
+    "seis-pilares-autoestima",
+    "controlar-la-ansiedad",
+    "como-hablar-con-cualquiera",
+    "arte-felicidad",
+    "amarse-ojos-abiertos",
+    "caer-bien-90-segundos",
+    "punto-clave",
+    "patitos-feos",
+    "sin-conciencia"
+  ],
+  "validacion": {
+    "sinCambiosFueraDelMapa": true,
+    "portadasPreviasConservadas": true,
+    "seleccionAutorizada": true,
+    "catalogo682Conservado": true,
+    "originalesOpacos1024x1536": true,
+    "sinContorno": true,
+    "javascriptValido": true
+  }
+}

@@ -138,9 +138,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": "./assets/portadas-generadas/sin-conciencia-c15278f580.webp",
+    "archivo_cubierta": "./assets/portadas-generadas/sin-conciencia-0fe4df6fbe.webp",
     "estado_trabajo": "integrada",
-    "tanda": "completar-2026-09-19-02"
+    "tanda": "completar-2026-09-19-03"
   },
   {
     "id": "dejame-que-te-cuente",
@@ -164,8 +164,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/seis-pilares-autoestima-3d2d5934f5.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-03"
   },
   {
     "id": "controlar-la-ansiedad",
@@ -176,8 +177,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/controlar-la-ansiedad-b395ffa384.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-03"
   },
   {
     "id": "como-hablar-con-cualquiera",
@@ -188,8 +190,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/como-hablar-con-cualquiera-bc3528b93a.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-03"
   },
   {
     "id": "arte-felicidad",
@@ -200,8 +203,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/arte-felicidad-ff105563ed.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-03"
   },
   {
     "id": "amarse-ojos-abiertos",
@@ -212,8 +216,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/amarse-ojos-abiertos-ba8ebe0937.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-03"
   },
   {
     "id": "caer-bien-90-segundos",
@@ -224,8 +229,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/caer-bien-90-segundos-1b961745bb.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-03"
   },
   {
     "id": "punto-clave",
@@ -236,8 +242,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/punto-clave-e7a26a35db.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-03"
   },
   {
     "id": "patitos-feos",
@@ -248,8 +255,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/patitos-feos-ee032c29e5.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-03"
   },
   {
     "id": "autentica-felicidad",
