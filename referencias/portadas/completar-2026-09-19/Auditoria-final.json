@@ -1,0 +1,4243 @@
+{
+  "verificadoUTC": "2026-09-19T20:22:49.103650+00:00",
+  "commitPortadas": "7321f678e83e2b5b273ebb4f95aeb333f9703cda",
+  "totalLibros": 682,
+  "conPortada": 682,
+  "pendientes": 0,
+  "nuevasEnEstaCampana": 127,
+  "versionesOriginalesConservadas": 142,
+  "portadasPublicasComprobadas": 682,
+  "resumenesConservados": 114,
+  "bundle": "index-portadas-928658d396.js",
+  "bundlePublicoIdentico": true,
+  "originalesYWebpHashesCorrectos": true,
+  "archivosEnGit": true,
+  "porTema": {
+    "Psicología": 238,
+    "Economía": 117,
+    "Literatura": 75,
+    "Historia": 56,
+    "Ciencia": 51,
+    "Salud": 51,
+    "Filosofía": 42,
+    "Arte": 27,
+    "Deportes": 25
+  },
+  "tandas": [
+    {
+      "tanda": "01",
+      "commit": "94523ab68a66b92d55fd1220d89dbd908d09f958",
+      "nuevas": 6,
+      "revisadas": [],
+      "versiones": 9
+    },
+    {
+      "tanda": "02",
+      "commit": "438b1b76a27c9976e014085848625a53f23f58d3",
+      "nuevas": 6,
+      "revisadas": [],
+      "versiones": 6
+    },
+    {
+      "tanda": "03",
+      "commit": "3be6353848edbaa8339ce056aabfc50c4c87ea94",
+      "nuevas": 8,
+      "revisadas": [
+        "sin-conciencia"
+      ],
+      "versiones": 11
+    },
+    {
+      "tanda": "04",
+      "commit": "eaaf606bd735500905f2ee535938d9e89577180e",
+      "nuevas": 8,
+      "revisadas": [],
+      "versiones": 11
+    },
+    {
+      "tanda": "05",
+      "commit": "1bd37e32fc23186b23a0c1dc3ec6e80c801e4f15",
+      "nuevas": 8,
+      "revisadas": [],
+      "versiones": 10
+    },
+    {
+      "tanda": "06",
+      "commit": "2eaa22ba2a9857486b552cf9642f5be8a3323ad3",
+      "nuevas": 8,
+      "revisadas": [],
+      "versiones": 9
+    },
+    {
+      "tanda": "07",
+      "commit": "94e841e9e719e5ecab640ad16441b4b294684d19",
+      "nuevas": 8,
+      "revisadas": [],
+      "versiones": 8
+    },
+    {
+      "tanda": "08",
+      "commit": "5f5b9f0ad468affabf108aa148a00a6666a9ff8f",
+      "nuevas": 8,
+      "revisadas": [],
+      "versiones": 8
+    },
+    {
+      "tanda": "09",
+      "commit": "469efb807d6f12dd5a1f19f3e51c574952121af0",
+      "nuevas": 8,
+      "revisadas": [],
+      "versiones": 8
+    },
+    {
+      "tanda": "10",
+      "commit": "7425f2316a0e8f4f6c1419abb42093af4294575b",
+      "nuevas": 8,
+      "revisadas": [],
+      "versiones": 8
+    },
+    {
+      "tanda": "11",
+      "commit": "ceeeabb304ea3ea889fe82704a3bd7fcc439fdbd",
+      "nuevas": 8,
+      "revisadas": [],
+      "versiones": 8
+    },
+    {
+      "tanda": "12",
+      "commit": "c1e5581d124a1108a3e16ba8cc9a86d0d0a62e85",
+      "nuevas": 8,
+      "revisadas": [],
+      "versiones": 9
+    },
+    {
+      "tanda": "13",
+      "commit": "613c46b30a7a27d938dc48ab4f8e6c9d4e98498c",
+      "nuevas": 8,
+      "revisadas": [],
+      "versiones": 8
+    },
+    {
+      "tanda": "14",
+      "commit": "7c39c0f083698ad154891d3a8dc41d9a52f5535f",
+      "nuevas": 8,
+      "revisadas": [],
+      "versiones": 10
+    },
+    {
+      "tanda": "15",
+      "commit": "30a6ccd922c72d64e9e8445ccc8386faf1765492",
+      "nuevas": 8,
+      "revisadas": [],
+      "versiones": 8
+    },
+    {
+      "tanda": "16",
+      "commit": "4a8710db58b5cd1581a2aefd9cce7d8ffe719095",
+      "nuevas": 8,
+      "revisadas": [],
+      "versiones": 8
+    },
+    {
+      "tanda": "17",
+      "commit": "7321f678e83e2b5b273ebb4f95aeb333f9703cda",
+      "nuevas": 3,
+      "revisadas": [],
+      "versiones": 3
+    }
+  ],
+  "portadasPublicas": [
+    {
+      "id": "1984",
+      "archivo": "docs/assets/libro-1984-zJTbv6ow.webp",
+      "estadoHTTP": 200,
+      "bytes": 48492
+    },
+    {
+      "id": "21-lecciones",
+      "archivo": "docs/assets/libro-21-lecciones-DUvJ9tv1.webp",
+      "estadoHTTP": 200,
+      "bytes": 56078
+    },
+    {
+      "id": "21-leyes-liderazgo",
+      "archivo": "docs/assets/libro-21-leyes-liderazgo-7ixNP9sS.webp",
+      "estadoHTTP": 200,
+      "bytes": 62252
+    },
+    {
+      "id": "48-leyes-poder",
+      "archivo": "docs/assets/libro-48-leyes-poder-BQyYhEEd.webp",
+      "estadoHTTP": 200,
+      "bytes": 48288
+    },
+    {
+      "id": "abrazame-fuerte",
+      "archivo": "docs/assets/portadas-generadas/abrazame-fuerte-6698ed8274.webp",
+      "estadoHTTP": 200,
+      "bytes": 116254
+    },
+    {
+      "id": "actitud-mental-positiva",
+      "archivo": "docs/assets/actitud-mental-positiva-CKUgdCdD.webp",
+      "estadoHTTP": 200,
+      "bytes": 56382
+    },
+    {
+      "id": "acto-creativo",
+      "archivo": "docs/assets/acto-creativo-D2JVqDt8.webp",
+      "estadoHTTP": 200,
+      "bytes": 45150
+    },
+    {
+      "id": "actua-dama-piensa-hombre",
+      "archivo": "docs/assets/actua-dama-piensa-hombre-BkhEGweS.webp",
+      "estadoHTTP": 200,
+      "bytes": 41852
+    },
+    {
+      "id": "adios-cosas",
+      "archivo": "docs/assets/portadas-generadas/adios-cosas-6ab798143b.webp",
+      "estadoHTTP": 200,
+      "bytes": 968946
+    },
+    {
+      "id": "adulto-relaciones",
+      "archivo": "docs/assets/adulto-relaciones-Dv5WjG6q.webp",
+      "estadoHTTP": 200,
+      "bytes": 55216
+    },
+    {
+      "id": "agilidad-emocional",
+      "archivo": "docs/assets/portadas-generadas/agilidad-emocional-e6a6b534da.webp",
+      "estadoHTTP": 200,
+      "bytes": 980072
+    },
+    {
+      "id": "alarga-tu-esperanza-de-vida",
+      "archivo": "docs/assets/portadas-generadas/alarga-tu-esperanza-de-vida-877ad335a4.webp",
+      "estadoHTTP": 200,
+      "bytes": 179200
+    },
+    {
+      "id": "algebra-de-la-riqueza",
+      "archivo": "docs/assets/portadas-generadas/algebra-de-la-riqueza-15d0b96a2d.webp",
+      "estadoHTTP": 200,
+      "bytes": 127308
+    },
+    {
+      "id": "algoritmo-felicidad",
+      "archivo": "docs/assets/portadas-generadas/algoritmo-felicidad-2247804198.webp",
+      "estadoHTTP": 200,
+      "bytes": 156646
+    },
+    {
+      "id": "alicia-maravillas",
+      "archivo": "docs/assets/alicia-maravillas-CVY5rXXg.webp",
+      "estadoHTTP": 200,
+      "bytes": 47492
+    },
+    {
+      "id": "aliento-aire",
+      "archivo": "docs/assets/aliento-aire-DPpp9gpL.webp",
+      "estadoHTTP": 200,
+      "bytes": 67228
+    },
+    {
+      "id": "almanaque-naval",
+      "archivo": "docs/assets/portadas-generadas/almanaque-naval-cca3e9ce01.webp",
+      "estadoHTTP": 200,
+      "bytes": 112192
+    },
+    {
+      "id": "alquimista",
+      "archivo": "docs/assets/alquimista-Ced8CoHV.webp",
+      "estadoHTTP": 200,
+      "bytes": 32618
+    },
+    {
+      "id": "amar-o-depender",
+      "archivo": "docs/assets/amar-o-depender-Z8ZPi_v9.webp",
+      "estadoHTTP": 200,
+      "bytes": 46802
+    },
+    {
+      "id": "amarse-ojos-abiertos",
+      "archivo": "docs/assets/portadas-generadas/amarse-ojos-abiertos-ba8ebe0937.webp",
+      "estadoHTTP": 200,
+      "bytes": 129348
+    },
+    {
+      "id": "amiga-lavate-esa-cara",
+      "archivo": "docs/assets/portadas-generadas/amiga-lavate-esa-cara-2ba45e9430.webp",
+      "estadoHTTP": 200,
+      "bytes": 132648
+    },
+    {
+      "id": "amigos-influir",
+      "archivo": "docs/assets/amigos-influir-DXGOpbq0.webp",
+      "estadoHTTP": 200,
+      "bytes": 53688
+    },
+    {
+      "id": "amor-liquido",
+      "archivo": "docs/assets/amor-liquido-BJYXwP4V.webp",
+      "estadoHTTP": 200,
+      "bytes": 61804
+    },
+    {
+      "id": "amor-tiempos-colera",
+      "archivo": "docs/assets/amor-tiempos-colera-BHB7K-GT.webp",
+      "estadoHTTP": 200,
+      "bytes": 55398
+    },
+    {
+      "id": "amplitud-epstein",
+      "archivo": "docs/assets/portadas-generadas/amplitud-epstein-cfecd8cf4d.webp",
+      "estadoHTTP": 200,
+      "bytes": 923706
+    },
+    {
+      "id": "ana-karenina",
+      "archivo": "docs/assets/ana-karenina-ByzfyAHE.webp",
+      "estadoHTTP": 200,
+      "bytes": 53004
+    },
+    {
+      "id": "ano-12-semanas",
+      "archivo": "docs/assets/portadas-generadas/ano-12-semanas-3461ae595d.webp",
+      "estadoHTTP": 200,
+      "bytes": 138948
+    },
+    {
+      "id": "ano-de-menos",
+      "archivo": "docs/assets/portadas-generadas/ano-de-menos-49fb67bdeb.webp",
+      "estadoHTTP": 200,
+      "bytes": 1106320
+    },
+    {
+      "id": "ano-pensamiento-magico",
+      "archivo": "docs/assets/portadas-generadas/ano-pensamiento-magico-99d0fe9134.webp",
+      "estadoHTTP": 200,
+      "bytes": 131022
+    },
+    {
+      "id": "ansiedad-stossel",
+      "archivo": "docs/assets/portadas-generadas/ansiedad-stossel-a770bd26df.webp",
+      "estadoHTTP": 200,
+      "bytes": 120578
+    },
+    {
+      "id": "anticancer",
+      "archivo": "docs/assets/anticancer-CMR3HTHl.webp",
+      "estadoHTTP": 200,
+      "bytes": 56340
+    },
+    {
+      "id": "antifragil",
+      "archivo": "docs/assets/antifragil-BSukCrHb.webp",
+      "estadoHTTP": 200,
+      "bytes": 73296
+    },
+    {
+      "id": "apologia-socrates",
+      "archivo": "docs/assets/apologia-socrates-DBLXOFRw.webp",
+      "estadoHTTP": 200,
+      "bytes": 39394
+    },
+    {
+      "id": "aprenda-optimismo",
+      "archivo": "docs/assets/portadas-generadas/aprenda-optimismo-dffad3ea5a.webp",
+      "estadoHTTP": 200,
+      "bytes": 118410
+    },
+    {
+      "id": "aprende-idiomas-en-3-meses",
+      "archivo": "docs/assets/portadas-generadas/aprende-idiomas-en-3-meses-df60877c25.webp",
+      "estadoHTTP": 200,
+      "bytes": 123702
+    },
+    {
+      "id": "aprender-a-aprender",
+      "archivo": "docs/assets/portadas-generadas/aprender-a-aprender-c26698b05f.webp",
+      "estadoHTTP": 200,
+      "bytes": 110312
+    },
+    {
+      "id": "armas-germenes",
+      "archivo": "docs/assets/armas-germenes-BiNa610v.webp",
+      "estadoHTTP": 200,
+      "bytes": 46964
+    },
+    {
+      "id": "arte-amargarse-vida",
+      "archivo": "docs/assets/portadas-generadas/arte-amargarse-vida-3423273d59.webp",
+      "estadoHTTP": 200,
+      "bytes": 136376
+    },
+    {
+      "id": "arte-buena-vida-dobelli",
+      "archivo": "docs/assets/portadas-aportadas/arte-buena-vida-dobelli-aa7bf63d59.webp",
+      "estadoHTTP": 200,
+      "bytes": 993348
+    },
+    {
+      "id": "arte-de-amar",
+      "archivo": "docs/assets/arte-de-amar-BMSambcU.webp",
+      "estadoHTTP": 200,
+      "bytes": 33406
+    },
+    {
+      "id": "arte-de-aprender-waitzkin",
+      "archivo": "docs/assets/portadas-generadas/arte-de-aprender-waitzkin-31f619c498.webp",
+      "estadoHTTP": 200,
+      "bytes": 877066
+    },
+    {
+      "id": "arte-de-empezar",
+      "archivo": "docs/assets/arte-de-empezar-D8LbY1gx.webp",
+      "estadoHTTP": 200,
+      "bytes": 63434
+    },
+    {
+      "id": "arte-de-leer-la-mente",
+      "archivo": "docs/assets/portadas-generadas/arte-de-leer-la-mente-55f555b699.webp",
+      "estadoHTTP": 200,
+      "bytes": 131980
+    },
+    {
+      "id": "arte-de-pedir",
+      "archivo": "docs/assets/portadas-generadas/arte-de-pedir-f822d3f22f.webp",
+      "estadoHTTP": 200,
+      "bytes": 875062
+    },
+    {
+      "id": "arte-de-pensar",
+      "archivo": "docs/assets/portadas-generadas/arte-de-pensar-afbb9d2754.webp",
+      "estadoHTTP": 200,
+      "bytes": 126936
+    },
+    {
+      "id": "arte-de-viajar",
+      "archivo": "docs/assets/portadas-generadas/arte-de-viajar-3f6c185fbe.webp",
+      "estadoHTTP": 200,
+      "bytes": 966212
+    },
+    {
+      "id": "arte-felicidad",
+      "archivo": "docs/assets/portadas-generadas/arte-felicidad-ff105563ed.webp",
+      "estadoHTTP": 200,
+      "bytes": 134176
+    },
+    {
+      "id": "arte-guerra",
+      "archivo": "docs/assets/arte-guerra-LbEwwNOr.webp",
+      "estadoHTTP": 200,
+      "bytes": 68848
+    },
+    {
+      "id": "arte-no-amargarse",
+      "archivo": "docs/assets/arte-no-amargarse-hPHCeLb3.webp",
+      "estadoHTTP": 200,
+      "bytes": 46360
+    },
+    {
+      "id": "arte-seduccion",
+      "archivo": "docs/assets/arte-seduccion-CeXPSc16.webp",
+      "estadoHTTP": 200,
+      "bytes": 50618
+    },
+    {
+      "id": "arte-sin-hombres",
+      "archivo": "docs/assets/arte-sin-hombres-HgSjMFLR.webp",
+      "estadoHTTP": 200,
+      "bytes": 59174
+    },
+    {
+      "id": "arte-tener-razon",
+      "archivo": "docs/assets/portadas-generadas/arte-tener-razon-56225bc18a.webp",
+      "estadoHTTP": 200,
+      "bytes": 137074
+    },
+    {
+      "id": "asesinato-orient-express",
+      "archivo": "docs/assets/portadas-generadas/asesinato-orient-express-e3aefedef7.webp",
+      "estadoHTTP": 200,
+      "bytes": 990772
+    },
+    {
+      "id": "asombrosos-secretos-vida",
+      "archivo": "docs/assets/portadas-aportadas/asombrosos-secretos-vida-3d8bad92cc.webp",
+      "estadoHTTP": 200,
+      "bytes": 962378
+    },
+    {
+      "id": "astrofisica-prisa",
+      "archivo": "docs/assets/portadas-generadas/astrofisica-prisa-956adfec9e.webp",
+      "estadoHTTP": 200,
+      "bytes": 926780
+    },
+    {
+      "id": "ataque-de-lucidez",
+      "archivo": "docs/assets/portadas-generadas/ataque-de-lucidez-10c5497eea.webp",
+      "estadoHTTP": 200,
+      "bytes": 127274
+    },
+    {
+      "id": "auge-caida-dinosaurios",
+      "archivo": "docs/assets/portadas-generadas/auge-caida-dinosaurios-9e22bd417a.webp",
+      "estadoHTTP": 200,
+      "bytes": 964318
+    },
+    {
+      "id": "aunque-tenga-miedo",
+      "archivo": "docs/assets/portadas-generadas/aunque-tenga-miedo-4010ad360b.webp",
+      "estadoHTTP": 200,
+      "bytes": 110270
+    },
+    {
+      "id": "auschwitz-rees",
+      "archivo": "docs/assets/auschwitz-rees-C9MpzqBJ.webp",
+      "estadoHTTP": 200,
+      "bytes": 39306
+    },
+    {
+      "id": "autentica-felicidad",
+      "archivo": "docs/assets/portadas-generadas/autentica-felicidad-19d273b028.webp",
+      "estadoHTTP": 200,
+      "bytes": 145786
+    },
+    {
+      "id": "autobiografia-franklin",
+      "archivo": "docs/assets/portadas-generadas/autobiografia-franklin-1174ec405d.webp",
+      "estadoHTTP": 200,
+      "bytes": 956020
+    },
+    {
+      "id": "autocontrol-mcgonigal",
+      "archivo": "docs/assets/portadas-generadas/autocontrol-mcgonigal-f908af614e.webp",
+      "estadoHTTP": 200,
+      "bytes": 111708
+    },
+    {
+      "id": "banquete",
+      "archivo": "docs/assets/portadas-generadas/banquete-9d7b0efbd9.webp",
+      "estadoHTTP": 200,
+      "bytes": 1430796
+    },
+    {
+      "id": "bauhaus",
+      "archivo": "docs/assets/bauhaus-qLmSSbWj.webp",
+      "estadoHTTP": 200,
+      "bytes": 30096
+    },
+    {
+      "id": "becoming",
+      "archivo": "docs/assets/becoming-CYrQAE_l.webp",
+      "estadoHTTP": 200,
+      "bytes": 38616
+    },
+    {
+      "id": "beneficios-meditacion",
+      "archivo": "docs/assets/portadas-generadas/beneficios-meditacion-72cc333bd6.webp",
+      "estadoHTTP": 200,
+      "bytes": 147834
+    },
+    {
+      "id": "besame-mucho",
+      "archivo": "docs/assets/portadas-generadas/besame-mucho-49f8788856.webp",
+      "estadoHTTP": 200,
+      "bytes": 133332
+    },
+    {
+      "id": "biblioteca-de-la-medianoche",
+      "archivo": "docs/assets/portadas-generadas/biblioteca-de-la-medianoche-5ed0b9c84b.webp",
+      "estadoHTTP": 200,
+      "bytes": 1089272
+    },
+    {
+      "id": "biologia-creencia",
+      "archivo": "docs/assets/biologia-creencia-DNbCbXvP.webp",
+      "estadoHTTP": 200,
+      "bytes": 63072
+    },
+    {
+      "id": "bogle-sentido-comun",
+      "archivo": "docs/assets/bogle-sentido-comun-DbF-iumj.webp",
+      "estadoHTTP": 200,
+      "bytes": 69964
+    },
+    {
+      "id": "bola-de-nieve",
+      "archivo": "docs/assets/bola-de-nieve-D_BQKzCN.webp",
+      "estadoHTTP": 200,
+      "bytes": 50382
+    },
+    {
+      "id": "bolsa-o-vida",
+      "archivo": "docs/assets/portadas-generadas/bolsa-o-vida-bfd4983bfb.webp",
+      "estadoHTTP": 200,
+      "bytes": 947722
+    },
+    {
+      "id": "borrar-redes-sociales",
+      "archivo": "docs/assets/portadas-generadas/borrar-redes-sociales-9708e08c06.webp",
+      "estadoHTTP": 200,
+      "bytes": 148048
+    },
+    {
+      "id": "breve-historia-del-mundo",
+      "archivo": "docs/assets/portadas-generadas/breve-historia-del-mundo-c3fc41b385.webp",
+      "estadoHTTP": 200,
+      "bytes": 1061998
+    },
+    {
+      "id": "breve-historia-tiempo",
+      "archivo": "docs/assets/portadas-generadas/breve-historia-tiempo-761feb8e7e.webp",
+      "estadoHTTP": 200,
+      "bytes": 942242
+    },
+    {
+      "id": "breve-historia-todos-vivido",
+      "archivo": "docs/assets/portadas-aportadas/breve-historia-todos-vivido-4edcf97ff9.webp",
+      "estadoHTTP": 200,
+      "bytes": 1002618
+    },
+    {
+      "id": "brevedad-vida",
+      "archivo": "docs/assets/brevedad-vida-Cx0_Jayq.webp",
+      "estadoHTTP": 200,
+      "bytes": 51410
+    },
+    {
+      "id": "buena-suerte",
+      "archivo": "docs/assets/buena-suerte-BoRq-2Gw.webp",
+      "estadoHTTP": 200,
+      "bytes": 53438
+    },
+    {
+      "id": "burnout-nagoski",
+      "archivo": "docs/assets/portadas-generadas/burnout-nagoski-9607866465.webp",
+      "estadoHTTP": 200,
+      "bytes": 1066718
+    },
+    {
+      "id": "busca-sentido",
+      "archivo": "docs/assets/busca-sentido-DbT7LZSs.webp",
+      "estadoHTTP": 200,
+      "bytes": 39038
+    },
+    {
+      "id": "caballero-armadura",
+      "archivo": "docs/assets/caballero-armadura-Db6rHMJz.webp",
+      "estadoHTTP": 200,
+      "bytes": 45906
+    },
+    {
+      "id": "caer-bien-90-segundos",
+      "archivo": "docs/assets/portadas-generadas/caer-bien-90-segundos-1b961745bb.webp",
+      "estadoHTTP": 200,
+      "bytes": 122162
+    },
+    {
+      "id": "cambia-el-chip",
+      "archivo": "docs/assets/cambia-el-chip-DEq62IuB.webp",
+      "estadoHTTP": 200,
+      "bytes": 57100
+    },
+    {
+      "id": "camino-artista",
+      "archivo": "docs/assets/camino-artista-BEsH4srl.webp",
+      "estadoHTTP": 200,
+      "bytes": 47874
+    },
+    {
+      "id": "camino-del-perezoso-genial",
+      "archivo": "docs/assets/portadas-generadas/camino-del-perezoso-genial-cdbf507b21.webp",
+      "estadoHTTP": 200,
+      "bytes": 132796
+    },
+    {
+      "id": "camino-hacia-la-riqueza",
+      "archivo": "docs/assets/portadas-generadas/camino-hacia-la-riqueza-f3bcbf899c.webp",
+      "estadoHTTP": 200,
+      "bytes": 136078
+    },
+    {
+      "id": "camino-simple-riqueza",
+      "archivo": "docs/assets/portadas-generadas/camino-simple-riqueza-f33d69e89b.webp",
+      "estadoHTTP": 200,
+      "bytes": 132930
+    },
+    {
+      "id": "canones-agosto",
+      "archivo": "docs/assets/canones-agosto-BlQvxYGQ.webp",
+      "estadoHTTP": 200,
+      "bytes": 41852
+    },
+    {
+      "id": "caos-gleick",
+      "archivo": "docs/assets/caos-gleick-CRi4HzRY.webp",
+      "estadoHTTP": 200,
+      "bytes": 75010
+    },
+    {
+      "id": "capital-siglo-xxi",
+      "archivo": "docs/assets/portadas-generadas/capital-siglo-xxi-c13b58ec19.webp",
+      "estadoHTTP": 200,
+      "bytes": 940920
+    },
+    {
+      "id": "cartas-a-lucilio",
+      "archivo": "docs/assets/portadas-aportadas/cartas-a-lucilio-1313fac401.webp",
+      "estadoHTTP": 200,
+      "bytes": 924924
+    },
+    {
+      "id": "cartas-joven-poeta",
+      "archivo": "docs/assets/cartas-joven-poeta-CPSG5X-_.webp",
+      "estadoHTTP": 200,
+      "bytes": 43258
+    },
+    {
+      "id": "casa-espiritus",
+      "archivo": "docs/assets/casa-espiritus-DejbPS__.webp",
+      "estadoHTTP": 200,
+      "bytes": 48302
+    },
+    {
+      "id": "casi-todo",
+      "archivo": "docs/assets/portadas-generadas/casi-todo-4e0e480943.webp",
+      "estadoHTTP": 200,
+      "bytes": 1008414
+    },
+    {
+      "id": "cebras-no-tienen-ulcera",
+      "archivo": "docs/assets/portadas-generadas/cebras-no-tienen-ulcera-1ffb1f0228.webp",
+      "estadoHTTP": 200,
+      "bytes": 890718
+    },
+    {
+      "id": "cerebro-adolescente",
+      "archivo": "docs/assets/cerebro-adolescente-Cy5XxjEt.webp",
+      "estadoHTTP": 200,
+      "bytes": 61712
+    },
+    {
+      "id": "cerebro-buda",
+      "archivo": "docs/assets/cerebro-buda-XmULl6m4.webp",
+      "estadoHTTP": 200,
+      "bytes": 44680
+    },
+    {
+      "id": "cerebro-cambia",
+      "archivo": "docs/assets/portadas-generadas/cerebro-cambia-1ef1195543.webp",
+      "estadoHTTP": 200,
+      "bytes": 1009864
+    },
+    {
+      "id": "cerebro-de-pan",
+      "archivo": "docs/assets/cerebro-de-pan-DOBHfHk-.webp",
+      "estadoHTTP": 200,
+      "bytes": 68894
+    },
+    {
+      "id": "cerebro-del-nino",
+      "archivo": "docs/assets/cerebro-del-nino-BMPFjNdo.webp",
+      "estadoHTTP": 200,
+      "bytes": 42942
+    },
+    {
+      "id": "cerebro-femenino",
+      "archivo": "docs/assets/cerebro-femenino-DkapuhHA.webp",
+      "estadoHTTP": 200,
+      "bytes": 45344
+    },
+    {
+      "id": "cerebro-hambriento",
+      "archivo": "docs/assets/cerebro-hambriento-DYAqKmOu.webp",
+      "estadoHTTP": 200,
+      "bytes": 49248
+    },
+    {
+      "id": "cerebro-idiota",
+      "archivo": "docs/assets/portadas-aportadas/cerebro-idiota-100ffff2bf.webp",
+      "estadoHTTP": 200,
+      "bytes": 940840
+    },
+    {
+      "id": "cero-a-uno",
+      "archivo": "docs/assets/cero-a-uno-VtXJWpSo.webp",
+      "estadoHTTP": 200,
+      "bytes": 52452
+    },
+    {
+      "id": "charla-kross",
+      "archivo": "docs/assets/portadas-generadas/charla-kross-c075546b84.webp",
+      "estadoHTTP": 200,
+      "bytes": 911428
+    },
+    {
+      "id": "charlas-ted",
+      "archivo": "docs/assets/portadas-generadas/charlas-ted-e2864b02df.webp",
+      "estadoHTTP": 200,
+      "bytes": 862438
+    },
+    {
+      "id": "chico-pijama",
+      "archivo": "docs/assets/chico-pijama-BGw6XNLM.webp",
+      "estadoHTTP": 200,
+      "bytes": 55754
+    },
+    {
+      "id": "chingona-dinero",
+      "archivo": "docs/assets/chingona-dinero-KdVkXFuz.webp",
+      "estadoHTTP": 200,
+      "bytes": 75928
+    },
+    {
+      "id": "cien-anos",
+      "archivo": "docs/assets/cien-anos-DS_WFODZ.webp",
+      "estadoHTTP": 200,
+      "bytes": 54920
+    },
+    {
+      "id": "ciencia-de-la-felicidad",
+      "archivo": "docs/assets/portadas-generadas/ciencia-de-la-felicidad-56a518ec4e.webp",
+      "estadoHTTP": 200,
+      "bytes": 148540
+    },
+    {
+      "id": "ciencia-de-la-gente",
+      "archivo": "docs/assets/portadas-generadas/ciencia-de-la-gente-3252cf29be.webp",
+      "estadoHTTP": 200,
+      "bytes": 173940
+    },
+    {
+      "id": "ciencia-hacerse-rico",
+      "archivo": "docs/assets/portadas-generadas/ciencia-hacerse-rico-6989767395.webp",
+      "estadoHTTP": 200,
+      "bytes": 1076754
+    },
+    {
+      "id": "cientifico-espacial",
+      "archivo": "docs/assets/cientifico-espacial-jXs5I-g2.webp",
+      "estadoHTTP": 200,
+      "bytes": 60032
+    },
+    {
+      "id": "cinco-arrepentimientos",
+      "archivo": "docs/assets/portadas-generadas/cinco-arrepentimientos-4e4886a74f.webp",
+      "estadoHTTP": 200,
+      "bytes": 1013222
+    },
+    {
+      "id": "cinco-disfunciones",
+      "archivo": "docs/assets/portadas-generadas/cinco-disfunciones-4b6eec5974.webp",
+      "estadoHTTP": 200,
+      "bytes": 1066880
+    },
+    {
+      "id": "cinco-heridas",
+      "archivo": "docs/assets/cinco-heridas-DLDqMNv2.webp",
+      "estadoHTTP": 200,
+      "bytes": 58318
+    },
+    {
+      "id": "cinco-personas-cielo",
+      "archivo": "docs/assets/portadas-generadas/cinco-personas-cielo-b921003e47.webp",
+      "estadoHTTP": 200,
+      "bytes": 1184330
+    },
+    {
+      "id": "cinco-tipos-riqueza",
+      "archivo": "docs/assets/portadas-generadas/cinco-tipos-riqueza-3e74da4b6b.webp",
+      "estadoHTTP": 200,
+      "bytes": 896856
+    },
+    {
+      "id": "cisne-negro",
+      "archivo": "docs/assets/cisne-negro-DrTrrXHG.webp",
+      "estadoHTTP": 200,
+      "bytes": 55090
+    },
+    {
+      "id": "claves-del-talento",
+      "archivo": "docs/assets/portadas-generadas/claves-del-talento-f7b1cdfe57.webp",
+      "estadoHTTP": 200,
+      "bytes": 142562
+    },
+    {
+      "id": "cleopatra-schiff",
+      "archivo": "docs/assets/portadas-generadas/cleopatra-schiff-72430d8a54.webp",
+      "estadoHTTP": 200,
+      "bytes": 921656
+    },
+    {
+      "id": "club-5-manana",
+      "archivo": "docs/assets/club-5-manana-CAW60fbQ.webp",
+      "estadoHTTP": 200,
+      "bytes": 43948
+    },
+    {
+      "id": "codigo-da-vinci",
+      "archivo": "docs/assets/codigo-da-vinci-Bk2RiDwO.webp",
+      "estadoHTTP": 200,
+      "bytes": 56760
+    },
+    {
+      "id": "codigo-obesidad",
+      "archivo": "docs/assets/codigo-obesidad-BwiIWArV.webp",
+      "estadoHTTP": 200,
+      "bytes": 56472
+    },
+    {
+      "id": "colapso",
+      "archivo": "docs/assets/portadas-aportadas/colapso-9f440cd948.webp",
+      "estadoHTTP": 200,
+      "bytes": 1022758
+    },
+    {
+      "id": "come-comida-real",
+      "archivo": "docs/assets/come-comida-real-DRNlTxkK.webp",
+      "estadoHTTP": 200,
+      "bytes": 74600
+    },
+    {
+      "id": "come-reza-ama",
+      "archivo": "docs/assets/come-reza-ama-B82hUNxc.webp",
+      "estadoHTTP": 200,
+      "bytes": 54714
+    },
+    {
+      "id": "comer-para-no-morir",
+      "archivo": "docs/assets/portadas-generadas/comer-para-no-morir-91218ee201.webp",
+      "estadoHTTP": 200,
+      "bytes": 174010
+    },
+    {
+      "id": "como-cambiar",
+      "archivo": "docs/assets/portadas-generadas/como-cambiar-af1e575d9d.webp",
+      "estadoHTTP": 200,
+      "bytes": 905404
+    },
+    {
+      "id": "como-cambiar-tu-mente",
+      "archivo": "docs/assets/portadas-generadas/como-cambiar-tu-mente-726e863661.webp",
+      "estadoHTTP": 200,
+      "bytes": 137936
+    },
+    {
+      "id": "como-hablar-con-cualquiera",
+      "archivo": "docs/assets/portadas-generadas/como-hablar-con-cualquiera-bc3528b93a.webp",
+      "estadoHTTP": 200,
+      "bytes": 161414
+    },
+    {
+      "id": "como-hacerse-rico-dennis",
+      "archivo": "docs/assets/portadas-generadas/como-hacerse-rico-dennis-d77e9d8482.webp",
+      "estadoHTTP": 200,
+      "bytes": 132604
+    },
+    {
+      "id": "como-leer-un-libro",
+      "archivo": "docs/assets/portadas-generadas/como-leer-un-libro-ddb4d537f9.webp",
+      "estadoHTTP": 200,
+      "bytes": 119762
+    },
+    {
+      "id": "como-llegamos-aqui",
+      "archivo": "docs/assets/como-llegamos-aqui-BmAvbJz2.webp",
+      "estadoHTTP": 200,
+      "bytes": 47970
+    },
+    {
+      "id": "como-mediras-tu-vida",
+      "archivo": "docs/assets/portadas-aportadas/como-mediras-tu-vida-9634dd1bbc.webp",
+      "estadoHTTP": 200,
+      "bytes": 1032786
+    },
+    {
+      "id": "como-ser-estoico",
+      "archivo": "docs/assets/portadas-generadas/como-ser-estoico-1630a7c1fe.webp",
+      "estadoHTTP": 200,
+      "bytes": 939944
+    },
+    {
+      "id": "como-ser-perfecto",
+      "archivo": "docs/assets/portadas-aportadas/como-ser-perfecto-8b1bf25aa9.webp",
+      "estadoHTTP": 200,
+      "bytes": 972660
+    },
+    {
+      "id": "como-un-hombre-piensa",
+      "archivo": "docs/assets/portadas-aportadas/como-un-hombre-piensa-2d4155e66f.webp",
+      "estadoHTTP": 200,
+      "bytes": 953028
+    },
+    {
+      "id": "comprar-felicidad",
+      "archivo": "docs/assets/comprar-felicidad-pG37kLvv.webp",
+      "estadoHTTP": 200,
+      "bytes": 55336
+    },
+    {
+      "id": "comunicacion-no-violenta",
+      "archivo": "docs/assets/comunicacion-no-violenta-TTzek2rt.webp",
+      "estadoHTTP": 200,
+      "bytes": 55270
+    },
+    {
+      "id": "conexiones-perdidas",
+      "archivo": "docs/assets/portadas-generadas/conexiones-perdidas-1ebd1308be.webp",
+      "estadoHTTP": 200,
+      "bytes": 135692
+    },
+    {
+      "id": "confesiones-chef",
+      "archivo": "docs/assets/confesiones-chef-Bm6taCb4.webp",
+      "estadoHTTP": 200,
+      "bytes": 49324
+    },
+    {
+      "id": "conquista-felicidad",
+      "archivo": "docs/assets/portadas-generadas/conquista-felicidad-5125be88ec.webp",
+      "estadoHTTP": 200,
+      "bytes": 117750
+    },
+    {
+      "id": "contagioso",
+      "archivo": "docs/assets/contagioso-CEnc5gS1.webp",
+      "estadoHTTP": 200,
+      "bytes": 36982
+    },
+    {
+      "id": "contrato-social",
+      "archivo": "docs/assets/contrato-social-CIue6Uis.webp",
+      "estadoHTTP": 200,
+      "bytes": 44940
+    },
+    {
+      "id": "controlar-la-ansiedad",
+      "archivo": "docs/assets/portadas-generadas/controlar-la-ansiedad-b395ffa384.webp",
+      "estadoHTTP": 200,
+      "bytes": 167296
+    },
+    {
+      "id": "conversaciones-cruciales",
+      "archivo": "docs/assets/conversaciones-cruciales-CU5kyo8q.webp",
+      "estadoHTTP": 200,
+      "bytes": 51472
+    },
+    {
+      "id": "cosas-buenas",
+      "archivo": "docs/assets/cosas-buenas-CzVmjIsL.webp",
+      "estadoHTTP": 200,
+      "bytes": 45652
+    },
+    {
+      "id": "cosmos",
+      "archivo": "docs/assets/portadas-generadas/cosmos-5bfff5a2da.webp",
+      "estadoHTTP": 200,
+      "bytes": 940336
+    },
+    {
+      "id": "creatividad-sa",
+      "archivo": "docs/assets/creatividad-sa-B6jdJSGy.webp",
+      "estadoHTTP": 200,
+      "bytes": 48730
+    },
+    {
+      "id": "crimen-castigo",
+      "archivo": "docs/assets/crimen-castigo-B0QcOIJA.webp",
+      "estadoHTTP": 200,
+      "bytes": 46874
+    },
+    {
+      "id": "cronica-muerte-anunciada",
+      "archivo": "docs/assets/cronica-muerte-anunciada-w6mBlc9j.webp",
+      "estadoHTTP": 200,
+      "bytes": 46578
+    },
+    {
+      "id": "cruyff-14",
+      "archivo": "docs/assets/cruyff-14-DSob07fC.webp",
+      "estadoHTTP": 200,
+      "bytes": 36726
+    },
+    {
+      "id": "cuadrante-flujo",
+      "archivo": "docs/assets/cuadrante-flujo-BBmRf8Sm.webp",
+      "estadoHTTP": 200,
+      "bytes": 59120
+    },
+    {
+      "id": "cuando-cuerpo-dice-no",
+      "archivo": "docs/assets/portadas-generadas/cuando-cuerpo-dice-no-961d65e03b.webp",
+      "estadoHTTP": 200,
+      "bytes": 124566
+    },
+    {
+      "id": "cuando-digo-no",
+      "archivo": "docs/assets/portadas-generadas/cuando-digo-no-43a59e6ad3.webp",
+      "estadoHTTP": 200,
+      "bytes": 123522
+    },
+    {
+      "id": "cuando-pink",
+      "archivo": "docs/assets/portadas-aportadas/cuando-pink-f1b24899bb.webp",
+      "estadoHTTP": 200,
+      "bytes": 996354
+    },
+    {
+      "id": "cuando-todo-se-derrumba",
+      "archivo": "docs/assets/portadas-generadas/cuando-todo-se-derrumba-cda7fe5c8a.webp",
+      "estadoHTTP": 200,
+      "bytes": 897280
+    },
+    {
+      "id": "cuatro-acuerdos",
+      "archivo": "docs/assets/cuatro-acuerdos-fMePDxju.webp",
+      "estadoHTTP": 200,
+      "bytes": 36566
+    },
+    {
+      "id": "cuatro-mil-semanas",
+      "archivo": "docs/assets/cuatro-mil-semanas-KrzOQFXP.webp",
+      "estadoHTTP": 200,
+      "bytes": 36858
+    },
+    {
+      "id": "cuatro-pilares-inversion",
+      "archivo": "docs/assets/cuatro-pilares-inversion-e5NKTD1D.webp",
+      "estadoHTTP": 200,
+      "bytes": 60032
+    },
+    {
+      "id": "cuchara-menguante",
+      "archivo": "docs/assets/portadas-generadas/cuchara-menguante-a8536df48c.webp",
+      "estadoHTTP": 200,
+      "bytes": 942400
+    },
+    {
+      "id": "cuento-de-navidad",
+      "archivo": "docs/assets/portadas-generadas/cuento-de-navidad-23dc8bdb76.webp",
+      "estadoHTTP": 200,
+      "bytes": 951122
+    },
+    {
+      "id": "cuentos-poe",
+      "archivo": "docs/assets/cuentos-poe-BKpgngxB.webp",
+      "estadoHTTP": 200,
+      "bytes": 54814
+    },
+    {
+      "id": "cuerpo-4-horas",
+      "archivo": "docs/assets/cuerpo-4-horas-D4EUW7gK.webp",
+      "estadoHTTP": 200,
+      "bytes": 54426
+    },
+    {
+      "id": "cuerpo-cuenta",
+      "archivo": "docs/assets/cuerpo-cuenta-zESPxKj8.webp",
+      "estadoHTTP": 200,
+      "bytes": 52944
+    },
+    {
+      "id": "cumbres-borrascosas",
+      "archivo": "docs/assets/cumbres-borrascosas-CPPTynA7.webp",
+      "estadoHTTP": 200,
+      "bytes": 48552
+    },
+    {
+      "id": "curioso-incidente-perro",
+      "archivo": "docs/assets/portadas-generadas/curioso-incidente-perro-1d4ba342f6.webp",
+      "estadoHTTP": 200,
+      "bytes": 1117742
+    },
+    {
+      "id": "dar-y-recibir",
+      "archivo": "docs/assets/dar-y-recibir-DvTg3iM2.webp",
+      "estadoHTTP": 200,
+      "bytes": 49326
+    },
+    {
+      "id": "david-y-goliat",
+      "archivo": "docs/assets/portadas-generadas/david-y-goliat-e15fb94a9f.webp",
+      "estadoHTTP": 200,
+      "bytes": 98646
+    },
+    {
+      "id": "de-fortaleza-en-fortaleza",
+      "archivo": "docs/assets/portadas-generadas/de-fortaleza-en-fortaleza-b22388e259.webp",
+      "estadoHTTP": 200,
+      "bytes": 119430
+    },
+    {
+      "id": "de-que-color-paracaidas",
+      "archivo": "docs/assets/portadas-generadas/de-que-color-paracaidas-8293c729b7.webp",
+      "estadoHTTP": 200,
+      "bytes": 948696
+    },
+    {
+      "id": "debo-quedarme-o-irme",
+      "archivo": "docs/assets/portadas-generadas/debo-quedarme-o-irme-52341f5cdb.webp",
+      "estadoHTTP": 200,
+      "bytes": 115834
+    },
+    {
+      "id": "decidete",
+      "archivo": "docs/assets/portadas-generadas/decidete-b904c9e34b.webp",
+      "estadoHTTP": 200,
+      "bytes": 134538
+    },
+    {
+      "id": "deja-de-chingarte",
+      "archivo": "docs/assets/portadas-aportadas/deja-de-chingarte-ed97811210.webp",
+      "estadoHTTP": 200,
+      "bytes": 910570
+    },
+    {
+      "id": "deja-de-ser-tu",
+      "archivo": "docs/assets/deja-de-ser-tu-CZeFQgyD.webp",
+      "estadoHTTP": 200,
+      "bytes": 53900
+    },
+    {
+      "id": "dejame-que-te-cuente",
+      "archivo": "docs/assets/portadas-generadas/dejame-que-te-cuente-06418ce4d2.webp",
+      "estadoHTTP": 200,
+      "bytes": 210662
+    },
+    {
+      "id": "delivering-happiness",
+      "archivo": "docs/assets/portadas-generadas/delivering-happiness-cb280d3706.webp",
+      "estadoHTTP": 200,
+      "bytes": 152382
+    },
+    {
+      "id": "desafio-total",
+      "archivo": "docs/assets/portadas-generadas/desafio-total-3b504e6351.webp",
+      "estadoHTTP": 200,
+      "bytes": 132812
+    },
+    {
+      "id": "desafios-de-la-memoria",
+      "archivo": "docs/assets/portadas-generadas/desafios-de-la-memoria-818bc28845.webp",
+      "estadoHTTP": 200,
+      "bytes": 119376
+    },
+    {
+      "id": "descansa",
+      "archivo": "docs/assets/descansa-cEGlMH_9.webp",
+      "estadoHTTP": 200,
+      "bytes": 53622
+    },
+    {
+      "id": "despertando-gigante",
+      "archivo": "docs/assets/despertando-gigante-B5joyi0_.webp",
+      "estadoHTTP": 200,
+      "bytes": 45628
+    },
+    {
+      "id": "despertares",
+      "archivo": "docs/assets/portadas-aportadas/despertares-4d18cf2cdd.webp",
+      "estadoHTTP": 200,
+      "bytes": 1053964
+    },
+    {
+      "id": "determinacion",
+      "archivo": "docs/assets/portadas-generadas/determinacion-41410e91ed.webp",
+      "estadoHTTP": 200,
+      "bytes": 1348632
+    },
+    {
+      "id": "diablo-de-los-numeros",
+      "archivo": "docs/assets/portadas-generadas/diablo-de-los-numeros-1ae3dbde99.webp",
+      "estadoHTTP": 200,
+      "bytes": 1027002
+    },
+    {
+      "id": "diario-ana-frank",
+      "archivo": "docs/assets/diario-ana-frank-DF4At4PF.webp",
+      "estadoHTTP": 200,
+      "bytes": 47946
+    },
+    {
+      "id": "diario-de-un-ceo",
+      "archivo": "docs/assets/portadas-generadas/diario-de-un-ceo-3e171d57a1.webp",
+      "estadoHTTP": 200,
+      "bytes": 102672
+    },
+    {
+      "id": "diarios-frida",
+      "archivo": "docs/assets/diarios-frida-BlusFO_c.webp",
+      "estadoHTTP": 200,
+      "bytes": 50728
+    },
+    {
+      "id": "dieta-cojea",
+      "archivo": "docs/assets/dieta-cojea-BibIDLvE.webp",
+      "estadoHTTP": 200,
+      "bytes": 48908
+    },
+    {
+      "id": "dieta-longevidad",
+      "archivo": "docs/assets/portadas-generadas/dieta-longevidad-ed7569d538.webp",
+      "estadoHTTP": 200,
+      "bytes": 121736
+    },
+    {
+      "id": "dieta-ya-no-cojea",
+      "archivo": "docs/assets/dieta-ya-no-cojea-CgpXHVj5.webp",
+      "estadoHTTP": 200,
+      "bytes": 51834
+    },
+    {
+      "id": "digestion-cuestion",
+      "archivo": "docs/assets/digestion-cuestion-CaIMnZEm.webp",
+      "estadoHTTP": 200,
+      "bytes": 70116
+    },
+    {
+      "id": "dignos-de-ser-humanos",
+      "archivo": "docs/assets/portadas-generadas/dignos-de-ser-humanos-a0f9acd188.webp",
+      "estadoHTTP": 200,
+      "bytes": 125580
+    },
+    {
+      "id": "dilema-del-innovador",
+      "archivo": "docs/assets/portadas-generadas/dilema-del-innovador-4cc0e6c737.webp",
+      "estadoHTTP": 200,
+      "bytes": 910992
+    },
+    {
+      "id": "dilema-omnivoro",
+      "archivo": "docs/assets/dilema-omnivoro-SZvsXF-8.webp",
+      "estadoHTTP": 200,
+      "bytes": 59404
+    },
+    {
+      "id": "dinero-domina-juego",
+      "archivo": "docs/assets/dinero-domina-juego-DvgaJt19.webp",
+      "estadoHTTP": 200,
+      "bytes": 54874
+    },
+    {
+      "id": "disciplina-es-destino",
+      "archivo": "docs/assets/portadas-generadas/disciplina-es-destino-496642a9ef.webp",
+      "estadoHTTP": 200,
+      "bytes": 1363872
+    },
+    {
+      "id": "disciplina-sin-lagrimas",
+      "archivo": "docs/assets/portadas-generadas/disciplina-sin-lagrimas-62d2ea654d.webp",
+      "estadoHTTP": 200,
+      "bytes": 111054
+    },
+    {
+      "id": "discurso-metodo",
+      "archivo": "docs/assets/discurso-metodo-Bs6QjEC0.webp",
+      "estadoHTTP": 200,
+      "bytes": 37434
+    },
+    {
+      "id": "disena-tu-vida",
+      "archivo": "docs/assets/portadas-generadas/disena-tu-vida-3c4619ac23.webp",
+      "estadoHTTP": 200,
+      "bytes": 981794
+    },
+    {
+      "id": "doble-helice",
+      "archivo": "docs/assets/doble-helice-cfEme8X7.webp",
+      "estadoHTTP": 200,
+      "bytes": 65576
+    },
+    {
+      "id": "doctrina-shock",
+      "archivo": "docs/assets/portadas-generadas/doctrina-shock-2e68976bcc.webp",
+      "estadoHTTP": 200,
+      "bytes": 1021206
+    },
+    {
+      "id": "don-del-miedo",
+      "archivo": "docs/assets/portadas-generadas/don-del-miedo-3c8f55cceb.webp",
+      "estadoHTTP": 200,
+      "bytes": 178222
+    },
+    {
+      "id": "don-sensibilidad",
+      "archivo": "docs/assets/portadas-generadas/don-sensibilidad-014c0de580.webp",
+      "estadoHTTP": 200,
+      "bytes": 898654
+    },
+    {
+      "id": "dones-de-la-imperfeccion",
+      "archivo": "docs/assets/portadas-generadas/dones-de-la-imperfeccion-a2742beb34.webp",
+      "estadoHTTP": 200,
+      "bytes": 198422
+    },
+    {
+      "id": "dopamina-lieberman",
+      "archivo": "docs/assets/dopamina-lieberman-D21SDhRu.webp",
+      "estadoHTTP": 200,
+      "bytes": 48954
+    },
+    {
+      "id": "dopamina-nacion",
+      "archivo": "docs/assets/portadas-generadas/dopamina-nacion-4be9fa4a49.webp",
+      "estadoHTTP": 200,
+      "bytes": 1074142
+    },
+    {
+      "id": "dorian-gray",
+      "archivo": "docs/assets/dorian-gray-uSd9dr35.webp",
+      "estadoHTTP": 200,
+      "bytes": 56380
+    },
+    {
+      "id": "dracula",
+      "archivo": "docs/assets/dracula-ChxD47WG.webp",
+      "estadoHTTP": 200,
+      "bytes": 47870
+    },
+    {
+      "id": "duenos-responsabilidad",
+      "archivo": "docs/assets/portadas-generadas/duenos-responsabilidad-1cbf3fade8.webp",
+      "estadoHTTP": 200,
+      "bytes": 144818
+    },
+    {
+      "id": "economista-camuflado",
+      "archivo": "docs/assets/portadas-generadas/economista-camuflado-7ec080b84e.webp",
+      "estadoHTTP": 200,
+      "bytes": 922166
+    },
+    {
+      "id": "educada",
+      "archivo": "docs/assets/portadas-generadas/educada-ca76be9fd5.webp",
+      "estadoHTTP": 200,
+      "bytes": 1040970
+    },
+    {
+      "id": "educar-en-el-asombro",
+      "archivo": "docs/assets/portadas-generadas/educar-en-el-asombro-dc94b84ae8.webp",
+      "estadoHTTP": 200,
+      "bytes": 154198
+    },
+    {
+      "id": "efecto-compuesto",
+      "archivo": "docs/assets/efecto-compuesto-BX055Lm7.webp",
+      "estadoHTTP": 200,
+      "bytes": 75734
+    },
+    {
+      "id": "efecto-lucifer",
+      "archivo": "docs/assets/portadas-generadas/efecto-lucifer-2ea88c51c9.webp",
+      "estadoHTTP": 200,
+      "bytes": 246256
+    },
+    {
+      "id": "ego-es-el-enemigo",
+      "archivo": "docs/assets/ego-es-el-enemigo-CorksxEU.webp",
+      "estadoHTTP": 200,
+      "bytes": 82734
+    },
+    {
+      "id": "eichmann-jerusalen",
+      "archivo": "docs/assets/eichmann-jerusalen-B1YTtf1H.webp",
+      "estadoHTTP": 200,
+      "bytes": 45062
+    },
+    {
+      "id": "einstein",
+      "archivo": "docs/assets/portadas-generadas/einstein-ef3b094725.webp",
+      "estadoHTTP": 200,
+      "bytes": 1085522
+    },
+    {
+      "id": "el-cerebro",
+      "archivo": "docs/assets/el-cerebro-fnrj6eC-.webp",
+      "estadoHTTP": 200,
+      "bytes": 52748
+    },
+    {
+      "id": "el-cuerpo-bryson",
+      "archivo": "docs/assets/portadas-generadas/el-cuerpo-bryson-fb90af1ab9.webp",
+      "estadoHTTP": 200,
+      "bytes": 955196
+    },
+    {
+      "id": "el-elemento",
+      "archivo": "docs/assets/el-elemento-Cxh2vHO_.webp",
+      "estadoHTTP": 200,
+      "bytes": 52098
+    },
+    {
+      "id": "el-gran-farol",
+      "archivo": "docs/assets/portadas-generadas/el-gran-farol-793b0bec50.webp",
+      "estadoHTTP": 200,
+      "bytes": 931326
+    },
+    {
+      "id": "el-marciano",
+      "archivo": "docs/assets/portadas-generadas/el-marciano-1ca52533a0.webp",
+      "estadoHTTP": 200,
+      "bytes": 931986
+    },
+    {
+      "id": "el-metodo-strauss",
+      "archivo": "docs/assets/portadas-generadas/el-metodo-strauss-fa93f3d8e7.webp",
+      "estadoHTTP": 200,
+      "bytes": 177220
+    },
+    {
+      "id": "el-proceso",
+      "archivo": "docs/assets/el-proceso-91USPBd6.webp",
+      "estadoHTTP": 200,
+      "bytes": 40832
+    },
+    {
+      "id": "el-profeta",
+      "archivo": "docs/assets/portadas-generadas/el-profeta-2411fe5746.webp",
+      "estadoHTTP": 200,
+      "bytes": 898366
+    },
+    {
+      "id": "el-regalo-eger",
+      "archivo": "docs/assets/portadas-generadas/el-regalo-eger-678df62370.webp",
+      "estadoHTTP": 200,
+      "bytes": 134980
+    },
+    {
+      "id": "el-tunel",
+      "archivo": "docs/assets/el-tunel-CjrsPn07.webp",
+      "estadoHTTP": 200,
+      "bytes": 35528
+    },
+    {
+      "id": "elefante-en-el-cerebro",
+      "archivo": "docs/assets/portadas-generadas/elefante-en-el-cerebro-cc80669ffc.webp",
+      "estadoHTTP": 200,
+      "bytes": 115832
+    },
+    {
+      "id": "elegancia-erizo",
+      "archivo": "docs/assets/elegancia-erizo-CuXH7XGO.webp",
+      "estadoHTTP": 200,
+      "bytes": 51442
+    },
+    {
+      "id": "elon-musk",
+      "archivo": "docs/assets/elon-musk-D2RjNrK3.webp",
+      "estadoHTTP": 200,
+      "bytes": 49118
+    },
+    {
+      "id": "emperador-males",
+      "archivo": "docs/assets/portadas-generadas/emperador-males-e28567a7e3.webp",
+      "estadoHTTP": 200,
+      "bytes": 1103826
+    },
+    {
+      "id": "empieza-porque",
+      "archivo": "docs/assets/empieza-porque-BunmAsfU.webp",
+      "estadoHTTP": 200,
+      "bytes": 60154
+    },
+    {
+      "id": "empresas-sobresalen",
+      "archivo": "docs/assets/portadas-generadas/empresas-sobresalen-595109e050.webp",
+      "estadoHTTP": 200,
+      "bytes": 930616
+    },
+    {
+      "id": "en-defensa-de-la-comida",
+      "archivo": "docs/assets/portadas-generadas/en-defensa-de-la-comida-7eef70d4b6.webp",
+      "estadoHTTP": 200,
+      "bytes": 1263344
+    },
+    {
+      "id": "en-forma-por-naturaleza",
+      "archivo": "docs/assets/portadas-generadas/en-forma-por-naturaleza-f20db0fdae.webp",
+      "estadoHTTP": 200,
+      "bytes": 951738
+    },
+    {
+      "id": "en-la-sombra",
+      "archivo": "docs/assets/en-la-sombra-PMgBpGzW.webp",
+      "estadoHTTP": 200,
+      "bytes": 39450
+    },
+    {
+      "id": "enamorate-de-ti",
+      "archivo": "docs/assets/enamorate-de-ti-DGYMcJEw.webp",
+      "estadoHTTP": 200,
+      "bytes": 49456
+    },
+    {
+      "id": "endurance-shackleton",
+      "archivo": "docs/assets/portadas-generadas/endurance-shackleton-168aa39578.webp",
+      "estadoHTTP": 200,
+      "bytes": 930932
+    },
+    {
+      "id": "endure-hutchinson",
+      "archivo": "docs/assets/portadas-generadas/endure-hutchinson-195d71b617.webp",
+      "estadoHTTP": 200,
+      "bytes": 972334
+    },
+    {
+      "id": "enganchado",
+      "archivo": "docs/assets/portadas-generadas/enganchado-aac7e20286.webp",
+      "estadoHTTP": 200,
+      "bytes": 106152
+    },
+    {
+      "id": "enigma-de-fermat",
+      "archivo": "docs/assets/portadas-generadas/enigma-de-fermat-af218db01f.webp",
+      "estadoHTTP": 200,
+      "bytes": 934124
+    },
+    {
+      "id": "enquiridion",
+      "archivo": "docs/assets/enquiridion-CkqPhoHw.webp",
+      "estadoHTTP": 200,
+      "bytes": 44368
+    },
+    {
+      "id": "ensayos-montaigne",
+      "archivo": "docs/assets/portadas-generadas/ensayos-montaigne-a7d44411ee.webp",
+      "estadoHTTP": 200,
+      "bytes": 971140
+    },
+    {
+      "id": "ensenare-ser-rico",
+      "archivo": "docs/assets/portadas-generadas/ensenare-ser-rico-6975fa65df.webp",
+      "estadoHTTP": 200,
+      "bytes": 1008584
+    },
+    {
+      "id": "entre-dos-reinos",
+      "archivo": "docs/assets/entre-dos-reinos-CuCl3yK5.webp",
+      "estadoHTTP": 200,
+      "bytes": 46096
+    },
+    {
+      "id": "enzima-prodigiosa",
+      "archivo": "docs/assets/portadas-generadas/enzima-prodigiosa-2aeb5d891c.webp",
+      "estadoHTTP": 200,
+      "bytes": 152390
+    },
+    {
+      "id": "equipo-rivales",
+      "archivo": "docs/assets/equipo-rivales-Clw1zlYV.webp",
+      "estadoHTTP": 200,
+      "bytes": 43808
+    },
+    {
+      "id": "eres-un-chingon",
+      "archivo": "docs/assets/portadas-generadas/eres-un-chingon-e58fe50213.webp",
+      "estadoHTTP": 200,
+      "bytes": 128082
+    },
+    {
+      "id": "errores-que-errores",
+      "archivo": "docs/assets/portadas-generadas/errores-que-errores-31b614bd8d.webp",
+      "estadoHTTP": 200,
+      "bytes": 126126
+    },
+    {
+      "id": "es-facil-dejar-de-fumar",
+      "archivo": "docs/assets/portadas-generadas/es-facil-dejar-de-fumar-dd7b5b4ead.webp",
+      "estadoHTTP": 200,
+      "bytes": 129698
+    },
+    {
+      "id": "esencialismo",
+      "archivo": "docs/assets/esencialismo-DkoPkF9t.webp",
+      "estadoHTTP": 200,
+      "bytes": 60806
+    },
+    {
+      "id": "espia-traidor",
+      "archivo": "docs/assets/espia-traidor-ClBSIfiB.webp",
+      "estadoHTTP": 200,
+      "bytes": 37626
+    },
+    {
+      "id": "esta-bien-no-estar-bien",
+      "archivo": "docs/assets/portadas-generadas/esta-bien-no-estar-bien-8a0c974493.webp",
+      "estadoHTTP": 200,
+      "bytes": 910116
+    },
+    {
+      "id": "esto-es-marketing",
+      "archivo": "docs/assets/portadas-generadas/esto-es-marketing-82296d0e05.webp",
+      "estadoHTTP": 200,
+      "bytes": 927916
+    },
+    {
+      "id": "estres-el-lado-bueno",
+      "archivo": "docs/assets/portadas-aportadas/estres-el-lado-bueno-8784137d6e.webp",
+      "estadoHTTP": 200,
+      "bytes": 895474
+    },
+    {
+      "id": "etica-amador",
+      "archivo": "docs/assets/etica-amador-wNa-BGAb.webp",
+      "estadoHTTP": 200,
+      "bytes": 48730
+    },
+    {
+      "id": "etica-nicomaco",
+      "archivo": "docs/assets/etica-nicomaco-BB-58Qhn.webp",
+      "estadoHTTP": 200,
+      "bytes": 35728
+    },
+    {
+      "id": "existencialismo-humanismo",
+      "archivo": "docs/assets/existencialismo-humanismo-Cy87prY-.webp",
+      "estadoHTTP": 200,
+      "bytes": 49206
+    },
+    {
+      "id": "extranjero",
+      "archivo": "docs/assets/extranjero-BMwSdQys.webp",
+      "estadoHTTP": 200,
+      "bytes": 38186
+    },
+    {
+      "id": "factfulness",
+      "archivo": "docs/assets/factfulness-CPU9imQc.webp",
+      "estadoHTTP": 200,
+      "bytes": 60304
+    },
+    {
+      "id": "fahrenheit",
+      "archivo": "docs/assets/fahrenheit-CzYzlJrf.webp",
+      "estadoHTTP": 200,
+      "bytes": 36598
+    },
+    {
+      "id": "fantasma-rey-leopoldo",
+      "archivo": "docs/assets/portadas-aportadas/fantasma-rey-leopoldo-24ee9e50a7.webp",
+      "estadoHTTP": 200,
+      "bytes": 992670
+    },
+    {
+      "id": "felicidad-como-ventaja",
+      "archivo": "docs/assets/portadas-generadas/felicidad-como-ventaja-1f9a3833a2.webp",
+      "estadoHTTP": 200,
+      "bytes": 114170
+    },
+    {
+      "id": "feynman",
+      "archivo": "docs/assets/portadas-generadas/feynman-e80dd7a09a.webp",
+      "estadoHTTP": 200,
+      "bytes": 975164
+    },
+    {
+      "id": "fiambres",
+      "archivo": "docs/assets/portadas-generadas/fiambres-4809453f8c.webp",
+      "estadoHTTP": 200,
+      "bytes": 912966
+    },
+    {
+      "id": "fiebre-gradas",
+      "archivo": "docs/assets/fiebre-gradas-DPDKzdMY.webp",
+      "estadoHTTP": 200,
+      "bytes": 65002
+    },
+    {
+      "id": "filosofo-griego",
+      "archivo": "docs/assets/portadas-generadas/filosofo-griego-9d6f065265.webp",
+      "estadoHTTP": 200,
+      "bytes": 1633064
+    },
+    {
+      "id": "finanzas-para-chicas-listas",
+      "archivo": "docs/assets/finanzas-para-chicas-listas-DNNe2x1-.webp",
+      "estadoHTTP": 200,
+      "bytes": 39898
+    },
+    {
+      "id": "flow",
+      "archivo": "docs/assets/portadas-generadas/flow-ed74f6caa7.webp",
+      "estadoHTTP": 200,
+      "bytes": 1057608
+    },
+    {
+      "id": "focus-goleman",
+      "archivo": "docs/assets/focus-goleman-BDcs6mkK.webp",
+      "estadoHTTP": 200,
+      "bytes": 34664
+    },
+    {
+      "id": "ford-vida-obra",
+      "archivo": "docs/assets/ford-vida-obra-CzPmBusX.webp",
+      "estadoHTTP": 200,
+      "bytes": 56266
+    },
+    {
+      "id": "frankenstein",
+      "archivo": "docs/assets/frankenstein-DWbizbJ8.webp",
+      "estadoHTTP": 200,
+      "bytes": 39034
+    },
+    {
+      "id": "freakonomics",
+      "archivo": "docs/assets/freakonomics-DAqyQltD.webp",
+      "estadoHTTP": 200,
+      "bytes": 71306
+    },
+    {
+      "id": "frida-herrera",
+      "archivo": "docs/assets/frida-herrera-DN4wk2gb.webp",
+      "estadoHTTP": 200,
+      "bytes": 50902
+    },
+    {
+      "id": "fuera-de-serie",
+      "archivo": "docs/assets/portadas-generadas/fuera-de-serie-aa7a21a1c8.webp",
+      "estadoHTTP": 200,
+      "bytes": 1017102
+    },
+    {
+      "id": "fuerza-de-voluntad",
+      "archivo": "docs/assets/portadas-generadas/fuerza-de-voluntad-0042bc4950.webp",
+      "estadoHTTP": 200,
+      "bytes": 122028
+    },
+    {
+      "id": "futbol-contra-enemigo",
+      "archivo": "docs/assets/futbol-contra-enemigo-CgFLHg_f.webp",
+      "estadoHTTP": 200,
+      "bytes": 59878
+    },
+    {
+      "id": "futbol-sol-sombra",
+      "archivo": "docs/assets/futbol-sol-sombra-pnQRkOg-.webp",
+      "estadoHTTP": 200,
+      "bytes": 41164
+    },
+    {
+      "id": "futuro-nuestra-mente",
+      "archivo": "docs/assets/portadas-generadas/futuro-nuestra-mente-52081b4bad.webp",
+      "estadoHTTP": 200,
+      "bytes": 1467368
+    },
+    {
+      "id": "gen-deportivo",
+      "archivo": "docs/assets/gen-deportivo-D-QWUnzQ.webp",
+      "estadoHTTP": 200,
+      "bytes": 41858
+    },
+    {
+      "id": "gen-egoista",
+      "archivo": "docs/assets/portadas-generadas/gen-egoista-4d37942b3f.webp",
+      "estadoHTTP": 200,
+      "bytes": 1048080
+    },
+    {
+      "id": "gen-historia",
+      "archivo": "docs/assets/portadas-generadas/gen-historia-86512c9b21.webp",
+      "estadoHTTP": 200,
+      "bytes": 967184
+    },
+    {
+      "id": "generacion-ansiosa",
+      "archivo": "docs/assets/portadas-generadas/generacion-ansiosa-75238db085.webp",
+      "estadoHTTP": 200,
+      "bytes": 137256
+    },
+    {
+      "id": "gente-exitosa-desayuno",
+      "archivo": "docs/assets/portadas-aportadas/gente-exitosa-desayuno-4cadb1e666.webp",
+      "estadoHTTP": 200,
+      "bytes": 987620
+    },
+    {
+      "id": "gente-toxica",
+      "archivo": "docs/assets/portadas-generadas/gente-toxica-374c64a568.webp",
+      "estadoHTTP": 200,
+      "bytes": 119162
+    },
+    {
+      "id": "gestiona-tu-dinero-adulto",
+      "archivo": "docs/assets/gestiona-tu-dinero-adulto-CVm6_AxP.webp",
+      "estadoHTTP": 200,
+      "bytes": 56228
+    },
+    {
+      "id": "gorila-invisible",
+      "archivo": "docs/assets/portadas-generadas/gorila-invisible-5cb1815cc3.webp",
+      "estadoHTTP": 200,
+      "bytes": 143178
+    },
+    {
+      "id": "gottman-pareja",
+      "archivo": "docs/assets/gottman-pareja-Nx_vbcGE.webp",
+      "estadoHTTP": 200,
+      "bytes": 46964
+    },
+    {
+      "id": "gran-gatsby",
+      "archivo": "docs/assets/gran-gatsby-DLo05JFe.webp",
+      "estadoHTTP": 200,
+      "bytes": 54684
+    },
+    {
+      "id": "guardian-centeno",
+      "archivo": "docs/assets/guardian-centeno-DVWsC0_g.webp",
+      "estadoHTTP": 200,
+      "bytes": 83786
+    },
+    {
+      "id": "guerra-arte",
+      "archivo": "docs/assets/guerra-arte-Dlm6KiV0.webp",
+      "estadoHTTP": 200,
+      "bytes": 44998
+    },
+    {
+      "id": "guerra-chips",
+      "archivo": "docs/assets/portadas-generadas/guerra-chips-2d965c8528.webp",
+      "estadoHTTP": 200,
+      "bytes": 978302
+    },
+    {
+      "id": "guerra-civil-thomas",
+      "archivo": "docs/assets/guerra-civil-thomas-Du6-wILA.webp",
+      "estadoHTTP": 200,
+      "bytes": 44754
+    },
+    {
+      "id": "guerra-y-paz",
+      "archivo": "docs/assets/guerra-y-paz-CH3zsldK.webp",
+      "estadoHTTP": 200,
+      "bytes": 43958
+    },
+    {
+      "id": "gulag",
+      "archivo": "docs/assets/gulag-Cm1YykTt.webp",
+      "estadoHTTP": 200,
+      "bytes": 41616
+    },
+    {
+      "id": "habitacion-propia",
+      "archivo": "docs/assets/portadas-generadas/habitacion-propia-dd9618fce6.webp",
+      "estadoHTTP": 200,
+      "bytes": 964166
+    },
+    {
+      "id": "habitos-atomicos",
+      "archivo": "docs/assets/habitos-atomicos-Dc4rB5JU.webp",
+      "estadoHTTP": 200,
+      "bytes": 142288
+    },
+    {
+      "id": "habitos-minimos",
+      "archivo": "docs/assets/portadas-generadas/habitos-minimos-0d687b4ead.webp",
+      "estadoHTTP": 200,
+      "bytes": 898806
+    },
+    {
+      "id": "habitos-para-ser-millonario",
+      "archivo": "docs/assets/portadas-generadas/habitos-para-ser-millonario-1f5d63ffd9.webp",
+      "estadoHTTP": 200,
+      "bytes": 156340
+    },
+    {
+      "id": "hablar-con-extranos",
+      "archivo": "docs/assets/portadas-generadas/hablar-con-extranos-47b75e66de.webp",
+      "estadoHTTP": 200,
+      "bytes": 131454
+    },
+    {
+      "id": "hable-como-en-ted",
+      "archivo": "docs/assets/portadas-generadas/hable-como-en-ted-051431f83e.webp",
+      "estadoHTTP": 200,
+      "bytes": 109332
+    },
+    {
+      "id": "hablo-correr",
+      "archivo": "docs/assets/hablo-correr-R6Ts-WYm.webp",
+      "estadoHTTP": 200,
+      "bytes": 48718
+    },
+    {
+      "id": "hacia-el-infinito",
+      "archivo": "docs/assets/hacia-el-infinito-gM176BnS.webp",
+      "estadoHTTP": 200,
+      "bytes": 56148
+    },
+    {
+      "id": "hacia-rutas-salvajes",
+      "archivo": "docs/assets/portadas-generadas/hacia-rutas-salvajes-68e6cb795b.webp",
+      "estadoHTTP": 200,
+      "bytes": 1167876
+    },
+    {
+      "id": "hambruna-mao",
+      "archivo": "docs/assets/hambruna-mao-Du7WWTEP.webp",
+      "estadoHTTP": 200,
+      "bytes": 65072
+    },
+    {
+      "id": "harry-potter-1",
+      "archivo": "docs/assets/harry-potter-1-DIGKvIQu.webp",
+      "estadoHTTP": 200,
+      "bytes": 49046
+    },
+    {
+      "id": "haz-cosas-dificiles",
+      "archivo": "docs/assets/haz-cosas-dificiles-DxDrTBcR.webp",
+      "estadoHTTP": 200,
+      "bytes": 53176
+    },
+    {
+      "id": "hazte-la-cama",
+      "archivo": "docs/assets/portadas-aportadas/hazte-la-cama-f1a54eb54a.webp",
+      "estadoHTTP": 200,
+      "bytes": 910732
+    },
+    {
+      "id": "henrietta-lacks",
+      "archivo": "docs/assets/portadas-generadas/henrietta-lacks-c94a5d6aac.webp",
+      "estadoHTTP": 200,
+      "bytes": 1072566
+    },
+    {
+      "id": "heroe-mil-caras",
+      "archivo": "docs/assets/heroe-mil-caras-DnPMyXLH.webp",
+      "estadoHTTP": 200,
+      "bytes": 47554
+    },
+    {
+      "id": "hiperenfoque",
+      "archivo": "docs/assets/portadas-generadas/hiperenfoque-c9fd63f3d2.webp",
+      "estadoHTTP": 200,
+      "bytes": 108894
+    },
+    {
+      "id": "historia-arte",
+      "archivo": "docs/assets/historia-arte-BEfrvVWq.webp",
+      "estadoHTTP": 200,
+      "bytes": 35696
+    },
+    {
+      "id": "historia-espana",
+      "archivo": "docs/assets/historia-espana-C_SKlYbh.webp",
+      "estadoHTTP": 200,
+      "bytes": 45270
+    },
+    {
+      "id": "historia-interminable",
+      "archivo": "docs/assets/historia-interminable-DG6c0DJd.webp",
+      "estadoHTTP": 200,
+      "bytes": 49416
+    },
+    {
+      "id": "historia-mundo-escepticos",
+      "archivo": "docs/assets/portadas-generadas/historia-mundo-escepticos-33c6ae367b.webp",
+      "estadoHTTP": 200,
+      "bytes": 160626
+    },
+    {
+      "id": "historia-mundo-objetos",
+      "archivo": "docs/assets/historia-mundo-objetos-BMlEFtyH.webp",
+      "estadoHTTP": 200,
+      "bytes": 70162
+    },
+    {
+      "id": "hitler-kershaw",
+      "archivo": "docs/assets/portadas-aportadas/hitler-kershaw-fe683660fd.webp",
+      "estadoHTTP": 200,
+      "bytes": 905782
+    },
+    {
+      "id": "hobbit",
+      "archivo": "docs/assets/hobbit-edhImhti.webp",
+      "estadoHTTP": 200,
+      "bytes": 55860
+    },
+    {
+      "id": "hombre-confundio-sombrero",
+      "archivo": "docs/assets/portadas-aportadas/hombre-confundio-sombrero-08a3917c37.webp",
+      "estadoHTTP": 200,
+      "bytes": 1024662
+    },
+    {
+      "id": "hombre-llamado-ove",
+      "archivo": "docs/assets/portadas-generadas/hombre-llamado-ove-0d34f03d22.webp",
+      "estadoHTTP": 200,
+      "bytes": 932736
+    },
+    {
+      "id": "hombre-rico-babilonia",
+      "archivo": "docs/assets/hombre-rico-babilonia-BDCc6bNN.webp",
+      "estadoHTTP": 200,
+      "bytes": 98380
+    },
+    {
+      "id": "hombre-y-sus-simbolos",
+      "archivo": "docs/assets/portadas-generadas/hombre-y-sus-simbolos-dd87002fd0.webp",
+      "estadoHTTP": 200,
+      "bytes": 131184
+    },
+    {
+      "id": "hombres-aman-cabronas",
+      "archivo": "docs/assets/portadas-generadas/hombres-aman-cabronas-771e654f61.webp",
+      "estadoHTTP": 200,
+      "bytes": 135660
+    },
+    {
+      "id": "hombres-explican-cosas",
+      "archivo": "docs/assets/portadas-generadas/hombres-explican-cosas-a23b82db89.webp",
+      "estadoHTTP": 200,
+      "bytes": 140918
+    },
+    {
+      "id": "hombres-marte-mujeres-venus",
+      "archivo": "docs/assets/hombres-marte-mujeres-venus-Qz0vGWiQ.webp",
+      "estadoHTTP": 200,
+      "bytes": 49706
+    },
+    {
+      "id": "hombres-no-escuchan",
+      "archivo": "docs/assets/hombres-no-escuchan-BwzwfmQ7.webp",
+      "estadoHTTP": 200,
+      "bytes": 61588
+    },
+    {
+      "id": "homenaje-cataluna",
+      "archivo": "docs/assets/homenaje-cataluna-D64aBNt5.webp",
+      "estadoHTTP": 200,
+      "bytes": 54970
+    },
+    {
+      "id": "homo-deus",
+      "archivo": "docs/assets/homo-deus-CYQKCXDn.webp",
+      "estadoHTTP": 200,
+      "bytes": 44874
+    },
+    {
+      "id": "homo-sovieticus",
+      "archivo": "docs/assets/homo-sovieticus-C7C6HBin.webp",
+      "estadoHTTP": 200,
+      "bytes": 55386
+    },
+    {
+      "id": "humanos-phillips",
+      "archivo": "docs/assets/portadas-aportadas/humanos-phillips-e8b0427458.webp",
+      "estadoHTTP": 200,
+      "bytes": 955088
+    },
+    {
+      "id": "ideas-que-pegan",
+      "archivo": "docs/assets/ideas-que-pegan-B-OOOi_l.webp",
+      "estadoHTTP": 200,
+      "bytes": 50926
+    },
+    {
+      "id": "ikigai",
+      "archivo": "docs/assets/ikigai-B7tDhiQJ.webp",
+      "estadoHTTP": 200,
+      "bytes": 37624
+    },
+    {
+      "id": "imperiofobia",
+      "archivo": "docs/assets/imperiofobia-iZ5jxQjA.webp",
+      "estadoHTTP": 200,
+      "bytes": 53590
+    },
+    {
+      "id": "incognito",
+      "archivo": "docs/assets/incognito-tbiFVo_F.webp",
+      "estadoHTTP": 200,
+      "bytes": 39860
+    },
+    {
+      "id": "independizate-papa-estado",
+      "archivo": "docs/assets/portadas-generadas/independizate-papa-estado-8fe5e3ddd5.webp",
+      "estadoHTTP": 200,
+      "bytes": 128756
+    },
+    {
+      "id": "indistraible",
+      "archivo": "docs/assets/portadas-generadas/indistraible-dfc634a60a.webp",
+      "estadoHTTP": 200,
+      "bytes": 884922
+    },
+    {
+      "id": "indomable",
+      "archivo": "docs/assets/portadas-generadas/indomable-3c2a967c41.webp",
+      "estadoHTTP": 200,
+      "bytes": 118564
+    },
+    {
+      "id": "infinito-junco",
+      "archivo": "docs/assets/infinito-junco-B0bBEDYW.webp",
+      "estadoHTTP": 200,
+      "bytes": 51164
+    },
+    {
+      "id": "influencia",
+      "archivo": "docs/assets/portadas-generadas/influencia-be41092c15.webp",
+      "estadoHTTP": 200,
+      "bytes": 964354
+    },
+    {
+      "id": "inteligencia-emocional",
+      "archivo": "docs/assets/inteligencia-emocional-CehLZAs6.webp",
+      "estadoHTTP": 200,
+      "bytes": 44894
+    },
+    {
+      "id": "inteligencia-erotica",
+      "archivo": "docs/assets/inteligencia-erotica-Dach7NMZ.webp",
+      "estadoHTTP": 200,
+      "bytes": 47738
+    },
+    {
+      "id": "inteligencia-intuitiva",
+      "archivo": "docs/assets/portadas-generadas/inteligencia-intuitiva-60cf31e08a.webp",
+      "estadoHTTP": 200,
+      "bytes": 137118
+    },
+    {
+      "id": "interpretacion-suenos",
+      "archivo": "docs/assets/portadas-generadas/interpretacion-suenos-61e708f0b9.webp",
+      "estadoHTTP": 200,
+      "bytes": 148310
+    },
+    {
+      "id": "intestino-feliz",
+      "archivo": "docs/assets/intestino-feliz-tjRIPuE4.webp",
+      "estadoHTTP": 200,
+      "bytes": 51450
+    },
+    {
+      "id": "intro-psicoanalisis",
+      "archivo": "docs/assets/intro-psicoanalisis-_XC2aSYi.webp",
+      "estadoHTTP": 200,
+      "bytes": 48916
+    },
+    {
+      "id": "inutilidad-del-sufrimiento",
+      "archivo": "docs/assets/portadas-generadas/inutilidad-del-sufrimiento-b27bea1b31.webp",
+      "estadoHTTP": 200,
+      "bytes": 139946
+    },
+    {
+      "id": "invencion-de-la-naturaleza",
+      "archivo": "docs/assets/portadas-generadas/invencion-de-la-naturaleza-9b35192df1.webp",
+      "estadoHTTP": 200,
+      "bytes": 1350192
+    },
+    {
+      "id": "invernando",
+      "archivo": "docs/assets/portadas-generadas/invernando-11f7e91e7e.webp",
+      "estadoHTTP": 200,
+      "bytes": 865116
+    },
+    {
+      "id": "inversor-inteligente",
+      "archivo": "docs/assets/inversor-inteligente-DRgFvQgJ.webp",
+      "estadoHTTP": 200,
+      "bytes": 64260
+    },
+    {
+      "id": "jane-eyre",
+      "archivo": "docs/assets/jane-eyre-D7P25zhz.webp",
+      "estadoHTTP": 200,
+      "bytes": 56768
+    },
+    {
+      "id": "jekyll-hyde",
+      "archivo": "docs/assets/jekyll-hyde-TkHyeK94.webp",
+      "estadoHTTP": 200,
+      "bytes": 36258
+    },
+    {
+      "id": "jodidamente-rico",
+      "archivo": "docs/assets/portadas-generadas/jodidamente-rico-abc0f4d457.webp",
+      "estadoHTTP": 200,
+      "bytes": 133916
+    },
+    {
+      "id": "juan-salvador-gaviota",
+      "archivo": "docs/assets/portadas-generadas/juan-salvador-gaviota-49d2032968.webp",
+      "estadoHTTP": 200,
+      "bytes": 920638
+    },
+    {
+      "id": "juegos-hambre",
+      "archivo": "docs/assets/juegos-hambre-C_CH43sE.webp",
+      "estadoHTTP": 200,
+      "bytes": 46986
+    },
+    {
+      "id": "jugarse-la-piel",
+      "archivo": "docs/assets/portadas-generadas/jugarse-la-piel-f850d4afcc.webp",
+      "estadoHTTP": 200,
+      "bytes": 116492
+    },
+    {
+      "id": "just-kids",
+      "archivo": "docs/assets/just-kids-bWF99lLh.webp",
+      "estadoHTTP": 200,
+      "bytes": 52932
+    },
+    {
+      "id": "kite-runner",
+      "archivo": "docs/assets/kite-runner-C4-XeP2S.webp",
+      "estadoHTTP": 200,
+      "bytes": 63380
+    },
+    {
+      "id": "kon-tiki",
+      "archivo": "docs/assets/portadas-generadas/kon-tiki-b3d05ca78a.webp",
+      "estadoHTTP": 200,
+      "bytes": 1070154
+    },
+    {
+      "id": "la-gran-apuesta",
+      "archivo": "docs/assets/portadas-generadas/la-gran-apuesta-1690c10d19.webp",
+      "estadoHTTP": 200,
+      "bytes": 938946
+    },
+    {
+      "id": "la-peste",
+      "archivo": "docs/assets/portadas-generadas/la-peste-0734d03c41.webp",
+      "estadoHTTP": 200,
+      "bytes": 1077660
+    },
+    {
+      "id": "la-vaca-camilo-cruz",
+      "archivo": "docs/assets/portadas-generadas/la-vaca-camilo-cruz-ed35690577.webp",
+      "estadoHTTP": 200,
+      "bytes": 136776
+    },
+    {
+      "id": "ladrona-libros",
+      "archivo": "docs/assets/ladrona-libros-5wVkgyj-.webp",
+      "estadoHTTP": 200,
+      "bytes": 57362
+    },
+    {
+      "id": "lean-startup",
+      "archivo": "docs/assets/lean-startup-CXtwxblN.webp",
+      "estadoHTTP": 200,
+      "bytes": 48596
+    },
+    {
+      "id": "legado-all-blacks",
+      "archivo": "docs/assets/legado-all-blacks-C_NrujHI.webp",
+      "estadoHTTP": 200,
+      "bytes": 44332
+    },
+    {
+      "id": "lenguaje-del-cuerpo",
+      "archivo": "docs/assets/lenguaje-del-cuerpo-D1bo_spJ.webp",
+      "estadoHTTP": 200,
+      "bytes": 49120
+    },
+    {
+      "id": "lenguajes-amor",
+      "archivo": "docs/assets/lenguajes-amor-BUemSzUg.webp",
+      "estadoHTTP": 200,
+      "bytes": 66074
+    },
+    {
+      "id": "leon-bruja-armario",
+      "archivo": "docs/assets/portadas-generadas/leon-bruja-armario-f0dc44552f.webp",
+      "estadoHTTP": 200,
+      "bytes": 1413812
+    },
+    {
+      "id": "leonardo",
+      "archivo": "docs/assets/leonardo-CBshCM_d.webp",
+      "estadoHTTP": 200,
+      "bytes": 74590
+    },
+    {
+      "id": "ley-de-atraccion",
+      "archivo": "docs/assets/portadas-generadas/ley-de-atraccion-ea607a3971.webp",
+      "estadoHTTP": 200,
+      "bytes": 1392238
+    },
+    {
+      "id": "leyes-naturaleza-humana",
+      "archivo": "docs/assets/leyes-naturaleza-humana-1Oa3lAKF.webp",
+      "estadoHTTP": 200,
+      "bytes": 34262
+    },
+    {
+      "id": "liberacion-del-alma",
+      "archivo": "docs/assets/portadas-generadas/liberacion-del-alma-a74898f736.webp",
+      "estadoHTTP": 200,
+      "bytes": 127404
+    },
+    {
+      "id": "libertad-financiera-sabatier",
+      "archivo": "docs/assets/portadas-generadas/libertad-financiera-sabatier-710ed30385.webp",
+      "estadoHTTP": 200,
+      "bytes": 113394
+    },
+    {
+      "id": "libro-cinco-anillos",
+      "archivo": "docs/assets/portadas-aportadas/libro-cinco-anillos-a8fc8b33a3.webp",
+      "estadoHTTP": 200,
+      "bytes": 1146048
+    },
+    {
+      "id": "libro-de-la-alegria",
+      "archivo": "docs/assets/portadas-generadas/libro-de-la-alegria-0505653ede.webp",
+      "estadoHTTP": 200,
+      "bytes": 924376
+    },
+    {
+      "id": "libro-hygge",
+      "archivo": "docs/assets/portadas-generadas/libro-hygge-62e4c2e65b.webp",
+      "estadoHTTP": 200,
+      "bytes": 996334
+    },
+    {
+      "id": "libro-vence-mercado",
+      "archivo": "docs/assets/libro-vence-mercado-DUyjCSCV.webp",
+      "estadoHTTP": 200,
+      "bytes": 59608
+    },
+    {
+      "id": "lideres-comen-al-final",
+      "archivo": "docs/assets/portadas-generadas/lideres-comen-al-final-c542bca334.webp",
+      "estadoHTTP": 200,
+      "bytes": 936922
+    },
+    {
+      "id": "limites-cloud",
+      "archivo": "docs/assets/portadas-generadas/limites-cloud-f086d10175.webp",
+      "estadoHTTP": 200,
+      "bytes": 95090
+    },
+    {
+      "id": "llegada-de-superman",
+      "archivo": "docs/assets/portadas-aportadas/llegada-de-superman-5ad8c2bc5b.webp",
+      "estadoHTTP": 200,
+      "bytes": 922280
+    },
+    {
+      "id": "lo-que-he-aprendido-vida",
+      "archivo": "docs/assets/portadas-generadas/lo-que-he-aprendido-vida-571f397b0c.webp",
+      "estadoHTTP": 200,
+      "bytes": 125038
+    },
+    {
+      "id": "lo-que-nunca-cambia",
+      "archivo": "docs/assets/portadas-generadas/lo-que-nunca-cambia-f8fac37f3c.webp",
+      "estadoHTTP": 200,
+      "bytes": 140662
+    },
+    {
+      "id": "longitud-sobel",
+      "archivo": "docs/assets/portadas-generadas/longitud-sobel-c20f772cf2.webp",
+      "estadoHTTP": 200,
+      "bytes": 946362
+    },
+    {
+      "id": "los-cuatro-galloway",
+      "archivo": "docs/assets/portadas-generadas/los-cuatro-galloway-77c2673c96.webp",
+      "estadoHTTP": 200,
+      "bytes": 96350
+    },
+    {
+      "id": "los-miserables",
+      "archivo": "docs/assets/los-miserables-U40cFJCF.webp",
+      "estadoHTTP": 200,
+      "bytes": 52014
+    },
+    {
+      "id": "luz-verde",
+      "archivo": "docs/assets/portadas-generadas/luz-verde-e8828a251b.webp",
+      "estadoHTTP": 200,
+      "bytes": 1059890
+    },
+    {
+      "id": "madame-bovary",
+      "archivo": "docs/assets/madame-bovary-WYaBMtXy.webp",
+      "estadoHTTP": 200,
+      "bytes": 51746
+    },
+    {
+      "id": "madame-curie",
+      "archivo": "docs/assets/madame-curie-D7jYrZYh.webp",
+      "estadoHTTP": 200,
+      "bytes": 47224
+    },
+    {
+      "id": "maestria-greene",
+      "archivo": "docs/assets/maestria-greene-CnwmUjkr.webp",
+      "estadoHTTP": 200,
+      "bytes": 38706
+    },
+    {
+      "id": "magia-crear",
+      "archivo": "docs/assets/magia-crear-D4FFNCdW.webp",
+      "estadoHTTP": 200,
+      "bytes": 58870
+    },
+    {
+      "id": "magia-orden",
+      "archivo": "docs/assets/magia-orden-D40zc3hd.webp",
+      "estadoHTTP": 200,
+      "bytes": 38918
+    },
+    {
+      "id": "magia-pensar-grande",
+      "archivo": "docs/assets/magia-pensar-grande-BeNElfcU.webp",
+      "estadoHTTP": 200,
+      "bytes": 50700
+    },
+    {
+      "id": "mal-de-altura",
+      "archivo": "docs/assets/portadas-generadas/mal-de-altura-87f8ed5287.webp",
+      "estadoHTTP": 200,
+      "bytes": 888382
+    },
+    {
+      "id": "malala",
+      "archivo": "docs/assets/malala-BJ0C40Xi.webp",
+      "estadoHTTP": 200,
+      "bytes": 52174
+    },
+    {
+      "id": "malcolm-x",
+      "archivo": "docs/assets/malcolm-x-CZFRn_Zr.webp",
+      "estadoHTTP": 200,
+      "bytes": 52668
+    },
+    {
+      "id": "mamba-mentality",
+      "archivo": "docs/assets/mamba-mentality-D0efU3S-.webp",
+      "estadoHTTP": 200,
+      "bytes": 58270
+    },
+    {
+      "id": "mandela",
+      "archivo": "docs/assets/mandela-DDofLD2d.webp",
+      "estadoHTTP": 200,
+      "bytes": 37438
+    },
+    {
+      "id": "maneras-de-amar",
+      "archivo": "docs/assets/maneras-de-amar-CHA0OhQV.webp",
+      "estadoHTTP": 200,
+      "bytes": 46678
+    },
+    {
+      "id": "manifiesto-comunista",
+      "archivo": "docs/assets/portadas-generadas/manifiesto-comunista-880c05490b.webp",
+      "estadoHTTP": 200,
+      "bytes": 108394
+    },
+    {
+      "id": "martes-con-mi-profesor",
+      "archivo": "docs/assets/martes-con-mi-profesor-DDWkzkAi.webp",
+      "estadoHTTP": 200,
+      "bytes": 59388
+    },
+    {
+      "id": "mas-alla-bien-mal",
+      "archivo": "docs/assets/mas-alla-bien-mal-B7g-2QXH.webp",
+      "estadoHTTP": 200,
+      "bytes": 37628
+    },
+    {
+      "id": "mas-joven-cada-ano",
+      "archivo": "docs/assets/portadas-generadas/mas-joven-cada-ano-e803397574.webp",
+      "estadoHTTP": 200,
+      "bytes": 168424
+    },
+    {
+      "id": "matar-ruisenor",
+      "archivo": "docs/assets/matar-ruisenor-Bs7afMLn.webp",
+      "estadoHTTP": 200,
+      "bytes": 40310
+    },
+    {
+      "id": "matilda",
+      "archivo": "docs/assets/portadas-generadas/matilda-6ca6bd591e.webp",
+      "estadoHTTP": 200,
+      "bytes": 975322
+    },
+    {
+      "id": "meditaciones",
+      "archivo": "docs/assets/meditaciones-CFf2Vich.webp",
+      "estadoHTTP": 200,
+      "bytes": 73334
+    },
+    {
+      "id": "meditaciones-para-mortales",
+      "archivo": "docs/assets/portadas-generadas/meditaciones-para-mortales-e79fe2bb62.webp",
+      "estadoHTTP": 200,
+      "bytes": 132130
+    },
+    {
+      "id": "mente-en-forma",
+      "archivo": "docs/assets/mente-en-forma-ChxxFEOW.webp",
+      "estadoHTTP": 200,
+      "bytes": 37722
+    },
+    {
+      "id": "mente-justos",
+      "archivo": "docs/assets/mente-justos-vBdKMxad.webp",
+      "estadoHTTP": 200,
+      "bytes": 49580
+    },
+    {
+      "id": "mente-millonaria",
+      "archivo": "docs/assets/mente-millonaria-BiNW3jOD.webp",
+      "estadoHTTP": 200,
+      "bytes": 78140
+    },
+    {
+      "id": "messi-ronaldo",
+      "archivo": "docs/assets/messi-ronaldo-pervqRDG.webp",
+      "estadoHTTP": 200,
+      "bytes": 52576
+    },
+    {
+      "id": "metamorfosis",
+      "archivo": "docs/assets/metamorfosis-BYu_q0Lp.webp",
+      "estadoHTTP": 200,
+      "bytes": 44732
+    },
+    {
+      "id": "metodo-bullet-journal",
+      "archivo": "docs/assets/portadas-generadas/metodo-bullet-journal-7dfa45fc33.webp",
+      "estadoHTTP": 200,
+      "bytes": 902056
+    },
+    {
+      "id": "metodo-dukan",
+      "archivo": "docs/assets/portadas-generadas/metodo-dukan-6501fc9a15.webp",
+      "estadoHTTP": 200,
+      "bytes": 125564
+    },
+    {
+      "id": "metodo-wim-hof",
+      "archivo": "docs/assets/metodo-wim-hof-UmDk7Rrp.webp",
+      "estadoHTTP": 200,
+      "bytes": 47478
+    },
+    {
+      "id": "miedo-libertad",
+      "archivo": "docs/assets/portadas-generadas/miedo-libertad-f8bbdc5342.webp",
+      "estadoHTTP": 200,
+      "bytes": 1010874
+    },
+    {
+      "id": "mientras-escribo",
+      "archivo": "docs/assets/mientras-escribo-BqAaPQ7Q.webp",
+      "estadoHTTP": 200,
+      "bytes": 46044
+    },
+    {
+      "id": "mil-cuatrocientos-noventa-y-uno",
+      "archivo": "docs/assets/portadas-generadas/mil-cuatrocientos-noventa-y-uno-90eb7310f0.webp",
+      "estadoHTTP": 200,
+      "bytes": 1020882
+    },
+    {
+      "id": "mil-soles",
+      "archivo": "docs/assets/mil-soles-Ca1zHMEC.webp",
+      "estadoHTTP": 200,
+      "bytes": 58202
+    },
+    {
+      "id": "milagro-manana",
+      "archivo": "docs/assets/milagro-manana-DN-ktKsq.webp",
+      "estadoHTTP": 200,
+      "bytes": 69464
+    },
+    {
+      "id": "milagro-mindfulness",
+      "archivo": "docs/assets/portadas-generadas/milagro-mindfulness-7bfdddf890.webp",
+      "estadoHTTP": 200,
+      "bytes": 128180
+    },
+    {
+      "id": "milenial-en-quiebra",
+      "archivo": "docs/assets/portadas-generadas/milenial-en-quiebra-199e4a6c51.webp",
+      "estadoHTTP": 200,
+      "bytes": 131842
+    },
+    {
+      "id": "millonario-al-lado",
+      "archivo": "docs/assets/millonario-al-lado-C6ZHTMx6.webp",
+      "estadoHTTP": 200,
+      "bytes": 61722
+    },
+    {
+      "id": "millonario-automatico",
+      "archivo": "docs/assets/millonario-automatico-CETjKTJp.webp",
+      "estadoHTTP": 200,
+      "bytes": 56604
+    },
+    {
+      "id": "millonario-instantaneo",
+      "archivo": "docs/assets/portadas-generadas/millonario-instantaneo-5eb08caa8b.webp",
+      "estadoHTTP": 200,
+      "bytes": 105260
+    },
+    {
+      "id": "millonario-sexy-feliz",
+      "archivo": "docs/assets/portadas-generadas/millonario-sexy-feliz-4fed1be38f.webp",
+      "estadoHTTP": 200,
+      "bytes": 123794
+    },
+    {
+      "id": "mindset",
+      "archivo": "docs/assets/portadas-generadas/mindset-b49a2f124a.webp",
+      "estadoHTTP": 200,
+      "bytes": 935362
+    },
+    {
+      "id": "minimalismo-digital",
+      "archivo": "docs/assets/portadas-generadas/minimalismo-digital-133826ac5c.webp",
+      "estadoHTTP": 200,
+      "bytes": 828540
+    },
+    {
+      "id": "mito-del-carisma",
+      "archivo": "docs/assets/portadas-generadas/mito-del-carisma-c5717e2b3a.webp",
+      "estadoHTTP": 200,
+      "bytes": 110920
+    },
+    {
+      "id": "mito-del-emprendedor",
+      "archivo": "docs/assets/mito-del-emprendedor-B_UKh1AL.webp",
+      "estadoHTTP": 200,
+      "bytes": 53448
+    },
+    {
+      "id": "moby-dick",
+      "archivo": "docs/assets/moby-dick-B9Y63LVr.webp",
+      "estadoHTTP": 200,
+      "bytes": 56166
+    },
+    {
+      "id": "modelos-manson",
+      "archivo": "docs/assets/modelos-manson-CGQQZXCC.webp",
+      "estadoHTTP": 200,
+      "bytes": 40120
+    },
+    {
+      "id": "modos-ver",
+      "archivo": "docs/assets/modos-ver-oen75C9Z.webp",
+      "estadoHTTP": 200,
+      "bytes": 47868
+    },
+    {
+      "id": "momentos-estelares",
+      "archivo": "docs/assets/portadas-generadas/momentos-estelares-f901ccafd6.webp",
+      "estadoHTTP": 200,
+      "bytes": 1105750
+    },
+    {
+      "id": "momo",
+      "archivo": "docs/assets/portadas-generadas/momo-51405944ff.webp",
+      "estadoHTTP": 200,
+      "bytes": 918946
+    },
+    {
+      "id": "moneyball",
+      "archivo": "docs/assets/moneyball-NEhiplpo.webp",
+      "estadoHTTP": 200,
+      "bytes": 48558
+    },
+    {
+      "id": "monje-ferrari",
+      "archivo": "docs/assets/monje-ferrari-BB0ojyyU.webp",
+      "estadoHTTP": 200,
+      "bytes": 45660
+    },
+    {
+      "id": "mono-desnudo",
+      "archivo": "docs/assets/portadas-aportadas/mono-desnudo-5d1173aea9.webp",
+      "estadoHTTP": 200,
+      "bytes": 965004
+    },
+    {
+      "id": "montana-eres-tu",
+      "archivo": "docs/assets/portadas-generadas/montana-eres-tu-d0c2fa3d89.webp",
+      "estadoHTTP": 200,
+      "bytes": 140864
+    },
+    {
+      "id": "montecristo",
+      "archivo": "docs/assets/montecristo-BqtpcDx4.webp",
+      "estadoHTTP": 200,
+      "bytes": 71960
+    },
+    {
+      "id": "morir-con-cero",
+      "archivo": "docs/assets/portadas-generadas/morir-con-cero-f853903615.webp",
+      "estadoHTTP": 200,
+      "bytes": 997206
+    },
+    {
+      "id": "muchas-vidas",
+      "archivo": "docs/assets/portadas-generadas/muchas-vidas-c58ff76222.webp",
+      "estadoHTTP": 200,
+      "bytes": 127714
+    },
+    {
+      "id": "muerte-de-ivan-ilich",
+      "archivo": "docs/assets/portadas-generadas/muerte-de-ivan-ilich-5a92af8437.webp",
+      "estadoHTTP": 200,
+      "bytes": 122650
+    },
+    {
+      "id": "mujer-invisible",
+      "archivo": "docs/assets/portadas-generadas/mujer-invisible-8c2c710e69.webp",
+      "estadoHTTP": 200,
+      "bytes": 873748
+    },
+    {
+      "id": "mujercitas",
+      "archivo": "docs/assets/mujercitas-hExaCxGZ.webp",
+      "estadoHTTP": 200,
+      "bytes": 65716
+    },
+    {
+      "id": "mujeres-aman-demasiado",
+      "archivo": "docs/assets/mujeres-aman-demasiado-BJms46eN.webp",
+      "estadoHTTP": 200,
+      "bytes": 53460
+    },
+    {
+      "id": "mujeres-inteligentes-acaban-ricas",
+      "archivo": "docs/assets/portadas-generadas/mujeres-inteligentes-acaban-ricas-a47ad22596.webp",
+      "estadoHTTP": 200,
+      "bytes": 178712
+    },
+    {
+      "id": "mujeres-lobos",
+      "archivo": "docs/assets/portadas-generadas/mujeres-lobos-ad40c12595.webp",
+      "estadoHTTP": 200,
+      "bytes": 1123204
+    },
+    {
+      "id": "mundo-ayer",
+      "archivo": "docs/assets/mundo-ayer-qw0A3a1Z.webp",
+      "estadoHTTP": 200,
+      "bytes": 38470
+    },
+    {
+      "id": "mundo-demonios",
+      "archivo": "docs/assets/portadas-generadas/mundo-demonios-e291428810.webp",
+      "estadoHTTP": 200,
+      "bytes": 973978
+    },
+    {
+      "id": "mundo-feliz",
+      "archivo": "docs/assets/mundo-feliz-BKrIALuV.webp",
+      "estadoHTTP": 200,
+      "bytes": 57124
+    },
+    {
+      "id": "mundo-sofia",
+      "archivo": "docs/assets/mundo-sofia-BJysHfmg.webp",
+      "estadoHTTP": 200,
+      "bytes": 50172
+    },
+    {
+      "id": "mythos",
+      "archivo": "docs/assets/portadas-generadas/mythos-47e8611a87.webp",
+      "estadoHTTP": 200,
+      "bytes": 1158554
+    },
+    {
+      "id": "nacidos-correr",
+      "archivo": "docs/assets/nacidos-correr-hHp3YbaJ.webp",
+      "estadoHTTP": 200,
+      "bytes": 57112
+    },
+    {
+      "id": "nada-es-tan-terrible",
+      "archivo": "docs/assets/portadas-generadas/nada-es-tan-terrible-6303d1f20b.webp",
+      "estadoHTTP": 200,
+      "bytes": 152614
+    },
+    {
+      "id": "napoleon-roberts",
+      "archivo": "docs/assets/portadas-generadas/napoleon-roberts-cf22a0b3e6.webp",
+      "estadoHTTP": 200,
+      "bytes": 995242
+    },
+    {
+      "id": "nexus",
+      "archivo": "docs/assets/nexus-BzU14SAY.webp",
+      "estadoHTTP": 200,
+      "bytes": 43450
+    },
+    {
+      "id": "nino-que-domo-el-viento",
+      "archivo": "docs/assets/portadas-generadas/nino-que-domo-el-viento-da7da53168.webp",
+      "estadoHTTP": 200,
+      "bytes": 1004484
+    },
+    {
+      "id": "ninos-escuchen",
+      "archivo": "docs/assets/ninos-escuchen-F92zze3A.webp",
+      "estadoHTTP": 200,
+      "bytes": 53728
+    },
+    {
+      "id": "no-esta-tan-interesado",
+      "archivo": "docs/assets/portadas-generadas/no-esta-tan-interesado-f6dadad261.webp",
+      "estadoHTTP": 200,
+      "bytes": 119214
+    },
+    {
+      "id": "no-logo",
+      "archivo": "docs/assets/portadas-generadas/no-logo-7f914a4922.webp",
+      "estadoHTTP": 200,
+      "bytes": 1083962
+    },
+    {
+      "id": "no-me-puedes-lastimar",
+      "archivo": "docs/assets/portadas-generadas/no-me-puedes-lastimar-736325feb6.webp",
+      "estadoHTTP": 200,
+      "bytes": 140602
+    },
+    {
+      "id": "no-seas-amable",
+      "archivo": "docs/assets/portadas-generadas/no-seas-amable-6a49f7fa0e.webp",
+      "estadoHTTP": 200,
+      "bytes": 139594
+    },
+    {
+      "id": "no-te-ahogues-vaso-agua",
+      "archivo": "docs/assets/portadas-generadas/no-te-ahogues-vaso-agua-2c99cf7c03.webp",
+      "estadoHTTP": 200,
+      "bytes": 128292
+    },
+    {
+      "id": "no-te-creas-todo-lo-que-piensas",
+      "archivo": "docs/assets/portadas-generadas/no-te-creas-todo-lo-que-piensas-09e2e886f2.webp",
+      "estadoHTTP": 200,
+      "bytes": 126160
+    },
+    {
+      "id": "nombre-rosa",
+      "archivo": "docs/assets/nombre-rosa-0VKkjG9q.webp",
+      "estadoHTTP": 200,
+      "bytes": 84348
+    },
+    {
+      "id": "nudge",
+      "archivo": "docs/assets/portadas-generadas/nudge-71fba81e6f.webp",
+      "estadoHTTP": 200,
+      "bytes": 920766
+    },
+    {
+      "id": "nueva-mirada-infidelidad",
+      "archivo": "docs/assets/portadas-generadas/nueva-mirada-infidelidad-34b1ef1a8f.webp",
+      "estadoHTTP": 200,
+      "bytes": 1217966
+    },
+    {
+      "id": "nuevo-mundo-ahora",
+      "archivo": "docs/assets/portadas-generadas/nuevo-mundo-ahora-53980f37e9.webp",
+      "estadoHTTP": 200,
+      "bytes": 161478
+    },
+    {
+      "id": "numero-uno",
+      "archivo": "docs/assets/numero-uno-CXK50qV-.webp",
+      "estadoHTTP": 200,
+      "bytes": 44694
+    },
+    {
+      "id": "nunca-comas-solo",
+      "archivo": "docs/assets/nunca-comas-solo-BAfutmZz.webp",
+      "estadoHTTP": 200,
+      "bytes": 64454
+    },
+    {
+      "id": "nunca-es-suficiente",
+      "archivo": "docs/assets/portadas-generadas/nunca-es-suficiente-b78d8882ae.webp",
+      "estadoHTTP": 200,
+      "bytes": 111880
+    },
+    {
+      "id": "nunca-te-pares",
+      "archivo": "docs/assets/nunca-te-pares-DetFn1ga.webp",
+      "estadoHTTP": 200,
+      "bytes": 42350
+    },
+    {
+      "id": "obediencia-autoridad",
+      "archivo": "docs/assets/portadas-generadas/obediencia-autoridad-0c10f362c7.webp",
+      "estadoHTTP": 200,
+      "bytes": 94858
+    },
+    {
+      "id": "objetivo-felicidad",
+      "archivo": "docs/assets/portadas-generadas/objetivo-felicidad-9155eb8fb7.webp",
+      "estadoHTTP": 200,
+      "bytes": 122384
+    },
+    {
+      "id": "obstaculo-es-camino",
+      "archivo": "docs/assets/obstaculo-es-camino-DRXogrl_.webp",
+      "estadoHTTP": 200,
+      "bytes": 40082
+    },
+    {
+      "id": "obtenga-el-si",
+      "archivo": "docs/assets/obtenga-el-si-Cb_6NtkU.webp",
+      "estadoHTTP": 200,
+      "bytes": 57548
+    },
+    {
+      "id": "oceano-azul",
+      "archivo": "docs/assets/portadas-generadas/oceano-azul-17e0b233be.webp",
+      "estadoHTTP": 200,
+      "bytes": 1051508
+    },
+    {
+      "id": "ocho-citas-amor",
+      "archivo": "docs/assets/portadas-generadas/ocho-citas-amor-1720e13676.webp",
+      "estadoHTTP": 200,
+      "bytes": 1035308
+    },
+    {
+      "id": "odisea",
+      "archivo": "docs/assets/odisea-Bv1VJAv4.webp",
+      "estadoHTTP": 200,
+      "bytes": 39708
+    },
+    {
+      "id": "ofertas-100-millones",
+      "archivo": "docs/assets/portadas-generadas/ofertas-100-millones-49684e1cbd.webp",
+      "estadoHTTP": 200,
+      "bytes": 117796
+    },
+    {
+      "id": "once-anillos",
+      "archivo": "docs/assets/once-anillos-Bt7q2R7W.webp",
+      "estadoHTTP": 200,
+      "bytes": 34748
+    },
+    {
+      "id": "opcion-b",
+      "archivo": "docs/assets/portadas-generadas/opcion-b-eee54d5ac5.webp",
+      "estadoHTTP": 200,
+      "bytes": 129462
+    },
+    {
+      "id": "open-agassi",
+      "archivo": "docs/assets/open-agassi-ByoyBzqT.webp",
+      "estadoHTTP": 200,
+      "bytes": 34058
+    },
+    {
+      "id": "optimista-racional",
+      "archivo": "docs/assets/portadas-aportadas/optimista-racional-ace6b1b4ec.webp",
+      "estadoHTTP": 200,
+      "bytes": 951576
+    },
+    {
+      "id": "orden-del-tiempo",
+      "archivo": "docs/assets/orden-del-tiempo-BGJMsN13.webp",
+      "estadoHTTP": 200,
+      "bytes": 38398
+    },
+    {
+      "id": "organizate-eficacia",
+      "archivo": "docs/assets/organizate-eficacia-BVZikVYw.webp",
+      "estadoHTTP": 200,
+      "bytes": 51154
+    },
+    {
+      "id": "orgullo-prejuicio",
+      "archivo": "docs/assets/orgullo-prejuicio-B0BDX7_i.webp",
+      "estadoHTTP": 200,
+      "bytes": 42452
+    },
+    {
+      "id": "origen-especies",
+      "archivo": "docs/assets/origen-especies-CKRhrQ3e.webp",
+      "estadoHTTP": 200,
+      "bytes": 53164
+    },
+    {
+      "id": "origenes-totalitarismo",
+      "archivo": "docs/assets/origenes-totalitarismo-YTvM60gl.webp",
+      "estadoHTTP": 200,
+      "bytes": 52458
+    },
+    {
+      "id": "originales",
+      "archivo": "docs/assets/portadas-generadas/originales-c2577074b0.webp",
+      "estadoHTTP": 200,
+      "bytes": 1383160
+    },
+    {
+      "id": "oro-digital",
+      "archivo": "docs/assets/portadas-generadas/oro-digital-414d5c237a.webp",
+      "estadoHTTP": 200,
+      "bytes": 1068938
+    },
+    {
+      "id": "otras-mentes",
+      "archivo": "docs/assets/portadas-generadas/otras-mentes-abf6fba059.webp",
+      "estadoHTTP": 200,
+      "bytes": 1075042
+    },
+    {
+      "id": "outlive",
+      "archivo": "docs/assets/outlive-BzDnDM2V.webp",
+      "estadoHTTP": 200,
+      "bytes": 36084
+    },
+    {
+      "id": "padre-rico",
+      "archivo": "docs/assets/padre-rico-Cs6hlZmg.webp",
+      "estadoHTTP": 200,
+      "bytes": 41602
+    },
+    {
+      "id": "pajaro-a-pajaro",
+      "archivo": "docs/assets/pajaro-a-pajaro-DpadChOr.webp",
+      "estadoHTTP": 200,
+      "bytes": 51410
+    },
+    {
+      "id": "paradoja-eleccion",
+      "archivo": "docs/assets/portadas-generadas/paradoja-eleccion-deae09c825.webp",
+      "estadoHTTP": 200,
+      "bytes": 1012294
+    },
+    {
+      "id": "paseo-aleatorio",
+      "archivo": "docs/assets/portadas-generadas/paseo-aleatorio-2836f27b12.webp",
+      "estadoHTTP": 200,
+      "bytes": 982518
+    },
+    {
+      "id": "paso-por-delante-wall-street",
+      "archivo": "docs/assets/portadas-generadas/paso-por-delante-wall-street-db843261dd.webp",
+      "estadoHTTP": 200,
+      "bytes": 156250
+    },
+    {
+      "id": "patitos-feos",
+      "archivo": "docs/assets/portadas-generadas/patitos-feos-ee032c29e5.webp",
+      "estadoHTTP": 200,
+      "bytes": 114100
+    },
+    {
+      "id": "patria",
+      "archivo": "docs/assets/patria-BV-A6KN4.webp",
+      "estadoHTTP": 200,
+      "bytes": 58708
+    },
+    {
+      "id": "pensamiento-positivo",
+      "archivo": "docs/assets/portadas-aportadas/pensamiento-positivo-1e869009aa.webp",
+      "estadoHTTP": 200,
+      "bytes": 916356
+    },
+    {
+      "id": "pensar-como-leonardo",
+      "archivo": "docs/assets/portadas-aportadas/pensar-como-leonardo-eceb9d076b.webp",
+      "estadoHTTP": 200,
+      "bytes": 985842
+    },
+    {
+      "id": "pensar-en-apuestas",
+      "archivo": "docs/assets/portadas-generadas/pensar-en-apuestas-aeaa7b7771.webp",
+      "estadoHTTP": 200,
+      "bytes": 122622
+    },
+    {
+      "id": "pensar-rapido",
+      "archivo": "docs/assets/pensar-rapido-86dEyfka.webp",
+      "estadoHTTP": 200,
+      "bytes": 48610
+    },
+    {
+      "id": "pequeno-cerdo-capitalista",
+      "archivo": "docs/assets/portadas-generadas/pequeno-cerdo-capitalista-ebe9cf220c.webp",
+      "estadoHTTP": 200,
+      "bytes": 133846
+    },
+    {
+      "id": "pequeno-libro-del-talento",
+      "archivo": "docs/assets/portadas-generadas/pequeno-libro-del-talento-c096b09868.webp",
+      "estadoHTTP": 200,
+      "bytes": 118284
+    },
+    {
+      "id": "pequeno-paso-maurer",
+      "archivo": "docs/assets/portadas-generadas/pequeno-paso-maurer-a8810f7064.webp",
+      "estadoHTTP": 200,
+      "bytes": 165700
+    },
+    {
+      "id": "perfume",
+      "archivo": "docs/assets/perfume-D4av9gLe.webp",
+      "estadoHTTP": 200,
+      "bytes": 38026
+    },
+    {
+      "id": "persona-vitamina",
+      "archivo": "docs/assets/portadas-generadas/persona-vitamina-1d90179d11.webp",
+      "estadoHTTP": 200,
+      "bytes": 155972
+    },
+    {
+      "id": "piensa-como-un-monje",
+      "archivo": "docs/assets/portadas-generadas/piensa-como-un-monje-7920417811.webp",
+      "estadoHTTP": 200,
+      "bytes": 117108
+    },
+    {
+      "id": "piensa-hazte-rico",
+      "archivo": "docs/assets/piensa-hazte-rico-DzGwz18V.webp",
+      "estadoHTTP": 200,
+      "bytes": 33670
+    },
+    {
+      "id": "piensalo-otra-vez",
+      "archivo": "docs/assets/piensalo-otra-vez-DOjAAyw_.webp",
+      "estadoHTTP": 200,
+      "bytes": 50168
+    },
+    {
+      "id": "pilares-tierra",
+      "archivo": "docs/assets/pilares-tierra-g5K0I58T.webp",
+      "estadoHTTP": 200,
+      "bytes": 47544
+    },
+    {
+      "id": "piramide-invertida",
+      "archivo": "docs/assets/piramide-invertida-BWlq6GEB.webp",
+      "estadoHTTP": 200,
+      "bytes": 33174
+    },
+    {
+      "id": "placebo-eres-tu",
+      "archivo": "docs/assets/placebo-eres-tu-DfwhOG82.webp",
+      "estadoHTTP": 200,
+      "bytes": 58912
+    },
+    {
+      "id": "platonico",
+      "archivo": "docs/assets/portadas-generadas/platonico-f48e571816.webp",
+      "estadoHTTP": 200,
+      "bytes": 967408
+    },
+    {
+      "id": "pleno-compromiso",
+      "archivo": "docs/assets/pleno-compromiso-DKcRRlU-.webp",
+      "estadoHTTP": 200,
+      "bytes": 51936
+    },
+    {
+      "id": "poder-5-segundos",
+      "archivo": "docs/assets/poder-5-segundos-CQb0jVaB.webp",
+      "estadoHTTP": 200,
+      "bytes": 56152
+    },
+    {
+      "id": "poder-ahora",
+      "archivo": "docs/assets/poder-ahora-ZXBeHRBT.webp",
+      "estadoHTTP": 200,
+      "bytes": 44572
+    },
+    {
+      "id": "poder-de-la-presencia",
+      "archivo": "docs/assets/poder-de-la-presencia-Bstc9UlI.webp",
+      "estadoHTTP": 200,
+      "bytes": 31888
+    },
+    {
+      "id": "poder-del-mito",
+      "archivo": "docs/assets/portadas-aportadas/poder-del-mito-a80f40d2bd.webp",
+      "estadoHTTP": 200,
+      "bytes": 951000
+    },
+    {
+      "id": "poder-habitos",
+      "archivo": "docs/assets/portadas-generadas/poder-habitos-a8083cbc5e.webp",
+      "estadoHTTP": 200,
+      "bytes": 962290
+    },
+    {
+      "id": "poder-introvertidos",
+      "archivo": "docs/assets/poder-introvertidos-Dsu2OkJG.webp",
+      "estadoHTTP": 200,
+      "bytes": 49488
+    },
+    {
+      "id": "poder-mente-subconsciente",
+      "archivo": "docs/assets/portadas-generadas/poder-mente-subconsciente-b724349be2.webp",
+      "estadoHTTP": 200,
+      "bytes": 109574
+    },
+    {
+      "id": "poder-ser-vulnerable",
+      "archivo": "docs/assets/portadas-aportadas/poder-ser-vulnerable-9f61d08aa4.webp",
+      "estadoHTTP": 200,
+      "bytes": 974854
+    },
+    {
+      "id": "poder-sin-limites",
+      "archivo": "docs/assets/poder-sin-limites-CJntzgYu.webp",
+      "estadoHTTP": 200,
+      "bytes": 54774
+    },
+    {
+      "id": "por-que-amamos",
+      "archivo": "docs/assets/por-que-amamos-BKGp9Num.webp",
+      "estadoHTTP": 200,
+      "bytes": 42856
+    },
+    {
+      "id": "por-que-dormimos",
+      "archivo": "docs/assets/por-que-dormimos-BntKqVJy.webp",
+      "estadoHTTP": 200,
+      "bytes": 52398
+    },
+    {
+      "id": "por-que-engordamos",
+      "archivo": "docs/assets/portadas-aportadas/por-que-engordamos-daa1c57b6f.webp",
+      "estadoHTTP": 200,
+      "bytes": 1023498
+    },
+    {
+      "id": "por-que-fracasan",
+      "archivo": "docs/assets/portadas-generadas/por-que-fracasan-a0cfabd606.webp",
+      "estadoHTTP": 200,
+      "bytes": 979012
+    },
+    {
+      "id": "por-que-nadie-me-lo-dijo",
+      "archivo": "docs/assets/portadas-generadas/por-que-nadie-me-lo-dijo-ca7cb3132d.webp",
+      "estadoHTTP": 200,
+      "bytes": 135124
+    },
+    {
+      "id": "pre-suasion",
+      "archivo": "docs/assets/pre-suasion-CQgka3pY.webp",
+      "estadoHTTP": 200,
+      "bytes": 56404
+    },
+    {
+      "id": "primavera-silenciosa",
+      "archivo": "docs/assets/portadas-generadas/primavera-silenciosa-accd527bb2.webp",
+      "estadoHTTP": 200,
+      "bytes": 1283118
+    },
+    {
+      "id": "primeros-auxilios-emocionales",
+      "archivo": "docs/assets/portadas-generadas/primeros-auxilios-emocionales-9177679321.webp",
+      "estadoHTTP": 200,
+      "bytes": 932000
+    },
+    {
+      "id": "principe",
+      "archivo": "docs/assets/principe-b8soBNAn.webp",
+      "estadoHTTP": 200,
+      "bytes": 34518
+    },
+    {
+      "id": "principio-era-el-sexo",
+      "archivo": "docs/assets/portadas-generadas/principio-era-el-sexo-55e3af9b93.webp",
+      "estadoHTTP": 200,
+      "bytes": 139906
+    },
+    {
+      "id": "principios-dalio",
+      "archivo": "docs/assets/portadas-generadas/principios-dalio-ca560dd6f7.webp",
+      "estadoHTTP": 200,
+      "bytes": 102556
+    },
+    {
+      "id": "principios-del-exito",
+      "archivo": "docs/assets/portadas-aportadas/principios-del-exito-bbeb2db5c3.webp",
+      "estadoHTTP": 200,
+      "bytes": 1069900
+    },
+    {
+      "id": "principios-orden-mundial",
+      "archivo": "docs/assets/portadas-generadas/principios-orden-mundial-f98ae112bc.webp",
+      "estadoHTTP": 200,
+      "bytes": 939828
+    },
+    {
+      "id": "principito",
+      "archivo": "docs/assets/principito-08i2eh-A.webp",
+      "estadoHTTP": 200,
+      "bytes": 33320
+    },
+    {
+      "id": "prision-americana",
+      "archivo": "docs/assets/portadas-aportadas/prision-americana-52c78e45dd.webp",
+      "estadoHTTP": 200,
+      "bytes": 883218
+    },
+    {
+      "id": "procrastinacion-steel",
+      "archivo": "docs/assets/procrastinacion-steel-B5GFLE3b.webp",
+      "estadoHTTP": 200,
+      "bytes": 54860
+    },
+    {
+      "id": "productividad-lenta",
+      "archivo": "docs/assets/portadas-generadas/productividad-lenta-5a551a0518.webp",
+      "estadoHTTP": 200,
+      "bytes": 904588
+    },
+    {
+      "id": "productividad-sentirse-bien",
+      "archivo": "docs/assets/portadas-generadas/productividad-sentirse-bien-2fbecffdc4.webp",
+      "estadoHTTP": 200,
+      "bytes": 1016168
+    },
+    {
+      "id": "prohibido-nacer",
+      "archivo": "docs/assets/portadas-generadas/prohibido-nacer-9beeba0938.webp",
+      "estadoHTTP": 200,
+      "bytes": 927344
+    },
+    {
+      "id": "psicologia-dinero",
+      "archivo": "docs/assets/psicologia-dinero-DtyxsohF.webp",
+      "estadoHTTP": 200,
+      "bytes": 49828
+    },
+    {
+      "id": "punto-azul-palido",
+      "archivo": "docs/assets/portadas-generadas/punto-azul-palido-d488266c13.webp",
+      "estadoHTTP": 200,
+      "bytes": 1173416
+    },
+    {
+      "id": "punto-clave",
+      "archivo": "docs/assets/portadas-generadas/punto-clave-e7a26a35db.webp",
+      "estadoHTTP": 200,
+      "bytes": 98822
+    },
+    {
+      "id": "quien-queso",
+      "archivo": "docs/assets/quien-queso-69M_QqDd.webp",
+      "estadoHTTP": 200,
+      "bytes": 40864
+    },
+    {
+      "id": "quietud-es-la-clave",
+      "archivo": "docs/assets/quietud-es-la-clave-B7jIKiGh.webp",
+      "estadoHTTP": 200,
+      "bytes": 57148
+    },
+    {
+      "id": "quijote",
+      "archivo": "docs/assets/quijote-BnvAeJ8j.webp",
+      "estadoHTTP": 200,
+      "bytes": 55194
+    },
+    {
+      "id": "rafa-mi-historia",
+      "archivo": "docs/assets/rafa-mi-historia-B1AuIGry.webp",
+      "estadoHTTP": 200,
+      "bytes": 42710
+    },
+    {
+      "id": "razones-para-seguir-viviendo",
+      "archivo": "docs/assets/portadas-generadas/razones-para-seguir-viviendo-4cc1acd2eb.webp",
+      "estadoHTTP": 200,
+      "bytes": 119252
+    },
+    {
+      "id": "rebelion-granja",
+      "archivo": "docs/assets/rebelion-granja-coD0qft9.webp",
+      "estadoHTTP": 200,
+      "bytes": 58058
+    },
+    {
+      "id": "recompra-tu-tiempo",
+      "archivo": "docs/assets/portadas-generadas/recompra-tu-tiempo-4e235eb320.webp",
+      "estadoHTTP": 200,
+      "bytes": 975614
+    },
+    {
+      "id": "red-oculta-de-la-vida",
+      "archivo": "docs/assets/portadas-generadas/red-oculta-de-la-vida-bc09129f88.webp",
+      "estadoHTTP": 200,
+      "bytes": 1244792
+    },
+    {
+      "id": "regla-10x",
+      "archivo": "docs/assets/portadas-aportadas/regla-10x-0c7d406e00.webp",
+      "estadoHTTP": 200,
+      "bytes": 900630
+    },
+    {
+      "id": "relajate-un-chingo",
+      "archivo": "docs/assets/portadas-generadas/relajate-un-chingo-60fd20c84e.webp",
+      "estadoHTTP": 200,
+      "bytes": 124570
+    },
+    {
+      "id": "relentless",
+      "archivo": "docs/assets/relentless-BVQOt0yb.webp",
+      "estadoHTTP": 200,
+      "bytes": 52030
+    },
+    {
+      "id": "remando-un-hombre",
+      "archivo": "docs/assets/remando-un-hombre-BCX3Lhy1.webp",
+      "estadoHTTP": 200,
+      "bytes": 61868
+    },
+    {
+      "id": "renglones-torcidos",
+      "archivo": "docs/assets/renglones-torcidos-C-eSI3hI.webp",
+      "estadoHTTP": 200,
+      "bytes": 64210
+    },
+    {
+      "id": "reproductibilidad",
+      "archivo": "docs/assets/portadas-generadas/reproductibilidad-a3ce00f535.webp",
+      "estadoHTTP": 200,
+      "bytes": 1083030
+    },
+    {
+      "id": "republica-platon",
+      "archivo": "docs/assets/republica-platon-sDRUEaXS.webp",
+      "estadoHTTP": 200,
+      "bytes": 43436
+    },
+    {
+      "id": "respira",
+      "archivo": "docs/assets/respira-EvXuMaB4.webp",
+      "estadoHTTP": 200,
+      "bytes": 41546
+    },
+    {
+      "id": "retirate-joven-rico",
+      "archivo": "docs/assets/portadas-generadas/retirate-joven-rico-3c1901d7f7.webp",
+      "estadoHTTP": 200,
+      "bytes": 902556
+    },
+    {
+      "id": "revolucion-glucosa",
+      "archivo": "docs/assets/revolucion-glucosa-DU_RZNL2.webp",
+      "estadoHTTP": 200,
+      "bytes": 54146
+    },
+    {
+      "id": "revoluciones-cientificas",
+      "archivo": "docs/assets/portadas-generadas/revoluciones-cientificas-562a1feb96.webp",
+      "estadoHTTP": 200,
+      "bytes": 949324
+    },
+    {
+      "id": "rework",
+      "archivo": "docs/assets/portadas-generadas/rework-ca74398276.webp",
+      "estadoHTTP": 200,
+      "bytes": 855780
+    },
+    {
+      "id": "rey-del-mundo",
+      "archivo": "docs/assets/rey-del-mundo-CMEwr1Ij.webp",
+      "estadoHTTP": 200,
+      "bytes": 50494
+    },
+    {
+      "id": "riqueza-naciones",
+      "archivo": "docs/assets/portadas-generadas/riqueza-naciones-4ab73b74ff.webp",
+      "estadoHTTP": 200,
+      "bytes": 1097176
+    },
+    {
+      "id": "roba-artista",
+      "archivo": "docs/assets/roba-artista-C_Lynmwh.webp",
+      "estadoHTTP": 200,
+      "bytes": 39476
+    },
+    {
+      "id": "rodeado-de-idiotas",
+      "archivo": "docs/assets/portadas-generadas/rodeado-de-idiotas-ef8b804ffc.webp",
+      "estadoHTTP": 200,
+      "bytes": 132012
+    },
+    {
+      "id": "rompe-barrera-no",
+      "archivo": "docs/assets/rompe-barrera-no-DekxSM-Z.webp",
+      "estadoHTTP": 200,
+      "bytes": 50976
+    },
+    {
+      "id": "rubicon",
+      "archivo": "docs/assets/portadas-aportadas/rubicon-5b47fe928f.webp",
+      "estadoHTTP": 200,
+      "bytes": 915264
+    },
+    {
+      "id": "sabiduria-inseguridad",
+      "archivo": "docs/assets/portadas-generadas/sabiduria-inseguridad-2baac87b0c.webp",
+      "estadoHTTP": 200,
+      "bytes": 152574
+    },
+    {
+      "id": "sabiduria-multitudes",
+      "archivo": "docs/assets/portadas-generadas/sabiduria-multitudes-4a0611cf08.webp",
+      "estadoHTTP": 200,
+      "bytes": 168470
+    },
+    {
+      "id": "sabiduria-psicopatas",
+      "archivo": "docs/assets/portadas-generadas/sabiduria-psicopatas-490c09383f.webp",
+      "estadoHTTP": 200,
+      "bytes": 134174
+    },
+    {
+      "id": "sabueso-baskerville",
+      "archivo": "docs/assets/portadas-generadas/sabueso-baskerville-e4daaf92d5.webp",
+      "estadoHTTP": 200,
+      "bytes": 989804
+    },
+    {
+      "id": "sanate",
+      "archivo": "docs/assets/portadas-aportadas/sanate-5b86872607.webp",
+      "estadoHTTP": 200,
+      "bytes": 921466
+    },
+    {
+      "id": "sapiens",
+      "archivo": "docs/assets/sapiens-Bo2coCEF.webp",
+      "estadoHTTP": 200,
+      "bytes": 38740
+    },
+    {
+      "id": "se-amable-contigo",
+      "archivo": "docs/assets/portadas-generadas/se-amable-contigo-1b492c32f3.webp",
+      "estadoHTTP": 200,
+      "bytes": 106148
+    },
+    {
+      "id": "se-util",
+      "archivo": "docs/assets/portadas-generadas/se-util-b675f48701.webp",
+      "estadoHTTP": 200,
+      "bytes": 132790
+    },
+    {
+      "id": "secreto-byrne",
+      "archivo": "docs/assets/secreto-byrne-Dm1muBBw.webp",
+      "estadoHTTP": 200,
+      "bytes": 42652
+    },
+    {
+      "id": "segundo-cerebro",
+      "archivo": "docs/assets/segundo-cerebro-D0GSNlOV.webp",
+      "estadoHTTP": 200,
+      "bytes": 58552
+    },
+    {
+      "id": "segundo-sexo",
+      "archivo": "docs/assets/segundo-sexo-CjwMxPIr.webp",
+      "estadoHTTP": 200,
+      "bytes": 37196
+    },
+    {
+      "id": "seis-pilares-autoestima",
+      "archivo": "docs/assets/portadas-generadas/seis-pilares-autoestima-3d2d5934f5.webp",
+      "estadoHTTP": 200,
+      "bytes": 117850
+    },
+    {
+      "id": "semana-4-horas",
+      "archivo": "docs/assets/portadas-generadas/semana-4-horas-c2c1603ec0.webp",
+      "estadoHTTP": 200,
+      "bytes": 1061200
+    },
+    {
+      "id": "senor-anillos",
+      "archivo": "docs/assets/senor-anillos-BOPyeRo_.webp",
+      "estadoHTTP": 200,
+      "bytes": 40856
+    },
+    {
+      "id": "senor-moscas",
+      "archivo": "docs/assets/senor-moscas-DEkR1G-0.webp",
+      "estadoHTTP": 200,
+      "bytes": 53946
+    },
+    {
+      "id": "sentirse-bien",
+      "archivo": "docs/assets/sentirse-bien-DARbr2zz.webp",
+      "estadoHTTP": 200,
+      "bytes": 45768
+    },
+    {
+      "id": "ser-mortal",
+      "archivo": "docs/assets/ser-mortal-BWbDEW1I.webp",
+      "estadoHTTP": 200,
+      "bytes": 57958
+    },
+    {
+      "id": "sexta-extincion",
+      "archivo": "docs/assets/portadas-generadas/sexta-extincion-18b4e784f0.webp",
+      "estadoHTTP": 200,
+      "bytes": 1022536
+    },
+    {
+      "id": "si-esto-hombre",
+      "archivo": "docs/assets/si-esto-hombre-CFwGKCRs.webp",
+      "estadoHTTP": 200,
+      "bytes": 47586
+    },
+    {
+      "id": "siddhartha",
+      "archivo": "docs/assets/siddhartha-MtwsskUi.webp",
+      "estadoHTTP": 200,
+      "bytes": 53462
+    },
+    {
+      "id": "side-hustle",
+      "archivo": "docs/assets/portadas-generadas/side-hustle-4456a630ee.webp",
+      "estadoHTTP": 200,
+      "bytes": 989570
+    },
+    {
+      "id": "siete-habitos",
+      "archivo": "docs/assets/siete-habitos-DBMWlegI.webp",
+      "estadoHTTP": 200,
+      "bytes": 46464
+    },
+    {
+      "id": "siete-lecciones-fisica",
+      "archivo": "docs/assets/portadas-generadas/siete-lecciones-fisica-29da027e93.webp",
+      "estadoHTTP": 200,
+      "bytes": 1049508
+    },
+    {
+      "id": "siete-pecados",
+      "archivo": "docs/assets/siete-pecados-B3QW2TIo.webp",
+      "estadoHTTP": 200,
+      "bytes": 52236
+    },
+    {
+      "id": "sigue-comprando",
+      "archivo": "docs/assets/portadas-generadas/sigue-comprando-7a6cbb738c.webp",
+      "estadoHTTP": 200,
+      "bytes": 141460
+    },
+    {
+      "id": "sin-azucar",
+      "archivo": "docs/assets/portadas-aportadas/sin-azucar-38fa6d93c1.webp",
+      "estadoHTTP": 200,
+      "bytes": 893954
+    },
+    {
+      "id": "sin-conciencia",
+      "archivo": "docs/assets/portadas-generadas/sin-conciencia-0fe4df6fbe.webp",
+      "estadoHTTP": 200,
+      "bytes": 145508
+    },
+    {
+      "id": "sin-esfuerzo",
+      "archivo": "docs/assets/portadas-generadas/sin-esfuerzo-28d3e3b497.webp",
+      "estadoHTTP": 200,
+      "bytes": 856764
+    },
+    {
+      "id": "sin-gasolina",
+      "archivo": "docs/assets/portadas-generadas/sin-gasolina-d187a97e30.webp",
+      "estadoHTTP": 200,
+      "bytes": 109270
+    },
+    {
+      "id": "sin-limites-kwik",
+      "archivo": "docs/assets/portadas-generadas/sin-limites-kwik-f98682f671.webp",
+      "estadoHTTP": 200,
+      "bytes": 122836
+    },
+    {
+      "id": "sindrome-de-la-impostora",
+      "archivo": "docs/assets/portadas-generadas/sindrome-de-la-impostora-49d831ea14.webp",
+      "estadoHTTP": 200,
+      "bytes": 131154
+    },
+    {
+      "id": "sisifo",
+      "archivo": "docs/assets/sisifo-D8ym5dJP.webp",
+      "estadoHTTP": 200,
+      "bytes": 39728
+    },
+    {
+      "id": "sobre-la-libertad",
+      "archivo": "docs/assets/portadas-generadas/sobre-la-libertad-2cc4c2a484.webp",
+      "estadoHTTP": 200,
+      "bytes": 1349932
+    },
+    {
+      "id": "sobre-tirania",
+      "archivo": "docs/assets/sobre-tirania-BpCwTWKW.webp",
+      "estadoHTTP": 200,
+      "bytes": 46778
+    },
+    {
+      "id": "sociedad-cansancio",
+      "archivo": "docs/assets/portadas-generadas/sociedad-cansancio-c135214835.webp",
+      "estadoHTTP": 200,
+      "bytes": 1037582
+    },
+    {
+      "id": "solo-una-cosa",
+      "archivo": "docs/assets/portadas-generadas/solo-una-cosa-b8ae5c6b29.webp",
+      "estadoHTTP": 200,
+      "bytes": 128690
+    },
+    {
+      "id": "solucion-telomeros",
+      "archivo": "docs/assets/portadas-generadas/solucion-telomeros-fe2a57487f.webp",
+      "estadoHTTP": 200,
+      "bytes": 937238
+    },
+    {
+      "id": "sombra-viento",
+      "archivo": "docs/assets/sombra-viento-CkQLdugd.webp",
+      "estadoHTTP": 200,
+      "bytes": 48812
+    },
+    {
+      "id": "sorprendente-verdad-motiva",
+      "archivo": "docs/assets/portadas-generadas/sorprendente-verdad-motiva-7bc6b2b1a9.webp",
+      "estadoHTTP": 200,
+      "bytes": 160912
+    },
+    {
+      "id": "soy-zlatan",
+      "archivo": "docs/assets/soy-zlatan-kywhVTNV.webp",
+      "estadoHTTP": 200,
+      "bytes": 41256
+    },
+    {
+      "id": "spark",
+      "archivo": "docs/assets/portadas-aportadas/spark-baead9af97.webp",
+      "estadoHTTP": 200,
+      "bytes": 970916
+    },
+    {
+      "id": "spqr",
+      "archivo": "docs/assets/spqr-DWxAYycl.webp",
+      "estadoHTTP": 200,
+      "bytes": 39482
+    },
+    {
+      "id": "stalingrado",
+      "archivo": "docs/assets/portadas-aportadas/stalingrado-cc3d82b466.webp",
+      "estadoHTTP": 200,
+      "bytes": 998686
+    },
+    {
+      "id": "startup-100-dolares",
+      "archivo": "docs/assets/portadas-generadas/startup-100-dolares-39799b1774.webp",
+      "estadoHTTP": 200,
+      "bytes": 123956
+    },
+    {
+      "id": "steve-jobs",
+      "archivo": "docs/assets/portadas-generadas/steve-jobs-5fe0bfa152.webp",
+      "estadoHTTP": 200,
+      "bytes": 950098
+    },
+    {
+      "id": "supercomunicadores",
+      "archivo": "docs/assets/portadas-generadas/supercomunicadores-62ba8c6af6.webp",
+      "estadoHTTP": 200,
+      "bytes": 955530
+    },
+    {
+      "id": "superfreakonomics",
+      "archivo": "docs/assets/portadas-generadas/superfreakonomics-2516b6e307.webp",
+      "estadoHTTP": 200,
+      "bytes": 156152
+    },
+    {
+      "id": "superpronosticadores",
+      "archivo": "docs/assets/portadas-generadas/superpronosticadores-d2d50ae5c3.webp",
+      "estadoHTTP": 200,
+      "bytes": 1058012
+    },
+    {
+      "id": "suprimir-preocupaciones",
+      "archivo": "docs/assets/portadas-aportadas/suprimir-preocupaciones-efaf782310.webp",
+      "estadoHTTP": 200,
+      "bytes": 910420
+    },
+    {
+      "id": "sutil-arte",
+      "archivo": "docs/assets/sutil-arte-CCxbZi4F.webp",
+      "estadoHTTP": 200,
+      "bytes": 46790
+    },
+    {
+      "id": "tal-como-eres",
+      "archivo": "docs/assets/tal-como-eres-D7SiuDl3.webp",
+      "estadoHTTP": 200,
+      "bytes": 49374
+    },
+    {
+      "id": "tan-bien-que-no-puedan-ignorarte",
+      "archivo": "docs/assets/tan-bien-que-no-puedan-ignorarte-DElAzW6y.webp",
+      "estadoHTTP": 200,
+      "bytes": 47340
+    },
+    {
+      "id": "tao",
+      "archivo": "docs/assets/tao-BsWudetd.webp",
+      "estadoHTTP": 200,
+      "bytes": 44576
+    },
+    {
+      "id": "tatuador",
+      "archivo": "docs/assets/tatuador-XaYr50js.webp",
+      "estadoHTTP": 200,
+      "bytes": 47108
+    },
+    {
+      "id": "tener-o-ser",
+      "archivo": "docs/assets/portadas-generadas/tener-o-ser-ba2d4b7311.webp",
+      "estadoHTTP": 200,
+      "bytes": 1251902
+    },
+    {
+      "id": "teoria-del-dejalos",
+      "archivo": "docs/assets/portadas-generadas/teoria-del-dejalos-6e54b958f5.webp",
+      "estadoHTTP": 200,
+      "bytes": 125152
+    },
+    {
+      "id": "tiempo-entre-costuras",
+      "archivo": "docs/assets/tiempo-entre-costuras-BA9-F-RL.webp",
+      "estadoHTTP": 200,
+      "bytes": 50256
+    },
+    {
+      "id": "tiger-woods",
+      "archivo": "docs/assets/portadas-aportadas/tiger-woods-a60cce5962.webp",
+      "estadoHTTP": 200,
+      "bytes": 936560
+    },
+    {
+      "id": "todo-el-mundo-miente",
+      "archivo": "docs/assets/portadas-generadas/todo-el-mundo-miente-e9e07cd00c.webp",
+      "estadoHTTP": 200,
+      "bytes": 151922
+    },
+    {
+      "id": "tonterias-con-su-dinero",
+      "archivo": "docs/assets/portadas-generadas/tonterias-con-su-dinero-974e8ee53e.webp",
+      "estadoHTTP": 200,
+      "bytes": 144288
+    },
+    {
+      "id": "trabajo-profundo",
+      "archivo": "docs/assets/trabajo-profundo-BAgffdjh.webp",
+      "estadoHTTP": 200,
+      "bytes": 45146
+    },
+    {
+      "id": "traguese-sapo",
+      "archivo": "docs/assets/traguese-sapo-BI9Btk-2.webp",
+      "estadoHTTP": 200,
+      "bytes": 49712
+    },
+    {
+      "id": "trampa-de-la-inteligencia",
+      "archivo": "docs/assets/portadas-generadas/trampa-de-la-inteligencia-165aee4db9.webp",
+      "estadoHTTP": 200,
+      "bytes": 121126
+    },
+    {
+      "id": "trampa-felicidad",
+      "archivo": "docs/assets/portadas-generadas/trampa-felicidad-69845c57ae.webp",
+      "estadoHTTP": 200,
+      "bytes": 894164
+    },
+    {
+      "id": "trampas-del-deseo",
+      "archivo": "docs/assets/portadas-aportadas/trampas-del-deseo-8ba14dfe49.webp",
+      "estadoHTTP": 200,
+      "bytes": 941148
+    },
+    {
+      "id": "transformacion-dinero",
+      "archivo": "docs/assets/portadas-generadas/transformacion-dinero-84910f1568.webp",
+      "estadoHTTP": 200,
+      "bytes": 1037834
+    },
+    {
+      "id": "trece-cosas-mentalmente-fuertes",
+      "archivo": "docs/assets/portadas-generadas/trece-cosas-mentalmente-fuertes-1ff952e486.webp",
+      "estadoHTTP": 200,
+      "bytes": 139504
+    },
+    {
+      "id": "triunfo-del-dinero",
+      "archivo": "docs/assets/triunfo-del-dinero-DswF06um.webp",
+      "estadoHTTP": 200,
+      "bytes": 43382
+    },
+    {
+      "id": "tropezar-felicidad",
+      "archivo": "docs/assets/portadas-generadas/tropezar-felicidad-42b371fdce.webp",
+      "estadoHTTP": 200,
+      "bytes": 176088
+    },
+    {
+      "id": "tu-cerebro-y-la-musica",
+      "archivo": "docs/assets/portadas-generadas/tu-cerebro-y-la-musica-58dde88680.webp",
+      "estadoHTTP": 200,
+      "bytes": 913338
+    },
+    {
+      "id": "tu-dinero-y-tu-cerebro",
+      "archivo": "docs/assets/portadas-aportadas/tu-dinero-y-tu-cerebro-99ce527670.webp",
+      "estadoHTTP": 200,
+      "bytes": 922680
+    },
+    {
+      "id": "tus-zonas-erroneas",
+      "archivo": "docs/assets/tus-zonas-erroneas-B2GW2uBy.webp",
+      "estadoHTTP": 200,
+      "bytes": 41792
+    },
+    {
+      "id": "ultimos-dinosaurios",
+      "archivo": "docs/assets/portadas-generadas/ultimos-dinosaurios-aae9ba6850.webp",
+      "estadoHTTP": 200,
+      "bytes": 1024346
+    },
+    {
+      "id": "ultraaprendizaje",
+      "archivo": "docs/assets/portadas-generadas/ultraaprendizaje-ab4cc0fd31.webp",
+      "estadoHTTP": 200,
+      "bytes": 122098
+    },
+    {
+      "id": "una-buena-vida",
+      "archivo": "docs/assets/portadas-generadas/una-buena-vida-d9218c40e1.webp",
+      "estadoHTTP": 200,
+      "bytes": 1217240
+    },
+    {
+      "id": "universo-cascara",
+      "archivo": "docs/assets/portadas-generadas/universo-cascara-6bf4e81cf0.webp",
+      "estadoHTTP": 200,
+      "bytes": 967094
+    },
+    {
+      "id": "universo-mano",
+      "archivo": "docs/assets/universo-mano-7WpFSxe-.webp",
+      "estadoHTTP": 200,
+      "bytes": 60644
+    },
+    {
+      "id": "usted-puede-sanar",
+      "archivo": "docs/assets/usted-puede-sanar-DDkKncLv.webp",
+      "estadoHTTP": 200,
+      "bytes": 52976
+    },
+    {
+      "id": "utopia-para-realistas",
+      "archivo": "docs/assets/portadas-generadas/utopia-para-realistas-6535df462b.webp",
+      "estadoHTTP": 200,
+      "bytes": 997472
+    },
+    {
+      "id": "vaca-purpura",
+      "archivo": "docs/assets/portadas-generadas/vaca-purpura-9046578145.webp",
+      "estadoHTTP": 200,
+      "bytes": 889364
+    },
+    {
+      "id": "vagabonding",
+      "archivo": "docs/assets/portadas-generadas/vagabonding-b28787ca7a.webp",
+      "estadoHTTP": 200,
+      "bytes": 982814
+    },
+    {
+      "id": "valor-de-la-atencion",
+      "archivo": "docs/assets/portadas-generadas/valor-de-la-atencion-836ae29035.webp",
+      "estadoHTTP": 200,
+      "bytes": 159868
+    },
+    {
+      "id": "van-gogh-cartas",
+      "archivo": "docs/assets/van-gogh-cartas-J5J0ht3s.webp",
+      "estadoHTTP": 200,
+      "bytes": 53924
+    },
+    {
+      "id": "vayamos-adelante",
+      "archivo": "docs/assets/portadas-aportadas/vayamos-adelante-dcc3237476.webp",
+      "estadoHTTP": 200,
+      "bytes": 847452
+    },
+    {
+      "id": "veintitres-cosas-capitalismo",
+      "archivo": "docs/assets/portadas-generadas/veintitres-cosas-capitalismo-0986a0cf11.webp",
+      "estadoHTTP": 200,
+      "bytes": 162900
+    },
+    {
+      "id": "vendedor-mas-grande",
+      "archivo": "docs/assets/vendedor-mas-grande-AK3soRM2.webp",
+      "estadoHTTP": 200,
+      "bytes": 56974
+    },
+    {
+      "id": "vender-es-humano",
+      "archivo": "docs/assets/portadas-generadas/vender-es-humano-c0c18ea1ab.webp",
+      "estadoHTTP": 200,
+      "bytes": 953832
+    },
+    {
+      "id": "verano-1913",
+      "archivo": "docs/assets/portadas-aportadas/verano-1913-dc723f0f63.webp",
+      "estadoHTTP": 200,
+      "bytes": 993228
+    },
+    {
+      "id": "verano-1927",
+      "archivo": "docs/assets/verano-1927-CX-nP0uK.webp",
+      "estadoHTTP": 200,
+      "bytes": 46540
+    },
+    {
+      "id": "via-rapida-del-millonario",
+      "archivo": "docs/assets/portadas-generadas/via-rapida-del-millonario-182232d6ee.webp",
+      "estadoHTTP": 200,
+      "bytes": 110730
+    },
+    {
+      "id": "vida-3-0",
+      "archivo": "docs/assets/portadas-generadas/vida-3-0-83d028fb9c.webp",
+      "estadoHTTP": 200,
+      "bytes": 1310046
+    },
+    {
+      "id": "vida-arboles",
+      "archivo": "docs/assets/portadas-generadas/vida-arboles-7170569dad.webp",
+      "estadoHTTP": 200,
+      "bytes": 1295352
+    },
+    {
+      "id": "vida-dali",
+      "archivo": "docs/assets/vida-dali-Cp_bZB6S.webp",
+      "estadoHTTP": 200,
+      "bytes": 35200
+    },
+    {
+      "id": "vida-de-100-anos",
+      "archivo": "docs/assets/portadas-generadas/vida-de-100-anos-908db4f713.webp",
+      "estadoHTTP": 200,
+      "bytes": 150828
+    },
+    {
+      "id": "vida-secreta-mente",
+      "archivo": "docs/assets/portadas-generadas/vida-secreta-mente-e2b54c7bde.webp",
+      "estadoHTTP": 200,
+      "bytes": 963360
+    },
+    {
+      "id": "viejo-mar",
+      "archivo": "docs/assets/viejo-mar-DzZfHMob.webp",
+      "estadoHTTP": 200,
+      "bytes": 46508
+    },
+    {
+      "id": "vivir-del-day-trading",
+      "archivo": "docs/assets/vivir-del-day-trading-CL5yZOJr.webp",
+      "estadoHTTP": 200,
+      "bytes": 54344
+    },
+    {
+      "id": "vivir-para-contarla",
+      "archivo": "docs/assets/vivir-para-contarla-BMOKBRme.webp",
+      "estadoHTTP": 200,
+      "bytes": 37322
+    },
+    {
+      "id": "vivir-plenitud",
+      "archivo": "docs/assets/vivir-plenitud-moSs9eRK.webp",
+      "estadoHTTP": 200,
+      "bytes": 57860
+    },
+    {
+      "id": "volver-al-amor",
+      "archivo": "docs/assets/portadas-generadas/volver-al-amor-b5ce80e66b.webp",
+      "estadoHTTP": 200,
+      "bytes": 138540
+    },
+    {
+      "id": "vuelta-al-mundo-80-dias",
+      "archivo": "docs/assets/portadas-generadas/vuelta-al-mundo-80-dias-7607f5e196.webp",
+      "estadoHTTP": 200,
+      "bytes": 1005872
+    },
+    {
+      "id": "wabi-sabi",
+      "archivo": "docs/assets/portadas-generadas/wabi-sabi-8ea797ec75.webp",
+      "estadoHTTP": 200,
+      "bytes": 859798
+    },
+    {
+      "id": "will-smith",
+      "archivo": "docs/assets/will-smith-Detqeuom.webp",
+      "estadoHTTP": 200,
+      "bytes": 51640
+    },
+    {
+      "id": "y-no-quedo-ninguno",
+      "archivo": "docs/assets/portadas-generadas/y-no-quedo-ninguno-e3977a283e.webp",
+      "estadoHTTP": 200,
+      "bytes": 1084642
+    },
+    {
+      "id": "yo-soy-el-diego",
+      "archivo": "docs/assets/yo-soy-el-diego-CnAkSMVY.webp",
+      "estadoHTTP": 200,
+      "bytes": 41182
+    },
+    {
+      "id": "zaratustra",
+      "archivo": "docs/assets/zaratustra-B7mhF8MQ.webp",
+      "estadoHTTP": 200,
+      "bytes": 52772
+    },
+    {
+      "id": "zen-tiro-con-arco",
+      "archivo": "docs/assets/portadas-generadas/zen-tiro-con-arco-b7de360c5b.webp",
+      "estadoHTTP": 200,
+      "bytes": 95208
+    },
+    {
+      "id": "zonas-azules",
+      "archivo": "docs/assets/zonas-azules-CGwZ2yKi.webp",
+      "estadoHTTP": 200,
+      "bytes": 45996
+    }
+  ]
+}

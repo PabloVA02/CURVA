@@ -14,7 +14,7 @@
     },
     {
       "tanda": "02",
-      "commit": "438b1b7",
+      "commit": "438b1b76a27c9976e014085848625a53f23f58d3",
       "conPortada": 567
     },
     {
@@ -86,10 +86,21 @@
       "tanda": "16",
       "commit": "4a8710db58b5cd1581a2aefd9cce7d8ffe719095",
       "conPortada": 679
+    },
+    {
+      "tanda": "17",
+      "commit": "7321f678e83e2b5b273ebb4f95aeb333f9703cda",
+      "conPortada": 682
     }
   ],
   "autorizacion_dieta_longevidad": "Usuario: Incluirla también",
   "conPortada": 682,
   "pendientes": 0,
-  "ultimaTandaIntegrada": "completar-2026-09-19-17"
+  "ultimaTandaIntegrada": "completar-2026-09-19-17",
+  "estado": "completado",
+  "versionesOriginalesConservadas": 142,
+  "portadasPublicasComprobadas": 682,
+  "verificadoUTC": "2026-09-19T20:22:49.103650+00:00",
+  "publicacion": "https://pablova02.github.io/CURVA/",
+  "galeria": "https://pablova02.github.io/CURVA/portadas.html"
 }
