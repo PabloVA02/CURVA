@@ -27,7 +27,7 @@
    viendo la barra del lector debajo de la cámara con el arreglo ya publicado, y
    la duda «¿lo tiene o no lo tiene?» valía más que los megas que cuesta
    volver a bajar las fotografías. */
-const CACHE = "curva-portadas-3e291e22c5";
+const CACHE = "curva-portadas-7515455a6c";
 
 self.addEventListener("install", (e) => {
   /* Sin lista de precarga a propósito: el paquete son decenas de megas de

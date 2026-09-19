@@ -104,6 +104,3 @@ El usuario dice que muchas parecen IA, pero pide dejarlas como están y continua
 
 ## Última corrección: no abusar de personas
 El usuario rechaza recurrir continuamente a personas. Variar mucho más el lenguaje: composiciones de objetos, animales, formas, naturaleza, asociaciones inesperadas y metáforas gráficas. Evitar sustituir una persona entera por manos en todas las cubiertas, o repetir la plantilla persona + objeto. La mayoría de la tanda siguiente no debe tener personas. Conservar variedad de composición, texto, paleta y escena; dibujo plano y colorido, belleza y originalidad por encima de añadir detalles.
-
-## Última ampliación creativa: inventar incluso ideas raras
-El usuario pide variar todavía más, hacer cosas distintas y permite cualquier idea aunque sea rara. Explorar surrealismo gráfico, cambios de escala, asociaciones inesperadas y objetos realizando acciones imposibles. Evitar convertir la nueva variedad en otra plantilla fija de objeto grande centrado. Mantener belleza, dibujos planos, colores vivos coherentes, composición y tipografía variables; el mensaje sigue explicando fielmente el contenido. No abusar de personas.

@@ -1,10 +1,10 @@
 # Los 682 libros de Curva
 
-Estado del 19 de septiembre de 2026: **623 con portada propia y 59 pendientes**. Se conservan los 682 identificadores recibidos.
+Estado del 19 de septiembre de 2026: **631 con portada propia y 51 pendientes**. Se conservan los 682 identificadores recibidos.
 
 | Tema | Libros | Con portada | Pendientes |
 |---|---:|---:|---:|
-| Psicología | 238 | 207 | 31 |
+| Psicología | 238 | 215 | 23 |
 | Economía | 117 | 94 | 23 |
 | Literatura | 75 | 75 | 0 |
 | Historia | 56 | 56 | 0 |
@@ -13,7 +13,7 @@ Estado del 19 de septiembre de 2026: **623 con portada propia y 59 pendientes**.
 | Filosofía | 42 | 42 | 0 |
 | Arte | 27 | 27 | 0 |
 | Deportes | 25 | 25 | 0 |
-| **Total** | **682** | **623** | **59** |
+| **Total** | **682** | **631** | **51** |
 
 ## Psicología
 
@@ -192,16 +192,16 @@ Estado del 19 de septiembre de 2026: **623 con portada propia y 59 pendientes**.
 | Hazte la cama | William H. McRaven | 2017 | Sí | pendiente | `hazte-la-cama` |
 | La ciencia de la gente | Vanessa Van Edwards | 2017 | Sí | pendiente | `ciencia-de-la-gente` |
 | Los beneficios de la meditación | Daniel Goleman y Richard J. Davidson | 2017 | Sí | pendiente | `beneficios-meditacion` |
-| No seas amable | Aziz Gazipura | 2017 | Pendiente | pendiente | `no-seas-amable` |
-| Opción B | Sheryl Sandberg y Adam Grant | 2017 | Pendiente | pendiente | `opcion-b` |
-| Todo el mundo miente | Seth Stephens-Davidowitz | 2017 | Pendiente | pendiente | `todo-el-mundo-miente` |
+| No seas amable | Aziz Gazipura | 2017 | Sí | pendiente | `no-seas-amable` |
+| Opción B | Sheryl Sandberg y Adam Grant | 2017 | Sí | pendiente | `opcion-b` |
+| Todo el mundo miente | Seth Stephens-Davidowitz | 2017 | Sí | pendiente | `todo-el-mundo-miente` |
 | Una nueva mirada a la infidelidad | Esther Perel | 2017 | Sí | escrito | `nueva-mirada-infidelidad` |
-| Amiga, lávate esa cara | Rachel Hollis | 2018 | Pendiente | pendiente | `amiga-lavate-esa-cara` |
-| Aprender a aprender | Barbara Oakley y Terrence Sejnowski | 2018 | Pendiente | pendiente | `aprender-a-aprender` |
-| Cómo cambiar tu mente | Michael Pollan | 2018 | Pendiente | pendiente | `como-cambiar-tu-mente` |
+| Amiga, lávate esa cara | Rachel Hollis | 2018 | Sí | pendiente | `amiga-lavate-esa-cara` |
+| Aprender a aprender | Barbara Oakley y Terrence Sejnowski | 2018 | Sí | pendiente | `aprender-a-aprender` |
+| Cómo cambiar tu mente | Michael Pollan | 2018 | Sí | pendiente | `como-cambiar-tu-mente` |
 | Cómo hacer que te pasen cosas buenas | Marian Rojas Estapé | 2018 | Sí | escrito | `cosas-buenas` |
-| Conexiones perdidas | Johann Hari | 2018 | Pendiente | pendiente | `conexiones-perdidas` |
-| Diez razones para borrar tus redes sociales de inmediato | Jaron Lanier | 2018 | Pendiente | pendiente | `borrar-redes-sociales` |
+| Conexiones perdidas | Johann Hari | 2018 | Sí | pendiente | `conexiones-perdidas` |
+| Diez razones para borrar tus redes sociales de inmediato | Jaron Lanier | 2018 | Sí | pendiente | `borrar-redes-sociales` |
 | Dopamina | Daniel Z. Lieberman y Michael E. Long | 2018 | Sí | escrito | `dopamina-lieberman` |
 | El club de las 5 de la mañana | Robin Sharma | 2018 | Sí | escrito | `club-5-manana` |
 | El elefante en el cerebro | Kevin Simler y Robin Hanson | 2018 | Pendiente | pendiente | `elefante-en-el-cerebro` |

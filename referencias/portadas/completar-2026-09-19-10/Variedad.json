@@ -1,0 +1,54 @@
+{
+  "correccionUsuario": "La mayoría de las cubiertas deben desarrollar escenas o interacciones con detalles significativos; evitar iconos aislados demasiado simples.",
+  "criterio": "Motivos contrastados con los textos alternativos del catálogo y prompts del historial. Variación de motivos, paleta, escala, tipografía, alineación y composición.",
+  "seleccion": [
+    {
+      "id": "no-seas-amable",
+      "motivo": "trombón liberando sordina / trombone mute",
+      "descripcion": "Un trombón coral expulsa una sordina azul y deja salir franjas amarillas sobre fondo verde.",
+      "composicion": "NO HUMANS OR HANDS. A large flat CORAL TROMBONE loops through lowerhalf with broad cream inner tube, its flared bell points upperright and ejects a small cobalt conical MUTE. Three wide yellow sound bars emerge in freed space. Strong EMERALD GREEN background with cobalt lowercorner, coral/yellow/ivory. Title TOP LEFT ivory huge rounded sans, «NO» enormous, «seas amable» staggered. Message bottomcenter navy heavy narrow serif on pale-yellow irregular CLEAR band, 4 lines90px. Brass drawn like flat cutout, zero shine/shadows, no music notes or confetti."
+    },
+    {
+      "id": "opcion-b",
+      "motivo": "salvavidas sostenido / lifebuoy",
+      "descripcion": "Un salvavidas coral y blanco enlaza una cuerda dorada sobre grandes olas azules y lilas.",
+      "composicion": "NO PEOPLE. Topdown coral-and-cream LIFEBUOY straddles sweeping alternating ultramarine and lilac wave bands. A thick gold rope is threaded through four simple keepers and travels toward clear upperleft, an idea of support that holds. Ring cropped slightly right. Bright LILAC background, cobalt water, coral buoy. Title BOTTOM LEFT in white huge slab serif, «OPCIÓN» modest and «B» astonishingly big, artwork visually through B's counter without blocking letter. Message TOP LEFT in deepnavy VERY BOLD geometric sans 4 short lines90px; fullwidth textarea. Graphic flat no glossy rubber, no gradients or 3D."
+    },
+    {
+      "id": "todo-el-mundo-miente",
+      "motivo": "tarjetas perforadas / punched cards",
+      "descripcion": "Tres tarjetas perforadas coral, azul y marfil se superponen y dejan ver un patrón amarillo oculto.",
+      "composicion": "NO PEOPLE OR FACES. Three overscale computer PUNCH CARDS slide in diagonal overlap: coral rectangle left, cobalt rectangle right, cream rectangle behind. Each has a few bold rectangular cutouts that align to reveal a vivid yellow zigzag pattern THROUGH the slots. Dark PURPLE background. Top card offset so we perceive hidden structure below. No printed labels/digits, no magnifier. Title CENTERLEFT warmyellow bold very condensed sans with «miente» italic huge along bottomedge of artwork. Message TOP RIGHT IVORY strong slab serif, 4 clear lines90px extending across upperwidth. Flat early-computer graphic, original visual metaphor, no paper texture/shadow."
+    },
+    {
+      "id": "amiga-lavate-esa-cara",
+      "motivo": "jabón que se libera / soap wrapper",
+      "descripcion": "Una pastilla de jabón coral sale de una envoltura azul que se abre en dos alas gráficas sobre fondo rosa.",
+      "composicion": "NO HUMAN OR FACE OR HANDS. Flat topdown SOAP bar in rich coral, simple rounded rectangle with one recessed-looking navy line only, slips diagonally OUT of a tightly patterned cobalt wrapper. Wrapper opens into two broad angular flaps like release, with a few cream oblong foam marks trailing at lowerleft. No bathroom or realistic bubbles. Hot PINK background with lemonyellow angular lower area. Title TOP in deepplum strong elegant italic serif, «Amiga,» huge curved, «lávate esa cara» condensed upright underneath. Message bottomleft deepnavy bold rounded sans 4 lines90px across generouswidth. All objects graphic silhouettes uniform color no gradients, no extrawords."
+    },
+    {
+      "id": "aprender-a-aprender",
+      "motivo": "periscopio en sección / periscope",
+      "descripcion": "Un periscopio azul muestra un recorrido amarillo que rebota en dos espejos y conecta dos patrones geométricos.",
+      "composicion": "NO HUMANS, HANDS, EYES OR FACE. An oversized BLUE PERISCOPE in flat cutaway, angular bent tube from bottomleft to topright, two simple diagonal cream mirrorplanes. A single yellow path visibly bounces inside between mirrors, connects 3 coral squares at upper opening and 3 arranged squares at lower opening. Fresh AQUA background, blue/coral/cream/yellow. Title MIDDLELEFT in NAVY extra-bold geometric sans, first «APRENDER» large horizontal, «a» small, second «aprender» coral bold serif below, artworkrightcurves around text. Message TOP LEFT deepnavy wide heavy sans 4 lines90px. Precise flat graphic geometry, no perspective, no glow."
+    },
+    {
+      "id": "como-cambiar-tu-mente",
+      "motivo": "anémona gráfica / anemone",
+      "descripcion": "Una anémona de brazos rosa y naranja transforma líneas azules en curvas abiertas sobre fondo violeta.",
+      "composicion": "NO PEOPLE. A graphic SEA ANEMONE with thick blunt pink and orange tentacle shapes opens from a deepcobalt center, cropped at bottomright. The tentacles reorganize three parallel straight navy bars entering from left into broad undulating coral/pink curves at top, perceptual transformation. Bright VIOLET background, orange/coral/cobalt/pink only plus creamtype. Title TOP LEFT CREAM huge rounded slab serif with «cambiar» much larger, lines staggered following open space. Message BOTTOM LEFT in IVORY bold compressed sans 4 lines90px on clear darkcobalt block occupying wholebottomquarter. No mushrooms, brains, pills, eyes, realism, psychedelic gradients or tiny motifs; clean beautiful flat shapes."
+    },
+    {
+      "id": "conexiones-perdidas",
+      "motivo": "ensamble de cola de milano / dovetail joint",
+      "descripcion": "Dos grandes piezas coral y azul de un ensamble de cola de milano se acercan hasta encajar, sobre fondo amarillo.",
+      "composicion": "NO PEOPLE. Two flat DOVETAIL JOINERY boards: cobalt from left and coral from right, three broad trapezoidal interlocking teeth; upper two joints apart revealing yellownegative gaps, loweronefits as if hinged toward reunion. Intentional abstract graphic not realistic wood. Vivid YELLOW background with small mint bottomcorner. Title BOTTOMLEFT DEEPNAVY huge condensed sans, «Conexiones» across then «perdidas» wider italic with slight rising baseline. Message TOP LEFT deepnavy heavy warmserif 4 lines90px, broad space100–950px. Mainstructuremiddle with clean shapes, no knots, texture, shadows or extratools."
+    },
+    {
+      "id": "borrar-redes-sociales",
+      "motivo": "regleta desenchufada / unplugged power strip",
+      "descripcion": "Un enchufe coral se separa de una regleta azul y deja una línea de corriente interrumpida sobre fondo verde oscuro.",
+      "composicion": "NO PEOPLE OR HANDS. A darkcobalt POWER STRIP runs diagonally across lowerhalf, with three simple round ivory sockets. A bold coral two-prong PLUG pulled out of one socket arcs upward via its flat mint cable; the gap between socketandplug plainly visible, currentrepresented by a single broken creamzigzag, not lightning icons. Deep FOREST GREEN background with CORAL upperleftpanel. Long exact title use «Diez razones» huge cream bold geometric at top, remainingtitle cream narrow sans in 5 good-sized lines uppermiddle, include ALL words. Message BOTTOM in brightyellow heavy serif 4 lines90px spanning fullwidth. Rich readable flat poster, no socialmedia logos, no phone, no texture or shading."
+    }
+  ]
+}

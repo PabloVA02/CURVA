@@ -892,8 +892,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/no-seas-amable-6a49f7fa0e.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-10"
   },
   {
     "id": "opcion-b",
@@ -904,8 +905,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/opcion-b-eee54d5ac5.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-10"
   },
   {
     "id": "todo-el-mundo-miente",
@@ -916,8 +918,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/todo-el-mundo-miente-e9e07cd00c.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-10"
   },
   {
     "id": "amiga-lavate-esa-cara",
@@ -928,8 +931,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/amiga-lavate-esa-cara-2ba45e9430.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-10"
   },
   {
     "id": "aprender-a-aprender",
@@ -940,8 +944,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/aprender-a-aprender-c26698b05f.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-10"
   },
   {
     "id": "como-cambiar-tu-mente",
@@ -952,8 +957,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/como-cambiar-tu-mente-726e863661.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-10"
   },
   {
     "id": "conexiones-perdidas",
@@ -964,8 +970,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/conexiones-perdidas-1ebd1308be.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-10"
   },
   {
     "id": "borrar-redes-sociales",
@@ -976,8 +983,9 @@
     "resumen": "pendiente",
     "cubierta_propia": false,
     "cubierta_en_lista_inicial": false,
-    "archivo_cubierta": null,
-    "estado_trabajo": "pendiente"
+    "archivo_cubierta": "./assets/portadas-generadas/borrar-redes-sociales-9708e08c06.webp",
+    "estado_trabajo": "integrada",
+    "tanda": "completar-2026-09-19-10"
   },
   {
     "id": "elefante-en-el-cerebro",

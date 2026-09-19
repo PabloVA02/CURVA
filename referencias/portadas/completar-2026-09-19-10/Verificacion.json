@@ -1,0 +1,33 @@
+{
+  "fecha": "2026-09-19",
+  "tanda": "completar-2026-09-19-10",
+  "base": "469efb807d6f12dd5a1f19f3e51c574952121af0",
+  "total": 682,
+  "antes": 623,
+  "anadidas": 8,
+  "reemplazadas": [],
+  "conPortada": 631,
+  "pendientes": 51,
+  "versionesConservadas": 8,
+  "resumenesConservados": 114,
+  "js": "index-portadas-7515455a6c.js",
+  "nuevos": [
+    "no-seas-amable",
+    "opcion-b",
+    "todo-el-mundo-miente",
+    "amiga-lavate-esa-cara",
+    "aprender-a-aprender",
+    "como-cambiar-tu-mente",
+    "conexiones-perdidas",
+    "borrar-redes-sociales"
+  ],
+  "validacion": {
+    "sinCambiosFueraDelMapa": true,
+    "portadasPreviasConservadas": true,
+    "seleccionAutorizada": true,
+    "catalogo682Conservado": true,
+    "originalesOpacos1024x1536": true,
+    "sinContorno": true,
+    "javascriptValido": true
+  }
+}
