@@ -1,0 +1,20 @@
+Create ONE exquisitely art-directed illustrated Spanish book cover, vertical 2:3, exactly 1024x1536 pixels, full bleed. This is a bold FLAT DRAWING for a reading app, with the visual economy, vibrant color and surprising composition of Headway/Wiser editorial illustrations. Beautiful deliberate graphic shapes, no plastic toy render, no realistic lighting. Make it feel designed by an excellent human illustrator.
+
+Concept: a Spanish table-football game as a playful visual metaphor for football's rivalries and political history. A beautifully drawn vintage foosball table, seen at a slightly oblique overhead angle, sweeps diagonally across the UPPER and MIDDLE part of the cover, cropped at the right edge. The table has a warm cream flat rim, deep forest-green playing surface, just a few cream pitch markings and three parallel dark navy rods. Two rods hold red miniature foosball pieces, the other holds cream pieces: just 7 stylized pieces TOTAL, angular painted shapes with round plain heads and broad feet, absolutely NO faces, fingers, anatomy or modeled volume. The rods have bold red/navy handles visible at left. A tiny cream ball and two short purposeful movement strokes imply a shot. Recognizably a foosball table, not a real football pitch. The illustration has a confident handmade silhouette with slightly irregular curves and dynamic cropping. Its depth is achieved ONLY by overlapping opaque color shapes. No extra floating decorative symbols, no people, no plants, no trophy, no mine cart.
+
+COLOR: luminous saffron yellow #F5C233 is the main continuous background. Use only four other base inks: tomato red #D93F2B, forest green #2F6140, warm cream #FAF6EE and ink navy #14213D. Lively, harmonious and substantial color fields. No gradients, texture noise, grain, airbrush, shine, simulated paper, photographic detail, glow or diffuse shadows. No outlined vector clipart. Shadows if needed are a SINGLE sharply bounded navy shape. Think graphic illustration, NOT 3D.
+
+TYPOGRAPHY AND COMPOSITION must depart from a title-at-top / object-in-middle / subtitle-at-bottom template.
+The explanatory message is at the TOP LEFT, in dark navy, generous bold geometric sans type, about 60 px, with exact lines:
+La historia del fútbol español
+entre rivalidades, política
+y triunfos
+It occupies the top 5–20 percent on clean yellow and must be confidently legible, never tiny. The table drawing occupies roughly 26–68 percent of the cover, leaving air around the words.
+The title is at the BOTTOM LEFT, in an expressive very heavy slightly condensed geometric sans. Two strong lines, not centered, using deliberate different letter scale to fit their lengths:
+De Riotinto
+a la Roja
+The first line is dark navy and the second line is tomato red, slightly larger and especially characterful. Both have firm clean letterforms, compact spacing, no shadows, no outline and no distortion. Title zone about 71–93 percent. Leave safe margins of 7 percent. Do not add an author, label, logo or any other text. Accents and spelling must be perfect. Message and title must never overlap the drawing.
+
+Book finish: front cover straight on, NOT a perspective mockup. Very slightly rounded corners. A single narrow book-binding crease near 2 percent from the left edge: a fine tonal lighter stripe and adjacent restrained darker groove, visible but understated. This small crease alone can have subtle tonal transitions; the illustration cannot. No white outline, no page block, no border, no broad spine.
+
+Aim for a memorable, lively, intelligent editorial drawing with gorgeous spacing and optical balance, readable as a small cover tile. Exactly one image.

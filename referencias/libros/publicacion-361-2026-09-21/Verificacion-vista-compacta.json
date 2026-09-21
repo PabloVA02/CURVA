@@ -1,0 +1,19 @@
+{
+  "bundle": "index-lectura-077e252662.js",
+  "css": "catalogo-compacto-6aca577b3a.css",
+  "datosSinCambios": 1310,
+  "resumenesSHA256": "c196485361f27c96cad62f1ab724a68afb547163d2713592445313215e05bfc8",
+  "cambio": "Solo clase de la cuadrícula Todos los libros; CSS con cuatro columnas y sin pie visible.",
+  "librosVisibles": 361,
+  "portadasPropiasConservadas": 355,
+  "columnas": 4,
+  "huecoHorizontalPx": 6,
+  "huecoVerticalPx": 7,
+  "anchosComprobados": [
+    320,
+    390,
+    807
+  ],
+  "sinDesbordamientoHorizontal": true,
+  "aperturaDeLibroComprobada": true
+}

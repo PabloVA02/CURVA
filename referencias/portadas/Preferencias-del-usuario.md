@@ -2,7 +2,11 @@
 
 ## Sistema vigente · 21 de septiembre de 2026
 
-Corrección posterior sobre «De Riotinto a la Roja»: el usuario pide **una sola portada**, más dibujo como las referencias Headway, y encarga inventar un diseño nuevo. No entregar varias versiones sucesivas por iniciativa propia. Para este nuevo diseño queda sustituida la escena detallada del valle minero anterior; conservar el título y mensaje y reforzar el lenguaje gráfico. Las propuestas anteriores se guardan como historial.
+**Última corrección:** el usuario rechaza «acabó explicando a España» porque el mensaje no explica con claridad el libro. Pide mucha más originalidad y variedad también en títulos y mensajes. Antes de generar, comprobar qué explica realmente el mensaje y variar deliberadamente tamaño, forma, color, posición y relación entre texto e imagen; no repetir la plantilla título arriba, objeto centrado y mensaje abajo. La coherencia de colección no justifica uniformar todas las jerarquías. Conservar la identidad del libro y sus resúmenes. Usar el generador integrado de imágenes de mayor calidad disponible, sin atribuirle un modelo concreto que la herramienta no identifique. Esta corrección autoriza a reescribir el mensaje de esta propuesta, y prevalece sobre la indicación anterior de conservarlo.
+
+En «Todos los libros» quiere las cubiertas mucho más juntas para contrastar la armonía del conjunto. Mostrar un mosaico compacto, sin modificar ni regenerar las cubiertas existentes.
+
+Corrección anterior sobre «De Riotinto a la Roja»: el usuario pide **una sola portada**, más dibujo como las referencias Headway, y encarga inventar un diseño nuevo. No entregar varios conceptos sucesivos por iniciativa propia. Para ese diseño quedó sustituida la escena detallada del valle minero anterior. Las propuestas y correcciones se guardan como historial.
 
 El usuario aporta dos ZIP nuevos de referencias y el documento «SISTEMA DE PORTADAS · CURVA», pide analizarlos con profundidad, aplicar el prompt y afinarlo si ayuda a la belleza y armonía del conjunto. A partir de ahora enviará un prompt individual por portada: trabajar una a una, sin iniciar nuevas tandas por instrucciones antiguas.
 

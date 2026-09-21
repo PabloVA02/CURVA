@@ -16,3 +16,5 @@ Mantener dibujos editoriales planos como las referencias Headway/Wiser, ideas or
 Trabajar una a una conforme el usuario envíe los encargos individuales. Su nueva aclaración prevalece si modifica estas preferencias. Registrar cualquier cambio futuro conservando la versión anterior y actualizar este punto de entrada si cambia el documento vigente.
 
 Los resúmenes y las portadas ya instaladas se conservan. Guardar esta memoria y los cambios del sistema en GitHub para poder recuperarlos en otras sesiones del proyecto.
+
+Última corrección del 21 de septiembre: mensajes concretos que expliquen el contenido, sin fórmulas vagas como «acabó explicando a España». Variar de forma deliberada tamaño, forma, color y colocación del título y del mensaje, además del motivo y la composición. La familia común no impone una maqueta ni una jerarquía idénticas. Consultar la actualización prioritaria del prompt maestro y de Preferencias-del-usuario.md. En la app, comparar el conjunto mediante la vista compacta de «Todos los libros».
