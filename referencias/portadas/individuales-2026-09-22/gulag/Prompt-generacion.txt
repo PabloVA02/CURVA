@@ -1,0 +1,31 @@
+Use case: style-transfer.
+Redesign the book cover in image 1 for “Gulag”, by Anne Applebaum, as ONE final Spanish cover, 1024 × 1536 px. Replace the mitten, branch, old typography and entire old layout. Preserve only the book identity. The brief is to make this belong convincingly to the same illustrated cover collection as the actual Headway references attached. Match their drawing and typography decisions, not merely their colorfulness.
+
+INPUT ROLES
+1. Existing Curva “Gulag” cover: edit target, to be completely redesigned.
+2. Headway screenshot containing “Espía y traidor” at upper left and “Entre dos reinos” at upper right: PRIMARY references. Study the covers only. Their large interlocking silhouettes, calm uninterrupted solid color, sharp silhouette details, asymmetrical compositions, compact text and architectural shapes are the visual standard. No phone UI. Do not reproduce the spy portrait, London, fantasy castles, lightning, sun or words.
+3. Headway screenshot with “Walden” at upper left and “1984” at upper right: secondary references for flat landscape abstraction, dark mood, controlled scale and hierarchy. No trees, eyes or borrowed illustrations.
+4. Headway “Tu miedo es tu poder”: reference ONLY for the clean flat rendering, restrained details, narrow binding crease and corner radius. Do not reproduce its hand, monster, strings or text.
+
+NEW ILLUSTRATION AND LAYOUT
+A Soviet forced-labor camp represented by a tall coral-red wooden guard tower on the RIGHT, its powerful cream searchlight crossing the deep midnight-blue cover diagonally toward the LOWER LEFT. The title occupies the quiet dark sky in the UPPER LEFT; the message is INSIDE the wide lower portion of the searchlight. Three small dark barrack silhouettes, partly cropped by the bottom edge, show where the beam is aimed. No human figures.
+
+The guard tower is one distinctive, slightly angular flat silhouette, tall and narrow rather than a lighthouse. Small roof with projecting eaves, a little observation hut with one rectangular dark opening, two long timber legs, a few strong diagonal braces and one short ladder. Its hut is near the upper right, its feet near the lower right. A small cream lamp at the hut edge connects clearly to the broad triangular beam. No architectural blueprint detail. The roof, legs and braces should have the confident hand-drawn simplification of the Headway silhouettes, not mechanical symmetry. The beam is one perfectly flat opaque cream shape, no glow, no transparency, no illuminated gradients. Its diagonal creates the composition. Barracks have simple low rooflines, just two or three teal window/slit accents and almost no other detail; they must remain secondary, concentrated at the bottom. This is a symbolic illustration, not a photograph or a reconstruction of a specific camp.
+
+Use deliberately different proportions from image 1: the title is strong but not oversized to fill half the cover; the main illustration has real visual presence. The message is compact, visibly smaller than the title, yet comfortably readable in a phone thumbnail. Richness comes from the tower's open cross-bracing, the sloping beam and the interrupted barrack roofline, never from textures or many tiny objects. Calm negative space is part of the design.
+
+EXACT TEXT — NO OTHER WORDS, NUMBERS, AUTHOR NAME OR LOGOS
+Title: “GULAG”. One line, upper left, ivory. Bold clean slightly condensed sans like the Headway “Espía y traidor” lettering, not gigantic ultra-heavy bubble letters. Clear left margin beyond the binding crease, generous top margin. Do not intersect the tower.
+
+Message, in three lines, deep midnight blue INSIDE the cream searchlight, in a clean medium-weight geometric sans, left aligned, with generous margins from the beam edges:
+La vida en los campos
+de trabajo forzado
+de la Unión Soviética
+
+COLOR / SURFACES
+Five base inks chosen for this design: deep midnight #0B1430 for the sky and text, vivid coral #F2603C for the tower, turquoise #3FB8A0 for a few secondary structural accents, muted gold #F2B134 only if one meaningful tiny accent is useful, warm ivory #F4EBD9 for the beam and title. No need to force the fifth ink. Let dark blue dominate, with one striking coral silhouette and one large ivory diagonal. Strong, beautiful, restrained and coherent color, appropriate to this serious history book.
+
+EXTREMELY IMPORTANT: the actual illustration must be as FLAT AND CLEAN as the Headway screenshots. Uniform digital fills throughout. NO paper texture, grain, mottled patches, halftone, brush smudges, fake print wear, cloudy lighting, 3D modeling, gradients, blur or shadow falloff. Not a vintage propaganda poster. Do not apply a global retro filter. Slightly irregular hand-drawn outlines are welcome; surface noise is not. Keep details sparse and purposeful. No decorative borders, barbed wire, chains, padlocks, flags, emblems, stars, snowflakes, extra buildings, birds or faces.
+
+FINISH
+Cover only at full bleed, front-facing, 2:3. Slightly rounded corners matching Headway. One narrow tonal left binding fold: dark groove around 2.5% width, small light recovery around 4%, returning to background by 6%. This thin fold is the ONLY allowed tonal effect. No white outline, outer shadow, wide spine, page edges or book mockup.

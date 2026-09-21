@@ -27,3 +27,7 @@ El 22 de septiembre se actualiza esa propuesta a `canones-agosto-mensaje-1e6161b
 ## Encargo posterior: El largo camino hacia la libertad
 
 El 22 de septiembre se añade `mandela-urna-a2461a1e32.png` como nueva propuesta, con título en la papeleta y mensaje en la urna. Se conservan las dos propuestas anteriores y las 683 cubiertas archivadas. Prompts, versiones y fuentes en `../individuales-2026-09-22/mandela/`. No se altera la cubierta instalada ni ningún resumen.
+
+## Encargo posterior: Gulag
+
+El 22 de septiembre se añade primero `gulag-torre-24bd008df1.png`, con torre coral, haz crema y mensaje integrado ampliado a cuatro líneas. A continuación quedan Mandela, Los cañones de agosto y pensamiento positivo. Se mantienen las 683 cubiertas del archivo y los 361 resúmenes. Historial completo: `../individuales-2026-09-22/gulag/`.

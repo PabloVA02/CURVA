@@ -1,0 +1,11 @@
+Edit image 1, the new GULAG tower cover. Preserve the successful tower/searchlight/barracks composition, exact title “GULAG”, color relationships, corner shape and single narrow binding crease. Image 2 is the actual Headway standard: concentrate on “Espía y traidor” and “Entre dos reinos”, the upper two covers. Their illustrated areas are perfectly flat digital shapes with no cloudy patches or rendered highlights.
+
+Finish this cover at that same clean graphic standard: one uniform midnight blue for the background, one uniform coral red for all red tower surfaces, one uniform ivory for the light cone and lettering, one uniform dark blue for barracks, one turquoise for windows. Remove every surface gradient, mottled patch, grain, modeled highlight and soft shadow from the illustration. The left book crease is the ONLY tonal exception. Keep the building silhouettes and diagonal beam exactly as drawn. No new objects or decorative details.
+
+Improve the message's thumbnail readability by increasing its letter size and giving it four shorter lines inside the same broad cream beam. Left align with the current text, stay clear of the beam boundary and barrack roofs. Use a clean regular/medium geometric sans, not a compressed condensed face. Exact text and line breaks:
+La vida en los
+campos de trabajo
+forzado de la
+Unión Soviética
+
+No other words. No author name or marks. Keep title position and size unchanged. 1024 × 1536 full-bleed front cover.

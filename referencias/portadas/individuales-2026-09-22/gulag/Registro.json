@@ -1,0 +1,60 @@
+{
+  "fecha": "2026-09-22",
+  "id": "gulag",
+  "titulo": "Gulag",
+  "autor": "Anne Applebaum",
+  "tituloEnImagen": "GULAG",
+  "mensaje": "La vida en los campos de trabajo forzado de la Unión Soviética",
+  "mensajeEnImagen": "La vida en los\ncampos de trabajo\nforzado de la\nUnión Soviética",
+  "motivo": "Torre de vigilancia coral y haz de luz crema que contiene el mensaje y alcanza las siluetas de barracones",
+  "paletaSolicitada": [
+    "#0B1430",
+    "#F2603C",
+    "#3FB8A0",
+    "#F2B134",
+    "#F4EBD9"
+  ],
+  "numeroDePaletaAsignadoPorUsuario": null,
+  "criterioPaleta": "Selección para este encargo; no se atribuye al usuario un número. La quinta tinta es opcional si no aporta función.",
+  "herramienta": "image_gen integrado",
+  "modo": "Rediseño con referencias y revisión de legibilidad y acabado",
+  "referencias": [
+    "IMG_1923.PNG",
+    "IMG_1886.PNG",
+    "IMG_1972.PNG"
+  ],
+  "fuenteContenido": "https://www.anneapplebaum.com/book/gulag-a-history/",
+  "imagenes": [
+    {
+      "archivo": "Portada-anterior.webp",
+      "origen": "docs/assets/gulag-Cm1YykTt.webp",
+      "dimensiones": [
+        520,
+        780
+      ],
+      "sha256": "39cbddf5185997a98c413d2f5880a9ac73d37b78c8d5d354f1c9d59922f8e3fa"
+    },
+    {
+      "archivo": "Version-inicial.png",
+      "origen": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-646ac1ba-7b43-46a0-ba33-64ad5c1d6a1a.png",
+      "dimensiones": [
+        1024,
+        1536
+      ],
+      "sha256": "e770e619264038d2c5953bea82059b35731721352f49645e57dc5fc9d45c32eb"
+    },
+    {
+      "archivo": "Portada.png",
+      "origen": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-791349dd-5032-4fc7-a70a-5f7333665dc4.png",
+      "dimensiones": [
+        1024,
+        1536
+      ],
+      "sha256": "24bd008df181d959b98ab6ec5b70735086764a1a064aef47e7d01b9aea83e629"
+    }
+  ],
+  "archivoComparador": "./assets/comparacion-propuestas/gulag-torre-24bd008df1.png",
+  "instaladaEnApp": false,
+  "estado": "Propuesta nueva en el comparador; se conserva la cubierta de la app",
+  "revision": "Título y tildes revisados visualmente. Mensaje ampliado a cuatro líneas. Se redujo el modelado, aunque persisten leves variaciones del generador; no se certifica igualdad exacta con Headway."
+}
