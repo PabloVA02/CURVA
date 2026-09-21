@@ -1,27 +1,11 @@
-# Aquí viven dos webs, y la raíz solo puede servir una
+# App y galería de Curva
 
-**Estado a 20 de septiembre de 2026.**
+Actualizado el 21 de septiembre de 2026 por petición del usuario.
 
-En `docs/` hay dos cosas compiladas, hechas por dos sesiones distintas:
+La raíz publica ahora la app completa con **los 361 resúmenes** procedentes de `index-BkE2Fy-4.js`, sus portadas existentes y la interfaz sin etiquetas de procedencia ni recuentos del catálogo. El bundle activo se indica en `docs/index.html`. Los textos no se han reescrito.
 
-- **La app de Curva**, compilada desde `prototipo-microaprendizaje` con
-  `npx vite build --config vite.web.config.mjs`. Su paquete es
-  `docs/assets/index-BkE2Fy-4.js`, y lleva los 361 libros con el texto de Pablo.
-- **El catálogo de portadas**, de la otra sesión. Su paquete es
-  `docs/assets/index-portadas-*.js`, y sirve para revisar las portadas nuevas.
+`docs/portadas.html` muestra únicamente esos mismos libros. Los otros títulos, sus portadas, los originales y las compilaciones anteriores siguen guardados en GitHub; se han ocultado de las vistas de la app.
 
-**`docs/index.html` apunta hoy al catálogo de portadas**, que es lo que estaba
-publicado cuando esta tanda de libros llegó. La app NO se ha pisado: su paquete
-está guardado aquí al lado, entero y con los 361 libros dentro.
+El paquete histórico `index-portadas-*.js` también contenía una app completa, con 114 resúmenes, no una galería aislada. No volver a activarlo para trabajar sobre las portadas: se perdería la visibilidad de los nuevos resúmenes. Cualquier nueva publicación debe conservar los datos del bundle activo y fusionar los cambios.
 
-Para que la raíz vuelva a servir la app, basta cambiar esa línea del `<head>`:
-
-    <script type="module" crossorigin src="./assets/index-BkE2Fy-4.js"></script>
-
-Y al revés para volver al catálogo. **Está pendiente de que Pablo diga cuál de
-las dos quiere en `https://pablova02.github.io/CURVA/`**, y la otra puede vivir
-en su propia página —`portadas.html` ya existe— sin quitarle el sitio a nadie.
-
-Una advertencia para quien compile la app: **`vite` reescribe `index.html`** y
-se llevará por delante el apuntador al catálogo de portadas. Si eso pasa sin
-querer, la línea de arriba dice cómo devolverlo.
+[Inventario y verificación](../referencias/libros/publicacion-361-2026-09-21/LEEME.md).

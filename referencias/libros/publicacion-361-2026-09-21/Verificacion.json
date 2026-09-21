@@ -1,0 +1,1510 @@
+{
+  "fecha": "2026-09-21",
+  "origen": "index-BkE2Fy-4.js",
+  "commitOrigen": "998a75cfa7bdc96ff861edf7b5a21db474d9cb8e",
+  "bundle": "index-lectura-d24cc9f370.js",
+  "totalVisibles": 361,
+  "conPortada": 355,
+  "pendientesPortada": [
+    {
+      "id": "como-construir-un-coche",
+      "titulo": "Cómo construir un coche",
+      "autor": "Adrian Newey"
+    },
+    {
+      "id": "senna-contra-prost",
+      "titulo": "Senna contra Prost",
+      "autor": "Malcolm Folley"
+    },
+    {
+      "id": "dios-es-redondo",
+      "titulo": "Dios es redondo",
+      "autor": "Juan Villoro"
+    },
+    {
+      "id": "la-roja",
+      "titulo": "La roja",
+      "autor": "Jimmy Burns"
+    },
+    {
+      "id": "barca-kuper",
+      "titulo": "Barça",
+      "autor": "Simon Kuper"
+    },
+    {
+      "id": "verdad-indiscutible",
+      "titulo": "La verdad indiscutible",
+      "autor": "Mike Tyson"
+    }
+  ],
+  "otrosLibrosConservados": 328,
+  "sha256Contenido": {
+    "hd": "e456dc25872c2f85ea9d6dd4a4180a579f459bbbafe0523b1ee738b37527a81d",
+    "Sd": "c196485361f27c96cad62f1ab724a68afb547163d2713592445313215e05bfc8",
+    "up": "22ad70103e87a5d535b2b664518f0fb60ab4968248a26259de1df47664817d59",
+    "dp": "332ef66a0f00045f3224f27ec34a5b429b09bbee8940be7f71fae6a818d51f4b",
+    "FS": "333c40c0310c32b7211ebd5efd67b090f21079d189adc84980236c291b4519d3",
+    "nD": "0e1f07cd7ac06cbc9c5757276b7bd4e2a42dd57696211f1c245161adb5d2d9e3",
+    "ej": "d823a5a36886d0f875978cec33f3642c78176b7a7a42e1db18bc6f038ef3d072"
+  },
+  "cambios": [
+    "Portadas existentes para los resúmenes nuevos",
+    "Mostrar únicamente libros con páginas de resumen",
+    "Quitar contador de libros",
+    "Quitar etiquetas de procedencia y tanda",
+    "Quitar etiquetas de procedencia y tanda",
+    "Quitar contador de categoría",
+    "Animación inicial compatible con el catálogo filtrado",
+    "Resultados sin contador",
+    "Quitar instrucciones internas de las tandas",
+    "Quitar contador de libros",
+    "Descripción del tema sin recuento",
+    "Quitar contador de libros"
+  ],
+  "sha256Resumenes": [
+    {
+      "id": "verdad-indiscutible",
+      "sha256": "0c8fea1a466b5f4181ab429114e34fcd12ccbb22d5dabd170a5c2224a211b3de"
+    },
+    {
+      "id": "barca-kuper",
+      "sha256": "39c76a43e6f93f049ab09b5a03b9cbfce6fce629a6685699dcfa9b22bd07dcd9"
+    },
+    {
+      "id": "la-roja",
+      "sha256": "df2646804c1abb7c7019ae73156288e107a2de86d5b2649ac84cec2d4f260fa7"
+    },
+    {
+      "id": "dios-es-redondo",
+      "sha256": "783a4edd32ea4dfc04e5f164ea374bf064584ad9a838c627852f3a36cb1026df"
+    },
+    {
+      "id": "senna-contra-prost",
+      "sha256": "c73c4b7315b5bc3e90851b72e4ec73cc5ccdd82235334952688e1a46a58c8a46"
+    },
+    {
+      "id": "como-construir-un-coche",
+      "sha256": "b1a2099aa21bd3565c253e3dba804294654daadc45abc7ecc0f8be5a75571e91"
+    },
+    {
+      "id": "pensar-como-leonardo",
+      "sha256": "67d511b16f957882f588c1d8e7020b5a5ad2ddf2e72331de65e0905aba57df03"
+    },
+    {
+      "id": "asombrosos-secretos-vida",
+      "sha256": "21a7e49ba797cac585079331a5b5b5b449ff766bc3c3e584ad222d1b592b2f32"
+    },
+    {
+      "id": "llegada-de-superman",
+      "sha256": "a3ee72609330d24d284b08556e1a48d5e2de7432a9630832b8d4bc7aa36cee19"
+    },
+    {
+      "id": "tiger-woods",
+      "sha256": "0a76ec6f6a2a68e45ad6a3cb448a46a154060747858e3a15f4a2dabb2f7939ac"
+    },
+    {
+      "id": "como-ser-perfecto",
+      "sha256": "e68bb52848e91df1d2acabf42b4f346b0b4b826aaf566f29de00168991aa8666"
+    },
+    {
+      "id": "breve-historia-todos-vivido",
+      "sha256": "fe5735ba6661813908a9fe5d1b6c8c5cd7fab7fb559ec41d45091ef9bf7f1bf3"
+    },
+    {
+      "id": "es-facil-dejar-de-fumar",
+      "sha256": "83849a930f25d7841aae60521db636345ead9352519e534e1a03d81cff072e9a"
+    },
+    {
+      "id": "dieta-longevidad",
+      "sha256": "a2db89b0326afde93747257d2636714dc2c3075a988f63f5c9dbebd8c27da11a"
+    },
+    {
+      "id": "por-que-engordamos",
+      "sha256": "043453018164872074503da49cafa239f3a068e1fac536ea6db23f9fb7b67d6f"
+    },
+    {
+      "id": "camino-hacia-la-riqueza",
+      "sha256": "370fdee1afe45a093d35334936b9924560f2e10d8a9dc146c01756cf5b05f922"
+    },
+    {
+      "id": "como-hacerse-rico-dennis",
+      "sha256": "db36a785a5483c4e1d47c5dc3cc8e5cf66d844937c5710b9a6b0db0ede2b34c9"
+    },
+    {
+      "id": "manifiesto-comunista",
+      "sha256": "8d1b18a08cf03ec51e17e6c20c4bd01080ea619627505f64514f3c66e6b7b948"
+    },
+    {
+      "id": "veintitres-cosas-capitalismo",
+      "sha256": "82b936236fee0874a7f7b98ead02677c8966fd61327651027384a007400690a1"
+    },
+    {
+      "id": "mujeres-inteligentes-acaban-ricas",
+      "sha256": "e77da85014320b2eabd330ba1ef6689e44da466c6b1440eb49a406287fbbeba0"
+    },
+    {
+      "id": "principios-del-exito",
+      "sha256": "59378fcc5b432b05805219144281c9a68eec661da63d42e44d789eb9a2689633"
+    },
+    {
+      "id": "tu-dinero-y-tu-cerebro",
+      "sha256": "02db0582494dd54e50738f3c0d5991ac0a470613e1ab97495f5b20ffb2bf6048"
+    },
+    {
+      "id": "volver-al-amor",
+      "sha256": "23ae57854f20c26f940e69d3a221d35433bcbdde6367e4efca55f102caa0b4ec"
+    },
+    {
+      "id": "beneficios-meditacion",
+      "sha256": "6668bf0610f8eb9c7241e8c049564aecc9ce9c0d6be36fb9b949d70ad5b011a3"
+    },
+    {
+      "id": "gente-toxica",
+      "sha256": "6250b12d8d62ae1b912cbc8b372c7211ffc097e4fdcc7b6fd1c884913f7aedc5"
+    },
+    {
+      "id": "dignos-de-ser-humanos",
+      "sha256": "7b0a822504a97692b1dc4f3367417d14e0e7ff1e8bef20e937d1b78e62bb229d"
+    },
+    {
+      "id": "razones-para-seguir-viviendo",
+      "sha256": "b2c74fe07c56173bfbe06b6db045217a6e90d452b27334f778e5f8fccec7f4d2"
+    },
+    {
+      "id": "controlar-la-ansiedad",
+      "sha256": "cc765b842b7111229751bfb3727edd5c2b7bf9b57c67a31c2dfb98b854804db5"
+    },
+    {
+      "id": "claves-del-talento",
+      "sha256": "c63e882d1b3b73c673c87bdd133632e5f4b5ac7dbb286566756bb1382810f78d"
+    },
+    {
+      "id": "principio-era-el-sexo",
+      "sha256": "fb26474bd05fc49b41c39abbe542c27d507a47dcbfb84a30159be629044f9a68"
+    },
+    {
+      "id": "el-metodo-strauss",
+      "sha256": "1f3a87628979abb783870dab67f99e0249ec97033c311bd9d099c31bd0b59b8e"
+    },
+    {
+      "id": "ciencia-de-la-felicidad",
+      "sha256": "4e0296d2a84c31c56826d25cc8c8fce6590253f27c83726e3200c1ac95b96def"
+    },
+    {
+      "id": "como-hablar-con-cualquiera",
+      "sha256": "b4ce9817a8083269c45e716cd2f636193c03362b981dd1ace19b1474ffbb18e5"
+    },
+    {
+      "id": "valor-de-la-atencion",
+      "sha256": "d41b2e799c8e23a4d0eb9cbdac112d50b7e42b8e83c8ddffad40d1257588b42d"
+    },
+    {
+      "id": "generacion-ansiosa",
+      "sha256": "9eb559bf6cbafce36090f0b3c102c1f54357aa3fd9a8e91244ee97df24ea282c"
+    },
+    {
+      "id": "como-leer-un-libro",
+      "sha256": "c80f9ed193fec8771407182b4ed862af4d6dfc9834d0ae8e25785622311c3b99"
+    },
+    {
+      "id": "sabiduria-psicopatas",
+      "sha256": "497d4464d93180c1cdca23842d5c8490f76d69b626b157293782e9cf57312dbd"
+    },
+    {
+      "id": "obediencia-autoridad",
+      "sha256": "2db84e8e44093c022235f1ede019f8a294cbc9331cd85e9084c34201eb667a7b"
+    },
+    {
+      "id": "interpretacion-suenos",
+      "sha256": "9280a2581f32a08b1fd4405b4785e3b28e5f305dce800bf7828b8f141ea54409"
+    },
+    {
+      "id": "inteligencia-intuitiva",
+      "sha256": "91aa96d28172463213b8a940db66b9a7fcf64beeeda897b462dc6188a359b89e"
+    },
+    {
+      "id": "seis-pilares-autoestima",
+      "sha256": "e1c9b57754fb02f898d998f85201ae931c8ffc0ec4b367c994b9ba6839f13dd7"
+    },
+    {
+      "id": "autocontrol-mcgonigal",
+      "sha256": "530069b134a5b0cec7eb5679f836fca64a650e0c8d0d5ba81c6f83e3640a395a"
+    },
+    {
+      "id": "rodeado-de-idiotas",
+      "sha256": "b32b9974f4e8f3e9054ff3026d20cea7b37858a1c6be9e0f3dea0abc92538467"
+    },
+    {
+      "id": "debo-quedarme-o-irme",
+      "sha256": "e1f24963edfb8736d21c47e33fe11bf48da41b3692046b647737be26ef5d7cbe"
+    },
+    {
+      "id": "persona-vitamina",
+      "sha256": "83ff1f000a5553ecfd3f8854c1ee7b433ce644e7dc799ff0d2ee5f17acc298f6"
+    },
+    {
+      "id": "arte-de-leer-la-mente",
+      "sha256": "47468437db79f155b90f1c606c7f3bc7e5e3b79efdf262b0e0b5a459b1fbd99e"
+    },
+    {
+      "id": "patitos-feos",
+      "sha256": "71b53070ada9942d9cfb7fa5e062a1acce77cb6e1b359e38df3c6f9c4fe62c1e"
+    },
+    {
+      "id": "nuevo-mundo-ahora",
+      "sha256": "c059ad586032709376b7b208a7aad838e90ba2db570327be2e876524a78f0973"
+    },
+    {
+      "id": "hablar-con-extranos",
+      "sha256": "b57ddce39fd168df43d35bad2905990e15fd1bf5fddc18b46bc13944f937cfe2"
+    },
+    {
+      "id": "tropezar-felicidad",
+      "sha256": "f4c1eaaa129d99d8f69d81b7474d2ff923d27da8d9ac0fadab4b64da74dd2f53"
+    },
+    {
+      "id": "borrar-redes-sociales",
+      "sha256": "69dc205ca5c1768b1dba8d3ff9115ac4ada8f474624b6acfdcacf9c6d6e3d357"
+    },
+    {
+      "id": "milagro-mindfulness",
+      "sha256": "c73f32c32b33d80e9458cd2943a76fa6131288fd0148e4db869d3471d9f3cc7d"
+    },
+    {
+      "id": "amiga-lavate-esa-cara",
+      "sha256": "774345d0ee4ac4208fc44c84036223995e019707c1d4776a6efb623e64d2e138"
+    },
+    {
+      "id": "indomable",
+      "sha256": "9108589e8c4bf1881810e716ccd752142141bee1ccced30bd576300317b080e5"
+    },
+    {
+      "id": "amarse-ojos-abiertos",
+      "sha256": "d1a2badd58644fd9fd770c684c80e46855d05ad12f3b33fc57ea83e618e6d90d"
+    },
+    {
+      "id": "sin-conciencia",
+      "sha256": "3aa962b34eb48d59924ab854e653c6f3f6a754e8ea96c5db74198851ccc50f90"
+    },
+    {
+      "id": "arte-de-pensar",
+      "sha256": "5dfc0dbd51f31f1524b5d2b1c531f4ab7e83f7977f51c58127aa570d20ca4450"
+    },
+    {
+      "id": "ansiedad-stossel",
+      "sha256": "d94f6b15a56afc504f9c495c873f93a122d72963734534bd8cbc1e1cb610a3b1"
+    },
+    {
+      "id": "sindrome-de-la-impostora",
+      "sha256": "e74c7d79f7fd9b5c6a32d7f3a6aaa5a97928f844c54494fa99f8cfede535966e"
+    },
+    {
+      "id": "trece-cosas-mentalmente-fuertes",
+      "sha256": "f6349a5b3615f6f0b141bf27782fab9fc0566d1cfc448279944a69e748c1a5a5"
+    },
+    {
+      "id": "caer-bien-90-segundos",
+      "sha256": "3934187f26417af25c2acb9e893e8d59fe32060487d01e2614cf9b82359951d5"
+    },
+    {
+      "id": "autentica-felicidad",
+      "sha256": "093283b1b02a373beb44799d92c5eed29b4999bb7d5e61beb5782f1f26b7738c"
+    },
+    {
+      "id": "sin-gasolina",
+      "sha256": "83c9d72d30e8871cc56227ebea9e0250fcb27b17e6980836632d1834dc330719"
+    },
+    {
+      "id": "poder-mente-subconsciente",
+      "sha256": "7cd62f11936d98566173896ac1849d35e6a2819a53b2a151b967d7563d6d0a42"
+    },
+    {
+      "id": "suprimir-preocupaciones",
+      "sha256": "5bb57a264ef77cfd030270283f9c4c09c9aa03c399e05e7f21f33176f31bbbdd"
+    },
+    {
+      "id": "deja-de-chingarte",
+      "sha256": "528f94bba46e5d3157dc2cae07ff0a4534b2e4d5335a15aa9a4f8772a86116f2"
+    },
+    {
+      "id": "gente-exitosa-desayuno",
+      "sha256": "8696d089cfe97a425f8f8305ab2a7b954a406aec2f9e437d7c0ec42da612b38f"
+    },
+    {
+      "id": "hazte-la-cama",
+      "sha256": "17b277923ee0ed832b7f176f7bb6c55052eef7e9e6042f1429dc970b048eb44b"
+    },
+    {
+      "id": "sanate",
+      "sha256": "36294a265bbe1ada4885ef564e2a50f817b0ffe016463108a73429584a1d6e36"
+    },
+    {
+      "id": "pensamiento-positivo",
+      "sha256": "6ad1b59c829cbd973178811eee25bc2e4d57a50bff5473322bb5ecc43370e066"
+    },
+    {
+      "id": "poder-ser-vulnerable",
+      "sha256": "cbb1bbf90b3528ffd659473ce65e63dcdb4992cc6510989578ef80863c2631ee"
+    },
+    {
+      "id": "mundo-feliz",
+      "sha256": "5c89a1313f75475dde56915fdff728f4b0fdb7f911117f6685321e3a8907ba28"
+    },
+    {
+      "id": "moby-dick",
+      "sha256": "0ab5f69d0dcc50d345e8527a8396d28d4d046d3ca3b64b53a591af4ca8296af1"
+    },
+    {
+      "id": "yo-soy-el-diego",
+      "sha256": "a522d4caf4cf85849f8dfd3e2a42f3fa87276477d5fc25a918d322225545bce5"
+    },
+    {
+      "id": "wabi-sabi",
+      "sha256": "2e7b2553dde8de1aff3cbac1d3a7fc23c4fc82c643cd999e8eac4f845dc06bb9"
+    },
+    {
+      "id": "vivir-del-day-trading",
+      "sha256": "ead7c9ddca64d9b35704751d64ebd51fd1fbe1666c003c887f9c1c454b7f2fdc"
+    },
+    {
+      "id": "viejo-mar",
+      "sha256": "a13e06a1ddc3b61b8f3ef0b26d29d4152fa53cd1657960de621bfe570185a546"
+    },
+    {
+      "id": "vida-secreta-mente",
+      "sha256": "9e2052519102839148fc9db422288ce614edd7ccd4f9d388af921685e2e325ff"
+    },
+    {
+      "id": "vida-de-100-anos",
+      "sha256": "53d6988553ab8f89836ab063b546dab85dbc749fc262b1c5e4f61e8d97c3a8bc"
+    },
+    {
+      "id": "vida-arboles",
+      "sha256": "5a44ab2789cce62297f21f35996a5a1071137112e341f0c8cb43969815030905"
+    },
+    {
+      "id": "vida-3-0",
+      "sha256": "751b593a02f6e45008409da4af1304010b17ac3553a596fb8df636696b9b8034"
+    },
+    {
+      "id": "vendedor-mas-grande",
+      "sha256": "95fcd0032219e350880591573d2525dd2db1fe621d5763f6e798cc7b14ca77ce"
+    },
+    {
+      "id": "vaca-purpura",
+      "sha256": "93dda84f0a50459737502008d6c529aef57e38003bf786c3ad33ac1687e7c9ca"
+    },
+    {
+      "id": "usted-puede-sanar",
+      "sha256": "6aabc746529c38d576add87147f5fcb6ead9aca1055fa01d438aa8edafd9b0e8"
+    },
+    {
+      "id": "universo-mano",
+      "sha256": "2e78671e9738a2a04dd27b247cf0100af3fe0d05b6b8d72a187b94165853d7a0"
+    },
+    {
+      "id": "universo-cascara",
+      "sha256": "4acca74f0546d205878ae9b45f87195743f674fe01e2c840b6838e577fbb7476"
+    },
+    {
+      "id": "tus-zonas-erroneas",
+      "sha256": "f97d9d457e649f7add7f8ea83398f7069bbf37079e7ec431c45df4bf43c9c4c0"
+    },
+    {
+      "id": "tu-cerebro-y-la-musica",
+      "sha256": "e42ea1d9f8c73e7d3c097f12746a24f44456c6a32b5accb122e80e4205330ff1"
+    },
+    {
+      "id": "traguese-sapo",
+      "sha256": "2ebee754d5985861a487ee73a492ffa814c5c836b242b9176d2a0ccadb4385dc"
+    },
+    {
+      "id": "tan-bien-que-no-puedan-ignorarte",
+      "sha256": "a2cb1731cad442d77ee1a9c07fceb7cee4a49fe4c28f26a2148e1f11fea56d6c"
+    },
+    {
+      "id": "superpronosticadores",
+      "sha256": "da8a932780ef512f5fcb4b0df70d6ab7369fc7975d96fdf289ebec94681308df"
+    },
+    {
+      "id": "soy-zlatan",
+      "sha256": "276a491848d9577078c4f2f071776d6d56446096c6d9ad13f065996de863e869"
+    },
+    {
+      "id": "sexta-extincion",
+      "sha256": "9e1f218d66fadb0a831370adc067a429cdd350c9d3535443197941d5833478c4"
+    },
+    {
+      "id": "senor-moscas",
+      "sha256": "cfaec89a29a49230cee114fddea984dfa1b9727942ba73745a74c52be22cf660"
+    },
+    {
+      "id": "rey-del-mundo",
+      "sha256": "555b3a95b08334bef15143ce5538270d97f8a98e5b29208a8088fb6c0dbc66f7"
+    },
+    {
+      "id": "rework",
+      "sha256": "a2f9991d468f5a17c0cc03aedf47093ddef393fdcafa60c098c07f284d137113"
+    },
+    {
+      "id": "revoluciones-cientificas",
+      "sha256": "748d71d01605afe1ef81238540e9fd325281a1add614bda2845d3d2f99e7646b"
+    },
+    {
+      "id": "retirate-joven-rico",
+      "sha256": "6eb4b111c56a8903ea13c2e1bdd7082bbe6a3297f40b26679ae1a49e9e7d07b3"
+    },
+    {
+      "id": "rafa-mi-historia",
+      "sha256": "94d34092470b24d6b8dd5b5a30bea125bd39ae891011f4bbe906096e0663a699"
+    },
+    {
+      "id": "quijote",
+      "sha256": "89016ce84329fd71bbf4c96abbd4bff6391a4f50ff9efdbc55c44850ad2ba61d"
+    },
+    {
+      "id": "quien-queso",
+      "sha256": "58b823ff4a24f3f8c15422f3938df476c54d47f4e20116ece448629203464bf4"
+    },
+    {
+      "id": "punto-azul-palido",
+      "sha256": "32a63372cde1934da64c5dfafe421ef023fe751cbdfd6533dee4d2c93a11010f"
+    },
+    {
+      "id": "productividad-sentirse-bien",
+      "sha256": "8ee519e22b9420eb22e01dd8c4674359e3f19e668b0a622e4b2986ab4c25dd58"
+    },
+    {
+      "id": "productividad-lenta",
+      "sha256": "ed65494425c0a59c5bbd0e5876df5bbfdd1189ef3e5fbb162522a195e46ba5d5"
+    },
+    {
+      "id": "procrastinacion-steel",
+      "sha256": "676875e85102fe562b8e9afae3ad01d892c4a2cc22cfe792eed54729fc8b7434"
+    },
+    {
+      "id": "principios-orden-mundial",
+      "sha256": "ecfc1f60c108c87e8b9c5fe31b208e3438e8febca495b707100d07c9ccf04dcc"
+    },
+    {
+      "id": "primavera-silenciosa",
+      "sha256": "4b089664e5a09181b73a1f9bd974fe04592d5481599404efe61bb829c846016a"
+    },
+    {
+      "id": "por-que-amamos",
+      "sha256": "47377da7d3592fe2a9b2887f247480b7ef3aeb3757bc0a43743e925556f24e7a"
+    },
+    {
+      "id": "poder-5-segundos",
+      "sha256": "595da08d2025c2024d0d221675dacab7c6ae3ccd80722010464ef938fb468e86"
+    },
+    {
+      "id": "placebo-eres-tu",
+      "sha256": "55013cde7d78c230d9eb4a9fadb955d0274c275e18762a2b267da77acc91f2f3"
+    },
+    {
+      "id": "pequeno-cerdo-capitalista",
+      "sha256": "851cd43d2d9b194d4d8cca2664172a137218e1d64da6379fa06a78ee39fa5c5c"
+    },
+    {
+      "id": "otras-mentes",
+      "sha256": "508b9f91ed501988719239fe79c848691a0b64c272eeb9ac6e06c41b139b8dd7"
+    },
+    {
+      "id": "oro-digital",
+      "sha256": "8a8c71c407febf9730b7b39ed8f3e9de7f3e8730db7ff5412f46d252a86dc1d3"
+    },
+    {
+      "id": "originales",
+      "sha256": "5facb21f2fe4b8e3af875d861ab4f78a530834072bc00b82b3f03cad5d393cbb"
+    },
+    {
+      "id": "orgullo-prejuicio",
+      "sha256": "162dfdde627715fa437d2daceb64907eab247bc2770c0030a186cb6f3862bb82"
+    },
+    {
+      "id": "open-agassi",
+      "sha256": "52e4293e3fce92be7524de7a1f4d8d4b9b9f9976902fbf4e25afe268fb9d52de"
+    },
+    {
+      "id": "oceano-azul",
+      "sha256": "f8600797ce8e6fca098c5ea3f59d72120d6853aad1788fd3e37bbab9e4bc001d"
+    },
+    {
+      "id": "nunca-comas-solo",
+      "sha256": "ebe0d96f88464cf7f0e2f8aeaeef7eb6a3077f69691e1355ebbb673504e1633e"
+    },
+    {
+      "id": "no-te-ahogues-vaso-agua",
+      "sha256": "8660fe831d7130f73e164e86da885aee079dfb2804a7245c52f12182f7b7430f"
+    },
+    {
+      "id": "mundo-demonios",
+      "sha256": "27f37eff936b4d7a3e7bdfe546c62e201fda53558ffdc9db29910c3653a86138"
+    },
+    {
+      "id": "mujeres-lobos",
+      "sha256": "3affab9e183982e2d94206c09c4eac65df3ba039bd7407b986d3ffb38e374e9c"
+    },
+    {
+      "id": "mujeres-aman-demasiado",
+      "sha256": "d04721252bcbcd689802cc248516790c5e19f3c228ed90e068dfb605ca0db759"
+    },
+    {
+      "id": "mujer-invisible",
+      "sha256": "d5ba467a6bd768be3a03685be80573f8bceec866b46e0a1ef6530e6decccf4c9"
+    },
+    {
+      "id": "moneyball",
+      "sha256": "03d70f96c1ee40c6e1700995ba858ef80264f37c021e48d6f15abab662ed42aa"
+    },
+    {
+      "id": "mito-del-emprendedor",
+      "sha256": "3cf41e45bdfd126f6803c2cee70374b8b9974fdb8baf3464f6645e90d34416b8"
+    },
+    {
+      "id": "milagro-manana",
+      "sha256": "421a1cb1676a22a0a88738e3119de1aebe3a02f451507c78c265c8d80b28cbc6"
+    },
+    {
+      "id": "metodo-wim-hof",
+      "sha256": "0c4849ec2b259cdf2318d00a46c2cb3361ec6f2872af4d606b25163a27a04dac"
+    },
+    {
+      "id": "metamorfosis",
+      "sha256": "defc46ea851b50e9f6f24523e653263a9499090af95251d6645c0a2485e69a4c"
+    },
+    {
+      "id": "mente-justos",
+      "sha256": "08ef5dd4de115d6e82ad6c1c5738b5ab6af9158ea703e09ffcefe71caf297e2b"
+    },
+    {
+      "id": "mente-en-forma",
+      "sha256": "d0a8e9db55ff9413935d9ba1557b29a0fbda1a64a62b1a5c14e20af2fc1032a9"
+    },
+    {
+      "id": "mas-joven-cada-ano",
+      "sha256": "f6b5d9df8e213c8e56c9603d14267a0f32d26279946735ed00bda5e557995339"
+    },
+    {
+      "id": "magia-pensar-grande",
+      "sha256": "7cb613b77552aed73670714f0affd6fac7532cb8193ff2050bdfddb9a2c3e735"
+    },
+    {
+      "id": "lideres-comen-al-final",
+      "sha256": "72fe17e3bdbab7e11e6a379188672689847570ea4f7774c59b767db9a3bd83d0"
+    },
+    {
+      "id": "leonardo",
+      "sha256": "da9583d77f8fdd68f016c02f2b8f600313cc941d4feb882e1756c0067797305d"
+    },
+    {
+      "id": "lenguaje-del-cuerpo",
+      "sha256": "b72dfd2c4a90bb1e49e71836df5b4dc9579bc85770cdf4a6c72ba1e13045f13b"
+    },
+    {
+      "id": "legado-all-blacks",
+      "sha256": "e15a7b29b193e0649347373f91eb2d2b09b7e260643f650fda9a2a8b72bc2574"
+    },
+    {
+      "id": "lean-startup",
+      "sha256": "951780eac991248a6a2d7a113b245669fbf4cadf7be6bd3a5e58d7cf43e57268"
+    },
+    {
+      "id": "la-peste",
+      "sha256": "4bc9d21f45a437495977ffb7ccd88cea1972cee6b765cc3caec34afcfa8ff1da"
+    },
+    {
+      "id": "invencion-de-la-naturaleza",
+      "sha256": "ce1d8ded5b18b13b888928525c5abf2d810553f535aa7388420770e7472ea455"
+    },
+    {
+      "id": "incognito",
+      "sha256": "286525d79823045207dc675d8b94bd18c57f4d39e90ede0c7521ed3fa30dbfab"
+    },
+    {
+      "id": "ideas-que-pegan",
+      "sha256": "7ebd2dcea19c9a713c4fb1d24cfa2fee8db0c21ccc4ceab19bdfd052854b4499"
+    },
+    {
+      "id": "hombres-no-escuchan",
+      "sha256": "63045a5b2422263d27b5eb6202740c10d03a20a5f9a7b739848d88e85d519521"
+    },
+    {
+      "id": "hobbit",
+      "sha256": "f28f01ce53ce4bc098589627b3a2f34a2ee386ef0f3f278be5d8556dfb250114"
+    },
+    {
+      "id": "hiperenfoque",
+      "sha256": "da20b0ca4fb5162a87192e7c34e27e4e987be519369beffb7d6d173abf8fdd5b"
+    },
+    {
+      "id": "haz-cosas-dificiles",
+      "sha256": "411911b581d566f19c538419f58ecb0b62d03a37e7cbac81cb7ca94727f0ee01"
+    },
+    {
+      "id": "hambruna-mao",
+      "sha256": "43623300e4a46aaa299cc586d3da62df993639950376131ea53c309e120274cd"
+    },
+    {
+      "id": "hacia-el-infinito",
+      "sha256": "b671f63f28ebde2643d560e2d107dc4fb7174bff0b00e2d8c851e70c03337519"
+    },
+    {
+      "id": "hablo-correr",
+      "sha256": "6b2a36c0c9d7aa2eb5bde98d4742233628392a6b6dd2393e439fdde0f94149e1"
+    },
+    {
+      "id": "gran-gatsby",
+      "sha256": "cbcfcc880718e61e1a4dfbc4c0bba32077f4b40166a1a51ee1bc96c5720bc302"
+    },
+    {
+      "id": "gestiona-tu-dinero-adulto",
+      "sha256": "f7ca4928af0d80d359b5a5b91758f102194c3f51d6443e9a848631b0c7cbf408"
+    },
+    {
+      "id": "futuro-nuestra-mente",
+      "sha256": "fcd3652ae30a63957d2745e781816b98f4de71724fab13308cf9b3382870d21f"
+    },
+    {
+      "id": "futbol-sol-sombra",
+      "sha256": "3e534299b5eca37693b4b2a35f8b7804eaea7e11667dcef1d30e5e707f402787"
+    },
+    {
+      "id": "fiambres",
+      "sha256": "feef17640cb210f6c58637762f94df6f35d023f80a769904592ecb55362c47b1"
+    },
+    {
+      "id": "esto-es-marketing",
+      "sha256": "70297182a8b86da6fb8205886d6ac8580cd6f6d3c93996dbf087b522c7787e70"
+    },
+    {
+      "id": "esencialismo",
+      "sha256": "a1172219ff5d91cefe7884a57222c86aa24fc0d9a8481b9587b0fea3ece37130"
+    },
+    {
+      "id": "enamorate-de-ti",
+      "sha256": "ea11a24b044dbb9031d12388d5aeb4fe2d59bed14f41f5cded1a0113d6680034"
+    },
+    {
+      "id": "en-forma-por-naturaleza",
+      "sha256": "6b2a8736a390746888a780ad1021bf5b5c7d7bd07858ffc3623f01683328cc78"
+    },
+    {
+      "id": "en-defensa-de-la-comida",
+      "sha256": "7d047b0e58cbef1afdf6c10610aa4564000f086d53fb7fda0532666e272478f6"
+    },
+    {
+      "id": "empresas-sobresalen",
+      "sha256": "9d79f535719cd61162152ba50a2b20eb87d60d0de3dfe1e322d381d1b4a687dd"
+    },
+    {
+      "id": "empieza-porque",
+      "sha256": "2840afc20fcff270d47e1bcf1c95dcd26b52d18454b8fb9b3d0dfbadc1c303b7"
+    },
+    {
+      "id": "emperador-males",
+      "sha256": "6066b874d6fecc49cdd6a495feb66d10dc72075b07056b77735ba43568f6b1fd"
+    },
+    {
+      "id": "elon-musk",
+      "sha256": "28ebb553d9e9f8bf9ddaafda2ad06528b47cd88645097e5a5cf8c8dda1236555"
+    },
+    {
+      "id": "el-cerebro",
+      "sha256": "e38ce779747967d4d94764aca8d80d3808ab324796199542f9e41bd9a6450a90"
+    },
+    {
+      "id": "economista-camuflado",
+      "sha256": "ebc1634dc3042783a8f15106e5b303d67a08b97a47e9dd3ede4b23834242f4ec"
+    },
+    {
+      "id": "dorian-gray",
+      "sha256": "4a6281de33ed56254456b3a5ec15837583ca0389ef3c8eddbcf8806a5e040d7f"
+    },
+    {
+      "id": "doctrina-shock",
+      "sha256": "ae12015a7e90c476271d01f8b95423c0cc351ffb272d468c97d687c5254dde19"
+    },
+    {
+      "id": "doble-helice",
+      "sha256": "1e536ed9a5bfefa42f6ccbd565ae18958f2e524d70b91d4e31ca5557438f2175"
+    },
+    {
+      "id": "disciplina-es-destino",
+      "sha256": "391377c9df9f8557e17ca9abbb2eecb2eccedb644fd916879863b3a68c26c0ea"
+    },
+    {
+      "id": "dilema-omnivoro",
+      "sha256": "21ea742c6c2253734599ebfd40a70fa72130b46a8b5577796275f624ea890dcd"
+    },
+    {
+      "id": "dilema-del-innovador",
+      "sha256": "68b0ac23e2e5c0c20e7b3ac2dcefe7832def8a3fa6c92e3d10bb2dca6356d82b"
+    },
+    {
+      "id": "dieta-cojea",
+      "sha256": "c1791fc8faacf0e028759e23d7c4a24fa50a1e266fe1c4c5b750063ee4fb1632"
+    },
+    {
+      "id": "diablo-de-los-numeros",
+      "sha256": "e680480dec83386830ff1a0017fc2a45e00d5d3868ee90567a5bc97f902a61b9"
+    },
+    {
+      "id": "despertando-gigante",
+      "sha256": "c02837901cb6c2305311718a16b27c4890ed12f4cc59c33a6b4a0736f5dde524"
+    },
+    {
+      "id": "descansa",
+      "sha256": "d1a7ea3d89752b62208790afe7a535f7b6fb863f6efcd7d9c75f1043c7aaf32a"
+    },
+    {
+      "id": "deja-de-ser-tu",
+      "sha256": "6a12180ae4737e02d86ea19415f82f76b0b5746a44aebed58ea8bfc4da1bb23a"
+    },
+    {
+      "id": "dar-y-recibir",
+      "sha256": "214ecc28391852ecfbe89c8613896f40897a3c91c40b4ac8230df95c91e5a773"
+    },
+    {
+      "id": "cuerpo-4-horas",
+      "sha256": "787bb6c7004261760c4d34ba4a7ded097fb18da3f9eac7ad0510ad3a38e51dba"
+    },
+    {
+      "id": "cuando-digo-no",
+      "sha256": "4f92b61f2d0bead5df8ff7ed83546c8cf8068e5c75f4ac1f879ccb3d37e479d1"
+    },
+    {
+      "id": "crimen-castigo",
+      "sha256": "d0491f54db3e2f31f4ee34f5a17a6864db72fcefeca85e0bd2a6ec67f76abfcc"
+    },
+    {
+      "id": "creatividad-sa",
+      "sha256": "604785a0340e15b2ca14919c993bb6b7815104ff831230f86aed70ef5ed09a6f"
+    },
+    {
+      "id": "cosas-buenas",
+      "sha256": "f7c66946d63ff9cfe9fb36793e6542bdd0e36ee1424a8f8665fee55f5aa25dc5"
+    },
+    {
+      "id": "contagioso",
+      "sha256": "dfb7936ae46dd239437d617bd2d8243d714dc07a8e727a5b20227f7322de1033"
+    },
+    {
+      "id": "come-comida-real",
+      "sha256": "e3a30ae32f1af64ec5da5318d4b83a854db45fc2bf867076b6d247471b5da592"
+    },
+    {
+      "id": "club-5-manana",
+      "sha256": "e84b9936bf96be19f1f5457185c97653f1896911c3f88f80a2f14301fdc8ce95"
+    },
+    {
+      "id": "cinco-heridas",
+      "sha256": "cb874e93b0ee07725ca32af1eac160b90bb0a2c8c94c39796a6be68d749a5790"
+    },
+    {
+      "id": "chingona-dinero",
+      "sha256": "1cc3bcb2c833a0a7a541c4214d1a7e6ef5c2b8ff8dad9974e1b7082d90afa039"
+    },
+    {
+      "id": "charlas-ted",
+      "sha256": "8f2d032e7e0f66a66a1271a207f4c01a9baa5ea5471f579d7a05968ad4375cfb"
+    },
+    {
+      "id": "cerebro-femenino",
+      "sha256": "35c365ee328b2f46c210e58e2b2c06ee63796ddc8ee9d1f1adc2725ca068f4d3"
+    },
+    {
+      "id": "cerebro-del-nino",
+      "sha256": "4696a8db37cd218aed542f1dba932fe9e8fcf12bced6942be50113408de05161"
+    },
+    {
+      "id": "cerebro-de-pan",
+      "sha256": "f56e074934e20fce2f9f7ba139dbe01a468574d818ea663c391ea65a354c9db4"
+    },
+    {
+      "id": "cerebro-cambia",
+      "sha256": "0b611ee7f2e8ecaf0fcb483c342386da1e8e3104323a6ecf8b069d3e800702f1"
+    },
+    {
+      "id": "cerebro-adolescente",
+      "sha256": "261d094cfda273b7f26991219ab468b3c1f6dca9ee028342ac8a9c8d9bd4340a"
+    },
+    {
+      "id": "caos-gleick",
+      "sha256": "dafea1a42ad5a8e9786266aab71279b301eb0ca8f838f1127cfa0dafdec6122b"
+    },
+    {
+      "id": "astrofisica-prisa",
+      "sha256": "6416d71b8694deb189d4f3f431331b6061579b382fc9ee5ace31ab91aa8d0fde"
+    },
+    {
+      "id": "arte-no-amargarse",
+      "sha256": "350161e75b4451944af46d076437880cf979f702d0db3b67a64251085e092eba"
+    },
+    {
+      "id": "aprende-idiomas-en-3-meses",
+      "sha256": "0c6e03b06ebd4c0b9970567d743527b60f0eebd1e3ca729c676b23d84e8982fd"
+    },
+    {
+      "id": "anticancer",
+      "sha256": "0d7c31cee6da7e5e7d13d8392b6b40a720984753cf0c4ab9fdd5df6ce2b6a988"
+    },
+    {
+      "id": "ano-12-semanas",
+      "sha256": "4a70489778b85553df6ee925bd444e58511cfbcf5aabf656c30453c25dda16af"
+    },
+    {
+      "id": "actua-dama-piensa-hombre",
+      "sha256": "cecfcb9aeccc5dc4e2fd89b3d94e01e4e2dbac6a464b91ef57b3deb95a105257"
+    },
+    {
+      "id": "21-leyes-liderazgo",
+      "sha256": "0476537be6049bc916a02127fcf08e174aa743cfa8c44b7237bdb76c388b81e6"
+    },
+    {
+      "id": "zaratustra",
+      "sha256": "568d57ba905bce09dbaf5319b1cda5fba3984b26ef9dfa0359e35ac0e41a26bd"
+    },
+    {
+      "id": "utopia-para-realistas",
+      "sha256": "c96243d7fcee0a7ff7228046969ee930959b260abdaa3411529ddade318a55ef"
+    },
+    {
+      "id": "tao",
+      "sha256": "6ee0ea6cc517d2a61b00afe96f9020ed1db8a915c081f8b5cf0a85db03a2d448"
+    },
+    {
+      "id": "sutil-arte",
+      "sha256": "a77545c61b5a8779156ef1a4d91db534a90e41de43def4dc051d0c984b2eaeed"
+    },
+    {
+      "id": "sociedad-cansancio",
+      "sha256": "d9a8c9b58d6ec66e0bf7c3c2b974cdfa20faba640d19d012bcf885cd19ff1c31"
+    },
+    {
+      "id": "sobre-tirania",
+      "sha256": "cfe3ebfcd5f8873c2ca37c0ba1d96e8664d28dd29dcc9c934b482c323be8b902"
+    },
+    {
+      "id": "si-esto-hombre",
+      "sha256": "8336ffbb80c23e1b08643991a2e0a3598f64d806afe77285f93485605fdcb8c0"
+    },
+    {
+      "id": "respira",
+      "sha256": "49b8b8e6dd1d457e8e97f27131d19e5514484ef2300606cf149d0204ea1f5760"
+    },
+    {
+      "id": "republica-platon",
+      "sha256": "15e143ac482b82f42f3e59bb8a2614a6d61072de30f4a9cb9336618928b515c5"
+    },
+    {
+      "id": "prohibido-nacer",
+      "sha256": "833d9c483dd97ac6057f0dd9fb73687c98fff06b534801da4820866a73f2c6b1"
+    },
+    {
+      "id": "principe",
+      "sha256": "520488f324a01c491a00525fb729d2faa93cedb52d3cfcae3e711a9e6e6b5873"
+    },
+    {
+      "id": "por-que-fracasan",
+      "sha256": "81a5b229e1f7ef8db951973a47abf45a558dc23160fd87d3eba3ace24dc09d59"
+    },
+    {
+      "id": "outlive",
+      "sha256": "2d3ee6f34d29e6484b677712b71743b99afbdfea92191d0e5ac77e8332a38058"
+    },
+    {
+      "id": "orden-del-tiempo",
+      "sha256": "c4743747244b9eed8af7fffbee6b98462956a5d60588e645c90e486dcc405370"
+    },
+    {
+      "id": "nunca-te-pares",
+      "sha256": "490605b16ac2e556e968896293285354d863cbd1da4ab1b6ec37bd543416d14b"
+    },
+    {
+      "id": "napoleon-roberts",
+      "sha256": "373d9102d75ad30efff7e56d17c002bc6b6f440e1112fc4046abfc52023488d8"
+    },
+    {
+      "id": "nacidos-correr",
+      "sha256": "6a666af937223808e9e1c01bc1e041b80e29f62933998a7a7a8a5af2a1835358"
+    },
+    {
+      "id": "mundo-sofia",
+      "sha256": "09815efcd84d3f90a49523fbfefcc542d06669e07e966f7d5fb7d497af0ba950"
+    },
+    {
+      "id": "mundo-ayer",
+      "sha256": "399f16cf539012a44eed0ff0a4f1c6fe3368ac48d40bb1d91f437bc72801f3e0"
+    },
+    {
+      "id": "monje-ferrari",
+      "sha256": "b45e2e25660b9c557dbc7ffd827abfa3d69cbc7853dabbca94b0c78d1a9cc050"
+    },
+    {
+      "id": "momentos-estelares",
+      "sha256": "4c592dd5b2cbb64e4736d623488ff969e3eb4ef1a3572b9a087443a93429833f"
+    },
+    {
+      "id": "meditaciones",
+      "sha256": "dae22689921d9b0c99721d43114db2cb6ee9f4258afff3963ece21de51a9ea9a"
+    },
+    {
+      "id": "mandela",
+      "sha256": "ea220256b16170d5ac4fcd46b2e0b79fa508355d75cace8881f93dba09e96517"
+    },
+    {
+      "id": "malcolm-x",
+      "sha256": "9908b76c00a02ae097c30650019f9069ee2708c1cb237ae0af8f4b7ab2592f33"
+    },
+    {
+      "id": "magia-orden",
+      "sha256": "af628c0baa6957d19b09dbad5d807054968a46c3e531f62ac88a9f1dc33751d3"
+    },
+    {
+      "id": "ikigai",
+      "sha256": "b64a33828383fa4e42b5da04bb9f5d848d8ff5a56a27fb5f6d53084f34ec3d04"
+    },
+    {
+      "id": "henrietta-lacks",
+      "sha256": "43ab1bac45f0d179e07046644afffa93a28080d9764b9eb9d1765a9170a400e7"
+    },
+    {
+      "id": "gen-egoista",
+      "sha256": "ba5920c2f1a0102599c0947fd41711f2191d2a6016ef7fee15ad126604ca7210"
+    },
+    {
+      "id": "factfulness",
+      "sha256": "8be7371b63b4a81006271935a644d67de5b6dd74569a64c88d873a0f538d84dd"
+    },
+    {
+      "id": "endurance-shackleton",
+      "sha256": "037c33ff85e50bc0d6dcd34b61ba46cdaeef0c78e1dbfc1926e1b328b2fb93a2"
+    },
+    {
+      "id": "en-la-sombra",
+      "sha256": "26624ae69f846df873ce18e83c9f321ed4acb54c3bce0278fb46d644d3f7bca3"
+    },
+    {
+      "id": "el-cuerpo-bryson",
+      "sha256": "40f73638e8b0de1043404f7cde7f8f9eb2e23a916bc8333f712d6231454e5616"
+    },
+    {
+      "id": "einstein",
+      "sha256": "0705071aa087d4ff2f77664ef5b6fddf668dc1a4c330220da73749b2f7e1e769"
+    },
+    {
+      "id": "eichmann-jerusalen",
+      "sha256": "27e16bf2a74905011719522fa4eef36f79a9350f58fdce854d5b44fd0a2136bf"
+    },
+    {
+      "id": "digestion-cuestion",
+      "sha256": "b73754e0106092509c54725400548c632cc2c0e49d1a0832e8fd84e126f31b11"
+    },
+    {
+      "id": "cuando-todo-se-derrumba",
+      "sha256": "69dc4a18f2c46851669245dd012252102d1b4554bd084d533413992f92fd63c0"
+    },
+    {
+      "id": "como-ser-estoico",
+      "sha256": "2945a9b61fbe9f4c346c45ed00f8171e8b3fe83211025b6575d42451d727382d"
+    },
+    {
+      "id": "codigo-obesidad",
+      "sha256": "f2dd110fa2f075a45b75c39574a893a96466213610df4654d604bba27d432a2b"
+    },
+    {
+      "id": "cleopatra-schiff",
+      "sha256": "e005887f4a4323765b15ddb8f52d87fa21c8b4721a51b7c6fb5ae375225aa642"
+    },
+    {
+      "id": "busca-sentido",
+      "sha256": "9758d1b1beb2cbde15b9b4d530a26ec2fea70678a4e91ebc492ebb1bc2d97fcb"
+    },
+    {
+      "id": "burnout-nagoski",
+      "sha256": "f7b223af3f0eb6b6080d6741fb66836481d0b30fcc54612a524623c2c34fef11"
+    },
+    {
+      "id": "brevedad-vida",
+      "sha256": "35903d0dffa56b8bcd229d2b70ba178bc42f0ccdc8d1a5eeee9e4836ab5d3a98"
+    },
+    {
+      "id": "breve-historia-del-mundo",
+      "sha256": "dbd7c45598d844d8c2490b8b4e159515fe1715ffefd42a9523212db274a8448d"
+    },
+    {
+      "id": "becoming",
+      "sha256": "c7f6aa54e5e8c71794f53fd06975fa5b9ea5c2df3f5dabd672bbfc2205515880"
+    },
+    {
+      "id": "autobiografia-franklin",
+      "sha256": "cbde04fca4ec679ff5064907ae484e74811531c5d05dbe6ab72864d2eece4b71"
+    },
+    {
+      "id": "arte-guerra",
+      "sha256": "c225437c13f0a4e4ae99f82ab09a789c012a31805b46e1a03530aea3bc790a13"
+    },
+    {
+      "id": "21-lecciones",
+      "sha256": "0696aed4cea72d3d489c494d22952c7ecd3d7107bb65cce5805d004979a11b84"
+    },
+    {
+      "id": "una-buena-vida",
+      "sha256": "0286b3660b1162f40d7487a30a98d424367d7cef89614e26ebd432ca0806803c"
+    },
+    {
+      "id": "triunfo-del-dinero",
+      "sha256": "e1de273a55df1b7101117ca4652ddb974598f2a23618c728124e35c2e3094fb6"
+    },
+    {
+      "id": "trampa-felicidad",
+      "sha256": "7a2dee87c9e1153a9522b053ae1edf96a47cec2f0de2dfbe001a6181fe3c10e8"
+    },
+    {
+      "id": "se-amable-contigo",
+      "sha256": "8dced256a807f9728ae8d4af112701295c496e2e423df35c0d8e6cec55f677fd"
+    },
+    {
+      "id": "sabiduria-inseguridad",
+      "sha256": "92bc3f60af944d4d8318cf466cb98710af4e99ed5ceeac34ffa29030a0786d1c"
+    },
+    {
+      "id": "paradoja-eleccion",
+      "sha256": "29f849244ed80c5a43cba18f434038177eb5d9c237e428a920ce6b07658f6dfd"
+    },
+    {
+      "id": "morir-con-cero",
+      "sha256": "f18fe619a9b11ad5c819e14424f933c1eff036f1997dab29c80de9eaaa706cb2"
+    },
+    {
+      "id": "lo-que-nunca-cambia",
+      "sha256": "b959f5a8ced7eb6e4fe56eb51059b13550d49034740505b8f297bba44c249bb4"
+    },
+    {
+      "id": "libro-hygge",
+      "sha256": "1ed0efc91ff3fc105815f1a267f77f434373725a1adc2a6971721fed639375a7"
+    },
+    {
+      "id": "libro-de-la-alegria",
+      "sha256": "4c54103b11b962819d2c1963adcc30493ef5a7997afef0adcce3e406a9b999bb"
+    },
+    {
+      "id": "la-gran-apuesta",
+      "sha256": "e3ea80a74bb4a3207b42c128f14c25bd654f22527b32e867bc4c8ab1dcadc647"
+    },
+    {
+      "id": "jugarse-la-piel",
+      "sha256": "a3f1a16414192cf2445cfec37905ce97f73d2f638bb829e04fcd06434b416eb9"
+    },
+    {
+      "id": "dones-de-la-imperfeccion",
+      "sha256": "fc62f6f5b8269fcf8df8e95f1e3d199c621ccb739eb4da03cb4dbc09836b7b16"
+    },
+    {
+      "id": "conquista-felicidad",
+      "sha256": "6ac5113a344e3ad3a8249b60de6950a1195ba23443bf674bec93a707d528f875"
+    },
+    {
+      "id": "comprar-felicidad",
+      "sha256": "48747a1fe19a71b857f8bb45922078106944107c0dd529f1bb3657bdb00c2968"
+    },
+    {
+      "id": "cinco-tipos-riqueza",
+      "sha256": "09ba0de2417e15e1076b495296d8db76bc01ecdf01d3db1c6c2ce596a35b5a88"
+    },
+    {
+      "id": "camino-simple-riqueza",
+      "sha256": "7178fb057cfa66e9a6f13e0f41ea0ce2a51ea54edf3193143e35c8c357671bb1"
+    },
+    {
+      "id": "bola-de-nieve",
+      "sha256": "a14bb81f723abbd7b27801b7b66af4515e7b887bb336ff404f8f761313d7c695"
+    },
+    {
+      "id": "ano-de-menos",
+      "sha256": "5c15c44724eb54c654a55d5cc76e697673beebba935354f2b0efb811eda0f243"
+    },
+    {
+      "id": "hombres-marte-mujeres-venus",
+      "sha256": "91ba8da123a62659bcefcc07baa73ab005ee6d1a2395c3f95ac07e98fbd7e224"
+    },
+    {
+      "id": "diario-ana-frank",
+      "sha256": "de456ba66bb4a6225196a4837a44172bfdf95c767364ffe3e5f6c77d0cb090ea"
+    },
+    {
+      "id": "breve-historia-tiempo-14",
+      "sha256": "5748a3e0bac31b297b950b52c402477159493af41a36b1fd36f4579b6c04473c"
+    },
+    {
+      "id": "filosofo-griego",
+      "sha256": "130fc918662abaa959c7f24cfb181f48e1673bee74bfbc928aa1e7516cdf5013"
+    },
+    {
+      "id": "quietud-es-la-clave",
+      "sha256": "ca5124f68659d5b32d3014b668ab5f4af3351f3b42bee36d4c29198b94a0915d"
+    },
+    {
+      "id": "nexus",
+      "sha256": "2cd67dcdc584faaa4291a04c20dcf312a6eeec48a8ed9790dfd156bb42d25096"
+    },
+    {
+      "id": "cientifico-espacial",
+      "sha256": "ccabf998ed7c92d1d152d5dc24be0d04765a02138076abbf9ebbedec8531314c"
+    },
+    {
+      "id": "sin-esfuerzo",
+      "sha256": "72a03a284e99b0c46189af3c36daa40d8d424330d3190fca85a01d597d8c7d43"
+    },
+    {
+      "id": "guerra-chips",
+      "sha256": "4b2da426ab371077da47f70f0350a93e1fa37f2c4f1691686e29402cfc27d8f6"
+    },
+    {
+      "id": "efecto-compuesto",
+      "sha256": "6a1fa279aa61b9c11d4decbcea7ad6882cbd91b11d2fd85eff3b59a474869d28"
+    },
+    {
+      "id": "gulag",
+      "sha256": "d81f98ae8d208726ff7ac441057f55f096cb71315e8bab9b68482ba8f41bb965"
+    },
+    {
+      "id": "cerebro-hambriento",
+      "sha256": "c4ac23e178df8c77f2504025a858d92dd41746ab3a976942a298f5ac0c894eac"
+    },
+    {
+      "id": "cambia-el-chip",
+      "sha256": "d03f00c821c95ea804e22c66e95f6573bd7842c97f056f409b785584655d2be1"
+    },
+    {
+      "id": "bolsa-o-vida",
+      "sha256": "c9351b9898af58f96eefecb6e9eb57aeec98e49932e069b2c7b97adad627e0c4"
+    },
+    {
+      "id": "maestria-greene",
+      "sha256": "02ebb9a386ae0eff1655e873f2bbe256619d0b33ea3ec0fff2bf6e0e277017c8"
+    },
+    {
+      "id": "pre-suasion",
+      "sha256": "3251177f2e83e6170d610d3ee38fb690a343e8141fdcf50f8e9c302d6b63df12"
+    },
+    {
+      "id": "revolucion-glucosa",
+      "sha256": "d469388807be13a2f12573b9fcaf86f0b8188aef67b428d1ca1bb7376ac01547"
+    },
+    {
+      "id": "cinco-arrepentimientos",
+      "sha256": "921ace3925adfb61273c0b4c0f4ce92b3087c18a514fced11f4a9f73eb54096e"
+    },
+    {
+      "id": "comunicacion-no-violenta",
+      "sha256": "aa4aed420e12482a0013b1fa36aff1b27aa66f9152cad6616881fe111bd8b942"
+    },
+    {
+      "id": "millonario-automatico",
+      "sha256": "cbe9d87e041126cc151b959d289f8257d8594aefe038c8af9da744c0e40a6a4f"
+    },
+    {
+      "id": "will-smith",
+      "sha256": "a488beccd2a36123cf1e67f49242e1867aa40ae9f6475af89cbd272e4a0914ee"
+    },
+    {
+      "id": "obtenga-el-si",
+      "sha256": "aa07ad1166b942781b159c81f6a700a12284a71f7c796e4cfcada9b04888e2a9"
+    },
+    {
+      "id": "dopamina-lieberman",
+      "sha256": "33b2d264782c37041b21832c229e59966ec053f6e532aa1e7badf61b089a2faf"
+    },
+    {
+      "id": "cuatro-mil-semanas",
+      "sha256": "557dfad291c7d61a73fb9756d204e8b9552cc9cf7910fc631e31f538fffd3c0f"
+    },
+    {
+      "id": "piensalo-otra-vez",
+      "sha256": "def61bffc6716bf8f0e5dd109b10575c1ede9a3d41f215e90441025813539ae6"
+    },
+    {
+      "id": "relentless",
+      "sha256": "de7e1563deaf4c0dcb8bad3ec53228223e014ef9bfd253b3ed0ab613c0322fa8"
+    },
+    {
+      "id": "tal-como-eres",
+      "sha256": "94ae9807b6ad28c5731ba3bf508b7d621375f48e7abb7802e503765880f68038"
+    },
+    {
+      "id": "poder-introvertidos",
+      "sha256": "6fbc183c7a7800748a27b5e3b46efc96a0d278e9845cadd22d9b8f939911818d"
+    },
+    {
+      "id": "determinacion",
+      "sha256": "a5b38800ff4a8783312c33a4275dbf354a897b0012ba512317687b28d27b99c0"
+    },
+    {
+      "id": "rompe-barrera-no",
+      "sha256": "456bb593488959a9c137e6839de57e03f5a7db422d318122bb0af176e0e539d6"
+    },
+    {
+      "id": "gottman-pareja",
+      "sha256": "e949b41b8960ad460b09f4577fc90e8331b896c068f70f1bbf0291156a9c53ff"
+    },
+    {
+      "id": "gen-deportivo",
+      "sha256": "0cabdb8ce8f58d523b70c565c00aac47c41a6c500b824570deed8399138cabf9"
+    },
+    {
+      "id": "numero-uno",
+      "sha256": "e04c88ae2a1c52dab5562be4b98b2831f4f25de7a57d51025900e5665158faa7"
+    },
+    {
+      "id": "mamba-mentality",
+      "sha256": "d52c956fa87525dfc90947057e3797eaa16528970a484953a5ba9a59f32289ac"
+    },
+    {
+      "id": "once-anillos",
+      "sha256": "778b89a89dcfd145f69a7b05714bff9be5d22e5fe0e101e55dc7aae87a531ed2"
+    },
+    {
+      "id": "heroe-mil-caras",
+      "sha256": "1f74dae5306e3c6586f8a7e0f482bc0b223f3bb1f57c7119346609f55e1fbebb"
+    },
+    {
+      "id": "arte-sin-hombres",
+      "sha256": "e1ffc6b1cc80c60cf467f38dc7b5c6f88c8e31240a2e9779fde62d21aa816700"
+    },
+    {
+      "id": "canones-agosto",
+      "sha256": "14bae51d2f07c371ea7e30b482bcaac0d9f09bacc963168d0cb0c7c79ce2cb49"
+    },
+    {
+      "id": "mas-alla-bien-mal",
+      "sha256": "2440177d3d7236ffd07b2d99b0aa5a9e77f64fe33aaa7cc9d21b6d01c0760848"
+    },
+    {
+      "id": "intro-psicoanalisis",
+      "sha256": "44d58286ba28e9033ff9d4dda825f1bacba185dc27eac1c9ac53df9f1347a834"
+    },
+    {
+      "id": "maneras-de-amar",
+      "sha256": "cc9d817a893c66a9b3b7d9a8316fb47a1517cf3a785d3450cd570b103d27c6ea"
+    },
+    {
+      "id": "vivir-plenitud",
+      "sha256": "297526e327f65b01ed241ea43b05341a363e3dfe54e529e74cab1f793a6a73c1"
+    },
+    {
+      "id": "paseo-aleatorio",
+      "sha256": "1c5eaa3868440e472a52658cdb3a156ebb00293183a3ba181d6ed3be7ce85cd4"
+    },
+    {
+      "id": "millonario-al-lado",
+      "sha256": "e77f0aa06580b0fa730f4cd6391574574a1e763b134621cac1c567b4447250c6"
+    },
+    {
+      "id": "bogle-sentido-comun",
+      "sha256": "d57a33d9c5411f43cc62fbe91f352d262354246b805860df6b73d936d3a8100c"
+    },
+    {
+      "id": "lenguajes-amor",
+      "sha256": "889b3a84b2d37f91067ae0b4a1b2890a69f34bda46bbcaf49772eae1fa58fefc"
+    },
+    {
+      "id": "cero-a-uno",
+      "sha256": "56b61ed280dbb8313f2f5e7995ccc79262078e739c87ae5133fa360607126d81"
+    },
+    {
+      "id": "riqueza-naciones",
+      "sha256": "1fdb68ee5598fc8d667517dc19af8314119c19fd9459b16661fb9168730b032a"
+    },
+    {
+      "id": "feynman",
+      "sha256": "3d206b305120c6659c4c4bd8799e0096b2bfd28d12d4dcf06bc1894323e95d38"
+    },
+    {
+      "id": "zonas-azules",
+      "sha256": "82b39df54cc2abc80431d452fcdcee79d20da1a04061549b39eaf22b354bb8ca"
+    },
+    {
+      "id": "gen-historia",
+      "sha256": "e079167830fbfb76200f7a19d118bf844236ac9295ef15eba2de65fc33e15e5c"
+    },
+    {
+      "id": "siete-lecciones-fisica",
+      "sha256": "3c2b305cd5f5237d883f680ea017a9b0aeb7c4a43a4f9f678f1a587294bd36a1"
+    },
+    {
+      "id": "nudge",
+      "sha256": "754038eba2085f48bbd2d5b3bf84c2906b13095877bdb170f36d48a3239d1b6e"
+    },
+    {
+      "id": "arte-de-amar",
+      "sha256": "7700a9e298ce401fd71fcc53c9036565dc6767bed9a8d0ac1c9f76aef9fc77ce"
+    },
+    {
+      "id": "educada",
+      "sha256": "f77ca4aa41bca56118a61820207868d8e2dbf95ac8a0f83423a4bcf4241d7161"
+    },
+    {
+      "id": "homenaje-cataluna",
+      "sha256": "e348d0084d7c7b5e4dfe15c480c92f18b213b4bda3ca6ae002fe8067b2329f54"
+    },
+    {
+      "id": "capital-siglo-xxi",
+      "sha256": "8423d0a89f1efebe6df197dd045ca2c5a08570e88568632c6a3b0730021a59f7"
+    },
+    {
+      "id": "origenes-totalitarismo",
+      "sha256": "3ef14a925b0443bada6a37a43bbc0d31bc59374379860b5b041d426df2d30d71"
+    },
+    {
+      "id": "ser-mortal",
+      "sha256": "3c8f2158de27301acb9b1275f8c96955e1a216931245eb21f79f2066a3d104ef"
+    },
+    {
+      "id": "antifragil",
+      "sha256": "461412a72f1cd0d280d810125af4d1041010b90f404194362e72c501fa8edc82"
+    },
+    {
+      "id": "inversor-inteligente",
+      "sha256": "ca09126e03eeb3446a97c3ad2300dca4ee33e6bc6054ec19bcdf5f0b84aafde0"
+    },
+    {
+      "id": "hombre-rico-babilonia",
+      "sha256": "ab1f1d7852260554e90539d307c0d408d20bdf3a0352e18840848eb570de9cf5"
+    },
+    {
+      "id": "malala",
+      "sha256": "05c1e4b98da6c7aa108e93d200081c5fff745fe3c08de74fc54bc30c0c302d23"
+    },
+    {
+      "id": "sisifo",
+      "sha256": "2e3ab1257ea1d0ef4d3c9186391e865399a8291cbddca9eba9cbcf8ebed7c89c"
+    },
+    {
+      "id": "casi-todo",
+      "sha256": "30e465c110b51d5eed93b93cbdde57cc118da406763afbf7c5d1758de66255bf"
+    },
+    {
+      "id": "cuerpo-cuenta",
+      "sha256": "c8b1122ca2bbe99482ad6fcee1c78b3c9102ee51390f7c92055e5d2b5718ea96"
+    },
+    {
+      "id": "freakonomics",
+      "sha256": "1425ca59a8c604a4ad6f9de7b5e58a028916f7abcb4123d72b10b4caa9ca29f1"
+    },
+    {
+      "id": "origen-especies",
+      "sha256": "4b98122c9b51bd7c91612ef62c630ce9bef7c862671c447e3e4eee945fa3e871"
+    },
+    {
+      "id": "odisea",
+      "sha256": "3fac7a02612db36c105767e5a91563e3db1af566d9217f996453d456ee29a02e"
+    },
+    {
+      "id": "steve-jobs",
+      "sha256": "188c1a5d02ce0552a1182ca31a64847a6abdf0e7b562e244be1652b06b0013d9"
+    },
+    {
+      "id": "alquimista",
+      "sha256": "e3624cf2529d317d67f38b5246b52b21e70ec66b9d61c4461757100e89ecba0c"
+    },
+    {
+      "id": "breve-historia-tiempo",
+      "sha256": "5952de28e22fe2acbb6172a311397404f9c4f58f4324a335d443417561edd3f8"
+    },
+    {
+      "id": "infinito-junco",
+      "sha256": "96dac01167f8050f3a5f9f006d591a11c507752ba77d87dc41de1f5477cba4b3"
+    },
+    {
+      "id": "cisne-negro",
+      "sha256": "0e44b04b2ecd7b6d85b458f3e451f10bb60575e0acbd260fb95c317df90ab9dc"
+    },
+    {
+      "id": "spqr",
+      "sha256": "b473454ba84644e13fb61f33c67a4a4f535618a5104458d3118c02d719b781a9"
+    },
+    {
+      "id": "por-que-dormimos",
+      "sha256": "4c7a1b3d4a956459276481ee74616fac6bba4b7f31cd794d1c91b3192e23b4d2"
+    },
+    {
+      "id": "influencia",
+      "sha256": "f1f750fdf41f6d18eafd55cdadc64bf46086097c1f2049d4f763463fd2d2bdd3"
+    },
+    {
+      "id": "cosmos",
+      "sha256": "84761bbc14676feaaf22914bb016103537a675125a003edb24bfd90674bbcf3a"
+    },
+    {
+      "id": "flow",
+      "sha256": "6851a7b0f88b95161f830652baff9951e6cc343b96e383668f85ab5335a9a44c"
+    },
+    {
+      "id": "mindset",
+      "sha256": "954c7ddf6cd12b52ed93b559c890a4408800c36b1d000605dfb81554ef542dd3"
+    },
+    {
+      "id": "poder-ahora",
+      "sha256": "cfbfed8464d2f6ae6a460d7659a8a765285f43ec4944016a9a514c2cfa823c22"
+    },
+    {
+      "id": "pensar-rapido",
+      "sha256": "899170eb69311c9b25de393c97428644de02d43d87f952816f959eebc915b691"
+    },
+    {
+      "id": "inteligencia-emocional",
+      "sha256": "476ba0f4655b236d241523a518157217647eb2860387a6ff4b2303eb903dfa76"
+    },
+    {
+      "id": "mente-millonaria",
+      "sha256": "74656239d951d053c664e28ea5967b71aa8c6bcab17228ce3c07794b36923efb"
+    },
+    {
+      "id": "piensa-hazte-rico",
+      "sha256": "ecd6f6754953ffca0f085a99789c8bd69e874c15d81d2de7536fde79859378f7"
+    },
+    {
+      "id": "amigos-influir",
+      "sha256": "eb939b76efcb84396e8465f1f6aa3a34ea4efc190f3cf9f8d101b39f13aa9631"
+    },
+    {
+      "id": "padre-rico",
+      "sha256": "aa81fc8e167b4ca35c3ca1ec70c34fc470e7f57be69c342e3f1a982c1ad30891"
+    },
+    {
+      "id": "psicologia-dinero",
+      "sha256": "bac0267c14dd9e813f9d0af6d04d566b1a1642c53451bab013cd8d706f0f9c37"
+    },
+    {
+      "id": "poder-habitos",
+      "sha256": "aa86c456e13ced8286c3a650930e14796c0ad0129383423018255e988c2c2ff2"
+    },
+    {
+      "id": "siete-habitos",
+      "sha256": "42f3e1ffaeb3be6dcb67fe3dcab0a65bd77eddffb1676f2a191d18e3862e2e84"
+    },
+    {
+      "id": "habitos-atomicos",
+      "sha256": "791847d30475ec4666cac1d2a147c2957064a3b4104d3ab5ea29c3ae6030bbae"
+    },
+    {
+      "id": "sapiens",
+      "sha256": "3139f996d3e70b7345f7bfd6be1d987c7c035679cb8fc851ff397280118123b9"
+    },
+    {
+      "id": "homo-deus",
+      "sha256": "2bd32b20766af35cf7dd5a7cb966f7ee26afc8d49f455c87bdd54d895d38a7d4"
+    },
+    {
+      "id": "armas-germenes",
+      "sha256": "487d7e0e2bf34527db554e9014c8d8b01f2a6f03bee38725b64395499af0aed4"
+    },
+    {
+      "id": "trabajo-profundo",
+      "sha256": "2556c0fd329ba873e1196b43de779cf2c544a36980eb140b7095cf911cf83e76"
+    }
+  ]
+}
