@@ -1,0 +1,17 @@
+Edit this illustration, preserving the exact words, line breaks, layout, eight players, colors assigned to objects, and scene. Final size 1024x1536.
+
+Make it a FLAT DIGITAL POSTER rather than a lit physical print. Remove ALL ambient shading, shadow gradients, soft lighting, mottling, paper texture and noise. Every connected patch must have ONE perfectly solid uniform color, including the sky and especially the green foreground. Clean five-ink digitally colored illustration, not photographed printed paper. Do not place any vignette or broad shadow over the finished art. The barely-there 2%-left binding groove is the only tiny tonal exception.
+
+Flat recoloring must use exactly these base fills: cream #EFE4D2 for sky and field markings, terracotta #C8432A for dirt, sage #6E7A5E for terrace faces, dark green #2F4A3C for text, eight tiny players and near ledge, ochre #E0A24A for sun and step edges. Do not change text or add symbols. Keep irregular hand-drawn contours, not roughened fill. Preserve depth through overlapping planes.
+
+Fix field marking geometry: the vertical-ish halfway line through the central circle must continue ALL THE WAY to the top far touchline, so it joins both opposed boundaries cleanly; it currently stops short at its upper end. Keep both side penalty areas correctly attached to the field boundaries and retain their hand-painted look. The far top border slopes upward to the right. The line joins it around its midpoint. No extra lines. Do not crop the field.
+
+Preserve typography verbatim:
+De Riotinto
+a la Roja
+
+Cómo un juego que trajeron
+unos mineros británicos
+acabó explicando a España
+
+Do not add anything else. Flat, clean, beautifully drawn editorial graphic, absolutely no pseudo-realistic surface lighting.
