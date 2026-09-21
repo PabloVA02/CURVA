@@ -1,0 +1,5013 @@
+[
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1916.PNG",
+    "fuente": "IMG_1916.PNG",
+    "sha256": "8c5391c2b1ef08b26d4a44e46639d2961548fb2b16e14182ae93424fec547127",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Atlas del corazón",
+    "marca": "Headway",
+    "crop": [
+      192,
+      156,
+      366,
+      549
+    ],
+    "parcial": false,
+    "id": 1,
+    "lineas": [
+      {
+        "caja": [
+          30.054644767759562,
+          26.909090842424245,
+          38.79781420765027,
+          7.9999999999999964
+        ],
+        "confianza": 0.5,
+        "texto": "Atlas'"
+      },
+      {
+        "caja": [
+          44.262294989071044,
+          36.00000001818182,
+          9.289617486338791,
+          3.2727272727272716
+        ],
+        "confianza": 1,
+        "texto": "del"
+      },
+      {
+        "caja": [
+          21.271392096904755,
+          39.14843050790735,
+          55.27142384013192,
+          8.24859341708095
+        ],
+        "confianza": 1,
+        "texto": "corazón"
+      },
+      {
+        "caja": [
+          28.41530049180328,
+          64.36363640727272,
+          43.71584699453552,
+          4.3636363636363695
+        ],
+        "confianza": 1,
+        "texto": "El mapa de los"
+      },
+      {
+        "caja": [
+          18.951972915618107,
+          68.35201853949597,
+          62.108274366034834,
+          6.365378639914776
+        ],
+        "confianza": 1,
+        "texto": "vinculos importantes"
+      },
+      {
+        "caja": [
+          22.40437151639345,
+          74.54545460454544,
+          54.644808743169406,
+          4.7272727272727355
+        ],
+        "confianza": 1,
+        "texto": "y el lenguaje de la"
+      },
+      {
+        "caja": [
+          19.672130748633883,
+          79.63636368363638,
+          60.65573770491803,
+          4.727272727272725
+        ],
+        "confianza": 1,
+        "texto": "experiencia humana"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1,
+      2
+    ],
+    "mensajeIndices": [
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-headway/IMG_1962.PNG",
+    "fuente": "IMG_1962.PNG",
+    "sha256": "e2b00ad3ae6f565b557b7fec0be54389f3ec1a0153c8b8c63be22c292ff71727",
+    "width": 750,
+    "height": 1624,
+    "titulo": "El quinto acuerdo",
+    "marca": "Headway",
+    "crop": [
+      192,
+      156,
+      366,
+      549
+    ],
+    "parcial": false,
+    "id": 2,
+    "lineas": [
+      {
+        "caja": [
+          13.661202216530056,
+          8.727272659090913,
+          62.841530054644814,
+          10.909090909090901
+        ],
+        "confianza": 1,
+        "texto": "El quinto"
+      },
+      {
+        "caja": [
+          13.00286837725234,
+          19.57661370880682,
+          61.972404438289786,
+          8.48313626376066
+        ],
+        "confianza": 1,
+        "texto": "acuerdo"
+      },
+      {
+        "caja": [
+          27.28037823521565,
+          56.62026209353449,
+          35.056730176581716,
+          6.395839344371446
+        ],
+        "confianza": 1,
+        "texto": "Una guía"
+      },
+      {
+        "caja": [
+          27.293549964242363,
+          63.161218419486765,
+          53.06317272082053,
+          6.4048357876864355
+        ],
+        "confianza": 1,
+        "texto": "práctica para"
+      },
+      {
+        "caja": [
+          26.184203133943328,
+          69.99651610629188,
+          45.44580178182633,
+          5.461512999101115
+        ],
+        "confianza": 1,
+        "texto": "la maestría"
+      },
+      {
+        "caja": [
+          26.617201572252775,
+          77.3227764368414,
+          35.779225500554986,
+          5.10683475841176
+        ],
+        "confianza": 1,
+        "texto": "personal"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-headway/IMG_1969.PNG",
+    "fuente": "IMG_1969.PNG",
+    "sha256": "6fb79764de7f05f325ac2c13cf4ec6e3d406638d79d2fd005dd0ee9b69af159b",
+    "width": 750,
+    "height": 1624,
+    "titulo": "El elefante en el cerebro",
+    "marca": "Headway",
+    "crop": [
+      192,
+      156,
+      366,
+      549
+    ],
+    "parcial": false,
+    "id": 3,
+    "lineas": [
+      {
+        "caja": [
+          18.56031418551248,
+          13.37681821304637,
+          63.42582077276511,
+          7.064545371315689
+        ],
+        "confianza": 1,
+        "texto": "El elefante"
+      },
+      {
+        "caja": [
+          10.928961545667448,
+          22.54545449350649,
+          77.59562841530054,
+          7.272727272727275
+        ],
+        "confianza": 1,
+        "texto": "en el cerebro"
+      },
+      {
+        "caja": [
+          28.961748398907105,
+          70.9090908690909,
+          42.07650273224044,
+          4.0000000000000036
+        ],
+        "confianza": 1,
+        "texto": "Motivos ocultos"
+      },
+      {
+        "caja": [
+          27.868852771272433,
+          75.99999998441558,
+          43.715846994535525,
+          3.6363636363636376
+        ],
+        "confianza": 1,
+        "texto": "en la vida diaria"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      2,
+      3
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1904.PNG",
+    "fuente": "IMG_1904.PNG",
+    "sha256": "5f4a7235d382a5b0415b5ec243642f9faf55ec0b8489c5ffbb67719f52ade90f",
+    "width": 750,
+    "height": 1624,
+    "titulo": "El poder de un no positivo",
+    "marca": "Headway",
+    "crop": [
+      32,
+      775,
+      327,
+      491
+    ],
+    "clip": [
+      0,
+      190,
+      750,
+      1115
+    ],
+    "parcial": false,
+    "visible": 1.0,
+    "id": 4,
+    "lineas": [
+      {
+        "caja": [
+          14.634145945121958,
+          8.943089455736231,
+          71.34146341463415,
+          7.72357723577235
+        ],
+        "confianza": 1,
+        "texto": "EL PODER"
+      },
+      {
+        "caja": [
+          14.56719812665389,
+          17.70074234102339,
+          44.64609099597465,
+          7.687946257552469
+        ],
+        "confianza": 1,
+        "texto": "DE UN"
+      },
+      {
+        "caja": [
+          14.024390341463414,
+          23.983739743902433,
+          73.17073170731709,
+          28.04878048780488
+        ],
+        "confianza": 1,
+        "texto": "NO"
+      },
+      {
+        "caja": [
+          14.6341459688347,
+          54.47154473803071,
+          67.07317073170732,
+          7.317073170731714
+        ],
+        "confianza": 1,
+        "texto": "POSITIVO"
+      },
+      {
+        "caja": [
+          45.731707621951216,
+          69.91869916666667,
+          42.68292682926829,
+          3.658536585365857
+        ],
+        "confianza": 1,
+        "texto": "Cómo decir NO"
+      },
+      {
+        "caja": [
+          45.121950907012206,
+          74.3902438465447,
+          40.85365853658537,
+          4.471544715447163
+        ],
+        "confianza": 1,
+        "texto": "y sin embargo"
+      },
+      {
+        "caja": [
+          45.09152423402783,
+          78.77583974958641,
+          30.54865860357517,
+          5.0499464438213515
+        ],
+        "confianza": 1,
+        "texto": "llegar al Si"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "mensajeIndices": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1896.PNG",
+    "fuente": "IMG_1896.PNG",
+    "sha256": "c6827d2d874cc716995197661669ad83d346c97cd10a3e4b528f5c1b267e1b00",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Crea tu segundo cerebro",
+    "marca": "Headway",
+    "crop": [
+      391,
+      801,
+      327,
+      491
+    ],
+    "clip": [
+      0,
+      190,
+      750,
+      1115
+    ],
+    "parcial": false,
+    "visible": 1.0,
+    "id": 5,
+    "lineas": [
+      {
+        "caja": [
+          20.720668199190776,
+          8.905732512434927,
+          58.55866408929592,
+          7.798291028030524
+        ],
+        "confianza": 1,
+        "texto": "CREA TU"
+      },
+      {
+        "caja": [
+          15.243902752217286,
+          18.29268290835181,
+          68.90243902439023,
+          7.317073170731703
+        ],
+        "confianza": 1,
+        "texto": "SEGUNDO"
+      },
+      {
+        "caja": [
+          17.07317032393293,
+          27.642276440548773,
+          65.24390243902441,
+          7.72357723577236
+        ],
+        "confianza": 1,
+        "texto": "CEREBRO"
+      },
+      {
+        "caja": [
+          14.634145634146353,
+          69.10569106910569,
+          70.73170731707317,
+          5.284552845528456
+        ],
+        "confianza": 1,
+        "texto": "Un método probado"
+      },
+      {
+        "caja": [
+          20.121951425304868,
+          74.39024383130082,
+          60.365853658536594,
+          5.691056910569103
+        ],
+        "confianza": 1,
+        "texto": "para organizar tu"
+      },
+      {
+        "caja": [
+          29.85645866120734,
+          80.01159967389164,
+          40.8968390488043,
+          5.830459284588574
+        ],
+        "confianza": 1,
+        "texto": "vida digital"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1,
+      2
+    ],
+    "mensajeIndices": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1904.PNG",
+    "fuente": "IMG_1904.PNG",
+    "sha256": "5f4a7235d382a5b0415b5ec243642f9faf55ec0b8489c5ffbb67719f52ade90f",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Piensa como un filósofo griego",
+    "marca": "Headway",
+    "crop": [
+      391,
+      164,
+      327,
+      491
+    ],
+    "clip": [
+      0,
+      190,
+      750,
+      1115
+    ],
+    "parcial": true,
+    "visible": 0.9470468431771895,
+    "id": 6,
+    "lineas": [
+      {
+        "caja": [
+          7.317072464430903,
+          14.227642300135502,
+          84.75609756097562,
+          6.910569105691056
+        ],
+        "confianza": 1,
+        "texto": "PIENSA COMO"
+      },
+      {
+        "caja": [
+          10.349590011954044,
+          20.263522930867992,
+          79.30081995522103,
+          9.472953982469523
+        ],
+        "confianza": 1,
+        "texto": "UN FILÓSOFO"
+      },
+      {
+        "caja": [
+          25.579940681086384,
+          30.806061138089202,
+          48.230361938476555,
+          7.493568823589547
+        ],
+        "confianza": 1,
+        "texto": "GRIEGO"
+      },
+      {
+        "caja": [
+          16.463415113240412,
+          47.5609755923345,
+          67.07317073170734,
+          4.0650406504065035
+        ],
+        "confianza": 1,
+        "texto": "El método de Sócrates"
+      },
+      {
+        "caja": [
+          22.441443747882424,
+          52.29461739846196,
+          54.49042901760194,
+          5.09938088859
+        ],
+        "confianza": 1,
+        "texto": "para alumbrar las"
+      },
+      {
+        "caja": [
+          16.46341518800812,
+          57.723577215447165,
+          66.46341463414635,
+          4.8780487804877986
+        ],
+        "confianza": 1,
+        "texto": "ideas y las respuestas"
+      },
+      {
+        "caja": [
+          28.65853605945122,
+          63.00813010670731,
+          42.073170731707314,
+          4.471544715447151
+        ],
+        "confianza": 1,
+        "texto": "que necesitas"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1,
+      2
+    ],
+    "mensajeIndices": [
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1901.PNG",
+    "fuente": "IMG_1901.PNG",
+    "sha256": "0d309bff4013665b2eff61274b47358310455f5be70e93aa845e014ba0e958ae",
+    "width": 750,
+    "height": 1624,
+    "titulo": "El pensamiento lateral",
+    "marca": "Headway",
+    "crop": [
+      391,
+      304,
+      327,
+      491
+    ],
+    "clip": [
+      0,
+      190,
+      750,
+      1115
+    ],
+    "parcial": false,
+    "visible": 1.0,
+    "id": 7,
+    "lineas": [
+      {
+        "caja": [
+          15.485005148974654,
+          17.516331914170703,
+          45.70973559123714,
+          7.851773548901564
+        ],
+        "confianza": 1,
+        "texto": "El pensa-"
+      },
+      {
+        "caja": [
+          15.243902037601634,
+          24.390243851626014,
+          67.68292682926831,
+          6.097560975609751
+        ],
+        "confianza": 1,
+        "texto": "miento lateral"
+      },
+      {
+        "caja": [
+          47.52020739124562,
+          58.3954461967532,
+          27.520561218261726,
+          3.940814878882437
+        ],
+        "confianza": 1,
+        "texto": "Manual de"
+      },
+      {
+        "caja": [
+          47.52154674343704,
+          62.4526357525051,
+          29.956906016280012,
+          3.956517165269313
+        ],
+        "confianza": 1,
+        "texto": "creatividad"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      2,
+      3
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-headway/IMG_1966.PNG",
+    "fuente": "IMG_1966.PNG",
+    "sha256": "7a64afd1b9bd7efff98522b72bc9b3bb398b6ea66a494dff0d3018a4fe950b6f",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Hábitos mínimos",
+    "marca": "Headway",
+    "crop": [
+      192,
+      156,
+      366,
+      549
+    ],
+    "parcial": false,
+    "id": 8,
+    "lineas": [
+      {
+        "caja": [
+          37.858613046670435,
+          13.409411944038684,
+          50.20989173097037,
+          13.615220503373582
+        ],
+        "confianza": 1,
+        "texto": "Hábitos"
+      },
+      {
+        "caja": [
+          34.33466988054744,
+          20.484563957703948,
+          56.0345467322511,
+          15.10732477361506
+        ],
+        "confianza": 1,
+        "texto": "mínimos"
+      },
+      {
+        "caja": [
+          58.98337554176574,
+          63.562202398653845,
+          27.388440324960506,
+          5.602867820046164
+        ],
+        "confianza": 1,
+        "texto": "Pequeños"
+      },
+      {
+        "caja": [
+          44.212476632890265,
+          69.27890928331169,
+          42.17613928956412,
+          5.8058180375532675
+        ],
+        "confianza": 1,
+        "texto": "cambios que lo"
+      },
+      {
+        "caja": [
+          37.158470284153,
+          75.27272732363637,
+          49.180327868852466,
+          5.09090909090909
+        ],
+        "confianza": 1,
+        "texto": "transforman todo"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-headway/IMG_1972.PNG",
+    "fuente": "IMG_1972.PNG",
+    "sha256": "80419157040b2a8ee715f9e2b4343fd5c54b70f5f04491599fc7cc3adbf00581",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Tu miedo es tu poder",
+    "marca": "Headway",
+    "crop": [
+      192,
+      156,
+      366,
+      549
+    ],
+    "parcial": false,
+    "id": 9,
+    "lineas": [
+      {
+        "caja": [
+          20.742995563674597,
+          37.36790884573868,
+          57.421112060546875,
+          6.718727805397728
+        ],
+        "confianza": 1,
+        "texto": "TU MIEDO"
+      },
+      {
+        "caja": [
+          13.114754562841528,
+          46.54545452272727,
+          74.31693989071039,
+          6.545454545454554
+        ],
+        "confianza": 1,
+        "texto": "ES TU PODER"
+      },
+      {
+        "caja": [
+          19.12568255009108,
+          56.36363638484849,
+          61.20218579234973,
+          3.9999999999999925
+        ],
+        "confianza": 1,
+        "texto": "Afronta tus miedos"
+      },
+      {
+        "caja": [
+          16.939890060109303,
+          61.81818184727273,
+          65.02732240437159,
+          4.363636363636358
+        ],
+        "confianza": 1,
+        "texto": "y transforma tu vida"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      2,
+      3
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1918.PNG",
+    "fuente": "IMG_1918.PNG",
+    "sha256": "33ea472b6092495068928e6747fff51917e3dd361a5c39371b27dde86dced791",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Meditaciones",
+    "marca": "Headway",
+    "crop": [
+      192,
+      156,
+      366,
+      549
+    ],
+    "parcial": false,
+    "id": 10,
+    "lineas": [
+      {
+        "caja": [
+          31.693989316939884,
+          10.181818145454546,
+          36.612021857923494,
+          3.6363636363636376
+        ],
+        "confianza": 1,
+        "texto": "Marco Aurelio"
+      },
+      {
+        "caja": [
+          14.754097759562853,
+          20.363636378787874,
+          72.1311475409836,
+          6.181818181818189
+        ],
+        "confianza": 1,
+        "texto": "Meditaciones"
+      }
+    ],
+    "tituloIndices": [
+      1
+    ],
+    "mensajeIndices": []
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1887.PNG",
+    "fuente": "IMG_1887.PNG",
+    "sha256": "b2695e752985c479a46cf24067953e6665d6d2b9b103c2201fa48a7efaa1c096",
+    "width": 750,
+    "height": 1624,
+    "titulo": "El gran Gatsby",
+    "marca": "Headway",
+    "crop": [
+      391,
+      802,
+      327,
+      491
+    ],
+    "clip": [
+      0,
+      190,
+      750,
+      1115
+    ],
+    "parcial": false,
+    "visible": 1.0,
+    "id": 11,
+    "lineas": [
+      {
+        "caja": [
+          25.0000000043554,
+          16.66666669860627,
+          9.146341463414636,
+          4.471544715447163
+        ],
+        "confianza": 1,
+        "texto": "EL"
+      },
+      {
+        "caja": [
+          23.170731500677512,
+          21.951219532520327,
+          37.19512195121951,
+          6.910569105691056
+        ],
+        "confianza": 1,
+        "texto": "GRAN"
+      },
+      {
+        "caja": [
+          23.16142960568486,
+          29.237153685785344,
+          51.8478719199576,
+          6.97284713993227
+        ],
+        "confianza": 0.5,
+        "texto": "GATSBY"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1,
+      2
+    ],
+    "mensajeIndices": []
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1886.PNG",
+    "fuente": "IMG_1886.PNG",
+    "sha256": "f0abbc120c35bba52dfe1853f7f0c2de7ac75593cc968d0407a33815ca01fd29",
+    "width": 750,
+    "height": 1624,
+    "titulo": "1984",
+    "marca": "Headway",
+    "crop": [
+      391,
+      256,
+      327,
+      491
+    ],
+    "clip": [
+      0,
+      190,
+      750,
+      1115
+    ],
+    "parcial": false,
+    "visible": 1.0,
+    "id": 12,
+    "lineas": [
+      {
+        "caja": [
+          15.138106915885869,
+          16.011634105865625,
+          28.872827204262336,
+          4.535117575792757
+        ],
+        "confianza": 1,
+        "texto": "George"
+      },
+      {
+        "caja": [
+          15.798751143571558,
+          20.993897022371332,
+          28.1585949223216,
+          5.166677537003173
+        ],
+        "confianza": 0.5,
+        "texto": "Orw/ell"
+      },
+      {
+        "caja": [
+          12.143472591953566,
+          70.19782878509919,
+          73.88378701558928,
+          13.669383041257788
+        ],
+        "confianza": 1,
+        "texto": "1984"
+      }
+    ],
+    "tituloIndices": [
+      2
+    ],
+    "mensajeIndices": []
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1954.PNG",
+    "fuente": "IMG_1954.PNG",
+    "sha256": "3059030b3f9e15ec3f3812d4266c01cd491e4502e276c070a49394342dcd03fa",
+    "width": 750,
+    "height": 1624,
+    "titulo": "El lobo de Wall Street",
+    "marca": "Headway",
+    "crop": [
+      192,
+      156,
+      366,
+      549
+    ],
+    "parcial": false,
+    "id": 13,
+    "lineas": [
+      {
+        "caja": [
+          18.579235365437153,
+          77.45454543636365,
+          62.841530054644814,
+          5.09090909090909
+        ],
+        "confianza": 1,
+        "texto": "EL LOBO DE"
+      },
+      {
+        "caja": [
+          11.475409289617486,
+          84.36363637662338,
+          76.50273224043715,
+          5.454545454545457
+        ],
+        "confianza": 1,
+        "texto": "WALL STREET"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": []
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1944.PNG",
+    "fuente": "IMG_1944.PNG",
+    "sha256": "7ac15faafaeaf5061a1aa08918a52a2fa7f8df7e90a4776ca3b6009e086cdaf4",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Fórmula 1",
+    "marca": "Headway",
+    "crop": [
+      192,
+      156,
+      366,
+      549
+    ],
+    "parcial": false,
+    "id": 14,
+    "lineas": [
+      {
+        "caja": [
+          12.021857635094115,
+          9.818181773737377,
+          77.04918032786885,
+          7.9999999999999964
+        ],
+        "confianza": 1,
+        "texto": "Fórmula 1"
+      },
+      {
+        "caja": [
+          12.006236753064163,
+          21.03919190115876,
+          35.00392059159409,
+          4.830707203258166
+        ],
+        "confianza": 1,
+        "texto": "Anatomía"
+      },
+      {
+        "caja": [
+          12.568306352459008,
+          26.545454481818176,
+          49.180327868852466,
+          5.0909090909091015
+        ],
+        "confianza": 1,
+        "texto": "de una pasión"
+      }
+    ],
+    "tituloIndices": [
+      0
+    ],
+    "mensajeIndices": [
+      1,
+      2
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1915.PNG",
+    "fuente": "IMG_1915.PNG",
+    "sha256": "e177dc94381fd9442ffede79f1696a8e05413dae756f4c779a108962f822a928",
+    "width": 750,
+    "height": 1624,
+    "titulo": "El camino del despertar",
+    "marca": "Headway",
+    "crop": [
+      192,
+      156,
+      366,
+      549
+    ],
+    "parcial": false,
+    "id": 15,
+    "lineas": [
+      {
+        "caja": [
+          31.6550807788621,
+          60.59283552290691,
+          55.815520573183484,
+          7.54160170121626
+        ],
+        "confianza": 1,
+        "texto": "despertar"
+      },
+      {
+        "caja": [
+          57.37704886338799,
+          71.27272723636364,
+          32.786885245901644,
+          3.6363636363636376
+        ],
+        "confianza": 1,
+        "texto": "Toda trans-"
+      },
+      {
+        "caja": [
+          58.38902915912411,
+          75.72762627127251,
+          28.57713334547366,
+          4.544747439297769
+        ],
+        "confianza": 1,
+        "texto": "formación"
+      },
+      {
+        "caja": [
+          51.35392138233264,
+          81.04236909855621,
+          35.54352306928791,
+          4.097080230712891
+        ],
+        "confianza": 1,
+        "texto": "comienza en"
+      },
+      {
+        "caja": [
+          56.27031172167678,
+          85.77075000584459,
+          30.628775508025953,
+          4.0948635448109005
+        ],
+        "confianza": 1,
+        "texto": "uno mismo"
+      }
+    ],
+    "tituloIndices": [
+      0
+    ],
+    "mensajeIndices": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1917.PNG",
+    "fuente": "IMG_1917.PNG",
+    "sha256": "febb89be55bd6fd5210254c646ca35c75583793f1283f4cfbe5ca9f4d0406e4b",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Dejar ir",
+    "marca": "Headway",
+    "crop": [
+      192,
+      156,
+      366,
+      549
+    ],
+    "parcial": false,
+    "id": 16,
+    "lineas": [
+      {
+        "caja": [
+          31.147540956717833,
+          9.818181813275617,
+          38.25136612021858,
+          6.181818181818177
+        ],
+        "confianza": 1,
+        "texto": "DEJAR"
+      },
+      {
+        "caja": [
+          28.415300517174085,
+          15.27272725714286,
+          43.169398907103826,
+          21.818181818181827
+        ],
+        "confianza": 0.5,
+        "texto": "IR"
+      },
+      {
+        "caja": [
+          30.60109289819874,
+          76.36363635622897,
+          40.43715846994535,
+          4.0000000000000036
+        ],
+        "confianza": 1,
+        "texto": "El camino de"
+      },
+      {
+        "caja": [
+          30.60109298310979,
+          81.09090907272729,
+          39.89071038251366,
+          4.0000000000000036
+        ],
+        "confianza": 1,
+        "texto": "la liberación"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      2,
+      3
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1955.PNG",
+    "fuente": "IMG_1955.PNG",
+    "sha256": "f13159145dcd8bc668383a18443efb35b4e5f44e953843d3ffd3ff51f9e9f8bf",
+    "width": 750,
+    "height": 1624,
+    "titulo": "El gran CEO interior",
+    "marca": "Headway",
+    "crop": [
+      192,
+      156,
+      366,
+      549
+    ],
+    "parcial": false,
+    "id": 17,
+    "lineas": [
+      {
+        "caja": [
+          22.331967652636973,
+          9.191258147753556,
+          54.78961715281335,
+          7.435665477405895
+        ],
+        "confianza": 1,
+        "texto": "EL GRAN"
+      },
+      {
+        "caja": [
+          37.15847005464481,
+          18.18181816212121,
+          26.22950819672131,
+          7.636363636363641
+        ],
+        "confianza": 0.5,
+        "texto": "CEO"
+      },
+      {
+        "caja": [
+          19.67213118397086,
+          27.27272720909091,
+          60.10928961748634,
+          7.636363636363641
+        ],
+        "confianza": 1,
+        "texto": "INTERIOR"
+      },
+      {
+        "caja": [
+          31.69398933255269,
+          55.636363620779214,
+          36.6120218579235,
+          3.6363636363636376
+        ],
+        "confianza": 0.5,
+        "texto": "Guia tactica"
+      },
+      {
+        "caja": [
+          28.329005539234153,
+          60.26550962784219,
+          44.44484189559853,
+          4.514297138560908
+        ],
+        "confianza": 1,
+        "texto": "para construir"
+      },
+      {
+        "caja": [
+          30.054644913479052,
+          65.81818184848484,
+          39.89071038251365,
+          3.6363636363636376
+        ],
+        "confianza": 1,
+        "texto": "una empresa"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1,
+      2
+    ],
+    "mensajeIndices": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1957.PNG",
+    "fuente": "IMG_1957.PNG",
+    "sha256": "40d9386f2bdc61291e1e973a23e67f3379d8471853bffa242c8916851a4ad498",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Nunca te pares",
+    "marca": "Headway",
+    "crop": [
+      192,
+      156,
+      366,
+      549
+    ],
+    "parcial": false,
+    "id": 18,
+    "lineas": [
+      {
+        "caja": [
+          20.21857953825136,
+          12.36363635090909,
+          60.65573770491803,
+          9.090909090909093
+        ],
+        "confianza": 1,
+        "texto": "NUNCA"
+      },
+      {
+        "caja": [
+          11.458662994398905,
+          23.208999916145046,
+          77.62912270801316,
+          9.218363675204188
+        ],
+        "confianza": 1,
+        "texto": "TE PARES"
+      },
+      {
+        "caja": [
+          24.57591626515883,
+          66.12498339587152,
+          51.94106388613176,
+          5.931851473721594
+        ],
+        "confianza": 1,
+        "texto": "Autobiografía"
+      },
+      {
+        "caja": [
+          25.683059612021868,
+          72.72727274545454,
+          49.72677595628415,
+          4.727272727272725
+        ],
+        "confianza": 1,
+        "texto": "del fundador"
+      },
+      {
+        "caja": [
+          36.056854371582666,
+          78.88532273154878,
+          28.979187845532362,
+          4.774809057062324
+        ],
+        "confianza": 1,
+        "texto": "de Nike"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-headway/IMG_1963.PNG",
+    "fuente": "IMG_1963.PNG",
+    "sha256": "145024ad48d2e7ae07d4b84c8591d27d20531de603bcc612762c9851aa675ae9",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Kintsukuroi",
+    "marca": "Headway",
+    "crop": [
+      192,
+      156,
+      366,
+      549
+    ],
+    "parcial": false,
+    "id": 19,
+    "lineas": [
+      {
+        "caja": [
+          23.497268148907104,
+          8.727272702272726,
+          62.295081967213115,
+          8.363636363636362
+        ],
+        "confianza": 0.5,
+        "texto": "KINTSU-"
+      },
+      {
+        "caja": [
+          26.229507841530054,
+          18.1818182,
+          49.72677595628415,
+          8.363636363636362
+        ],
+        "confianza": 0.5,
+        "texto": "KUROI"
+      },
+      {
+        "caja": [
+          29.508197021857924,
+          81.8181818025974,
+          42.07650273224042,
+          3.6363636363636376
+        ],
+        "confianza": 1,
+        "texto": "El arte de curar"
+      },
+      {
+        "caja": [
+          22.40437178278687,
+          86.18181813181819,
+          56.28415300546449,
+          3.9999999999999925
+        ],
+        "confianza": 1,
+        "texto": "heridas emocionales"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      2,
+      3
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-headway/IMG_1964.PNG",
+    "fuente": "IMG_1964.PNG",
+    "sha256": "83c6d7e3cba8b89e2e5731912034ed10a89c6814336238dfa26beb531a197f66",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Déjalo ir ahora",
+    "marca": "Headway",
+    "crop": [
+      192,
+      156,
+      366,
+      549
+    ],
+    "parcial": false,
+    "id": 20,
+    "lineas": [
+      {
+        "caja": [
+          13.098173448541461,
+          8.31656847496447,
+          74.350100657979,
+          11.730499267578121
+        ],
+        "confianza": 1,
+        "texto": "Déjalo ir"
+      },
+      {
+        "caja": [
+          13.092995630882283,
+          23.21199691407354,
+          54.68832547547387,
+          8.84873338179155
+        ],
+        "confianza": 1,
+        "texto": "ahora"
+      },
+      {
+        "caja": [
+          13.642605083321179,
+          55.58111238237734,
+          24.080910187601397,
+          3.7468660528009567
+        ],
+        "confianza": 1,
+        "texto": "Practica"
+      },
+      {
+        "caja": [
+          13.602474861792095,
+          60.481633771530795,
+          35.636580837228905,
+          4.491277868097477
+        ],
+        "confianza": 1,
+        "texto": "el desapego"
+      },
+      {
+        "caja": [
+          13.661202382513654,
+          65.45454541818182,
+          38.251366120218584,
+          3.6363636363636376
+        ],
+        "confianza": 1,
+        "texto": "como camino"
+      },
+      {
+        "caja": [
+          13.661202349726773,
+          70.18181816623377,
+          22.950819672131146,
+          3.6363636363636376
+        ],
+        "confianza": 1,
+        "texto": "hacia la"
+      },
+      {
+        "caja": [
+          13.067241094799115,
+          74.77135429477381,
+          23.04584524019169,
+          3.9118367975408463
+        ],
+        "confianza": 1,
+        "texto": "libertad"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-headway/IMG_1965.PNG",
+    "fuente": "IMG_1965.PNG",
+    "sha256": "916108a81a1dbe977d668faf6aeaa4706dce21a6f475d7712912673a7de9a78a",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Desintoxica tus pensamientos",
+    "marca": "Headway",
+    "crop": [
+      192,
+      156,
+      366,
+      549
+    ],
+    "parcial": false,
+    "id": 21,
+    "lineas": [
+      {
+        "caja": [
+          14.207650680024281,
+          41.45454544646465,
+          73.22404371584699,
+          7.2727272727272645
+        ],
+        "confianza": 1,
+        "texto": "Desintoxica"
+      },
+      {
+        "caja": [
+          13.573077386342778,
+          51.21006814059819,
+          68.42251136654713,
+          7.184202714399857
+        ],
+        "confianza": 1,
+        "texto": "tus pensa-"
+      },
+      {
+        "caja": [
+          13.616303207718286,
+          58.75974442259204,
+          50.90946968787355,
+          7.207783785733302
+        ],
+        "confianza": 1,
+        "texto": "mientos"
+      },
+      {
+        "caja": [
+          13.661202682149353,
+          69.45454544242425,
+          59.562841530054655,
+          3.6363636363636376
+        ],
+        "confianza": 1,
+        "texto": "Abandona la charla"
+      },
+      {
+        "caja": [
+          13.66120159836067,
+          74.90909096818181,
+          68.85245901639344,
+          4.727272727272725
+        ],
+        "confianza": 1,
+        "texto": "negativa para siempre"
+      },
+      {
+        "caja": [
+          13.11475468123861,
+          80.72727270909091,
+          69.94535519125682,
+          4.3636363636363695
+        ],
+        "confianza": 1,
+        "texto": "y descubre la vida que"
+      },
+      {
+        "caja": [
+          13.661201590163943,
+          85.81818177090909,
+          66.12021857923497,
+          4.727272727272725
+        ],
+        "confianza": 1,
+        "texto": "siempre has deseado"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1,
+      2
+    ],
+    "mensajeIndices": [
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-headway/IMG_1967.PNG",
+    "fuente": "IMG_1967.PNG",
+    "sha256": "23c2754636ceb0c345c9b079f91f3cc51b58caff57da511776cf19cfa863f149",
+    "width": 750,
+    "height": 1624,
+    "titulo": "El código de las mentes extraordinarias",
+    "marca": "Headway",
+    "crop": [
+      192,
+      156,
+      366,
+      549
+    ],
+    "parcial": false,
+    "id": 22,
+    "lineas": [
+      {
+        "caja": [
+          27.32240398451731,
+          8.000000024242427,
+          46.44808743169399,
+          5.818181818181822
+        ],
+        "confianza": 1,
+        "texto": "EL CÓDIGO"
+      },
+      {
+        "caja": [
+          19.672130702576123,
+          16.000000018181815,
+          62.295081967213115,
+          4.727272727272725
+        ],
+        "confianza": 1,
+        "texto": "DE LAS MENTES"
+      },
+      {
+        "caja": [
+          12.021857373145988,
+          23.272727290909103,
+          77.04918032786885,
+          4.727272727272713
+        ],
+        "confianza": 1,
+        "texto": "EXTRAORDINARIAS"
+      },
+      {
+        "caja": [
+          19.125683886612002,
+          33.09090907272727,
+          66.12021857923497,
+          4.3636363636363695
+        ],
+        "confianza": 1,
+        "texto": "10 leyes no convencio-"
+      },
+      {
+        "caja": [
+          18.579234737704926,
+          38.18181822545454,
+          63.934426229508176,
+          4.3636363636363695
+        ],
+        "confianza": 1,
+        "texto": "nales para redefinir tu"
+      },
+      {
+        "caja": [
+          16.939890393442635,
+          43.272727316363635,
+          66.66666666666666,
+          4.363636363636358
+        ],
+        "confianza": 1,
+        "texto": "vida y alcanzar el éxito"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1,
+      2
+    ],
+    "mensajeIndices": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-headway/IMG_1973.PNG",
+    "fuente": "IMG_1973.PNG",
+    "sha256": "326381b5df013665c5d1081e54dec9948feb80992a328abeba278aa632c73aa8",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Sabia mente",
+    "marca": "Headway",
+    "crop": [
+      192,
+      156,
+      366,
+      549
+    ],
+    "parcial": false,
+    "id": 23,
+    "lineas": [
+      {
+        "caja": [
+          20.73119549181505,
+          11.190350601570865,
+          59.63050550450393,
+          11.073844216086648
+        ],
+        "confianza": 1,
+        "texto": "SABIA"
+      },
+      {
+        "caja": [
+          19.595707955442997,
+          21.978210054529047,
+          62.4479283400572,
+          10.952670704234723
+        ],
+        "confianza": 1,
+        "texto": "MENTE"
+      },
+      {
+        "caja": [
+          25.683060321038248,
+          37.09090904090909,
+          48.63387978142077,
+          3.9999999999999925
+        ],
+        "confianza": 1,
+        "texto": "Sabiduría práctica"
+      },
+      {
+        "caja": [
+          21.311474781420777,
+          41.81818186818182,
+          56.830601092896174,
+          4.0000000000000036
+        ],
+        "confianza": 1,
+        "texto": "para la vida moderna"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      2,
+      3
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1961.PNG",
+    "fuente": "IMG_1961.PNG",
+    "sha256": "9401a151ebdd0077d1d9b367f6c92c448c4d2442abc616e26f7d08c1808e6d3a",
+    "width": 750,
+    "height": 1624,
+    "titulo": "La riqueza que el dinero no puede comprar",
+    "marca": "Headway",
+    "crop": [
+      192,
+      156,
+      366,
+      549
+    ],
+    "parcial": false,
+    "id": 24,
+    "lineas": [
+      {
+        "caja": [
+          22.90693869253323,
+          29.30560924477703,
+          54.73257179468707,
+          7.570599642666897
+        ],
+        "confianza": 1,
+        "texto": "La riqueza"
+      },
+      {
+        "caja": [
+          15.129533670383532,
+          37.45920286994648,
+          69.65756442377476,
+          7.123048608953297
+        ],
+        "confianza": 1,
+        "texto": "que el dinero"
+      },
+      {
+        "caja": [
+          25.057537211788105,
+          46.42566364293148,
+          50.497703343792686,
+          7.043575633655896
+        ],
+        "confianza": 1,
+        "texto": "no puede"
+      },
+      {
+        "caja": [
+          26.16908346533232,
+          55.05733941289145,
+          48.20828046955046,
+          6.612593910910869
+        ],
+        "confianza": 1,
+        "texto": "comprar"
+      },
+      {
+        "caja": [
+          26.775955901639353,
+          69.81818183636364,
+          45.90163934426229,
+          4.363636363636358
+        ],
+        "confianza": 1,
+        "texto": "Los 8 hábitos"
+      },
+      {
+        "caja": [
+          27.73201491941702,
+          75.94625331811557,
+          43.9470510013768,
+          5.1353045376864355
+        ],
+        "confianza": 1,
+        "texto": "ocultos para"
+      },
+      {
+        "caja": [
+          23.49726731785065,
+          81.45454546969697,
+          53.00546448087431,
+          5.454545454545457
+        ],
+        "confianza": 1,
+        "texto": "una vida plena"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "mensajeIndices": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-headway/IMG_1975.PNG",
+    "fuente": "IMG_1975.PNG",
+    "sha256": "cfff5864f2e87dcb6499d49e76b9552b123769d321b4ff00fbe74f8020a0d93a",
+    "width": 750,
+    "height": 1624,
+    "titulo": "La felicidad es el camino",
+    "marca": "Headway",
+    "crop": [
+      192,
+      156,
+      366,
+      549
+    ],
+    "parcial": false,
+    "id": 25,
+    "lineas": [
+      {
+        "caja": [
+          14.663508471502414,
+          46.88300180228671,
+          70.67298263799948,
+          8.41581483320757
+        ],
+        "confianza": 1,
+        "texto": "La felicidad"
+      },
+      {
+        "caja": [
+          12.021858271236953,
+          57.090909079338836,
+          76.50273224043715,
+          7.636363636363641
+        ],
+        "confianza": 1,
+        "texto": "es el camino"
+      },
+      {
+        "caja": [
+          26.77595589253189,
+          73.09090910909092,
+          46.99453551912568,
+          3.6363636363636265
+        ],
+        "confianza": 1,
+        "texto": "Cómo alinear tus"
+      },
+      {
+        "caja": [
+          24.5901638579235,
+          77.45454541090909,
+          51.36612021857923,
+          4.3636363636363695
+        ],
+        "confianza": 1,
+        "texto": "pensamientos y tu"
+      },
+      {
+        "caja": [
+          17.4863379849727,
+          81.81818183181818,
+          65.02732240437159,
+          4.727272727272725
+        ],
+        "confianza": 1,
+        "texto": "trabajo para vivirla vida"
+      },
+      {
+        "caja": [
+          30.601093177205307,
+          86.18181816883119,
+          39.34426229508197,
+          3.9999999999999925
+        ],
+        "confianza": 1,
+        "texto": "de tus Sueños"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-headway/IMG_1976.PNG",
+    "fuente": "IMG_1976.PNG",
+    "sha256": "5647931cb8d3329e07e1af5cebc3e1a8e337260bbd00e1b16d22d071173b7271",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Estrés: el lado bueno",
+    "marca": "Headway",
+    "crop": [
+      192,
+      156,
+      366,
+      549
+    ],
+    "parcial": false,
+    "id": 26,
+    "lineas": [
+      {
+        "caja": [
+          23.475267705614495,
+          6.492596311407295,
+          53.049464825072576,
+          9.92389817671343
+        ],
+        "confianza": 1,
+        "texto": "ESTRÉS"
+      },
+      {
+        "caja": [
+          24.043716135397688,
+          17.454545436363645,
+          51.91256830601094,
+          6.909090909090898
+        ],
+        "confianza": 1,
+        "texto": "EL LADO"
+      },
+      {
+        "caja": [
+          28.41530074515648,
+          25.818181799999994,
+          43.715846994535525,
+          6.909090909090909
+        ],
+        "confianza": 1,
+        "texto": "BUENO"
+      },
+      {
+        "caja": [
+          17.89958265077494,
+          67.65538822100316,
+          66.37070452580687,
+          6.436710010875357
+        ],
+        "confianza": 1,
+        "texto": "Por qué el estrés es"
+      },
+      {
+        "caja": [
+          14.207650614754089,
+          74.18181824545455,
+          73.224043715847,
+          5.09090909090909
+        ],
+        "confianza": 1,
+        "texto": "bueno para ti y cómo"
+      },
+      {
+        "caja": [
+          22.40437127049181,
+          79.63636357727273,
+          55.73770491803278,
+          4.7272727272727355
+        ],
+        "confianza": 1,
+        "texto": "puedes volverte"
+      },
+      {
+        "caja": [
+          26.72204243249614,
+          83.809901793635,
+          53.65974134434768,
+          7.289287220348006
+        ],
+        "confianza": 1,
+        "texto": "bueno para él"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1,
+      2
+    ],
+    "mensajeIndices": [
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1901.PNG",
+    "fuente": "IMG_1901.PNG",
+    "sha256": "0d309bff4013665b2eff61274b47358310455f5be70e93aa845e014ba0e958ae",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Procrastinación",
+    "marca": "Headway",
+    "crop": [
+      32,
+      304,
+      327,
+      491
+    ],
+    "clip": [
+      0,
+      190,
+      750,
+      1115
+    ],
+    "parcial": false,
+    "visible": 1.0,
+    "id": 27,
+    "lineas": [
+      {
+        "caja": [
+          21.930584859993747,
+          13.748990442734,
+          63.45590265785776,
+          8.274376876955113
+        ],
+        "confianza": 1,
+        "texto": "Procras-"
+      },
+      {
+        "caja": [
+          20.731707591463408,
+          23.983739824464156,
+          60.36585365853659,
+          8.536585365853655
+        ],
+        "confianza": 1,
+        "texto": "tinación"
+      },
+      {
+        "caja": [
+          26.219512827743884,
+          37.39837396849593,
+          50.609756097560975,
+          4.471544715447163
+        ],
+        "confianza": 1,
+        "texto": "Por qué dejamos"
+      },
+      {
+        "caja": [
+          21.341463845818808,
+          42.68292680894309,
+          60.36585365853659,
+          4.471544715447163
+        ],
+        "confianza": 1,
+        "texto": "para mañana lo que"
+      },
+      {
+        "caja": [
+          21.951219506097555,
+          47.967479626016264,
+          59.14634146341464,
+          4.878048780487809
+        ],
+        "confianza": 1,
+        "texto": "podemos hacer hoy"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1904.PNG",
+    "fuente": "IMG_1904.PNG",
+    "sha256": "5f4a7235d382a5b0415b5ec243642f9faf55ec0b8489c5ffbb67719f52ade90f",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Planifica tu futuro",
+    "marca": "Headway",
+    "crop": [
+      391,
+      775,
+      327,
+      491
+    ],
+    "clip": [
+      0,
+      190,
+      750,
+      1115
+    ],
+    "parcial": false,
+    "visible": 1.0,
+    "id": 28,
+    "lineas": [
+      {
+        "caja": [
+          12.80487820121951,
+          8.536585299070854,
+          67.68292682926828,
+          9.349593495934949
+        ],
+        "confianza": 1,
+        "texto": "Planifica"
+      },
+      {
+        "caja": [
+          12.142713876322167,
+          19.742332173689668,
+          69.61701090742902,
+          9.702327387119702
+        ],
+        "confianza": 1,
+        "texto": "tu futuro"
+      },
+      {
+        "caja": [
+          13.414634494773514,
+          76.01626014227642,
+          48.78048780487805,
+          4.471544715447163
+        ],
+        "confianza": 1,
+        "texto": "Un plan probado"
+      },
+      {
+        "caja": [
+          12.80487749390245,
+          81.30081302845528,
+          55.487804878048784,
+          4.471544715447151
+        ],
+        "confianza": 1,
+        "texto": "para llegar al lugar"
+      },
+      {
+        "caja": [
+          12.784323778806906,
+          86.51873563324033,
+          26.2606202102289,
+          3.791797064184166
+        ],
+        "confianza": 1,
+        "texto": "deseado"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1907.PNG",
+    "fuente": "IMG_1907.PNG",
+    "sha256": "f57a169dcf9c466c8ce5dd7a6d5f2f22c2f9a370e9eefeb7fe08209efa21b79b",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Sin gasolina",
+    "marca": "Headway",
+    "crop": [
+      32,
+      302,
+      327,
+      491
+    ],
+    "clip": [
+      0,
+      190,
+      750,
+      1115
+    ],
+    "parcial": false,
+    "visible": 1.0,
+    "id": 29,
+    "lineas": [
+      {
+        "caja": [
+          13.414634245426829,
+          9.75609754065041,
+          23.78048780487805,
+          7.317073170731703
+        ],
+        "confianza": 1,
+        "texto": "SIN"
+      },
+      {
+        "caja": [
+          13.414634473392455,
+          18.292682906504066,
+          71.95121951219514,
+          7.72357723577236
+        ],
+        "confianza": 1,
+        "texto": "GASOLINA"
+      },
+      {
+        "caja": [
+          13.414634047256104,
+          32.11382107723577,
+          65.2439024390244,
+          4.878048780487809
+        ],
+        "confianza": 1,
+        "texto": "Supera el abandono"
+      },
+      {
+        "caja": [
+          13.414633940548782,
+          37.39837393292683,
+          51.829268292682926,
+          4.0650406504065035
+        ],
+        "confianza": 1,
+        "texto": "emocional de tu"
+      },
+      {
+        "caja": [
+          12.804878272357726,
+          42.27642275067751,
+          26.82926829268293,
+          4.065040650406493
+        ],
+        "confianza": 1,
+        "texto": "infancia"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1900.PNG",
+    "fuente": "IMG_1900.PNG",
+    "sha256": "221557169b46742d383945241e54b56761cd17651b5bd8171354691b6fba4517",
+    "width": 750,
+    "height": 1624,
+    "titulo": "El poder del pleno compromiso",
+    "marca": "Headway",
+    "crop": [
+      32,
+      788,
+      327,
+      491
+    ],
+    "clip": [
+      0,
+      190,
+      750,
+      1115
+    ],
+    "parcial": false,
+    "visible": 1.0,
+    "id": 30,
+    "lineas": [
+      {
+        "caja": [
+          24.39024370309569,
+          14.634146364915567,
+          51.829268292682926,
+          7.72357723577236
+        ],
+        "confianza": 1,
+        "texto": "EL PODER"
+      },
+      {
+        "caja": [
+          21.318273087973886,
+          24.31218137726332,
+          57.973210404558884,
+          7.879702250162768
+        ],
+        "confianza": 1,
+        "texto": "DEL PLENO"
+      },
+      {
+        "caja": [
+          12.195122271341457,
+          34.14634144139567,
+          76.82926829268293,
+          8.536585365853655
+        ],
+        "confianza": 1,
+        "texto": "COMPROMISO"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1,
+      2
+    ],
+    "mensajeIndices": []
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1949.PNG",
+    "fuente": "IMG_1949.PNG",
+    "sha256": "b3f7054defc5e1398c6e35e9189840d12ea6def3981de14ae6194d49376ca6b6",
+    "width": 750,
+    "height": 1624,
+    "titulo": "El acto creativo",
+    "marca": "Headway",
+    "crop": [
+      32,
+      220,
+      327,
+      491
+    ],
+    "clip": [
+      0,
+      190,
+      750,
+      1115
+    ],
+    "parcial": false,
+    "visible": 1.0,
+    "id": 31,
+    "lineas": [
+      {
+        "caja": [
+          13.203492919088541,
+          8.729110577347443,
+          58.349111603527525,
+          10.590559874123674
+        ],
+        "confianza": 1,
+        "texto": "El acto"
+      },
+      {
+        "caja": [
+          13.350289189538616,
+          20.103810405478473,
+          70.86039752494997,
+          9.792379053627576
+        ],
+        "confianza": 1,
+        "texto": "creativo"
+      },
+      {
+        "caja": [
+          12.804877961128053,
+          59.75609753048781,
+          16.46341463414634,
+          4.8780487804877986
+        ],
+        "confianza": 1,
+        "texto": "Una"
+      },
+      {
+        "caja": [
+          12.195122169715441,
+          65.85365852303524,
+          26.21951219512195,
+          4.878048780487809
+        ],
+        "confianza": 1,
+        "texto": "forma"
+      },
+      {
+        "caja": [
+          12.78384354981758,
+          71.90167609597431,
+          25.65182476508908,
+          4.977135541962408
+        ],
+        "confianza": 1,
+        "texto": "de ser"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1953.PNG",
+    "fuente": "IMG_1953.PNG",
+    "sha256": "5233c1ffca94fb3c8cd71ee30a262ab64e34007beb4fec0b02339250b622b747",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Supercomunicadores",
+    "marca": "Headway",
+    "crop": [
+      32,
+      789,
+      327,
+      491
+    ],
+    "clip": [
+      0,
+      190,
+      750,
+      1115
+    ],
+    "parcial": false,
+    "visible": 1.0,
+    "id": 32,
+    "lineas": [
+      {
+        "caja": [
+          12.691451273805098,
+          9.536870796475993,
+          45.34880475300115,
+          11.007559396387112
+        ],
+        "confianza": 1,
+        "texto": "Super-"
+      },
+      {
+        "caja": [
+          12.804878283972126,
+          19.91869912020906,
+          53.65853658536586,
+          9.349593495934961
+        ],
+        "confianza": 1,
+        "texto": "comuni-"
+      },
+      {
+        "caja": [
+          12.75722679297533,
+          30.36047728877437,
+          53.14408279046779,
+          9.197744509068928
+        ],
+        "confianza": 0.5,
+        "texto": "cadores"
+      },
+      {
+        "caja": [
+          39.02439071951219,
+          75.60975607723577,
+          47.5609756097561,
+          4.471544715447151
+        ],
+        "confianza": 1,
+        "texto": "Cómo desbloquear"
+      },
+      {
+        "caja": [
+          37.80487785823171,
+          80.89430900406505,
+          48.170731707317074,
+          4.8780487804877986
+        ],
+        "confianza": 1,
+        "texto": "el lenguaje secreto"
+      },
+      {
+        "caja": [
+          49.39024359756098,
+          86.1788618089431,
+          36.58536585365854,
+          4.0650406504065035
+        ],
+        "confianza": 1,
+        "texto": "de la conexión"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1,
+      2
+    ],
+    "mensajeIndices": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1953.PNG",
+    "fuente": "IMG_1953.PNG",
+    "sha256": "5233c1ffca94fb3c8cd71ee30a262ab64e34007beb4fec0b02339250b622b747",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Trabajos de mierda",
+    "marca": "Headway",
+    "crop": [
+      391,
+      789,
+      327,
+      491
+    ],
+    "clip": [
+      0,
+      190,
+      750,
+      1115
+    ],
+    "parcial": false,
+    "visible": 1.0,
+    "id": 33,
+    "lineas": [
+      {
+        "caja": [
+          14.012690268135422,
+          9.712047040534333,
+          71.97461942347084,
+          8.624686264410252
+        ],
+        "confianza": 1,
+        "texto": "Trabajos de"
+      },
+      {
+        "caja": [
+          28.048780344076658,
+          18.29268287166086,
+          43.292682926829265,
+          7.72357723577236
+        ],
+        "confianza": 1,
+        "texto": "mierda"
+      },
+      {
+        "caja": [
+          30.441482171720068,
+          31.536847580295046,
+          39.11703621468893,
+          5.218987736275526
+        ],
+        "confianza": 1,
+        "texto": "Una teoría"
+      },
+      {
+        "caja": [
+          17.682926918699184,
+          43.90243912466125,
+          56.09756097560976,
+          30.081300813008127
+        ],
+        "confianza": 0.5,
+        "texto": "03"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      2
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1952.PNG",
+    "fuente": "IMG_1952.PNG",
+    "sha256": "aa956041724399b7dfbbcad879f3454ae7fdb47ef3c80f5166ddf1a3c38c51fd",
+    "width": 750,
+    "height": 1624,
+    "titulo": "A nadie le importa tu carrera",
+    "marca": "Headway",
+    "crop": [
+      32,
+      794,
+      327,
+      491
+    ],
+    "clip": [
+      0,
+      190,
+      750,
+      1115
+    ],
+    "parcial": false,
+    "visible": 1.0,
+    "id": 34,
+    "lineas": [
+      {
+        "caja": [
+          22.47669880837078,
+          31.366925832390535,
+          56.26611476991235,
+          7.184847389779437
+        ],
+        "confianza": 1,
+        "texto": "A nadie le"
+      },
+      {
+        "caja": [
+          18.24648970222128,
+          40.49822675899317,
+          62.28750740609519,
+          8.84094470884742
+        ],
+        "confianza": 1,
+        "texto": "importa tu"
+      },
+      {
+        "caja": [
+          28.61988277451849,
+          51.07704098696089,
+          42.76023492580507,
+          5.56949522437119
+        ],
+        "confianza": 1,
+        "texto": "carrera"
+      },
+      {
+        "caja": [
+          21.95122021341462,
+          63.41463413109756,
+          56.09756097560976,
+          4.471544715447163
+        ],
+        "confianza": 1,
+        "texto": "Por qué el fracaso"
+      },
+      {
+        "caja": [
+          29.853176747615155,
+          69.01277733610074,
+          40.2936470217821,
+          5.06387609776443
+        ],
+        "confianza": 1,
+        "texto": "es bueno, los"
+      },
+      {
+        "caja": [
+          18.779653866437254,
+          74.14027100029924,
+          61.79864929943552,
+          5.586028486732541
+        ],
+        "confianza": 1,
+        "texto": "grandes triunfan en"
+      },
+      {
+        "caja": [
+          16.463413975609768,
+          80.48780488617886,
+          65.85365853658536,
+          4.8780487804877986
+        ],
+        "confianza": 1,
+        "texto": "la adversidad y otras"
+      },
+      {
+        "caja": [
+          24.999999506097566,
+          86.58536587398373,
+          49.390243902439025,
+          3.658536585365857
+        ],
+        "confianza": 1,
+        "texto": "duras verdades"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1,
+      2
+    ],
+    "mensajeIndices": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1952.PNG",
+    "fuente": "IMG_1952.PNG",
+    "sha256": "aa956041724399b7dfbbcad879f3454ae7fdb47ef3c80f5166ddf1a3c38c51fd",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Enganchado",
+    "marca": "Headway",
+    "crop": [
+      391,
+      794,
+      327,
+      491
+    ],
+    "clip": [
+      0,
+      190,
+      750,
+      1115
+    ],
+    "parcial": false,
+    "visible": 1.0,
+    "id": 35,
+    "lineas": [
+      {
+        "caja": [
+          13.414633841463417,
+          12.601626036585367,
+          73.17073170731707,
+          7.317073170731703
+        ],
+        "confianza": 1,
+        "texto": "ENGANCHADO"
+      },
+      {
+        "caja": [
+          28.048780858739832,
+          24.79674795054201,
+          44.51219512195122,
+          3.658536585365857
+        ],
+        "confianza": 1,
+        "texto": "Cómo construir"
+      },
+      {
+        "caja": [
+          25.609756499999992,
+          29.67479670325204,
+          52.4390243902439,
+          4.471544715447151
+        ],
+        "confianza": 1,
+        "texto": "productos y servi-"
+      },
+      {
+        "caja": [
+          25.46448635313577,
+          34.858115308569324,
+          49.653988349728465,
+          4.910644670812092
+        ],
+        "confianza": 1,
+        "texto": "cios exitosos que"
+      },
+      {
+        "caja": [
+          28.048779946646363,
+          39.837398323170724,
+          44.512195121951216,
+          4.065040650406515
+        ],
+        "confianza": 1,
+        "texto": "formen hábitos"
+      }
+    ],
+    "tituloIndices": [
+      0
+    ],
+    "mensajeIndices": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1895.PNG",
+    "fuente": "IMG_1895.PNG",
+    "sha256": "7bb89db5540a96ea2c4eb37be29b9e4826530985d909879df59a5b92b4ecb387",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Pensar rápido, pensar despacio",
+    "marca": "Headway",
+    "crop": [
+      32,
+      209,
+      327,
+      491
+    ],
+    "clip": [
+      0,
+      190,
+      750,
+      1115
+    ],
+    "parcial": false,
+    "visible": 1.0,
+    "id": 36,
+    "lineas": [
+      {
+        "caja": [
+          25.58776560696947,
+          8.877368529988939,
+          48.82446847310881,
+          7.448515077916584
+        ],
+        "confianza": 1,
+        "texto": "PENSAR"
+      },
+      {
+        "caja": [
+          25.544805466615667,
+          15.502733668552636,
+          53.98813573325552,
+          12.045833928798277
+        ],
+        "confianza": 1,
+        "texto": "RÁPIDO,"
+      },
+      {
+        "caja": [
+          24.952390305968606,
+          26.674728102931834,
+          49.48546246784489,
+          7.219649524223515
+        ],
+        "confianza": 1,
+        "texto": "PENSAR"
+      },
+      {
+        "caja": [
+          18.902439307095335,
+          35.772357703252034,
+          62.19512195121952,
+          6.910569105691056
+        ],
+        "confianza": 1,
+        "texto": "DESPACIO"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "mensajeIndices": []
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1854.PNG",
+    "fuente": "IMG_1854.PNG",
+    "sha256": "58731c982a5556c9bba1adf4cd3b937173a25b3852c1be697c0136dcd9f6b0e6",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Consciente",
+    "marca": "Wiser",
+    "crop": [
+      174,
+      244,
+      402,
+      600
+    ],
+    "parcial": false,
+    "id": 37,
+    "lineas": [
+      {
+        "caja": [
+          6.9651745696517375,
+          4.666666648333329,
+          88.05970149253731,
+          7.666666666666666
+        ],
+        "confianza": 1,
+        "texto": "CONSCIENTE"
+      },
+      {
+        "caja": [
+          47.08376499322617,
+          83.76515556972511,
+          46.02975038746697,
+          5.311929702758789
+        ],
+        "confianza": 1,
+        "texto": "Recetas para"
+      },
+      {
+        "caja": [
+          46.766169452736314,
+          89.99999998809525,
+          41.7910447761194,
+          4.999999999999993
+        ],
+        "confianza": 1,
+        "texto": "el bienestar"
+      }
+    ],
+    "tituloIndices": [
+      0
+    ],
+    "mensajeIndices": [
+      1,
+      2
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1855.PNG",
+    "fuente": "IMG_1855.PNG",
+    "sha256": "00f07bb3be3f18db402cbb85489f5452439ef9eb205e51c738c42d5ffe26d423",
+    "width": 750,
+    "height": 1624,
+    "titulo": "El amor que merece la pena",
+    "marca": "Wiser",
+    "crop": [
+      174,
+      244,
+      402,
+      600
+    ],
+    "parcial": false,
+    "id": 38,
+    "lineas": [
+      {
+        "caja": [
+          5.45441011933987,
+          7.597539251097807,
+          89.58869288809856,
+          10.80492146809896
+        ],
+        "confianza": 0.5,
+        "texto": "ELAMOR"
+      },
+      {
+        "caja": [
+          5.9701488308457815,
+          20.00000004074074,
+          88.05970149253731,
+          7.333333333333325
+        ],
+        "confianza": 1,
+        "texto": "QUE MERECE LA PENA"
+      },
+      {
+        "caja": [
+          32.33830810447761,
+          79.33333334999999,
+          35.32338308457712,
+          3.6666666666666736
+        ],
+        "confianza": 1,
+        "texto": "Cómo tener"
+      },
+      {
+        "caja": [
+          5.970149987562177,
+          82.99999999166666,
+          88.05970149253731,
+          3.6666666666666625
+        ],
+        "confianza": 1,
+        "texto": "un sexo increiblemente bueno"
+      },
+      {
+        "caja": [
+          13.43283583747927,
+          86.66666663333335,
+          72.636815920398,
+          4.0000000000000036
+        ],
+        "confianza": 1,
+        "texto": "en una relación duradera"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1856.PNG",
+    "fuente": "IMG_1856.PNG",
+    "sha256": "9e944a137931f415522e333ab4c431978ba3dc726d21bf2806b8e6f4d2d840ce",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Lo mejor de ti",
+    "marca": "Wiser",
+    "crop": [
+      174,
+      244,
+      402,
+      600
+    ],
+    "parcial": false,
+    "id": 39,
+    "lineas": [
+      {
+        "caja": [
+          16.376992416817313,
+          7.841878294441306,
+          64.7584526099969,
+          7.98291015625
+        ],
+        "confianza": 1,
+        "texto": "LO MEJOR"
+      },
+      {
+        "caja": [
+          34.8258704477612,
+          19.333333350000004,
+          31.84079601990051,
+          7.333333333333325
+        ],
+        "confianza": 1,
+        "texto": "DE TI"
+      },
+      {
+        "caja": [
+          19.402984291044792,
+          68.99999993750001,
+          65.67164179104478,
+          4.999999999999993
+        ],
+        "confianza": 1,
+        "texto": "Cómo conseguir que"
+      },
+      {
+        "caja": [
+          18.905473314676602,
+          74.9999999375,
+          66.16915422885572,
+          5.000000000000004
+        ],
+        "confianza": 1,
+        "texto": "el tiempo, la energía"
+      },
+      {
+        "caja": [
+          25.373133880597027,
+          81.00000002499999,
+          53.73134328358209,
+          5.000000000000004
+        ],
+        "confianza": 1,
+        "texto": "y las prioridades"
+      },
+      {
+        "caja": [
+          21.393034606965184,
+          87.33333337666667,
+          61.69154228855722,
+          4.333333333333334
+        ],
+        "confianza": 1,
+        "texto": "trabajen a su favor"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1858.PNG",
+    "fuente": "IMG_1858.PNG",
+    "sha256": "3fd42f4f15ffe2c0cdbc77ab719ea25e91feade6b2f3036345a96fbc0fff0e3f",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Las nuevas rutas de la seda",
+    "marca": "Wiser",
+    "crop": [
+      174,
+      244,
+      402,
+      600
+    ],
+    "parcial": false,
+    "id": 40,
+    "lineas": [
+      {
+        "caja": [
+          41.22326591183845,
+          43.91064645811177,
+          15.06590582245025,
+          5.512040456136058
+        ],
+        "confianza": 1,
+        "texto": "LAS"
+      },
+      {
+        "caja": [
+          18.407960344705053,
+          50.66666665079366,
+          61.19402985074627,
+          11.333333333333329
+        ],
+        "confianza": 1,
+        "texto": "NUEVAS"
+      },
+      {
+        "caja": [
+          7.462686325515283,
+          62.66666661904763,
+          85.5721393034826,
+          6.666666666666665
+        ],
+        "confianza": 1,
+        "texto": "RUTAS DE LA SEDA"
+      },
+      {
+        "caja": [
+          31.823956699148198,
+          83.92920600193324,
+          36.84959980978894,
+          4.141588211059566
+        ],
+        "confianza": 1,
+        "texto": "El futuro está"
+      },
+      {
+        "caja": [
+          35.29622597002593,
+          88.22958691122612,
+          30.40257354280842,
+          3.8741594950358005
+        ],
+        "confianza": 1,
+        "texto": "en Oriente"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1,
+      2
+    ],
+    "mensajeIndices": [
+      3,
+      4
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1859.PNG",
+    "fuente": "IMG_1859.PNG",
+    "sha256": "8b2aefd151c348922c1dfe46467a84aeb20c8e8b7c45c2ae298db186a2ab413b",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Los robots ya están aquí",
+    "marca": "Wiser",
+    "crop": [
+      174,
+      244,
+      402,
+      600
+    ],
+    "parcial": false,
+    "id": 41,
+    "lineas": [
+      {
+        "caja": [
+          7.960199115138593,
+          6.99999998571429,
+          15.422885572139306,
+          4.666666666666663
+        ],
+        "confianza": 1,
+        "texto": "Los"
+      },
+      {
+        "caja": [
+          6.792010482943421,
+          12.46038366945812,
+          73.00457551111629,
+          9.820771535237627
+        ],
+        "confianza": 1,
+        "texto": "robots ya"
+      },
+      {
+        "caja": [
+          6.938103519681277,
+          20.572336802004386,
+          82.14369436994713,
+          10.855326334635418
+        ],
+        "confianza": 1,
+        "texto": "están aquí"
+      },
+      {
+        "caja": [
+          6.467661567164183,
+          84.66666671666667,
+          43.78109452736317,
+          3.9999999999999925
+        ],
+        "confianza": 1,
+        "texto": "Prospera en la"
+      },
+      {
+        "caja": [
+          6.460886526327368,
+          88.31133615328763,
+          26.381709919640077,
+          3.71066093444824
+        ],
+        "confianza": 1,
+        "texto": "era de la"
+      },
+      {
+        "caja": [
+          6.467662032693673,
+          91.99999999285713,
+          47.76119402985074,
+          3.6666666666666736
+        ],
+        "confianza": 1,
+        "texto": "automatización"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1,
+      2
+    ],
+    "mensajeIndices": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1862.PNG",
+    "fuente": "IMG_1862.PNG",
+    "sha256": "2219af9a51cb12c205e24a0dd70b23e8fae55a9cd28e86af6cea866ccc65e546",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Piense y hágase rico",
+    "marca": "Wiser",
+    "crop": [
+      174,
+      244,
+      402,
+      600
+    ],
+    "parcial": false,
+    "id": 42,
+    "lineas": [
+      {
+        "caja": [
+          26.78036829887793,
+          18.747556071944828,
+          46.93677532139109,
+          7.838221232096365
+        ],
+        "confianza": 1,
+        "texto": "PIENSE"
+      },
+      {
+        "caja": [
+          5.472636464897737,
+          30.666666614814808,
+          89.0547263681592,
+          9.333333333333337
+        ],
+        "confianza": 1,
+        "texto": "HÁGASE RICO"
+      },
+      {
+        "caja": [
+          11.44278582866915,
+          45.666666685416665,
+          77.11442786069654,
+          22.666666666666668
+        ],
+        "confianza": 0.30000001192092896,
+        "texto": "SENX"
+      },
+      {
+        "caja": [
+          20.89552312810943,
+          71.00000000833332,
+          59.203980099502495,
+          4.666666666666663
+        ],
+        "confianza": 1,
+        "texto": "Encontrar la felicidad,"
+      },
+      {
+        "caja": [
+          24.378109945273625,
+          76.00000004333333,
+          50.24875621890546,
+          4.333333333333334
+        ],
+        "confianza": 1,
+        "texto": "la concentración y"
+      },
+      {
+        "caja": [
+          10.945272989220573,
+          80.66666667500002,
+          77.11442786069651,
+          4.333333333333334
+        ],
+        "confianza": 1,
+        "texto": "la productividad. No importa"
+      },
+      {
+        "caja": [
+          20.89552166666669,
+          85.3333333375,
+          57.711442786069654,
+          4.333333333333334
+        ],
+        "confianza": 1,
+        "texto": "lo ocupado que esté."
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1863.PNG",
+    "fuente": "IMG_1863.PNG",
+    "sha256": "94dd8a0e9a18840475479cc679602dcca76255b45b2fd18a5eff55daaaeca70d",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Steve Jobs",
+    "marca": "Wiser",
+    "crop": [
+      174,
+      244,
+      402,
+      600
+    ],
+    "parcial": false,
+    "id": 43,
+    "lineas": [
+      {
+        "caja": [
+          5.245738365397376,
+          6.257705034746341,
+          47.219966300091336,
+          12.81792322794596
+        ],
+        "confianza": 1,
+        "texto": "STEVE"
+      },
+      {
+        "caja": [
+          4.477612055348262,
+          19.666666649999996,
+          36.81592039800994,
+          12
+        ],
+        "confianza": 0.5,
+        "texto": "JOBS"
+      },
+      {
+        "caja": [
+          5.7878314896591725,
+          61.1498091360035,
+          55.070218518005674,
+          6.127464294433594
+        ],
+        "confianza": 1,
+        "texto": "CG La simplicidad"
+      },
+      {
+        "caja": [
+          16.41791012023218,
+          67.66666668888888,
+          39.30348258706468,
+          4.0000000000000036
+        ],
+        "confianza": 1,
+        "texto": "es la máxima"
+      },
+      {
+        "caja": [
+          16.417910676616913,
+          72.99999995666667,
+          41.7910447761194,
+          4.333333333333334
+        ],
+        "confianza": 1,
+        "texto": "sofisticación."
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1867.PNG",
+    "fuente": "IMG_1867.PNG",
+    "sha256": "b587b3342f1dc10baf9316da2e89dc091d6d8c76be0022937b78bf61fd3630a3",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Disciplina es destino",
+    "marca": "Wiser",
+    "crop": [
+      174,
+      244,
+      402,
+      600
+    ],
+    "parcial": false,
+    "id": 44,
+    "lineas": [
+      {
+        "caja": [
+          14.427861064123817,
+          4.000000038888885,
+          72.13930348258707,
+          7.000000000000006
+        ],
+        "confianza": 1,
+        "texto": "DISCIPLINA"
+      },
+      {
+        "caja": [
+          13.432836155585697,
+          11.666666650000002,
+          73.6318407960199,
+          7.000000000000006
+        ],
+        "confianza": 1,
+        "texto": "ES DESTINO"
+      },
+      {
+        "caja": [
+          17.41293540705562,
+          31.666666584848493,
+          46.26865671641791,
+          17.999999999999993
+        ],
+        "confianza": 0.30000001192092896,
+        "texto": "COLE"
+      },
+      {
+        "caja": [
+          34.82587083333333,
+          80.3333333125,
+          29.85074626865672,
+          5.333333333333323
+        ],
+        "confianza": 1,
+        "texto": "El poder"
+      },
+      {
+        "caja": [
+          22.388059333333338,
+          85.66666662,
+          55.72139303482586,
+          4.666666666666675
+        ],
+        "confianza": 1,
+        "texto": "del autocontrol"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      3,
+      4
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1870.PNG",
+    "fuente": "IMG_1870.PNG",
+    "sha256": "4ddc9aac0a3dd0ff75d9417664c3596f959b75e4ed162bbef962f92f4e182764",
+    "width": 750,
+    "height": 1624,
+    "titulo": "El poder de tu alter ego",
+    "marca": "Wiser",
+    "crop": [
+      174,
+      244,
+      402,
+      600
+    ],
+    "parcial": false,
+    "id": 45,
+    "lineas": [
+      {
+        "caja": [
+          13.419076370958125,
+          50.278776533056224,
+          73.16184731858286,
+          8.442447344462078
+        ],
+        "confianza": 1,
+        "texto": "EL PODER"
+      },
+      {
+        "caja": [
+          26.827004852593895,
+          59.23837946113715,
+          43.36091606178094,
+          8.189907391866047
+        ],
+        "confianza": 1,
+        "texto": "DE TU"
+      },
+      {
+        "caja": [
+          8.955223511985535,
+          68.00000001969696,
+          81.09452736318408,
+          8.333333333333337
+        ],
+        "confianza": 1,
+        "texto": "ALTER EGO"
+      },
+      {
+        "caja": [
+          19.402985460198998,
+          79.33333331458331,
+          61.69154228855722,
+          4.333333333333334
+        ],
+        "confianza": 1,
+        "texto": "Crea una identidad"
+      },
+      {
+        "caja": [
+          10.869668793042829,
+          84.49204428939676,
+          78.26837188568874,
+          5.594750086466471
+        ],
+        "confianza": 1,
+        "texto": "secreta para desarrollar"
+      },
+      {
+        "caja": [
+          21.89054783084576,
+          89.99999997,
+          56.71641791044777,
+          4.999999999999993
+        ],
+        "confianza": 1,
+        "texto": "todo tu potencial"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1,
+      2
+    ],
+    "mensajeIndices": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1873.PNG",
+    "fuente": "IMG_1873.PNG",
+    "sha256": "19e7327c121d49895c37e208faa1e2a23283d4e6776bf98ba3e046324e7cf509",
+    "width": 750,
+    "height": 1624,
+    "titulo": "¿Me explico con claridad?",
+    "marca": "Wiser",
+    "crop": [
+      174,
+      244,
+      402,
+      600
+    ],
+    "parcial": false,
+    "id": 46,
+    "lineas": [
+      {
+        "caja": [
+          5.97014883360973,
+          5.333333381481486,
+          87.56218905472636,
+          8.666666666666655
+        ],
+        "confianza": 1,
+        "texto": "¿ME EXPLICO"
+      },
+      {
+        "caja": [
+          34.825870511080964,
+          13.333333349999998,
+          29.850746268656707,
+          7.000000000000006
+        ],
+        "confianza": 1,
+        "texto": "CON"
+      },
+      {
+        "caja": [
+          12.906567469316654,
+          20.881999272758044,
+          75.18189083877486,
+          8.569334665934235
+        ],
+        "confianza": 1,
+        "texto": "CLARIDAD?"
+      },
+      {
+        "caja": [
+          29.27407625285248,
+          83.35827324187828,
+          40.954335530598954,
+          5.6167869567871005
+        ],
+        "confianza": 1,
+        "texto": "El poder y la"
+      },
+      {
+        "caja": [
+          23.873064050713914,
+          87.30032546080356,
+          51.756358739748535,
+          5.399349212646487
+        ],
+        "confianza": 1,
+        "texto": "importancia de"
+      },
+      {
+        "caja": [
+          11.9402994589552,
+          91.6666666625,
+          76.11940298507463,
+          3.6666666666666625
+        ],
+        "confianza": 1,
+        "texto": "escribir de forma clara"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1,
+      2
+    ],
+    "mensajeIndices": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1876.PNG",
+    "fuente": "IMG_1876.PNG",
+    "sha256": "03c50272934dacd637ab3acc42ddc35fa381228aa70e968ea051d68c7fc1b1f9",
+    "width": 750,
+    "height": 1624,
+    "titulo": "La maldición de lo gigantesco",
+    "marca": "Wiser",
+    "crop": [
+      174,
+      244,
+      402,
+      600
+    ],
+    "parcial": false,
+    "id": 47,
+    "lineas": [
+      {
+        "caja": [
+          44.2786068869936,
+          35.66666668571429,
+          10.945273631840802,
+          4.666666666666663
+        ],
+        "confianza": 1,
+        "texto": "La"
+      },
+      {
+        "caja": [
+          4.477611981757884,
+          41.99999993333334,
+          91.54228855721394,
+          7.9999999999999964
+        ],
+        "confianza": 1,
+        "texto": "maldición de"
+      },
+      {
+        "caja": [
+          1.4925371517412995,
+          51.33333341111111,
+          96.01990049751244,
+          9.333333333333327
+        ],
+        "confianza": 1,
+        "texto": "lo gigantesco"
+      },
+      {
+        "caja": [
+          19.90049675995027,
+          89.00000001666666,
+          60.19900497512437,
+          3.3333333333333326
+        ],
+        "confianza": 1,
+        "texto": "Cómo luchar contra los"
+      },
+      {
+        "caja": [
+          4.9009761071940625,
+          92.17625042561724,
+          89.6985637607859,
+          5.241462707519529
+        ],
+        "confianza": 1,
+        "texto": "monopolios y salvar la democracia"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1,
+      2
+    ],
+    "mensajeIndices": [
+      3,
+      4
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1910.PNG",
+    "fuente": "IMG_1910.PNG",
+    "sha256": "5743712ad21d73c14fdb1c119403bb79e42dd775ca0cb70279f8c2d1661c0b81",
+    "width": 750,
+    "height": 1624,
+    "titulo": "El polímata",
+    "marca": "Wiser",
+    "crop": [
+      174,
+      244,
+      402,
+      600
+    ],
+    "parcial": false,
+    "id": 48,
+    "lineas": [
+      {
+        "caja": [
+          10.917257338032172,
+          12.227596231363712,
+          77.66797269754743,
+          9.544807434082037
+        ],
+        "confianza": 0.5,
+        "texto": "POLÍMATA"
+      },
+      {
+        "caja": [
+          15.422885926616905,
+          88.33333328333333,
+          69.15422885572139,
+          4.0000000000000036
+        ],
+        "confianza": 1,
+        "texto": "Desbloqueando el poder"
+      },
+      {
+        "caja": [
+          13.432835094527373,
+          93.00000002000002,
+          72.636815920398,
+          3.3333333333333326
+        ],
+        "confianza": 1,
+        "texto": "de la versatilidad humana"
+      }
+    ],
+    "tituloIndices": [
+      0
+    ],
+    "mensajeIndices": [
+      1,
+      2
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1912.PNG",
+    "fuente": "IMG_1912.PNG",
+    "sha256": "7e35fe022d66b47d252b1de4a9eaf4b50b836b1694c72af5df425591bf455a13",
+    "width": 750,
+    "height": 1624,
+    "titulo": "El poder de estar presente",
+    "marca": "Wiser",
+    "crop": [
+      174,
+      244,
+      402,
+      600
+    ],
+    "parcial": false,
+    "id": 49,
+    "lineas": [
+      {
+        "caja": [
+          46.2686567692786,
+          5.666666647916663,
+          8.45771144278607,
+          4.333333333333334
+        ],
+        "confianza": 0.5,
+        "texto": "El"
+      },
+      {
+        "caja": [
+          18.816358431513592,
+          10.376890539276818,
+          63.36230757224619,
+          9.579552332560226
+        ],
+        "confianza": 1,
+        "texto": "poder de"
+      },
+      {
+        "caja": [
+          31.76555915036183,
+          18.8180010526929,
+          36.9663940733345,
+          7.363997777303055
+        ],
+        "confianza": 1,
+        "texto": "estar"
+      },
+      {
+        "caja": [
+          19.70015231613822,
+          27.171567900248018,
+          60.54567555289957,
+          7.684070587158198
+        ],
+        "confianza": 1,
+        "texto": "presente"
+      },
+      {
+        "caja": [
+          17.91044770646766,
+          80.66666671333334,
+          64.17910447761194,
+          4.666666666666663
+        ],
+        "confianza": 1,
+        "texto": "Cómo la presencia de"
+      },
+      {
+        "caja": [
+          21.80491415768869,
+          84.09581133716593,
+          55.39514721922614,
+          5.141710917154951
+        ],
+        "confianza": 1,
+        "texto": "los padres moldea"
+      },
+      {
+        "caja": [
+          23.807751346594447,
+          88.11311693170182,
+          51.93426027819885,
+          4.935836474100741
+        ],
+        "confianza": 1,
+        "texto": "a nuestros hijos y"
+      },
+      {
+        "caja": [
+          18.785267467271197,
+          91.57477520612733,
+          61.90398866264382,
+          5.711350758870437
+        ],
+        "confianza": 1,
+        "texto": "configura su cerebro"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "mensajeIndices": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1926.PNG",
+    "fuente": "IMG_1926.PNG",
+    "sha256": "a5d47d50aac36c4a9f0f13c9922dcaf341db713f521b6d184293729c08d9a38e",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Dólares y sentido común",
+    "marca": "Wiser",
+    "crop": [
+      174,
+      244,
+      402,
+      600
+    ],
+    "parcial": false,
+    "id": 50,
+    "lineas": [
+      {
+        "caja": [
+          21.214682864677105,
+          5.478491588270662,
+          45.19844624533582,
+          6.482337951660155
+        ],
+        "confianza": 0.5,
+        "texto": "Dólares у"
+      },
+      {
+        "caja": [
+          7.449518848785313,
+          11.952447912134135,
+          66.69300136281484,
+          8.428437550862633
+        ],
+        "confianza": 1,
+        "texto": "SENTIDO"
+      },
+      {
+        "caja": [
+          34.79315560540155,
+          19.579771667837463,
+          56.78184850892025,
+          9.840456644694006
+        ],
+        "confianza": 1,
+        "texto": "COMÚN"
+      },
+      {
+        "caja": [
+          39.80099487562189,
+          31.33333337333333,
+          51.741293532338304,
+          4.0000000000000036
+        ],
+        "confianza": 1,
+        "texto": "Cómo pensamos mal"
+      },
+      {
+        "caja": [
+          28.855722019900487,
+          35.333333319999994,
+          62.68656716417911,
+          4.0000000000000036
+        ],
+        "confianza": 1,
+        "texto": "el dinero y cómo gastarlo"
+      },
+      {
+        "caja": [
+          40.298507691542284,
+          39.33333337333333,
+          50.74626865671642,
+          3.9999999999999925
+        ],
+        "confianza": 1,
+        "texto": "con más inteligencia"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1,
+      2
+    ],
+    "mensajeIndices": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1927.PNG",
+    "fuente": "IMG_1927.PNG",
+    "sha256": "7911a4b1b9021190ef6c96ec5d584ae0e58c0899fa85cc1d133d3dc267736397",
+    "width": 750,
+    "height": 1624,
+    "titulo": "El hombre que resolvió el mercado",
+    "marca": "Wiser",
+    "crop": [
+      174,
+      244,
+      402,
+      600
+    ],
+    "parcial": false,
+    "id": 51,
+    "lineas": [
+      {
+        "caja": [
+          3.980099609097369,
+          3.9999999714285694,
+          14.925373134328357,
+          4.666666666666663
+        ],
+        "confianza": 0.30000001192092896,
+        "texto": "y=b"
+      },
+      {
+        "caja": [
+          83.58208941791045,
+          3.6666666733333297,
+          13.432835820895516,
+          4.666666666666675
+        ],
+        "confianza": 0.5,
+        "texto": "1(O)"
+      },
+      {
+        "caja": [
+          16.41790991708127,
+          6.666666613888895,
+          67.66169154228857,
+          6.333333333333336
+        ],
+        "confianza": 1,
+        "texto": "EL HOMBRE"
+      },
+      {
+        "caja": [
+          5.858554458587339,
+          13.271478045371932,
+          88.27034110453592,
+          7.826045354207356
+        ],
+        "confianza": 1,
+        "texto": "QUE RESOLVIÓ"
+      },
+      {
+        "caja": [
+          12.935323046132979,
+          22.00000001818182,
+          74.12935323383086,
+          5.999999999999995
+        ],
+        "confianza": 1,
+        "texto": "EL MERCADO"
+      },
+      {
+        "caja": [
+          3.43351866064584,
+          28.55351189469789,
+          26.963808050203085,
+          5.559642791748043
+        ],
+        "confianza": 0.5,
+        "texto": "x=a ta"
+      },
+      {
+        "caja": [
+          5.472636837686567,
+          51.6666666875,
+          5.4726368159203975,
+          3.3333333333333326
+        ],
+        "confianza": 0.5,
+        "texto": "F"
+      },
+      {
+        "caja": [
+          3.4825869651741317,
+          61.66666668333334,
+          11.940298507462687,
+          4.0000000000000036
+        ],
+        "confianza": 0.30000001192092896,
+        "texto": "dw"
+      },
+      {
+        "caja": [
+          14.427860696517413,
+          63.66666662,
+          11.940298507462687,
+          4.666666666666663
+        ],
+        "confianza": 0.5,
+        "texto": "=[f"
+      },
+      {
+        "caja": [
+          4.47761188432836,
+          66.66666664166667,
+          9.950248756218906,
+          4.0000000000000036
+        ],
+        "confianza": 0.30000001192092896,
+        "texto": "dit"
+      },
+      {
+        "caja": [
+          75.62189070717838,
+          61.666666628571434,
+          22.388059701492537,
+          7.333333333333336
+        ],
+        "confianza": 0.30000001192092896,
+        "texto": ")k] dk"
+      },
+      {
+        "caja": [
+          2.9850747947761147,
+          74.99999996458332,
+          26.865671641791046,
+          6.999999999999995
+        ],
+        "confianza": 0.30000001192092896,
+        "texto": "m.d?r(t)"
+      },
+      {
+        "caja": [
+          75.62189039800995,
+          77.00000001666668,
+          23.880597014925364,
+          5.333333333333334
+        ],
+        "confianza": 0.30000001192092896,
+        "texto": "V[r(t)]"
+      },
+      {
+        "caja": [
+          15.920397608830852,
+          80.33333335208333,
+          64.17910447761194,
+          4.333333333333334
+        ],
+        "confianza": 0.5,
+        "texto": "dCómo Jim Simons"
+      },
+      {
+        "caja": [
+          24.378108945273638,
+          86.00000002333333,
+          50.74626865671642,
+          4.333333333333334
+        ],
+        "confianza": 1,
+        "texto": "revolucionó las"
+      },
+      {
+        "caja": [
+          12.437811492537303,
+          91.33333336944443,
+          74.62686567164178,
+          4.333333333333334
+        ],
+        "confianza": 1,
+        "texto": "finanzas cuantitativas"
+      },
+      {
+        "caja": [
+          3.9800994340796034,
+          95.66666668333335,
+          5.472636815920398,
+          2.6666666666666727
+        ],
+        "confianza": 0.5,
+        "texto": "i=1"
+      }
+    ],
+    "tituloIndices": [
+      2,
+      3,
+      4
+    ],
+    "mensajeIndices": [
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1928.PNG",
+    "fuente": "IMG_1928.PNG",
+    "sha256": "5546dba0d337b0ae9834ba1d14cad08ac5fce2a334cf530f46162609d855bb70",
+    "width": 750,
+    "height": 1624,
+    "titulo": "El fracaso de la gestión de riesgos",
+    "marca": "Wiser",
+    "crop": [
+      174,
+      244,
+      402,
+      600
+    ],
+    "parcial": false,
+    "id": 52,
+    "lineas": [
+      {
+        "caja": [
+          17.41293573383084,
+          11.666666654166669,
+          65.67164179104478,
+          5.333333333333334
+        ],
+        "confianza": 1,
+        "texto": "Fracaso de la"
+      },
+      {
+        "caja": [
+          1.3536098417737361,
+          17.173236065622845,
+          97.35128677899564,
+          8.791284243265785
+        ],
+        "confianza": 1,
+        "texto": "Gestión de Riesgos"
+      },
+      {
+        "caja": [
+          14.925373031272207,
+          40.66666662619048,
+          70.14925373134328,
+          5.666666666666664
+        ],
+        "confianza": 1,
+        "texto": "Por qué está rota"
+      },
+      {
+        "caja": [
+          13.93034766169155,
+          46.33333335833334,
+          71.64179104477613,
+          5.666666666666664
+        ],
+        "confianza": 1,
+        "texto": "y cómo arreglarla"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      2,
+      3
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1929.PNG",
+    "fuente": "IMG_1929.PNG",
+    "sha256": "6071037ab3a1c46517947209b9d877438d57a12306b76bf9c44d4eae63465c61",
+    "width": 750,
+    "height": 1624,
+    "titulo": "La sexta extinción",
+    "marca": "Wiser",
+    "crop": [
+      174,
+      244,
+      402,
+      600
+    ],
+    "parcial": false,
+    "id": 53,
+    "lineas": [
+      {
+        "caja": [
+          21.845433651080977,
+          8.824745806987833,
+          56.3091335011952,
+          7.017175356547045
+        ],
+        "confianza": 1,
+        "texto": "La Sexta"
+      },
+      {
+        "caja": [
+          19.888694867202826,
+          15.955885834558503,
+          60.720122987358124,
+          7.421561559041335
+        ],
+        "confianza": 1,
+        "texto": "Extinción"
+      },
+      {
+        "caja": [
+          15.4228854477612,
+          30.333333287500007,
+          69.65174129353234,
+          3.6666666666666625
+        ],
+        "confianza": 1,
+        "texto": "Una historia antinatural"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      2
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1930.PNG",
+    "fuente": "IMG_1930.PNG",
+    "sha256": "eacde8c7876753401ec89f757228e8edb9a1c0b377b87e75ae0fc4bd2cf2c7e4",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Lo inevitable",
+    "marca": "Wiser",
+    "crop": [
+      174,
+      244,
+      402,
+      600
+    ],
+    "parcial": false,
+    "id": 54,
+    "lineas": [
+      {
+        "caja": [
+          40.29850760127932,
+          4.999999985714288,
+          19.402985074626862,
+          7.333333333333336
+        ],
+        "confianza": 0.5,
+        "texto": "Lo"
+      },
+      {
+        "caja": [
+          7.759044816191441,
+          11.473242374328708,
+          84.48191021212298,
+          11.386848449707031
+        ],
+        "confianza": 1,
+        "texto": "Inevitable"
+      },
+      {
+        "caja": [
+          12.359146277518093,
+          81.298161346611,
+          75.29550429007307,
+          5.552651405334474
+        ],
+        "confianza": 1,
+        "texto": "Las fuerzas tecnológicas"
+      },
+      {
+        "caja": [
+          13.357539951614442,
+          86.18673878757788,
+          72.76309948062423,
+          5.1855856577555315
+        ],
+        "confianza": 1,
+        "texto": "que están dando forma"
+      },
+      {
+        "caja": [
+          24.37810954394693,
+          91.66666663611112,
+          50.74626865671641,
+          3.6666666666666625
+        ],
+        "confianza": 1,
+        "texto": "a nuestro futuro"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1932.PNG",
+    "fuente": "IMG_1932.PNG",
+    "sha256": "7003175693714826c4968e79fc7e5e65e35ff3635899f7c7518c1240cb67720d",
+    "width": 750,
+    "height": 1624,
+    "titulo": "El único juego en la ciudad",
+    "marca": "Wiser",
+    "crop": [
+      174,
+      244,
+      402,
+      600
+    ],
+    "parcial": false,
+    "id": 55,
+    "lineas": [
+      {
+        "caja": [
+          46.26865677238806,
+          58.99999999166668,
+          4.477611940298509,
+          3.3333333333333326
+        ],
+        "confianza": 0.5,
+        "texto": "E"
+      },
+      {
+        "caja": [
+          5.8929483069924835,
+          61.32413784524899,
+          87.63252372172342,
+          12.975861867268879
+        ],
+        "confianza": 1,
+        "texto": "Único Juego"
+      },
+      {
+        "caja": [
+          7.960199357379767,
+          72.99999998333334,
+          84.5771144278607,
+          7.9999999999999964
+        ],
+        "confianza": 1,
+        "texto": "en la Ciudad"
+      },
+      {
+        "caja": [
+          20.89552287313432,
+          86.66666665,
+          58.2089552238806,
+          3.9999999999999925
+        ],
+        "confianza": 1,
+        "texto": "Por qué los bancos"
+      },
+      {
+        "caja": [
+          5.970148624733483,
+          90.66666668809523,
+          88.05970149253733,
+          3.6666666666666625
+        ],
+        "confianza": 1,
+        "texto": "centrales son fundamentales"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1,
+      2
+    ],
+    "mensajeIndices": [
+      3,
+      4
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1936.PNG",
+    "fuente": "IMG_1936.PNG",
+    "sha256": "7506744e355c3884dcc5f7d82616e8785bfd157327c48b0f61099bd00bfb0158",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Respira",
+    "marca": "Wiser",
+    "crop": [
+      174,
+      244,
+      402,
+      600
+    ],
+    "parcial": false,
+    "id": 56,
+    "lineas": [
+      {
+        "caja": [
+          6.908208323985572,
+          6.147026046475357,
+          88.67114622201491,
+          12.705947875976564
+        ],
+        "confianza": 1,
+        "texto": "RESPIRA"
+      },
+      {
+        "caja": [
+          7.949472428459468,
+          23.97219116010333,
+          24.897075292482896,
+          4.388950824737547
+        ],
+        "confianza": 1,
+        "texto": "Calma tu"
+      },
+      {
+        "caja": [
+          7.337228940547338,
+          29.270864605742464,
+          20.28523535277713,
+          4.645523071289048
+        ],
+        "confianza": 1,
+        "texto": "mente."
+      },
+      {
+        "caja": [
+          7.431848916026976,
+          34.24086921235148,
+          28.419883690070158,
+          4.51826159159342
+        ],
+        "confianza": 1,
+        "texto": "Encuentra"
+      },
+      {
+        "caja": [
+          7.454057840413402,
+          39.979268027186606,
+          24.89287912549071,
+          4.708130518595377
+        ],
+        "confianza": 1,
+        "texto": "enfoque."
+      },
+      {
+        "caja": [
+          7.930668203381784,
+          44.605000513262816,
+          19.959558894978237,
+          4.456665674845373
+        ],
+        "confianza": 1,
+        "texto": "Haz las"
+      },
+      {
+        "caja": [
+          7.462686343283588,
+          51.0000000125,
+          17.910447761194032,
+          3.6666666666666625
+        ],
+        "confianza": 0.5,
+        "texto": "cosas."
+      }
+    ],
+    "tituloIndices": [
+      0
+    ],
+    "mensajeIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1938.PNG",
+    "fuente": "IMG_1938.PNG",
+    "sha256": "00e7ad6081ecbeb949def558265e60d133890919b4a3a8b97763e401622f56b8",
+    "width": 750,
+    "height": 1624,
+    "titulo": "La dieta rápida",
+    "marca": "Wiser",
+    "crop": [
+      174,
+      244,
+      402,
+      600
+    ],
+    "parcial": false,
+    "id": 57,
+    "lineas": [
+      {
+        "caja": [
+          2.3474166516229964,
+          5.600274334293786,
+          95.3051666715252,
+          16.13278452555339
+        ],
+        "confianza": 1,
+        "texto": "Dieta Rápida"
+      },
+      {
+        "caja": [
+          19.402984434079617,
+          62.999999949999996,
+          60.19900497512438,
+          4.0000000000000036
+        ],
+        "confianza": 1,
+        "texto": "Pierde peso, mantente"
+      },
+      {
+        "caja": [
+          23.25368351268877,
+          66.63420423054133,
+          51.49253731343283,
+          5.203087806701657
+        ],
+        "confianza": 1,
+        "texto": "sano y vive más con"
+      },
+      {
+        "caja": [
+          22.885571597014934,
+          71.66666668333332,
+          54.22885572139303,
+          3.6666666666666736
+        ],
+        "confianza": 1,
+        "texto": "el simple secreto del"
+      },
+      {
+        "caja": [
+          24.28479147164257,
+          75.43024018368727,
+          50.927988688151046,
+          4.6581112543741865
+        ],
+        "confianza": 1,
+        "texto": "ayuno intermitente"
+      }
+    ],
+    "tituloIndices": [
+      0
+    ],
+    "mensajeIndices": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1939.PNG",
+    "fuente": "IMG_1939.PNG",
+    "sha256": "0669da34df0810fde0ce7581b7d11f4b289cc34be2fb35cf73a055897a3b01df",
+    "width": 750,
+    "height": 1624,
+    "titulo": "El libro del bebé",
+    "marca": "Wiser",
+    "crop": [
+      174,
+      244,
+      402,
+      600
+    ],
+    "parcial": false,
+    "id": 58,
+    "lineas": [
+      {
+        "caja": [
+          8.955223951670218,
+          6.666666704761903,
+          11.940298507462687,
+          5.333333333333334
+        ],
+        "confianza": 1,
+        "texto": "EL"
+      },
+      {
+        "caja": [
+          8.457711545052513,
+          12.666666718518515,
+          53.233830845771145,
+          9.333333333333337
+        ],
+        "confianza": 1,
+        "texto": "LIBRO"
+      },
+      {
+        "caja": [
+          8.895585845608595,
+          21.136128057617288,
+          82.20882890236318,
+          11.727743784586586
+        ],
+        "confianza": 1,
+        "texto": "DEL BEBÉ"
+      },
+      {
+        "caja": [
+          7.960199577114422,
+          71.33333330714287,
+          80.09950248756219,
+          4.999999999999993
+        ],
+        "confianza": 1,
+        "texto": "Todo lo que necesitas"
+      },
+      {
+        "caja": [
+          7.960199721393023,
+          76.33333334000001,
+          71.64179104477611,
+          4.666666666666663
+        ],
+        "confianza": 1,
+        "texto": "saber sobre tu bebé"
+      },
+      {
+        "caja": [
+          7.960199125207292,
+          80.666666625,
+          70.1492537313433,
+          5.000000000000004
+        ],
+        "confianza": 1,
+        "texto": "desde el nacimiento"
+      },
+      {
+        "caja": [
+          7.960199285714285,
+          85.99999996904762,
+          63.18407960199004,
+          4.333333333333334
+        ],
+        "confianza": 1,
+        "texto": "hasta los dos años"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1,
+      2
+    ],
+    "mensajeIndices": [
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1940.PNG",
+    "fuente": "IMG_1940.PNG",
+    "sha256": "d4eed259bf9c138238f8cfdc5720af71f297307ddcdd4a0fc2a6d775602b1588",
+    "width": 750,
+    "height": 1624,
+    "titulo": "El manual del recién nacido",
+    "marca": "Wiser",
+    "crop": [
+      174,
+      244,
+      402,
+      600
+    ],
+    "parcial": false,
+    "id": 59,
+    "lineas": [
+      {
+        "caja": [
+          81.59203973880598,
+          3.666666685416664,
+          9.950248756218905,
+          5.000000000000004
+        ],
+        "confianza": 0.5,
+        "texto": "El"
+      },
+      {
+        "caja": [
+          29.35323392679459,
+          9.999999954761908,
+          62.189054726368155,
+          6.333333333333324
+        ],
+        "confianza": 1,
+        "texto": "Manual del"
+      },
+      {
+        "caja": [
+          10.447760961857389,
+          16.666666608333337,
+          80.59701492537313,
+          6.999999999999995
+        ],
+        "confianza": 1,
+        "texto": "Recién Nacido"
+      },
+      {
+        "caja": [
+          44.751719093066505,
+          75.90815447577215,
+          46.81497070919815,
+          5.8503580093383745
+        ],
+        "confianza": 1,
+        "texto": "Tu guía para"
+      },
+      {
+        "caja": [
+          40.79602015858209,
+          82.66666663750001,
+          50.24875621890546,
+          4.666666666666663
+        ],
+        "confianza": 1,
+        "texto": "llevar al bebé"
+      },
+      {
+        "caja": [
+          67.66169135157547,
+          90.66666668333335,
+          22.885572139303477,
+          3.3333333333333437
+        ],
+        "confianza": 1,
+        "texto": "a casa"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1,
+      2
+    ],
+    "mensajeIndices": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "archivo": "./assets/comparacion-referencias/IMG_1978.PNG",
+    "fuente": "IMG_1978.PNG",
+    "sha256": "8cabdbccca7707fe5557c828dd165e717c3ded2f5216144f717f9b37b160088d",
+    "width": 750,
+    "height": 1624,
+    "titulo": "Desbloqueando el potencial",
+    "marca": "Wiser",
+    "crop": [
+      174,
+      244,
+      402,
+      600
+    ],
+    "parcial": false,
+    "id": 60,
+    "lineas": [
+      {
+        "caja": [
+          9.452735728500357,
+          8.66666667619047,
+          82.58706467661692,
+          7.333333333333336
+        ],
+        "confianza": 1,
+        "texto": "Desbloqueando"
+      },
+      {
+        "caja": [
+          8.955224407131,
+          16.666666650000007,
+          63.18407960199005,
+          6.666666666666665
+        ],
+        "confianza": 1,
+        "texto": "el Potencial"
+      },
+      {
+        "caja": [
+          8.955223800995025,
+          39.99999995666666,
+          44.776119402985074,
+          4.333333333333334
+        ],
+        "confianza": 1,
+        "texto": "7 habilidades"
+      },
+      {
+        "caja": [
+          8.915951677155588,
+          45.19502253102793,
+          40.87456470698267,
+          5.609954833984377
+        ],
+        "confianza": 1,
+        "texto": "de coaching"
+      },
+      {
+        "caja": [
+          8.955223716417908,
+          50.666666613333334,
+          45.27363184079602,
+          5.333333333333334
+        ],
+        "confianza": 1,
+        "texto": "que impulsan"
+      },
+      {
+        "caja": [
+          8.95522349502488,
+          56.333333358333334,
+          46.26865671641791,
+          4.333333333333334
+        ],
+        "confianza": 1,
+        "texto": "el crecimiento"
+      }
+    ],
+    "tituloIndices": [
+      0,
+      1
+    ],
+    "mensajeIndices": [
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+]

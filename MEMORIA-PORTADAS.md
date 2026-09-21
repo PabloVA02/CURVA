@@ -1,5 +1,10 @@
 # Memoria persistente · Portadas de Curva
 
+**Estudio ampliado posterior.** Antes del próximo encargo, consultar `referencias/portadas/atlas-2026-09-21/Analisis.md` y `docs/atlas-portadas.html`: 60 casos Headway/Wiser revisados individualmente, medidas de texto, 10 esquemas de masas y comparación del pliegue. Elegir referencias por la relación entre formas y palabras; decidir primero si hace falta mensaje. Las cajas medidas no son una plantilla universal y los contornos analíticos no son vectores originales. Conservar el ojo cerrado aprobado de la propuesta de pensamiento positivo; la composición completa no queda aprobada por esa elección.
+
+
+**Actualización posterior · integración y mensaje opcional.** El usuario exige estudiar también Wiser y colocar el mensaje dentro del propio dibujo cuando la composición lo pida, no separarlo sistemáticamente. El mensaje es opcional: omitirlo si el título ya explica suficiente o si una portada funciona mejor sin él. No inventar una frase para rellenar ni reservar siempre una franja inferior. Cuando se incluya, su espacio se diseña con la ilustración y debe ser fiel al libro y legible. Esta indicación prevalece sobre las reglas anteriores que exigían dos textos en todas las cubiertas.
+
 **Prioridad posterior · Headway.** Última exigencia del usuario, posterior a la propuesta de pensamiento positivo: «si las portadas no tienen ese diseño de headway no las quiere tienen que ser un 100% mismo diseño». Headway es la referencia obligatoria de ilustración, tipografía, composición, doblez y esquinas; Wiser queda como referencia complementaria. Consultar sus imágenes directamente y comparar cada resultado. No asumir que las propuestas actuales están aprobadas ni certificar una coincidencia exacta solo por haberla solicitado en el prompt. Conservar versiones y seguir trabajando una portada por encargo. La comparación completa está en `docs/comparar-portadas.html`.
 
 El 21 de septiembre de 2026 el usuario pide expresamente guardar el sistema visual «para siempre» y utilizarlo siempre. Es una preferencia permanente de este proyecto, vigente hasta que el usuario la cambie. No es una indicación limitada a una tanda o a esta conversación.
@@ -13,7 +18,7 @@ Antes de trabajar en cualquier portada de Curva, recuperar estas fuentes:
 
 El prompt maestro completo es la especificación; esta memoria es su punto de entrada estable. No sustituirlo por recuerdos parciales de conversaciones anteriores.
 
-Mantener dibujos editoriales planos como las referencias Headway/Wiser, ideas originales sin repetir motivos, rueda de doce paletas y cinco tintas base, familia sans geométrica común, dos niveles de texto legibles en móvil y una doblez tonal fina sin marco blanco ni perspectiva. Comprobar la belleza individual y la armonía con el catálogo. El mensaje explica fielmente el libro. Conservar referencias, prompts y todas las versiones mostradas.
+Mantener dibujos editoriales planos como las referencias Headway/Wiser, ideas originales sin repetir motivos, rueda de doce paletas y cinco tintas base, jerarquía tipográfica legible en móvil, con mensaje opcional según las indicaciones posteriores y una doblez tonal fina sin marco blanco ni perspectiva. Comprobar la belleza individual y la armonía con el catálogo. El mensaje explica fielmente el libro. Conservar referencias, prompts y todas las versiones mostradas.
 
 Trabajar una a una conforme el usuario envíe los encargos individuales. Su nueva aclaración prevalece si modifica estas preferencias. Registrar cualquier cambio futuro conservando la versión anterior y actualizar este punto de entrada si cambia el documento vigente.
 

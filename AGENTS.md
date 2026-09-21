@@ -1,5 +1,10 @@
 # Portadas de Curva
 
+**Estudio ampliado posterior.** Antes del próximo encargo, consultar `referencias/portadas/atlas-2026-09-21/Analisis.md` y `docs/atlas-portadas.html`: 60 casos Headway/Wiser revisados individualmente, medidas de texto, 10 esquemas de masas y comparación del pliegue. Elegir referencias por la relación entre formas y palabras; decidir primero si hace falta mensaje. Las cajas medidas no son una plantilla universal y los contornos analíticos no son vectores originales. Conservar el ojo cerrado aprobado de la propuesta de pensamiento positivo; la composición completa no queda aprobada por esa elección.
+
+
+**Actualización posterior · integración y mensaje opcional.** El usuario exige estudiar también Wiser y colocar el mensaje dentro del propio dibujo cuando la composición lo pida, no separarlo sistemáticamente. El mensaje es opcional: omitirlo si el título ya explica suficiente o si una portada funciona mejor sin él. No inventar una frase para rellenar ni reservar siempre una franja inferior. Cuando se incluya, su espacio se diseña con la ilustración y debe ser fiel al libro y legible. Esta indicación prevalece sobre las reglas anteriores que exigían dos textos en todas las cubiertas.
+
 **Prioridad posterior · Headway.** Última exigencia del usuario, posterior a la propuesta de pensamiento positivo: «si las portadas no tienen ese diseño de headway no las quiere tienen que ser un 100% mismo diseño». Headway es la referencia obligatoria de ilustración, tipografía, composición, doblez y esquinas; Wiser queda como referencia complementaria. Consultar sus imágenes directamente y comparar cada resultado. No asumir que las propuestas actuales están aprobadas ni certificar una coincidencia exacta solo por haberla solicitado en el prompt. Conservar versiones y seguir trabajando una portada por encargo. La comparación completa está en `docs/comparar-portadas.html`.
 
 Memoria permanente solicitada expresamente por el usuario: leer `MEMORIA-PORTADAS.md` al retomar trabajo de portadas, también en nuevas sesiones. El sistema se aplica a todos los encargos futuros de Curva hasta que el usuario lo cambie.

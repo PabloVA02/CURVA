@@ -1,0 +1,6816 @@
+{
+  "fecha": "2026-09-21",
+  "metodo": "Cajas de líneas por Apple Vision, clasificación de título y mensaje revisada a partir de capturas originales. Coordenadas porcentuales con origen arriba a la izquierda. Contornos de masas dibujados manualmente como aproximaciones analíticas, no vectores originales. La selección intencional de 60 ejemplos muestra variedad: sus frecuencias no estiman todo el catálogo. Los 170 Headway y 49 Wiser son el inventario, no 219 análisis manuales completos.",
+  "estadisticas": {
+    "inventarioHeadway": 170,
+    "inventarioWiser": 49,
+    "casos": 60,
+    "headway": 36,
+    "wiser": 24,
+    "parcialesEnMuestra": 1,
+    "tiposMensaje": {
+      "integrado": 23,
+      "hueco": 13,
+      "ausente": 6,
+      "separado": 18
+    },
+    "muestraNoAleatoria": true,
+    "medicionesCompletas": 56,
+    "titulo": {
+      "n": 56,
+      "anchuraMediana": 73.8,
+      "alturaMediana": 20.7,
+      "yMin": 3.7,
+      "yMax": 77.5
+    },
+    "mensaje": {
+      "n": 50,
+      "anchuraMediana": 56.5,
+      "alturaMediana": 14.9,
+      "yMin": 21.0,
+      "yMax": 89.0
+    }
+  },
+  "casos": [
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1916.PNG",
+      "fuente": "IMG_1916.PNG",
+      "sha256": "8c5391c2b1ef08b26d4a44e46639d2961548fb2b16e14182ae93424fec547127",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Atlas del corazón",
+      "marca": "Headway",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "parcial": false,
+      "id": 1,
+      "lineas": [
+        {
+          "caja": [
+            30.05,
+            26.91,
+            38.8,
+            8.0
+          ],
+          "confianza": 0.5,
+          "texto": "Atlas'"
+        },
+        {
+          "caja": [
+            44.26,
+            36.0,
+            9.29,
+            3.27
+          ],
+          "confianza": 1,
+          "texto": "del"
+        },
+        {
+          "caja": [
+            21.27,
+            39.15,
+            55.27,
+            8.25
+          ],
+          "confianza": 1,
+          "texto": "corazón"
+        },
+        {
+          "caja": [
+            28.42,
+            64.36,
+            43.72,
+            4.36
+          ],
+          "confianza": 1,
+          "texto": "El mapa de los"
+        },
+        {
+          "caja": [
+            18.95,
+            68.35,
+            62.11,
+            6.37
+          ],
+          "confianza": 1,
+          "texto": "vinculos importantes"
+        },
+        {
+          "caja": [
+            22.4,
+            74.55,
+            54.64,
+            4.73
+          ],
+          "confianza": 1,
+          "texto": "y el lenguaje de la"
+        },
+        {
+          "caja": [
+            19.67,
+            79.64,
+            60.66,
+            4.73
+          ],
+          "confianza": 1,
+          "texto": "experiencia humana"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1,
+        2
+      ],
+      "mensajeIndices": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "familia": "Formas que contienen texto",
+      "mensaje": "integrado",
+      "hallazgo": "El título está dentro del corazón y el mensaje dentro del libro abierto. La punta del corazón llega al lomo: los dos recipientes de texto forman una sola relación, no dos carteles.",
+      "aplicacion": "Diseñar primero las superficies que van a alojar las letras. Dejar que las formas cambien para acomodar los saltos de línea, sin cruzar las letras con detalles.",
+      "estructura": [
+        {
+          "nombre": "Corazón / título",
+          "d": "M50 8 C61 3 75 12 81 27 C91 43 70 53 50 64 C34 56 12 47 14 34 C10 18 27 13 40 22 Z"
+        },
+        {
+          "nombre": "Libro / mensaje",
+          "d": "M9 62 Q30 55 50 64 Q72 55 91 62 L93 92 Q75 96 50 96 Q25 96 8 92 Z"
+        }
+      ],
+      "cajas": {
+        "titulo": [
+          21.3,
+          26.9,
+          55.3,
+          20.5
+        ],
+        "mensaje": [
+          19.0,
+          64.4,
+          62.1,
+          20.0
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-headway/IMG_1962.PNG",
+      "fuente": "IMG_1962.PNG",
+      "sha256": "e2b00ad3ae6f565b557b7fec0be54389f3ec1a0153c8b8c63be22c292ff71727",
+      "width": 750,
+      "height": 1624,
+      "titulo": "El quinto acuerdo",
+      "marca": "Headway",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "parcial": false,
+      "id": 2,
+      "lineas": [
+        {
+          "caja": [
+            13.66,
+            8.73,
+            62.84,
+            10.91
+          ],
+          "confianza": 1,
+          "texto": "El quinto"
+        },
+        {
+          "caja": [
+            13.0,
+            19.58,
+            61.97,
+            8.48
+          ],
+          "confianza": 1,
+          "texto": "acuerdo"
+        },
+        {
+          "caja": [
+            27.28,
+            56.62,
+            35.06,
+            6.4
+          ],
+          "confianza": 1,
+          "texto": "Una guía"
+        },
+        {
+          "caja": [
+            27.29,
+            63.16,
+            53.06,
+            6.4
+          ],
+          "confianza": 1,
+          "texto": "práctica para"
+        },
+        {
+          "caja": [
+            26.18,
+            70.0,
+            45.45,
+            5.46
+          ],
+          "confianza": 1,
+          "texto": "la maestría"
+        },
+        {
+          "caja": [
+            26.62,
+            77.32,
+            35.78,
+            5.11
+          ],
+          "confianza": 1,
+          "texto": "personal"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "familia": "Formas que contienen texto",
+      "mensaje": "integrado",
+      "hallazgo": "El perfil amarillo queda abierto por arriba, donde actúa el pincel. La caja del mensaje vive dentro del perfil y se alinea a la izquierda; la cabeza no es una ilustración pegada debajo del texto.",
+      "aplicacion": "Relacionar el hueco interior con una acción que lo construya. Mantener el pincel, el borde y la caja del mensaje como una sola composición.",
+      "estructura": [
+        {
+          "nombre": "Interior de la cabeza",
+          "d": "M37 100 L37 93 Q25 94 23 86 L23 80 L14 78 L21 68 Q19 50 38 43 Q57 34 77 44 M90 58 Q93 80 76 90 L75 100"
+        },
+        {
+          "nombre": "Entrada diagonal del pincel",
+          "d": "M89 0 L85 15 L76 28 L66 39"
+        }
+      ],
+      "cajas": {
+        "titulo": [
+          13.0,
+          8.7,
+          63.5,
+          19.3
+        ],
+        "mensaje": [
+          26.2,
+          56.6,
+          54.2,
+          25.8
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-headway/IMG_1969.PNG",
+      "fuente": "IMG_1969.PNG",
+      "sha256": "6fb79764de7f05f325ac2c13cf4ec6e3d406638d79d2fd005dd0ee9b69af159b",
+      "width": 750,
+      "height": 1624,
+      "titulo": "El elefante en el cerebro",
+      "marca": "Headway",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "parcial": false,
+      "id": 3,
+      "lineas": [
+        {
+          "caja": [
+            18.56,
+            13.38,
+            63.43,
+            7.06
+          ],
+          "confianza": 1,
+          "texto": "El elefante"
+        },
+        {
+          "caja": [
+            10.93,
+            22.55,
+            77.6,
+            7.27
+          ],
+          "confianza": 1,
+          "texto": "en el cerebro"
+        },
+        {
+          "caja": [
+            28.96,
+            70.91,
+            42.08,
+            4.0
+          ],
+          "confianza": 1,
+          "texto": "Motivos ocultos"
+        },
+        {
+          "caja": [
+            27.87,
+            76.0,
+            43.72,
+            3.64
+          ],
+          "confianza": 1,
+          "texto": "en la vida diaria"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        2,
+        3
+      ],
+      "familia": "Dos lecturas en una silueta",
+      "mensaje": "integrado",
+      "hallazgo": "Un perfil oscuro ocupa casi toda la cubierta; el elefante se encaja dentro y comparte el espacio de la cabeza. El título ocupa la frente y el mensaje la zona de mandíbula/cuello. La relación no depende de un icono adicional.",
+      "aplicacion": "Unificar dos significados en una silueta grande y repartir el texto entre huecos reales. Evitar copiar solo coral + azul y olvidar el encaje.",
+      "estructura": [
+        {
+          "nombre": "Perfil que contiene dibujo y texto",
+          "d": "M36 0 L100 0 L100 100 L44 100 L45 91 Q33 91 28 83 L24 81 L24 72 L10 70 L15 59 Q11 23 36 0 Z"
+        },
+        {
+          "nombre": "Masa del elefante",
+          "d": "M76 0 L100 0 L100 86 L76 81 L73 62 Q55 67 44 60 Q29 52 36 40 Q48 33 57 42 Q42 40 45 51 Q54 60 64 44 Q62 27 76 0 Z"
+        }
+      ],
+      "cajas": {
+        "titulo": [
+          10.9,
+          13.4,
+          77.6,
+          16.4
+        ],
+        "mensaje": [
+          27.9,
+          70.9,
+          43.7,
+          8.7
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1904.PNG",
+      "fuente": "IMG_1904.PNG",
+      "sha256": "5f4a7235d382a5b0415b5ec243642f9faf55ec0b8489c5ffbb67719f52ade90f",
+      "width": 750,
+      "height": 1624,
+      "titulo": "El poder de un no positivo",
+      "marca": "Headway",
+      "crop": [
+        32,
+        775,
+        327,
+        491
+      ],
+      "clip": [
+        0,
+        190,
+        750,
+        1115
+      ],
+      "parcial": false,
+      "visible": 1.0,
+      "id": 4,
+      "lineas": [
+        {
+          "caja": [
+            14.63,
+            8.94,
+            71.34,
+            7.72
+          ],
+          "confianza": 1,
+          "texto": "EL PODER"
+        },
+        {
+          "caja": [
+            14.57,
+            17.7,
+            44.65,
+            7.69
+          ],
+          "confianza": 1,
+          "texto": "DE UN"
+        },
+        {
+          "caja": [
+            14.02,
+            23.98,
+            73.17,
+            28.05
+          ],
+          "confianza": 1,
+          "texto": "NO"
+        },
+        {
+          "caja": [
+            14.63,
+            54.47,
+            67.07,
+            7.32
+          ],
+          "confianza": 1,
+          "texto": "POSITIVO"
+        },
+        {
+          "caja": [
+            45.73,
+            69.92,
+            42.68,
+            3.66
+          ],
+          "confianza": 1,
+          "texto": "Cómo decir NO"
+        },
+        {
+          "caja": [
+            45.12,
+            74.39,
+            40.85,
+            4.47
+          ],
+          "confianza": 1,
+          "texto": "y sin embargo"
+        },
+        {
+          "caja": [
+            45.09,
+            78.78,
+            30.55,
+            5.05
+          ],
+          "confianza": 1,
+          "texto": "llegar al Si"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "mensajeIndices": [
+        4,
+        5,
+        6
+      ],
+      "familia": "Letras y gesto",
+      "mensaje": "integrado",
+      "hallazgo": "NO crece y se inclina sobre la mano levantada. El mensaje está en un globo de voz conectado con la persona. El título cambia de escala dentro de sí mismo.",
+      "aplicacion": "Dar protagonismo a una palabra concreta y hacer que el apoyo textual pertenezca a la acción. No imponer un solo tamaño a todas las palabras del título.",
+      "cajas": {
+        "titulo": [
+          14.0,
+          8.9,
+          73.2,
+          52.8
+        ],
+        "mensaje": [
+          45.1,
+          69.9,
+          43.3,
+          13.9
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1896.PNG",
+      "fuente": "IMG_1896.PNG",
+      "sha256": "c6827d2d874cc716995197661669ad83d346c97cd10a3e4b528f5c1b267e1b00",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Crea tu segundo cerebro",
+      "marca": "Headway",
+      "crop": [
+        391,
+        801,
+        327,
+        491
+      ],
+      "clip": [
+        0,
+        190,
+        750,
+        1115
+      ],
+      "parcial": false,
+      "visible": 1.0,
+      "id": 5,
+      "lineas": [
+        {
+          "caja": [
+            20.72,
+            8.91,
+            58.56,
+            7.8
+          ],
+          "confianza": 1,
+          "texto": "CREA TU"
+        },
+        {
+          "caja": [
+            15.24,
+            18.29,
+            68.9,
+            7.32
+          ],
+          "confianza": 1,
+          "texto": "SEGUNDO"
+        },
+        {
+          "caja": [
+            17.07,
+            27.64,
+            65.24,
+            7.72
+          ],
+          "confianza": 1,
+          "texto": "CEREBRO"
+        },
+        {
+          "caja": [
+            14.63,
+            69.11,
+            70.73,
+            5.28
+          ],
+          "confianza": 1,
+          "texto": "Un método probado"
+        },
+        {
+          "caja": [
+            20.12,
+            74.39,
+            60.37,
+            5.69
+          ],
+          "confianza": 1,
+          "texto": "para organizar tu"
+        },
+        {
+          "caja": [
+            29.86,
+            80.01,
+            40.9,
+            5.83
+          ],
+          "confianza": 1,
+          "texto": "vida digital"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1,
+        2
+      ],
+      "mensajeIndices": [
+        3,
+        4,
+        5
+      ],
+      "familia": "Formas que contienen texto",
+      "mensaje": "integrado",
+      "hallazgo": "El mensaje se imprime en el cuerpo rojo de una carpeta. Las pestañas, documentos y pequeñas señales de conversación explican ese recipiente; el negro superior deja respirar el título.",
+      "aplicacion": "Una gran superficie del objeto puede sustituir la franja de pie de portada. Los pequeños detalles se concentran en su borde de apertura.",
+      "estructura": [
+        {
+          "nombre": "Carpeta y pestañas",
+          "d": "M0 54 L16 54 Q20 49 27 49 L43 49 Q47 49 49 53 L100 53 L100 100 L0 100 Z"
+        }
+      ],
+      "cajas": {
+        "titulo": [
+          15.2,
+          8.9,
+          68.9,
+          26.5
+        ],
+        "mensaje": [
+          14.6,
+          69.1,
+          70.7,
+          16.7
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1904.PNG",
+      "fuente": "IMG_1904.PNG",
+      "sha256": "5f4a7235d382a5b0415b5ec243642f9faf55ec0b8489c5ffbb67719f52ade90f",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Piensa como un filósofo griego",
+      "marca": "Headway",
+      "crop": [
+        391,
+        164,
+        327,
+        491
+      ],
+      "clip": [
+        0,
+        190,
+        750,
+        1115
+      ],
+      "parcial": true,
+      "visible": 0.9470468431771895,
+      "id": 6,
+      "lineas": [
+        {
+          "caja": [
+            7.32,
+            14.23,
+            84.76,
+            6.91
+          ],
+          "confianza": 1,
+          "texto": "PIENSA COMO"
+        },
+        {
+          "caja": [
+            10.35,
+            20.26,
+            79.3,
+            9.47
+          ],
+          "confianza": 1,
+          "texto": "UN FILÓSOFO"
+        },
+        {
+          "caja": [
+            25.58,
+            30.81,
+            48.23,
+            7.49
+          ],
+          "confianza": 1,
+          "texto": "GRIEGO"
+        },
+        {
+          "caja": [
+            16.46,
+            47.56,
+            67.07,
+            4.07
+          ],
+          "confianza": 1,
+          "texto": "El método de Sócrates"
+        },
+        {
+          "caja": [
+            22.44,
+            52.29,
+            54.49,
+            5.1
+          ],
+          "confianza": 1,
+          "texto": "para alumbrar las"
+        },
+        {
+          "caja": [
+            16.46,
+            57.72,
+            66.46,
+            4.88
+          ],
+          "confianza": 1,
+          "texto": "ideas y las respuestas"
+        },
+        {
+          "caja": [
+            28.66,
+            63.01,
+            42.07,
+            4.47
+          ],
+          "confianza": 1,
+          "texto": "que necesitas"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1,
+        2
+      ],
+      "mensajeIndices": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "familia": "Formas que contienen texto",
+      "mensaje": "integrado",
+      "hallazgo": "La pantalla de un ordenador contiene el mensaje y descansa sobre una columna griega. El contraste de épocas forma la idea; la pantalla aporta una caja legible. La captura tapa el extremo superior.",
+      "aplicacion": "Usar una superficie real de la ilustración para la frase. No medir el margen superior ni reconstruir las letras ocultas de esta referencia.",
+      "cajas": {
+        "titulo": [
+          7.3,
+          14.2,
+          84.8,
+          24.1
+        ],
+        "mensaje": [
+          16.5,
+          47.6,
+          67.1,
+          19.9
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1901.PNG",
+      "fuente": "IMG_1901.PNG",
+      "sha256": "0d309bff4013665b2eff61274b47358310455f5be70e93aa845e014ba0e958ae",
+      "width": 750,
+      "height": 1624,
+      "titulo": "El pensamiento lateral",
+      "marca": "Headway",
+      "crop": [
+        391,
+        304,
+        327,
+        491
+      ],
+      "clip": [
+        0,
+        190,
+        750,
+        1115
+      ],
+      "parcial": false,
+      "visible": 1.0,
+      "id": 7,
+      "lineas": [
+        {
+          "caja": [
+            15.49,
+            17.52,
+            45.71,
+            7.85
+          ],
+          "confianza": 1,
+          "texto": "El pensa-"
+        },
+        {
+          "caja": [
+            15.24,
+            24.39,
+            67.68,
+            6.1
+          ],
+          "confianza": 1,
+          "texto": "miento lateral"
+        },
+        {
+          "caja": [
+            47.52,
+            58.4,
+            27.52,
+            3.94
+          ],
+          "confianza": 1,
+          "texto": "Manual de"
+        },
+        {
+          "caja": [
+            47.52,
+            62.45,
+            29.96,
+            3.96
+          ],
+          "confianza": 1,
+          "texto": "creatividad"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        2,
+        3
+      ],
+      "familia": "Dos lecturas en una silueta",
+      "mensaje": "integrado",
+      "hallazgo": "La cabeza es una masa oscura; una escalera llega a una abertura multicolor. Tanto el título como el mensaje están dentro de esa masa, cerca de la abertura.",
+      "aplicacion": "Construir un recorrido entre exterior e interior. Concentrar los colores de acento en el punto al que llega la acción.",
+      "cajas": {
+        "titulo": [
+          15.2,
+          17.5,
+          67.7,
+          13.0
+        ],
+        "mensaje": [
+          47.5,
+          58.4,
+          30.0,
+          8.0
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-headway/IMG_1966.PNG",
+      "fuente": "IMG_1966.PNG",
+      "sha256": "7a64afd1b9bd7efff98522b72bc9b3bb398b6ea66a494dff0d3018a4fe950b6f",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Hábitos mínimos",
+      "marca": "Headway",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "parcial": false,
+      "id": 8,
+      "lineas": [
+        {
+          "caja": [
+            37.86,
+            13.41,
+            50.21,
+            13.62
+          ],
+          "confianza": 1,
+          "texto": "Hábitos"
+        },
+        {
+          "caja": [
+            34.33,
+            20.48,
+            56.03,
+            15.11
+          ],
+          "confianza": 1,
+          "texto": "mínimos"
+        },
+        {
+          "caja": [
+            58.98,
+            63.56,
+            27.39,
+            5.6
+          ],
+          "confianza": 1,
+          "texto": "Pequeños"
+        },
+        {
+          "caja": [
+            44.21,
+            69.28,
+            42.18,
+            5.81
+          ],
+          "confianza": 1,
+          "texto": "cambios que lo"
+        },
+        {
+          "caja": [
+            37.16,
+            75.27,
+            49.18,
+            5.09
+          ],
+          "confianza": 1,
+          "texto": "transforman todo"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        2,
+        3,
+        4
+      ],
+      "familia": "Letras y gesto",
+      "mensaje": "hueco",
+      "hallazgo": "Una mano enorme recortada por la izquierda deja un hueco pequeño entre los dedos. El título inclinado se sitúa junto al gesto; el mensaje estrecho ocupa el espacio libre inferior derecho.",
+      "aplicacion": "Permitir que el gesto determine la escala, el vacío y la inclinación. La letra del mensaje es más estrecha que la del título; no se deduce una única familia universal.",
+      "estructura": [
+        {
+          "nombre": "Mano recortada",
+          "d": "M0 15 Q15 16 22 23 L30 25 L30 31 Q24 34 20 32 L8 29 M0 56 L16 47 Q34 33 42 39 Q46 44 37 48 L32 54 Q39 48 44 55 Q47 60 39 65 Q48 61 48 68 Q49 72 43 76 Q50 73 51 80 Q53 91 34 100 L0 100"
+        },
+        {
+          "nombre": "Dirección del título",
+          "d": "M35 33 L92 18"
+        }
+      ],
+      "cajas": {
+        "titulo": [
+          34.3,
+          13.4,
+          56.0,
+          22.2
+        ],
+        "mensaje": [
+          37.2,
+          63.6,
+          49.2,
+          16.8
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-headway/IMG_1972.PNG",
+      "fuente": "IMG_1972.PNG",
+      "sha256": "80419157040b2a8ee715f9e2b4343fd5c54b70f5f04491599fc7cc3adbf00581",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Tu miedo es tu poder",
+      "marca": "Headway",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "parcial": false,
+      "id": 9,
+      "lineas": [
+        {
+          "caja": [
+            20.74,
+            37.37,
+            57.42,
+            6.72
+          ],
+          "confianza": 1,
+          "texto": "TU MIEDO"
+        },
+        {
+          "caja": [
+            13.11,
+            46.55,
+            74.32,
+            6.55
+          ],
+          "confianza": 1,
+          "texto": "ES TU PODER"
+        },
+        {
+          "caja": [
+            19.13,
+            56.36,
+            61.2,
+            4.0
+          ],
+          "confianza": 1,
+          "texto": "Afronta tus miedos"
+        },
+        {
+          "caja": [
+            16.94,
+            61.82,
+            65.03,
+            4.36
+          ],
+          "confianza": 1,
+          "texto": "y transforma tu vida"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        2,
+        3
+      ],
+      "familia": "Acción entre dos extremos",
+      "mensaje": "hueco",
+      "hallazgo": "La mano superior controla con hilos a una criatura inferior. Título y mensaje se alojan entre los dos extremos; los hilos atraviesan ese espacio sin formar una caja decorativa.",
+      "aplicacion": "Diseñar la acción de arriba abajo antes de añadir objetos. El vacío central puede comunicar la relación de control.",
+      "cajas": {
+        "titulo": [
+          13.1,
+          37.4,
+          74.3,
+          15.7
+        ],
+        "mensaje": [
+          16.9,
+          56.4,
+          65.0,
+          9.8
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1918.PNG",
+      "fuente": "IMG_1918.PNG",
+      "sha256": "33ea472b6092495068928e6747fff51917e3dd361a5c39371b27dde86dced791",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Meditaciones",
+      "marca": "Headway",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "parcial": false,
+      "id": 10,
+      "lineas": [
+        {
+          "caja": [
+            31.69,
+            10.18,
+            36.61,
+            3.64
+          ],
+          "confianza": 1,
+          "texto": "Marco Aurelio"
+        },
+        {
+          "caja": [
+            14.75,
+            20.36,
+            72.13,
+            6.18
+          ],
+          "confianza": 1,
+          "texto": "Meditaciones"
+        }
+      ],
+      "tituloIndices": [
+        1
+      ],
+      "mensajeIndices": [],
+      "familia": "Objeto central y aire",
+      "mensaje": "ausente",
+      "hallazgo": "Una pila de piedras sugiere una figura sentada. Autor y título se sitúan arriba; no hay una frase comercial añadida. Los anillos del agua concentran el detalle en la base.",
+      "aplicacion": "Si título e imagen bastan, dejar el espacio de apoyo libre. No tratar el nombre del autor como si fuera un mensaje.",
+      "cajas": {
+        "titulo": [
+          14.8,
+          20.4,
+          72.1,
+          6.2
+        ],
+        "mensaje": null
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1887.PNG",
+      "fuente": "IMG_1887.PNG",
+      "sha256": "b2695e752985c479a46cf24067953e6665d6d2b9b103c2201fa48a7efaa1c096",
+      "width": 750,
+      "height": 1624,
+      "titulo": "El gran Gatsby",
+      "marca": "Headway",
+      "crop": [
+        391,
+        802,
+        327,
+        491
+      ],
+      "clip": [
+        0,
+        190,
+        750,
+        1115
+      ],
+      "parcial": false,
+      "visible": 1.0,
+      "id": 11,
+      "lineas": [
+        {
+          "caja": [
+            25.0,
+            16.67,
+            9.15,
+            4.47
+          ],
+          "confianza": 1,
+          "texto": "EL"
+        },
+        {
+          "caja": [
+            23.17,
+            21.95,
+            37.2,
+            6.91
+          ],
+          "confianza": 1,
+          "texto": "GRAN"
+        },
+        {
+          "caja": [
+            23.16,
+            29.24,
+            51.85,
+            6.97
+          ],
+          "confianza": 0.5,
+          "texto": "GATSBY"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1,
+        2
+      ],
+      "mensajeIndices": [],
+      "familia": "Objeto central y aire",
+      "mensaje": "ausente",
+      "hallazgo": "Título pequeño, copa estilizada y líneas ornamentales enmarcan un campo oscuro. No hay mensaje. Es una excepción decorativa dentro de Headway, no una prueba de que todas sus portadas tengan que ser planas y sin bordes.",
+      "aplicacion": "La ausencia de frase permite una jerarquía más silenciosa. El marco pertenece a este caso: no trasladarlo a Curva, donde el usuario ha pedido retirarlo.",
+      "cajas": {
+        "titulo": [
+          23.2,
+          16.7,
+          51.8,
+          19.5
+        ],
+        "mensaje": null
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1886.PNG",
+      "fuente": "IMG_1886.PNG",
+      "sha256": "f0abbc120c35bba52dfe1853f7f0c2de7ac75593cc968d0407a33815ca01fd29",
+      "width": 750,
+      "height": 1624,
+      "titulo": "1984",
+      "marca": "Headway",
+      "crop": [
+        391,
+        256,
+        327,
+        491
+      ],
+      "clip": [
+        0,
+        190,
+        750,
+        1115
+      ],
+      "parcial": false,
+      "visible": 1.0,
+      "id": 12,
+      "lineas": [
+        {
+          "caja": [
+            15.14,
+            16.01,
+            28.87,
+            4.54
+          ],
+          "confianza": 1,
+          "texto": "George"
+        },
+        {
+          "caja": [
+            15.8,
+            20.99,
+            28.16,
+            5.17
+          ],
+          "confianza": 0.5,
+          "texto": "Orw/ell"
+        },
+        {
+          "caja": [
+            12.14,
+            70.2,
+            73.88,
+            13.67
+          ],
+          "confianza": 1,
+          "texto": "1984"
+        }
+      ],
+      "tituloIndices": [
+        2
+      ],
+      "mensajeIndices": [],
+      "familia": "Patrón y protagonista",
+      "mensaje": "ausente",
+      "hallazgo": "Los ojos oscuros forman un patrón; un ojo claro destaca y contiene otra figura. El título 1984 ocupa abajo y el autor arriba. No aparece mensaje adicional.",
+      "aplicacion": "Crear contraste dentro de una repetición controlada, en lugar de introducir muchos objetos distintos.",
+      "cajas": {
+        "titulo": [
+          12.1,
+          70.2,
+          73.9,
+          13.7
+        ],
+        "mensaje": null
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1954.PNG",
+      "fuente": "IMG_1954.PNG",
+      "sha256": "3059030b3f9e15ec3f3812d4266c01cd491e4502e276c070a49394342dcd03fa",
+      "width": 750,
+      "height": 1624,
+      "titulo": "El lobo de Wall Street",
+      "marca": "Headway",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "parcial": false,
+      "id": 13,
+      "lineas": [
+        {
+          "caja": [
+            18.58,
+            77.45,
+            62.84,
+            5.09
+          ],
+          "confianza": 1,
+          "texto": "EL LOBO DE"
+        },
+        {
+          "caja": [
+            11.48,
+            84.36,
+            76.5,
+            5.45
+          ],
+          "confianza": 1,
+          "texto": "WALL STREET"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [],
+      "familia": "Recorte y escala",
+      "mensaje": "ausente",
+      "hallazgo": "El lobo desciende desde el borde superior y domina un fondo amarillo. Una pequeña corbata roja conduce hacia el título inferior, de aspecto distinto a la sans habitual. No hay frase.",
+      "aplicacion": "Variar encuadre y posición del título sin llenar la parte superior de letras por costumbre.",
+      "cajas": {
+        "titulo": [
+          11.5,
+          77.5,
+          76.5,
+          12.4
+        ],
+        "mensaje": null
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1944.PNG",
+      "fuente": "IMG_1944.PNG",
+      "sha256": "7ac15faafaeaf5061a1aa08918a52a2fa7f8df7e90a4776ca3b6009e086cdaf4",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Fórmula 1",
+      "marca": "Headway",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "parcial": false,
+      "id": 14,
+      "lineas": [
+        {
+          "caja": [
+            12.02,
+            9.82,
+            77.05,
+            8.0
+          ],
+          "confianza": 1,
+          "texto": "Fórmula 1"
+        },
+        {
+          "caja": [
+            12.01,
+            21.04,
+            35.0,
+            4.83
+          ],
+          "confianza": 1,
+          "texto": "Anatomía"
+        },
+        {
+          "caja": [
+            12.57,
+            26.55,
+            49.18,
+            5.09
+          ],
+          "confianza": 1,
+          "texto": "de una pasión"
+        }
+      ],
+      "tituloIndices": [
+        0
+      ],
+      "mensajeIndices": [
+        1,
+        2
+      ],
+      "familia": "Diagonal dominante",
+      "mensaje": "separado",
+      "hallazgo": "La bandera ajedrezada cruza la cubierta en diagonal. Título y breve apoyo quedan juntos arriba, sobre rojo. La diagonal aporta movimiento aunque el texto esté en una zona separada.",
+      "aplicacion": "Una composición por zonas puede funcionar si la ilustración atraviesa el campo con una dirección clara. No prohibir las franjas de forma absoluta.",
+      "cajas": {
+        "titulo": [
+          12.0,
+          9.8,
+          77.0,
+          8.0
+        ],
+        "mensaje": [
+          12.0,
+          21.0,
+          49.7,
+          10.6
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1915.PNG",
+      "fuente": "IMG_1915.PNG",
+      "sha256": "e177dc94381fd9442ffede79f1696a8e05413dae756f4c779a108962f822a928",
+      "width": 750,
+      "height": 1624,
+      "titulo": "El camino del despertar",
+      "marca": "Headway",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "parcial": false,
+      "id": 15,
+      "lineas": [
+        {
+          "caja": [
+            31.66,
+            60.59,
+            55.82,
+            7.54
+          ],
+          "confianza": 1,
+          "texto": "despertar"
+        },
+        {
+          "caja": [
+            57.38,
+            71.27,
+            32.79,
+            3.64
+          ],
+          "confianza": 1,
+          "texto": "Toda trans-"
+        },
+        {
+          "caja": [
+            58.39,
+            75.73,
+            28.58,
+            4.54
+          ],
+          "confianza": 1,
+          "texto": "formación"
+        },
+        {
+          "caja": [
+            51.35,
+            81.04,
+            35.54,
+            4.1
+          ],
+          "confianza": 1,
+          "texto": "comienza en"
+        },
+        {
+          "caja": [
+            56.27,
+            85.77,
+            30.63,
+            4.09
+          ],
+          "confianza": 1,
+          "texto": "uno mismo"
+        }
+      ],
+      "tituloIndices": [
+        0
+      ],
+      "mensajeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "familia": "Recorrido en profundidad",
+      "mensaje": "hueco",
+      "hallazgo": "Un camino curvo conduce hacia el sol; la figura queda a la izquierda y los textos se acomodan en la derecha. La profundidad depende de grandes planos y del recorrido.",
+      "aplicacion": "Colocar el texto en el hueco que deja la escena. El OCR omitió parte del título: el atlas marca ese límite y no presenta su caja como completa.",
+      "cajas": {
+        "titulo": [
+          31.7,
+          60.6,
+          55.8,
+          7.5
+        ],
+        "mensaje": [
+          51.4,
+          71.3,
+          38.8,
+          18.6
+        ]
+      },
+      "tituloOCRIncompleto": true
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1917.PNG",
+      "fuente": "IMG_1917.PNG",
+      "sha256": "febb89be55bd6fd5210254c646ca35c75583793f1283f4cfbe5ca9f4d0406e4b",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Dejar ir",
+      "marca": "Headway",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "parcial": false,
+      "id": 16,
+      "lineas": [
+        {
+          "caja": [
+            31.15,
+            9.82,
+            38.25,
+            6.18
+          ],
+          "confianza": 1,
+          "texto": "DEJAR"
+        },
+        {
+          "caja": [
+            28.42,
+            15.27,
+            43.17,
+            21.82
+          ],
+          "confianza": 0.5,
+          "texto": "IR"
+        },
+        {
+          "caja": [
+            30.6,
+            76.36,
+            40.44,
+            4.0
+          ],
+          "confianza": 1,
+          "texto": "El camino de"
+        },
+        {
+          "caja": [
+            30.6,
+            81.09,
+            39.89,
+            4.0
+          ],
+          "confianza": 1,
+          "texto": "la liberación"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        2,
+        3
+      ],
+      "familia": "Formas que contienen texto",
+      "mensaje": "integrado",
+      "hallazgo": "IR tiene más peso que DEJAR. La persona emerge entre gotas y ondas; el mensaje se sitúa sobre su torso amarillo.",
+      "aplicacion": "Usar el cuerpo como superficie tipográfica amplia sin añadir anatomía detallada. La variación de escala del título refuerza el verbo.",
+      "cajas": {
+        "titulo": [
+          28.4,
+          9.8,
+          43.2,
+          27.3
+        ],
+        "mensaje": [
+          30.6,
+          76.4,
+          40.4,
+          8.7
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1955.PNG",
+      "fuente": "IMG_1955.PNG",
+      "sha256": "f13159145dcd8bc668383a18443efb35b4e5f44e953843d3ffd3ff51f9e9f8bf",
+      "width": 750,
+      "height": 1624,
+      "titulo": "El gran CEO interior",
+      "marca": "Headway",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "parcial": false,
+      "id": 17,
+      "lineas": [
+        {
+          "caja": [
+            22.33,
+            9.19,
+            54.79,
+            7.44
+          ],
+          "confianza": 1,
+          "texto": "EL GRAN"
+        },
+        {
+          "caja": [
+            37.16,
+            18.18,
+            26.23,
+            7.64
+          ],
+          "confianza": 0.5,
+          "texto": "CEO"
+        },
+        {
+          "caja": [
+            19.67,
+            27.27,
+            60.11,
+            7.64
+          ],
+          "confianza": 1,
+          "texto": "INTERIOR"
+        },
+        {
+          "caja": [
+            31.69,
+            55.64,
+            36.61,
+            3.64
+          ],
+          "confianza": 0.5,
+          "texto": "Guia tactica"
+        },
+        {
+          "caja": [
+            28.33,
+            60.27,
+            44.44,
+            4.51
+          ],
+          "confianza": 1,
+          "texto": "para construir"
+        },
+        {
+          "caja": [
+            30.05,
+            65.82,
+            39.89,
+            3.64
+          ],
+          "confianza": 1,
+          "texto": "una empresa"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1,
+        2
+      ],
+      "mensajeIndices": [
+        3,
+        4,
+        5
+      ],
+      "familia": "Letras y gesto",
+      "mensaje": "hueco",
+      "hallazgo": "Cuatro manos rodean un timón. El mensaje queda en su abertura central y el título encima, unidos por el eje vertical.",
+      "aplicacion": "El hueco de una herramienta puede alojar el texto sin convertirlo en una etiqueta superpuesta.",
+      "cajas": {
+        "titulo": [
+          19.7,
+          9.2,
+          60.1,
+          25.7
+        ],
+        "mensaje": [
+          28.3,
+          55.6,
+          44.4,
+          13.8
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1957.PNG",
+      "fuente": "IMG_1957.PNG",
+      "sha256": "40d9386f2bdc61291e1e973a23e67f3379d8471853bffa242c8916851a4ad498",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Nunca te pares",
+      "marca": "Headway",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "parcial": false,
+      "id": 18,
+      "lineas": [
+        {
+          "caja": [
+            20.22,
+            12.36,
+            60.66,
+            9.09
+          ],
+          "confianza": 1,
+          "texto": "NUNCA"
+        },
+        {
+          "caja": [
+            11.46,
+            23.21,
+            77.63,
+            9.22
+          ],
+          "confianza": 1,
+          "texto": "TE PARES"
+        },
+        {
+          "caja": [
+            24.58,
+            66.12,
+            51.94,
+            5.93
+          ],
+          "confianza": 1,
+          "texto": "Autobiografía"
+        },
+        {
+          "caja": [
+            25.68,
+            72.73,
+            49.73,
+            4.73
+          ],
+          "confianza": 1,
+          "texto": "del fundador"
+        },
+        {
+          "caja": [
+            36.06,
+            78.89,
+            28.98,
+            4.77
+          ],
+          "confianza": 1,
+          "texto": "de Nike"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        2,
+        3,
+        4
+      ],
+      "familia": "Recorte y escala",
+      "mensaje": "hueco",
+      "hallazgo": "Las cajas rojas apiladas ocupan el lateral izquierdo; el título usa la parte superior y el mensaje el hueco inferior derecho. La irregularidad del apilado evita la simetría rígida.",
+      "aplicacion": "Separar los pesos de izquierda y derecha y permitir recortes laterales. Las marcas visibles son parte de esta referencia, no una autorización para añadirlas a nuevos diseños.",
+      "cajas": {
+        "titulo": [
+          11.5,
+          12.4,
+          77.6,
+          20.1
+        ],
+        "mensaje": [
+          24.6,
+          66.1,
+          51.9,
+          17.5
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-headway/IMG_1963.PNG",
+      "fuente": "IMG_1963.PNG",
+      "sha256": "145024ad48d2e7ae07d4b84c8591d27d20531de603bcc612762c9851aa675ae9",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Kintsukuroi",
+      "marca": "Headway",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "parcial": false,
+      "id": 19,
+      "lineas": [
+        {
+          "caja": [
+            23.5,
+            8.73,
+            62.3,
+            8.36
+          ],
+          "confianza": 0.5,
+          "texto": "KINTSU-"
+        },
+        {
+          "caja": [
+            26.23,
+            18.18,
+            49.73,
+            8.36
+          ],
+          "confianza": 0.5,
+          "texto": "KUROI"
+        },
+        {
+          "caja": [
+            29.51,
+            81.82,
+            42.08,
+            3.64
+          ],
+          "confianza": 1,
+          "texto": "El arte de curar"
+        },
+        {
+          "caja": [
+            22.4,
+            86.18,
+            56.28,
+            4.0
+          ],
+          "confianza": 1,
+          "texto": "heridas emocionales"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        2,
+        3
+      ],
+      "familia": "Objeto central y aire",
+      "mensaje": "separado",
+      "hallazgo": "Un corazón de cerámica roto y reparado forma una sola silueta central. La ornamentación se queda dentro de la cerámica; el exterior marrón permanece tranquilo.",
+      "aplicacion": "Concentrar el detalle en un motivo. No añadir textura por toda la portada para conseguir riqueza.",
+      "cajas": {
+        "titulo": [
+          23.5,
+          8.7,
+          62.3,
+          17.8
+        ],
+        "mensaje": [
+          22.4,
+          81.8,
+          56.3,
+          8.4
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-headway/IMG_1964.PNG",
+      "fuente": "IMG_1964.PNG",
+      "sha256": "83c6d7e3cba8b89e2e5731912034ed10a89c6814336238dfa26beb531a197f66",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Déjalo ir ahora",
+      "marca": "Headway",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "parcial": false,
+      "id": 20,
+      "lineas": [
+        {
+          "caja": [
+            13.1,
+            8.32,
+            74.35,
+            11.73
+          ],
+          "confianza": 1,
+          "texto": "Déjalo ir"
+        },
+        {
+          "caja": [
+            13.09,
+            23.21,
+            54.69,
+            8.85
+          ],
+          "confianza": 1,
+          "texto": "ahora"
+        },
+        {
+          "caja": [
+            13.64,
+            55.58,
+            24.08,
+            3.75
+          ],
+          "confianza": 1,
+          "texto": "Practica"
+        },
+        {
+          "caja": [
+            13.6,
+            60.48,
+            35.64,
+            4.49
+          ],
+          "confianza": 1,
+          "texto": "el desapego"
+        },
+        {
+          "caja": [
+            13.66,
+            65.45,
+            38.25,
+            3.64
+          ],
+          "confianza": 1,
+          "texto": "como camino"
+        },
+        {
+          "caja": [
+            13.66,
+            70.18,
+            22.95,
+            3.64
+          ],
+          "confianza": 1,
+          "texto": "hacia la"
+        },
+        {
+          "caja": [
+            13.07,
+            74.77,
+            23.05,
+            3.91
+          ],
+          "confianza": 1,
+          "texto": "libertad"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "familia": "Formas que contienen texto",
+      "mensaje": "integrado",
+      "hallazgo": "La mano rosa recortada contiene el mensaje; una línea enlaza su gesto con un pájaro en vuelo. El título blanco se apoya en el cielo azul.",
+      "aplicacion": "La frase puede formar parte de la mano que realiza la acción. Mantener una zona de piel plana bastante ancha para leerla.",
+      "cajas": {
+        "titulo": [
+          13.1,
+          8.3,
+          74.4,
+          23.7
+        ],
+        "mensaje": [
+          13.1,
+          55.6,
+          38.8,
+          23.1
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-headway/IMG_1965.PNG",
+      "fuente": "IMG_1965.PNG",
+      "sha256": "916108a81a1dbe977d668faf6aeaa4706dce21a6f475d7712912673a7de9a78a",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Desintoxica tus pensamientos",
+      "marca": "Headway",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "parcial": false,
+      "id": 21,
+      "lineas": [
+        {
+          "caja": [
+            14.21,
+            41.45,
+            73.22,
+            7.27
+          ],
+          "confianza": 1,
+          "texto": "Desintoxica"
+        },
+        {
+          "caja": [
+            13.57,
+            51.21,
+            68.42,
+            7.18
+          ],
+          "confianza": 1,
+          "texto": "tus pensa-"
+        },
+        {
+          "caja": [
+            13.62,
+            58.76,
+            50.91,
+            7.21
+          ],
+          "confianza": 1,
+          "texto": "mientos"
+        },
+        {
+          "caja": [
+            13.66,
+            69.45,
+            59.56,
+            3.64
+          ],
+          "confianza": 1,
+          "texto": "Abandona la charla"
+        },
+        {
+          "caja": [
+            13.66,
+            74.91,
+            68.85,
+            4.73
+          ],
+          "confianza": 1,
+          "texto": "negativa para siempre"
+        },
+        {
+          "caja": [
+            13.11,
+            80.73,
+            69.95,
+            4.36
+          ],
+          "confianza": 1,
+          "texto": "y descubre la vida que"
+        },
+        {
+          "caja": [
+            13.66,
+            85.82,
+            66.12,
+            4.73
+          ],
+          "confianza": 1,
+          "texto": "siempre has deseado"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1,
+        2
+      ],
+      "mensajeIndices": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "familia": "Recorte y escala",
+      "mensaje": "separado",
+      "hallazgo": "Una nube amenazante ocupa la esquina superior derecha; los haces blancos convergen en ella. Los dos textos, a la izquierda, comparten alineación y no tienen el mismo peso.",
+      "aplicacion": "Una esquina activa puede equilibrar un bloque de texto amplio. El mensaje largo exige organización, no negrita máxima.",
+      "cajas": {
+        "titulo": [
+          13.6,
+          41.5,
+          73.9,
+          24.5
+        ],
+        "mensaje": [
+          13.1,
+          69.5,
+          69.9,
+          21.1
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-headway/IMG_1967.PNG",
+      "fuente": "IMG_1967.PNG",
+      "sha256": "23c2754636ceb0c345c9b079f91f3cc51b58caff57da511776cf19cfa863f149",
+      "width": 750,
+      "height": 1624,
+      "titulo": "El código de las mentes extraordinarias",
+      "marca": "Headway",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "parcial": false,
+      "id": 22,
+      "lineas": [
+        {
+          "caja": [
+            27.32,
+            8.0,
+            46.45,
+            5.82
+          ],
+          "confianza": 1,
+          "texto": "EL CÓDIGO"
+        },
+        {
+          "caja": [
+            19.67,
+            16.0,
+            62.3,
+            4.73
+          ],
+          "confianza": 1,
+          "texto": "DE LAS MENTES"
+        },
+        {
+          "caja": [
+            12.02,
+            23.27,
+            77.05,
+            4.73
+          ],
+          "confianza": 1,
+          "texto": "EXTRAORDINARIAS"
+        },
+        {
+          "caja": [
+            19.13,
+            33.09,
+            66.12,
+            4.36
+          ],
+          "confianza": 1,
+          "texto": "10 leyes no convencio-"
+        },
+        {
+          "caja": [
+            18.58,
+            38.18,
+            63.93,
+            4.36
+          ],
+          "confianza": 1,
+          "texto": "nales para redefinir tu"
+        },
+        {
+          "caja": [
+            16.94,
+            43.27,
+            66.67,
+            4.36
+          ],
+          "confianza": 1,
+          "texto": "vida y alcanzar el éxito"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1,
+        2
+      ],
+      "mensajeIndices": [
+        3,
+        4,
+        5
+      ],
+      "familia": "Acción entre dos extremos",
+      "mensaje": "separado",
+      "hallazgo": "Los planetas salen de una cabeza abierta. Título y mensaje quedan arriba sobre el mismo campo oscuro; las estrellas se concentran alrededor de la idea cósmica.",
+      "aplicacion": "Si hay muchos detalles, hacer que pertenezcan a una sola acción y dejar otro sector tranquilo.",
+      "cajas": {
+        "titulo": [
+          12.0,
+          8.0,
+          77.0,
+          20.0
+        ],
+        "mensaje": [
+          16.9,
+          33.1,
+          68.3,
+          14.5
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-headway/IMG_1973.PNG",
+      "fuente": "IMG_1973.PNG",
+      "sha256": "326381b5df013665c5d1081e54dec9948feb80992a328abeba278aa632c73aa8",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Sabia mente",
+      "marca": "Headway",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "parcial": false,
+      "id": 23,
+      "lineas": [
+        {
+          "caja": [
+            20.73,
+            11.19,
+            59.63,
+            11.07
+          ],
+          "confianza": 1,
+          "texto": "SABIA"
+        },
+        {
+          "caja": [
+            19.6,
+            21.98,
+            62.45,
+            10.95
+          ],
+          "confianza": 1,
+          "texto": "MENTE"
+        },
+        {
+          "caja": [
+            25.68,
+            37.09,
+            48.63,
+            4.0
+          ],
+          "confianza": 1,
+          "texto": "Sabiduría práctica"
+        },
+        {
+          "caja": [
+            21.31,
+            41.82,
+            56.83,
+            4.0
+          ],
+          "confianza": 1,
+          "texto": "para la vida moderna"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        2,
+        3
+      ],
+      "familia": "Objeto central y aire",
+      "mensaje": "separado",
+      "hallazgo": "Un busto clásico con auriculares y gafas une dos épocas en una silueta compacta. Los accesorios azules repiten el color de las letras sobre amarillo vivo.",
+      "aplicacion": "Repetir un acento en imagen y texto une la composición. La combinación de épocas aporta más que sumar adornos.",
+      "cajas": {
+        "titulo": [
+          19.6,
+          11.2,
+          62.4,
+          21.7
+        ],
+        "mensaje": [
+          21.3,
+          37.1,
+          56.8,
+          8.7
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1961.PNG",
+      "fuente": "IMG_1961.PNG",
+      "sha256": "9401a151ebdd0077d1d9b367f6c92c448c4d2442abc616e26f7d08c1808e6d3a",
+      "width": 750,
+      "height": 1624,
+      "titulo": "La riqueza que el dinero no puede comprar",
+      "marca": "Headway",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "parcial": false,
+      "id": 24,
+      "lineas": [
+        {
+          "caja": [
+            22.91,
+            29.31,
+            54.73,
+            7.57
+          ],
+          "confianza": 1,
+          "texto": "La riqueza"
+        },
+        {
+          "caja": [
+            15.13,
+            37.46,
+            69.66,
+            7.12
+          ],
+          "confianza": 1,
+          "texto": "que el dinero"
+        },
+        {
+          "caja": [
+            25.06,
+            46.43,
+            50.5,
+            7.04
+          ],
+          "confianza": 1,
+          "texto": "no puede"
+        },
+        {
+          "caja": [
+            26.17,
+            55.06,
+            48.21,
+            6.61
+          ],
+          "confianza": 1,
+          "texto": "comprar"
+        },
+        {
+          "caja": [
+            26.78,
+            69.82,
+            45.9,
+            4.36
+          ],
+          "confianza": 1,
+          "texto": "Los 8 hábitos"
+        },
+        {
+          "caja": [
+            27.73,
+            75.95,
+            43.95,
+            5.14
+          ],
+          "confianza": 1,
+          "texto": "ocultos para"
+        },
+        {
+          "caja": [
+            23.5,
+            81.45,
+            53.01,
+            5.45
+          ],
+          "confianza": 1,
+          "texto": "una vida plena"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "mensajeIndices": [
+        4,
+        5,
+        6
+      ],
+      "familia": "Formas que contienen texto",
+      "mensaje": "integrado",
+      "hallazgo": "El título largo ocupa el cuerpo de una figura rosa y el mensaje una mano naranja que la sostiene. Dos áreas de color contienen textos de distinta función.",
+      "aplicacion": "Puede cambiar la anchura línea a línea para seguir el recipiente. No reducir todo el título a una caja rectangular externa.",
+      "cajas": {
+        "titulo": [
+          15.1,
+          29.3,
+          69.7,
+          32.4
+        ],
+        "mensaje": [
+          23.5,
+          69.8,
+          53.0,
+          17.1
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-headway/IMG_1975.PNG",
+      "fuente": "IMG_1975.PNG",
+      "sha256": "cfff5864f2e87dcb6499d49e76b9552b123769d321b4ff00fbe74f8020a0d93a",
+      "width": 750,
+      "height": 1624,
+      "titulo": "La felicidad es el camino",
+      "marca": "Headway",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "parcial": false,
+      "id": 25,
+      "lineas": [
+        {
+          "caja": [
+            14.66,
+            46.88,
+            70.67,
+            8.42
+          ],
+          "confianza": 1,
+          "texto": "La felicidad"
+        },
+        {
+          "caja": [
+            12.02,
+            57.09,
+            76.5,
+            7.64
+          ],
+          "confianza": 1,
+          "texto": "es el camino"
+        },
+        {
+          "caja": [
+            26.78,
+            73.09,
+            46.99,
+            3.64
+          ],
+          "confianza": 1,
+          "texto": "Cómo alinear tus"
+        },
+        {
+          "caja": [
+            24.59,
+            77.45,
+            51.37,
+            4.36
+          ],
+          "confianza": 1,
+          "texto": "pensamientos y tu"
+        },
+        {
+          "caja": [
+            17.49,
+            81.82,
+            65.03,
+            4.73
+          ],
+          "confianza": 1,
+          "texto": "trabajo para vivirla vida"
+        },
+        {
+          "caja": [
+            30.6,
+            86.18,
+            39.34,
+            4.0
+          ],
+          "confianza": 1,
+          "texto": "de tus Sueños"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "familia": "Recorte y escala",
+      "mensaje": "hueco",
+      "hallazgo": "Una cabeza convertida en globo ocupa arriba; las nubes laterales enmarcan título y mensaje sin invadirlos. El naranja domina y el crema funciona como acento.",
+      "aplicacion": "Una portada viva no necesita muchos colores. Usar pequeños elementos para explicar el motivo principal, no para llenar cada hueco.",
+      "cajas": {
+        "titulo": [
+          12.0,
+          46.9,
+          76.5,
+          17.8
+        ],
+        "mensaje": [
+          17.5,
+          73.1,
+          65.0,
+          17.1
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-headway/IMG_1976.PNG",
+      "fuente": "IMG_1976.PNG",
+      "sha256": "5647931cb8d3329e07e1af5cebc3e1a8e337260bbd00e1b16d22d071173b7271",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Estrés: el lado bueno",
+      "marca": "Headway",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "parcial": false,
+      "id": 26,
+      "lineas": [
+        {
+          "caja": [
+            23.48,
+            6.49,
+            53.05,
+            9.92
+          ],
+          "confianza": 1,
+          "texto": "ESTRÉS"
+        },
+        {
+          "caja": [
+            24.04,
+            17.45,
+            51.91,
+            6.91
+          ],
+          "confianza": 1,
+          "texto": "EL LADO"
+        },
+        {
+          "caja": [
+            28.42,
+            25.82,
+            43.72,
+            6.91
+          ],
+          "confianza": 1,
+          "texto": "BUENO"
+        },
+        {
+          "caja": [
+            17.9,
+            67.66,
+            66.37,
+            6.44
+          ],
+          "confianza": 1,
+          "texto": "Por qué el estrés es"
+        },
+        {
+          "caja": [
+            14.21,
+            74.18,
+            73.22,
+            5.09
+          ],
+          "confianza": 1,
+          "texto": "bueno para ti y cómo"
+        },
+        {
+          "caja": [
+            22.4,
+            79.64,
+            55.74,
+            4.73
+          ],
+          "confianza": 1,
+          "texto": "puedes volverte"
+        },
+        {
+          "caja": [
+            26.72,
+            83.81,
+            53.66,
+            7.29
+          ],
+          "confianza": 1,
+          "texto": "bueno para él"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1,
+        2
+      ],
+      "mensajeIndices": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "familia": "Dos campos de color",
+      "mensaje": "separado",
+      "hallazgo": "El caracol se apoya justo en la transición de gris a rosa. El título está arriba; el mensaje ocupa el campo inferior. Tiene textura localizada: no todo el archivo es color uniforme.",
+      "aplicacion": "Las franjas funcionan cuando el protagonista articula su frontera y el texto secundario mantiene su escala.",
+      "cajas": {
+        "titulo": [
+          23.5,
+          6.5,
+          53.0,
+          26.2
+        ],
+        "mensaje": [
+          14.2,
+          67.7,
+          73.2,
+          23.4
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1901.PNG",
+      "fuente": "IMG_1901.PNG",
+      "sha256": "0d309bff4013665b2eff61274b47358310455f5be70e93aa845e014ba0e958ae",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Procrastinación",
+      "marca": "Headway",
+      "crop": [
+        32,
+        304,
+        327,
+        491
+      ],
+      "clip": [
+        0,
+        190,
+        750,
+        1115
+      ],
+      "parcial": false,
+      "visible": 1.0,
+      "id": 27,
+      "lineas": [
+        {
+          "caja": [
+            21.93,
+            13.75,
+            63.46,
+            8.27
+          ],
+          "confianza": 1,
+          "texto": "Procras-"
+        },
+        {
+          "caja": [
+            20.73,
+            23.98,
+            60.37,
+            8.54
+          ],
+          "confianza": 1,
+          "texto": "tinación"
+        },
+        {
+          "caja": [
+            26.22,
+            37.4,
+            50.61,
+            4.47
+          ],
+          "confianza": 1,
+          "texto": "Por qué dejamos"
+        },
+        {
+          "caja": [
+            21.34,
+            42.68,
+            60.37,
+            4.47
+          ],
+          "confianza": 1,
+          "texto": "para mañana lo que"
+        },
+        {
+          "caja": [
+            21.95,
+            47.97,
+            59.15,
+            4.88
+          ],
+          "confianza": 1,
+          "texto": "podemos hacer hoy"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        2,
+        3,
+        4
+      ],
+      "familia": "Recorte y escala",
+      "mensaje": "separado",
+      "hallazgo": "Un reloj enorme sale por abajo; pequeñas llamas entran desde arriba. Título y mensaje comparten un eje superior, antes de la gran masa del reloj.",
+      "aplicacion": "La escala y el recorte dan fuerza a un objeto cotidiano. No hace falta rodearlo de objetos explicativos.",
+      "cajas": {
+        "titulo": [
+          20.7,
+          13.7,
+          64.7,
+          18.8
+        ],
+        "mensaje": [
+          21.3,
+          37.4,
+          60.4,
+          15.4
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1904.PNG",
+      "fuente": "IMG_1904.PNG",
+      "sha256": "5f4a7235d382a5b0415b5ec243642f9faf55ec0b8489c5ffbb67719f52ade90f",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Planifica tu futuro",
+      "marca": "Headway",
+      "crop": [
+        391,
+        775,
+        327,
+        491
+      ],
+      "clip": [
+        0,
+        190,
+        750,
+        1115
+      ],
+      "parcial": false,
+      "visible": 1.0,
+      "id": 28,
+      "lineas": [
+        {
+          "caja": [
+            12.8,
+            8.54,
+            67.68,
+            9.35
+          ],
+          "confianza": 1,
+          "texto": "Planifica"
+        },
+        {
+          "caja": [
+            12.14,
+            19.74,
+            69.62,
+            9.7
+          ],
+          "confianza": 1,
+          "texto": "tu futuro"
+        },
+        {
+          "caja": [
+            13.41,
+            76.02,
+            48.78,
+            4.47
+          ],
+          "confianza": 1,
+          "texto": "Un plan probado"
+        },
+        {
+          "caja": [
+            12.8,
+            81.3,
+            55.49,
+            4.47
+          ],
+          "confianza": 1,
+          "texto": "para llegar al lugar"
+        },
+        {
+          "caja": [
+            12.78,
+            86.52,
+            26.26,
+            3.79
+          ],
+          "confianza": 1,
+          "texto": "deseado"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        2,
+        3,
+        4
+      ],
+      "familia": "Diagonal dominante",
+      "mensaje": "separado",
+      "hallazgo": "La flecha amarilla incorpora una mano con brújula y atraviesa horizontalmente la portada. Los textos se acomodan encima y debajo de esa dirección.",
+      "aplicacion": "Construir una dirección inequívoca. El objeto y el soporte gráfico pueden ser una sola pieza.",
+      "cajas": {
+        "titulo": [
+          12.1,
+          8.5,
+          69.6,
+          20.9
+        ],
+        "mensaje": [
+          12.8,
+          76.0,
+          55.5,
+          14.3
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1907.PNG",
+      "fuente": "IMG_1907.PNG",
+      "sha256": "f57a169dcf9c466c8ce5dd7a6d5f2f22c2f9a370e9eefeb7fe08209efa21b79b",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Sin gasolina",
+      "marca": "Headway",
+      "crop": [
+        32,
+        302,
+        327,
+        491
+      ],
+      "clip": [
+        0,
+        190,
+        750,
+        1115
+      ],
+      "parcial": false,
+      "visible": 1.0,
+      "id": 29,
+      "lineas": [
+        {
+          "caja": [
+            13.41,
+            9.76,
+            23.78,
+            7.32
+          ],
+          "confianza": 1,
+          "texto": "SIN"
+        },
+        {
+          "caja": [
+            13.41,
+            18.29,
+            71.95,
+            7.72
+          ],
+          "confianza": 1,
+          "texto": "GASOLINA"
+        },
+        {
+          "caja": [
+            13.41,
+            32.11,
+            65.24,
+            4.88
+          ],
+          "confianza": 1,
+          "texto": "Supera el abandono"
+        },
+        {
+          "caja": [
+            13.41,
+            37.4,
+            51.83,
+            4.07
+          ],
+          "confianza": 1,
+          "texto": "emocional de tu"
+        },
+        {
+          "caja": [
+            12.8,
+            42.28,
+            26.83,
+            4.07
+          ],
+          "confianza": 1,
+          "texto": "infancia"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        2,
+        3,
+        4
+      ],
+      "familia": "Recorte y escala",
+      "mensaje": "separado",
+      "hallazgo": "Los textos ocupan el cuadrante superior izquierdo; una persona recortada ocupa el inferior derecho. La mano y el pequeño corazón concentran el significado en el pecho.",
+      "aplicacion": "Descentrar el protagonista deja una caja útil para texto. Evitar que todo compita por el centro.",
+      "cajas": {
+        "titulo": [
+          13.4,
+          9.8,
+          72.0,
+          16.3
+        ],
+        "mensaje": [
+          12.8,
+          32.1,
+          65.9,
+          14.2
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1900.PNG",
+      "fuente": "IMG_1900.PNG",
+      "sha256": "221557169b46742d383945241e54b56761cd17651b5bd8171354691b6fba4517",
+      "width": 750,
+      "height": 1624,
+      "titulo": "El poder del pleno compromiso",
+      "marca": "Headway",
+      "crop": [
+        32,
+        788,
+        327,
+        491
+      ],
+      "clip": [
+        0,
+        190,
+        750,
+        1115
+      ],
+      "parcial": false,
+      "visible": 1.0,
+      "id": 30,
+      "lineas": [
+        {
+          "caja": [
+            24.39,
+            14.63,
+            51.83,
+            7.72
+          ],
+          "confianza": 1,
+          "texto": "EL PODER"
+        },
+        {
+          "caja": [
+            21.32,
+            24.31,
+            57.97,
+            7.88
+          ],
+          "confianza": 1,
+          "texto": "DEL PLENO"
+        },
+        {
+          "caja": [
+            12.2,
+            34.15,
+            76.83,
+            8.54
+          ],
+          "confianza": 1,
+          "texto": "COMPROMISO"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1,
+        2
+      ],
+      "mensajeIndices": [],
+      "familia": "Patrón y protagonista",
+      "mensaje": "ausente",
+      "hallazgo": "La fila de baterías presenta distintos niveles y se recorta en los laterales. El título alterna naranja y verde; no hay mensaje.",
+      "aplicacion": "Una secuencia simple puede completar el título sin añadir una frase. El cambio de estado es la idea visual.",
+      "cajas": {
+        "titulo": [
+          12.2,
+          14.6,
+          76.8,
+          28.0
+        ],
+        "mensaje": null
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1949.PNG",
+      "fuente": "IMG_1949.PNG",
+      "sha256": "b3f7054defc5e1398c6e35e9189840d12ea6def3981de14ae6194d49376ca6b6",
+      "width": 750,
+      "height": 1624,
+      "titulo": "El acto creativo",
+      "marca": "Headway",
+      "crop": [
+        32,
+        220,
+        327,
+        491
+      ],
+      "clip": [
+        0,
+        190,
+        750,
+        1115
+      ],
+      "parcial": false,
+      "visible": 1.0,
+      "id": 31,
+      "lineas": [
+        {
+          "caja": [
+            13.2,
+            8.73,
+            58.35,
+            10.59
+          ],
+          "confianza": 1,
+          "texto": "El acto"
+        },
+        {
+          "caja": [
+            13.35,
+            20.1,
+            70.86,
+            9.79
+          ],
+          "confianza": 1,
+          "texto": "creativo"
+        },
+        {
+          "caja": [
+            12.8,
+            59.76,
+            16.46,
+            4.88
+          ],
+          "confianza": 1,
+          "texto": "Una"
+        },
+        {
+          "caja": [
+            12.2,
+            65.85,
+            26.22,
+            4.88
+          ],
+          "confianza": 1,
+          "texto": "forma"
+        },
+        {
+          "caja": [
+            12.78,
+            71.9,
+            25.65,
+            4.98
+          ],
+          "confianza": 1,
+          "texto": "de ser"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        2,
+        3,
+        4
+      ],
+      "familia": "Letras y gesto",
+      "mensaje": "hueco",
+      "hallazgo": "La punta del dedo se vuelve llama. El mensaje se estrecha a la izquierda del dedo, en un hueco vertical, en vez de formar una franja al pie.",
+      "aplicacion": "Diseñar el texto con la silueta del gesto. Sus saltos pueden responder al hueco disponible y no a una plantilla fija.",
+      "cajas": {
+        "titulo": [
+          13.2,
+          8.7,
+          71.0,
+          21.2
+        ],
+        "mensaje": [
+          12.2,
+          59.8,
+          26.2,
+          17.1
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1953.PNG",
+      "fuente": "IMG_1953.PNG",
+      "sha256": "5233c1ffca94fb3c8cd71ee30a262ab64e34007beb4fec0b02339250b622b747",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Supercomunicadores",
+      "marca": "Headway",
+      "crop": [
+        32,
+        789,
+        327,
+        491
+      ],
+      "clip": [
+        0,
+        190,
+        750,
+        1115
+      ],
+      "parcial": false,
+      "visible": 1.0,
+      "id": 32,
+      "lineas": [
+        {
+          "caja": [
+            12.69,
+            9.54,
+            45.35,
+            11.01
+          ],
+          "confianza": 1,
+          "texto": "Super-"
+        },
+        {
+          "caja": [
+            12.8,
+            19.92,
+            53.66,
+            9.35
+          ],
+          "confianza": 1,
+          "texto": "comuni-"
+        },
+        {
+          "caja": [
+            12.76,
+            30.36,
+            53.14,
+            9.2
+          ],
+          "confianza": 0.5,
+          "texto": "cadores"
+        },
+        {
+          "caja": [
+            39.02,
+            75.61,
+            47.56,
+            4.47
+          ],
+          "confianza": 1,
+          "texto": "Cómo desbloquear"
+        },
+        {
+          "caja": [
+            37.8,
+            80.89,
+            48.17,
+            4.88
+          ],
+          "confianza": 1,
+          "texto": "el lenguaje secreto"
+        },
+        {
+          "caja": [
+            49.39,
+            86.18,
+            36.59,
+            4.07
+          ],
+          "confianza": 1,
+          "texto": "de la conexión"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1,
+        2
+      ],
+      "mensajeIndices": [
+        3,
+        4,
+        5
+      ],
+      "familia": "Dos lecturas en una silueta",
+      "mensaje": "hueco",
+      "hallazgo": "Un perfil habla hacia una diana que funciona también como globo de voz. El título estrecho cambia de naranja a verde; el mensaje pequeño se coloca bajo la diana.",
+      "aplicacion": "Combinar función y forma: el globo no solo contiene palabras, también puede convertirse en el propio objetivo de la acción.",
+      "cajas": {
+        "titulo": [
+          12.7,
+          9.5,
+          53.8,
+          30.0
+        ],
+        "mensaje": [
+          37.8,
+          75.6,
+          48.8,
+          14.6
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1953.PNG",
+      "fuente": "IMG_1953.PNG",
+      "sha256": "5233c1ffca94fb3c8cd71ee30a262ab64e34007beb4fec0b02339250b622b747",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Trabajos de mierda",
+      "marca": "Headway",
+      "crop": [
+        391,
+        789,
+        327,
+        491
+      ],
+      "clip": [
+        0,
+        190,
+        750,
+        1115
+      ],
+      "parcial": false,
+      "visible": 1.0,
+      "id": 33,
+      "lineas": [
+        {
+          "caja": [
+            14.01,
+            9.71,
+            71.97,
+            8.62
+          ],
+          "confianza": 1,
+          "texto": "Trabajos de"
+        },
+        {
+          "caja": [
+            28.05,
+            18.29,
+            43.29,
+            7.72
+          ],
+          "confianza": 1,
+          "texto": "mierda"
+        },
+        {
+          "caja": [
+            30.44,
+            31.54,
+            39.12,
+            5.22
+          ],
+          "confianza": 1,
+          "texto": "Una teoría"
+        },
+        {
+          "caja": [
+            17.68,
+            43.9,
+            56.1,
+            30.08
+          ],
+          "confianza": 0.5,
+          "texto": "03"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        2
+      ],
+      "familia": "Objeto central y aire",
+      "mensaje": "separado",
+      "hallazgo": "El cerebro, papeles y mando están dentro de la papelera. El apoyo se limita a «Una teoría», inmediatamente después del título.",
+      "aplicacion": "No forzar una promesa de 8–13 palabras si dos palabras ya aportan el matiz editorial necesario.",
+      "cajas": {
+        "titulo": [
+          14.0,
+          9.7,
+          72.0,
+          16.3
+        ],
+        "mensaje": [
+          30.4,
+          31.5,
+          39.1,
+          5.2
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1952.PNG",
+      "fuente": "IMG_1952.PNG",
+      "sha256": "aa956041724399b7dfbbcad879f3454ae7fdb47ef3c80f5166ddf1a3c38c51fd",
+      "width": 750,
+      "height": 1624,
+      "titulo": "A nadie le importa tu carrera",
+      "marca": "Headway",
+      "crop": [
+        32,
+        794,
+        327,
+        491
+      ],
+      "clip": [
+        0,
+        190,
+        750,
+        1115
+      ],
+      "parcial": false,
+      "visible": 1.0,
+      "id": 34,
+      "lineas": [
+        {
+          "caja": [
+            22.48,
+            31.37,
+            56.27,
+            7.18
+          ],
+          "confianza": 1,
+          "texto": "A nadie le"
+        },
+        {
+          "caja": [
+            18.25,
+            40.5,
+            62.29,
+            8.84
+          ],
+          "confianza": 1,
+          "texto": "importa tu"
+        },
+        {
+          "caja": [
+            28.62,
+            51.08,
+            42.76,
+            5.57
+          ],
+          "confianza": 1,
+          "texto": "carrera"
+        },
+        {
+          "caja": [
+            21.95,
+            63.41,
+            56.1,
+            4.47
+          ],
+          "confianza": 1,
+          "texto": "Por qué el fracaso"
+        },
+        {
+          "caja": [
+            29.85,
+            69.01,
+            40.29,
+            5.06
+          ],
+          "confianza": 1,
+          "texto": "es bueno, los"
+        },
+        {
+          "caja": [
+            18.78,
+            74.14,
+            61.8,
+            5.59
+          ],
+          "confianza": 1,
+          "texto": "grandes triunfan en"
+        },
+        {
+          "caja": [
+            16.46,
+            80.49,
+            65.85,
+            4.88
+          ],
+          "confianza": 1,
+          "texto": "la adversidad y otras"
+        },
+        {
+          "caja": [
+            25.0,
+            86.59,
+            49.39,
+            3.66
+          ],
+          "confianza": 1,
+          "texto": "duras verdades"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1,
+        2
+      ],
+      "mensajeIndices": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "familia": "Formas que contienen texto",
+      "mensaje": "integrado",
+      "hallazgo": "La columna sostiene un maletín; el título ocupa su capitel y el mensaje su fuste. La arquitectura da forma a ambas cajas de texto.",
+      "aplicacion": "Aprovechar partes distintas del mismo objeto para crear jerarquía y continuidad entre textos.",
+      "cajas": {
+        "titulo": [
+          18.2,
+          31.4,
+          62.3,
+          25.3
+        ],
+        "mensaje": [
+          16.5,
+          63.4,
+          65.9,
+          26.8
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1952.PNG",
+      "fuente": "IMG_1952.PNG",
+      "sha256": "aa956041724399b7dfbbcad879f3454ae7fdb47ef3c80f5166ddf1a3c38c51fd",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Enganchado",
+      "marca": "Headway",
+      "crop": [
+        391,
+        794,
+        327,
+        491
+      ],
+      "clip": [
+        0,
+        190,
+        750,
+        1115
+      ],
+      "parcial": false,
+      "visible": 1.0,
+      "id": 35,
+      "lineas": [
+        {
+          "caja": [
+            13.41,
+            12.6,
+            73.17,
+            7.32
+          ],
+          "confianza": 1,
+          "texto": "ENGANCHADO"
+        },
+        {
+          "caja": [
+            28.05,
+            24.8,
+            44.51,
+            3.66
+          ],
+          "confianza": 1,
+          "texto": "Cómo construir"
+        },
+        {
+          "caja": [
+            25.61,
+            29.67,
+            52.44,
+            4.47
+          ],
+          "confianza": 1,
+          "texto": "productos y servi-"
+        },
+        {
+          "caja": [
+            25.46,
+            34.86,
+            49.65,
+            4.91
+          ],
+          "confianza": 1,
+          "texto": "cios exitosos que"
+        },
+        {
+          "caja": [
+            28.05,
+            39.84,
+            44.51,
+            4.07
+          ],
+          "confianza": 1,
+          "texto": "formen hábitos"
+        }
+      ],
+      "tituloIndices": [
+        0
+      ],
+      "mensajeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "familia": "Recorte y escala",
+      "mensaje": "separado",
+      "hallazgo": "Título condensado, mensaje ligero y figura flotando con un portátil. Las pequeñas señales orbitales rodean a la persona; el espacio oscuro une la escena.",
+      "aplicacion": "Conservar diferencia de peso entre titular y explicación, incluso cuando se decide una estructura superior de texto.",
+      "cajas": {
+        "titulo": [
+          13.4,
+          12.6,
+          73.2,
+          7.3
+        ],
+        "mensaje": [
+          25.5,
+          24.8,
+          52.6,
+          19.1
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1895.PNG",
+      "fuente": "IMG_1895.PNG",
+      "sha256": "7bb89db5540a96ea2c4eb37be29b9e4826530985d909879df59a5b92b4ecb387",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Pensar rápido, pensar despacio",
+      "marca": "Headway",
+      "crop": [
+        32,
+        209,
+        327,
+        491
+      ],
+      "clip": [
+        0,
+        190,
+        750,
+        1115
+      ],
+      "parcial": false,
+      "visible": 1.0,
+      "id": 36,
+      "lineas": [
+        {
+          "caja": [
+            25.59,
+            8.88,
+            48.82,
+            7.45
+          ],
+          "confianza": 1,
+          "texto": "PENSAR"
+        },
+        {
+          "caja": [
+            25.54,
+            15.5,
+            53.99,
+            12.05
+          ],
+          "confianza": 1,
+          "texto": "RÁPIDO,"
+        },
+        {
+          "caja": [
+            24.95,
+            26.67,
+            49.49,
+            7.22
+          ],
+          "confianza": 1,
+          "texto": "PENSAR"
+        },
+        {
+          "caja": [
+            18.9,
+            35.77,
+            62.2,
+            6.91
+          ],
+          "confianza": 1,
+          "texto": "DESPACIO"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "mensajeIndices": [],
+      "familia": "Dos lecturas en una silueta",
+      "mensaje": "ausente",
+      "hallazgo": "Dos perfiles se enfrentan y contienen recorridos de distinta complejidad. El título también divide su color en dos partes. No aparece un mensaje adicional.",
+      "aplicacion": "Hacer que el contraste verbal y el gráfico cuenten la misma oposición. Evitar explicarla una segunda vez por obligación.",
+      "cajas": {
+        "titulo": [
+          18.9,
+          8.9,
+          62.2,
+          33.8
+        ],
+        "mensaje": null
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1854.PNG",
+      "fuente": "IMG_1854.PNG",
+      "sha256": "58731c982a5556c9bba1adf4cd3b937173a25b3852c1be697c0136dcd9f6b0e6",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Consciente",
+      "marca": "Wiser",
+      "crop": [
+        174,
+        244,
+        402,
+        600
+      ],
+      "parcial": false,
+      "id": 37,
+      "lineas": [
+        {
+          "caja": [
+            6.97,
+            4.67,
+            88.06,
+            7.67
+          ],
+          "confianza": 1,
+          "texto": "CONSCIENTE"
+        },
+        {
+          "caja": [
+            47.08,
+            83.77,
+            46.03,
+            5.31
+          ],
+          "confianza": 1,
+          "texto": "Recetas para"
+        },
+        {
+          "caja": [
+            46.77,
+            90.0,
+            41.79,
+            5.0
+          ],
+          "confianza": 1,
+          "texto": "el bienestar"
+        }
+      ],
+      "tituloIndices": [
+        0
+      ],
+      "mensajeIndices": [
+        1,
+        2
+      ],
+      "familia": "Recorte y escala",
+      "mensaje": "hueco",
+      "hallazgo": "La lupa, el ojo y la mano ocupan casi todo el campo azul. El mensaje queda en el hueco inferior derecho. La escala exagerada se sostiene con formas planas.",
+      "aplicacion": "Un hueco pequeño pero despejado puede ser mejor para el mensaje que una banda a todo el ancho.",
+      "cajas": {
+        "titulo": [
+          7.0,
+          4.7,
+          88.1,
+          7.7
+        ],
+        "mensaje": [
+          46.8,
+          83.8,
+          46.3,
+          11.2
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1855.PNG",
+      "fuente": "IMG_1855.PNG",
+      "sha256": "00f07bb3be3f18db402cbb85489f5452439ef9eb205e51c738c42d5ffe26d423",
+      "width": 750,
+      "height": 1624,
+      "titulo": "El amor que merece la pena",
+      "marca": "Wiser",
+      "crop": [
+        174,
+        244,
+        402,
+        600
+      ],
+      "parcial": false,
+      "id": 38,
+      "lineas": [
+        {
+          "caja": [
+            5.45,
+            7.6,
+            89.59,
+            10.8
+          ],
+          "confianza": 0.5,
+          "texto": "ELAMOR"
+        },
+        {
+          "caja": [
+            5.97,
+            20.0,
+            88.06,
+            7.33
+          ],
+          "confianza": 1,
+          "texto": "QUE MERECE LA PENA"
+        },
+        {
+          "caja": [
+            32.34,
+            79.33,
+            35.32,
+            3.67
+          ],
+          "confianza": 1,
+          "texto": "Cómo tener"
+        },
+        {
+          "caja": [
+            5.97,
+            83.0,
+            88.06,
+            3.67
+          ],
+          "confianza": 1,
+          "texto": "un sexo increiblemente bueno"
+        },
+        {
+          "caja": [
+            13.43,
+            86.67,
+            72.64,
+            4.0
+          ],
+          "confianza": 1,
+          "texto": "en una relación duradera"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        2,
+        3,
+        4
+      ],
+      "familia": "Objeto central y aire",
+      "mensaje": "separado",
+      "hallazgo": "Dos formas cilíndricas se relacionan en el centro. El fondo rosa ocupa una superficie amplia y sostiene título y mensaje negros.",
+      "aplicacion": "La claridad de la relación permite pocos elementos y mucho fondo sin parecer un icono arbitrario.",
+      "cajas": {
+        "titulo": [
+          5.5,
+          7.6,
+          89.6,
+          19.7
+        ],
+        "mensaje": [
+          6.0,
+          79.3,
+          88.1,
+          11.3
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1856.PNG",
+      "fuente": "IMG_1856.PNG",
+      "sha256": "9e944a137931f415522e333ab4c431978ba3dc726d21bf2806b8e6f4d2d840ce",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Lo mejor de ti",
+      "marca": "Wiser",
+      "crop": [
+        174,
+        244,
+        402,
+        600
+      ],
+      "parcial": false,
+      "id": 39,
+      "lineas": [
+        {
+          "caja": [
+            16.38,
+            7.84,
+            64.76,
+            7.98
+          ],
+          "confianza": 1,
+          "texto": "LO MEJOR"
+        },
+        {
+          "caja": [
+            34.83,
+            19.33,
+            31.84,
+            7.33
+          ],
+          "confianza": 1,
+          "texto": "DE TI"
+        },
+        {
+          "caja": [
+            19.4,
+            69.0,
+            65.67,
+            5.0
+          ],
+          "confianza": 1,
+          "texto": "Cómo conseguir que"
+        },
+        {
+          "caja": [
+            18.91,
+            75.0,
+            66.17,
+            5.0
+          ],
+          "confianza": 1,
+          "texto": "el tiempo, la energía"
+        },
+        {
+          "caja": [
+            25.37,
+            81.0,
+            53.73,
+            5.0
+          ],
+          "confianza": 1,
+          "texto": "y las prioridades"
+        },
+        {
+          "caja": [
+            21.39,
+            87.33,
+            61.69,
+            4.33
+          ],
+          "confianza": 1,
+          "texto": "trabajen a su favor"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "familia": "Letras y gesto",
+      "mensaje": "separado",
+      "hallazgo": "Una mano mueve la aguja de un indicador de color. Título arriba y mensaje debajo, con la acción compacta en el centro.",
+      "aplicacion": "Dar a la ilustración un verbo claro. La mano se justifica por la acción; no añadir personas completas si no hacen falta.",
+      "cajas": {
+        "titulo": [
+          16.4,
+          7.8,
+          64.8,
+          18.8
+        ],
+        "mensaje": [
+          18.9,
+          69.0,
+          66.2,
+          22.7
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1858.PNG",
+      "fuente": "IMG_1858.PNG",
+      "sha256": "3fd42f4f15ffe2c0cdbc77ab719ea25e91feade6b2f3036345a96fbc0fff0e3f",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Las nuevas rutas de la seda",
+      "marca": "Wiser",
+      "crop": [
+        174,
+        244,
+        402,
+        600
+      ],
+      "parcial": false,
+      "id": 40,
+      "lineas": [
+        {
+          "caja": [
+            41.22,
+            43.91,
+            15.07,
+            5.51
+          ],
+          "confianza": 1,
+          "texto": "LAS"
+        },
+        {
+          "caja": [
+            18.41,
+            50.67,
+            61.19,
+            11.33
+          ],
+          "confianza": 1,
+          "texto": "NUEVAS"
+        },
+        {
+          "caja": [
+            7.46,
+            62.67,
+            85.57,
+            6.67
+          ],
+          "confianza": 1,
+          "texto": "RUTAS DE LA SEDA"
+        },
+        {
+          "caja": [
+            31.82,
+            83.93,
+            36.85,
+            4.14
+          ],
+          "confianza": 1,
+          "texto": "El futuro está"
+        },
+        {
+          "caja": [
+            35.3,
+            88.23,
+            30.4,
+            3.87
+          ],
+          "confianza": 1,
+          "texto": "en Oriente"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1,
+        2
+      ],
+      "mensajeIndices": [
+        3,
+        4
+      ],
+      "familia": "Formas que contienen texto",
+      "mensaje": "integrado",
+      "hallazgo": "El casco azul del barco contiene título y mensaje. Los contenedores se concentran arriba y la proa dibuja el eje de lectura vertical.",
+      "aplicacion": "Una superficie grande del motivo puede alojar toda la tipografía. Los detalles quedan en el borde y no cruzan las letras.",
+      "estructura": [
+        {
+          "nombre": "Casco del barco",
+          "d": "M0 38 L49 18 L100 35 L78 100 L18 100 Z"
+        },
+        {
+          "nombre": "Eje de la proa",
+          "d": "M49 18 L50 100"
+        }
+      ],
+      "cajas": {
+        "titulo": [
+          7.5,
+          43.9,
+          85.6,
+          25.4
+        ],
+        "mensaje": [
+          31.8,
+          83.9,
+          36.8,
+          8.2
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1859.PNG",
+      "fuente": "IMG_1859.PNG",
+      "sha256": "8b2aefd151c348922c1dfe46467a84aeb20c8e8b7c45c2ae298db186a2ab413b",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Los robots ya están aquí",
+      "marca": "Wiser",
+      "crop": [
+        174,
+        244,
+        402,
+        600
+      ],
+      "parcial": false,
+      "id": 41,
+      "lineas": [
+        {
+          "caja": [
+            7.96,
+            7.0,
+            15.42,
+            4.67
+          ],
+          "confianza": 1,
+          "texto": "Los"
+        },
+        {
+          "caja": [
+            6.79,
+            12.46,
+            73.0,
+            9.82
+          ],
+          "confianza": 1,
+          "texto": "robots ya"
+        },
+        {
+          "caja": [
+            6.94,
+            20.57,
+            82.14,
+            10.86
+          ],
+          "confianza": 1,
+          "texto": "están aquí"
+        },
+        {
+          "caja": [
+            6.47,
+            84.67,
+            43.78,
+            4.0
+          ],
+          "confianza": 1,
+          "texto": "Prospera en la"
+        },
+        {
+          "caja": [
+            6.46,
+            88.31,
+            26.38,
+            3.71
+          ],
+          "confianza": 1,
+          "texto": "era de la"
+        },
+        {
+          "caja": [
+            6.47,
+            92.0,
+            47.76,
+            3.67
+          ],
+          "confianza": 1,
+          "texto": "automatización"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1,
+        2
+      ],
+      "mensajeIndices": [
+        3,
+        4,
+        5
+      ],
+      "familia": "Patrón y protagonista",
+      "mensaje": "integrado",
+      "hallazgo": "Tres cabezas robóticas forman una sucesión diagonal. El negro de sus cuerpos se funde con el campo inferior que recibe el mensaje blanco.",
+      "aplicacion": "Las masas contiguas pueden construir una superficie común de texto. La repetición tiene una dirección, no parece un catálogo de iconos.",
+      "cajas": {
+        "titulo": [
+          6.8,
+          7.0,
+          82.3,
+          24.4
+        ],
+        "mensaje": [
+          6.5,
+          84.7,
+          47.8,
+          11.0
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1862.PNG",
+      "fuente": "IMG_1862.PNG",
+      "sha256": "2219af9a51cb12c205e24a0dd70b23e8fae55a9cd28e86af6cea866ccc65e546",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Piense y hágase rico",
+      "marca": "Wiser",
+      "crop": [
+        174,
+        244,
+        402,
+        600
+      ],
+      "parcial": false,
+      "id": 42,
+      "lineas": [
+        {
+          "caja": [
+            26.78,
+            18.75,
+            46.94,
+            7.84
+          ],
+          "confianza": 1,
+          "texto": "PIENSE"
+        },
+        {
+          "caja": [
+            5.47,
+            30.67,
+            89.05,
+            9.33
+          ],
+          "confianza": 1,
+          "texto": "HÁGASE RICO"
+        },
+        {
+          "caja": [
+            11.44,
+            45.67,
+            77.11,
+            22.67
+          ],
+          "confianza": 0.30000001192092896,
+          "texto": "SENX"
+        },
+        {
+          "caja": [
+            20.9,
+            71.0,
+            59.2,
+            4.67
+          ],
+          "confianza": 1,
+          "texto": "Encontrar la felicidad,"
+        },
+        {
+          "caja": [
+            24.38,
+            76.0,
+            50.25,
+            4.33
+          ],
+          "confianza": 1,
+          "texto": "la concentración y"
+        },
+        {
+          "caja": [
+            10.95,
+            80.67,
+            77.11,
+            4.33
+          ],
+          "confianza": 1,
+          "texto": "la productividad. No importa"
+        },
+        {
+          "caja": [
+            20.9,
+            85.33,
+            57.71,
+            4.33
+          ],
+          "confianza": 1,
+          "texto": "lo ocupado que esté."
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "familia": "Formas que contienen texto",
+      "mensaje": "integrado",
+      "hallazgo": "El título cabe en una nube de pensamiento; la frase está en la frente rosa, sobre unos ojos cerrados. Los tallos conectan cabeza y nube.",
+      "aplicacion": "Título y apoyo pueden pertenecer a recipientes diferentes conectados entre sí. Estudiar la estructura sin reutilizar como hecho el mensaje de esta referencia.",
+      "estructura": [
+        {
+          "nombre": "Nube del título",
+          "d": "M8 14 Q1 9 14 6 Q23 0 34 6 Q45 0 58 5 Q73 0 80 8 Q94 5 95 18 Q100 34 85 38 L16 39 Q0 36 8 14 Z"
+        },
+        {
+          "nombre": "Frente que contiene mensaje",
+          "d": "M0 100 L0 86 L9 86 Q12 64 50 63 Q86 63 92 86 L100 87 L100 100 Z"
+        }
+      ],
+      "cajas": {
+        "titulo": [
+          5.5,
+          18.7,
+          89.1,
+          21.3
+        ],
+        "mensaje": [
+          10.9,
+          71.0,
+          77.1,
+          18.7
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1863.PNG",
+      "fuente": "IMG_1863.PNG",
+      "sha256": "94dd8a0e9a18840475479cc679602dcca76255b45b2fd18a5eff55daaaeca70d",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Steve Jobs",
+      "marca": "Wiser",
+      "crop": [
+        174,
+        244,
+        402,
+        600
+      ],
+      "parcial": false,
+      "id": 43,
+      "lineas": [
+        {
+          "caja": [
+            5.25,
+            6.26,
+            47.22,
+            12.82
+          ],
+          "confianza": 1,
+          "texto": "STEVE"
+        },
+        {
+          "caja": [
+            4.48,
+            19.67,
+            36.82,
+            12
+          ],
+          "confianza": 0.5,
+          "texto": "JOBS"
+        },
+        {
+          "caja": [
+            5.79,
+            61.15,
+            55.07,
+            6.13
+          ],
+          "confianza": 1,
+          "texto": "CG La simplicidad"
+        },
+        {
+          "caja": [
+            16.42,
+            67.67,
+            39.3,
+            4.0
+          ],
+          "confianza": 1,
+          "texto": "es la máxima"
+        },
+        {
+          "caja": [
+            16.42,
+            73.0,
+            41.79,
+            4.33
+          ],
+          "confianza": 1,
+          "texto": "sofisticación."
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        2,
+        3,
+        4
+      ],
+      "familia": "Recorte y escala",
+      "mensaje": "hueco",
+      "hallazgo": "Un rostro recortado ocupa la derecha. El título estrecho se apila arriba a la izquierda y una cita ocupa el hueco inferior izquierdo; no es un resumen comercial del libro.",
+      "aplicacion": "Distinguir cita, autor, subtítulo y promesa antes de medir. No convertir todo texto secundario en una obligación de marketing.",
+      "cajas": {
+        "titulo": [
+          4.5,
+          6.3,
+          48.0,
+          25.4
+        ],
+        "mensaje": [
+          5.8,
+          61.1,
+          55.1,
+          16.2
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1867.PNG",
+      "fuente": "IMG_1867.PNG",
+      "sha256": "b587b3342f1dc10baf9316da2e89dc091d6d8c76be0022937b78bf61fd3630a3",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Disciplina es destino",
+      "marca": "Wiser",
+      "crop": [
+        174,
+        244,
+        402,
+        600
+      ],
+      "parcial": false,
+      "id": 44,
+      "lineas": [
+        {
+          "caja": [
+            14.43,
+            4.0,
+            72.14,
+            7.0
+          ],
+          "confianza": 1,
+          "texto": "DISCIPLINA"
+        },
+        {
+          "caja": [
+            13.43,
+            11.67,
+            73.63,
+            7.0
+          ],
+          "confianza": 1,
+          "texto": "ES DESTINO"
+        },
+        {
+          "caja": [
+            17.41,
+            31.67,
+            46.27,
+            18.0
+          ],
+          "confianza": 0.30000001192092896,
+          "texto": "COLE"
+        },
+        {
+          "caja": [
+            34.83,
+            80.33,
+            29.85,
+            5.33
+          ],
+          "confianza": 1,
+          "texto": "El poder"
+        },
+        {
+          "caja": [
+            22.39,
+            85.67,
+            55.72,
+            4.67
+          ],
+          "confianza": 1,
+          "texto": "del autocontrol"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        3,
+        4
+      ],
+      "familia": "Formas que contienen texto",
+      "mensaje": "integrado",
+      "hallazgo": "El puño levanta una mancuerna. El mensaje está sobre el antebrazo amarillo; las formas blancas en punta conducen hacia la acción.",
+      "aplicacion": "Reservar superficie tranquila dentro del gesto. El soporte del mensaje puede ser estrecho y vertical.",
+      "cajas": {
+        "titulo": [
+          13.4,
+          4.0,
+          73.6,
+          14.7
+        ],
+        "mensaje": [
+          22.4,
+          80.3,
+          55.7,
+          10.0
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1870.PNG",
+      "fuente": "IMG_1870.PNG",
+      "sha256": "4ddc9aac0a3dd0ff75d9417664c3596f959b75e4ed162bbef962f92f4e182764",
+      "width": 750,
+      "height": 1624,
+      "titulo": "El poder de tu alter ego",
+      "marca": "Wiser",
+      "crop": [
+        174,
+        244,
+        402,
+        600
+      ],
+      "parcial": false,
+      "id": 45,
+      "lineas": [
+        {
+          "caja": [
+            13.42,
+            50.28,
+            73.16,
+            8.44
+          ],
+          "confianza": 1,
+          "texto": "EL PODER"
+        },
+        {
+          "caja": [
+            26.83,
+            59.24,
+            43.36,
+            8.19
+          ],
+          "confianza": 1,
+          "texto": "DE TU"
+        },
+        {
+          "caja": [
+            8.96,
+            68.0,
+            81.09,
+            8.33
+          ],
+          "confianza": 1,
+          "texto": "ALTER EGO"
+        },
+        {
+          "caja": [
+            19.4,
+            79.33,
+            61.69,
+            4.33
+          ],
+          "confianza": 1,
+          "texto": "Crea una identidad"
+        },
+        {
+          "caja": [
+            10.87,
+            84.49,
+            78.27,
+            5.59
+          ],
+          "confianza": 1,
+          "texto": "secreta para desarrollar"
+        },
+        {
+          "caja": [
+            21.89,
+            90.0,
+            56.72,
+            5.0
+          ],
+          "confianza": 1,
+          "texto": "todo tu potencial"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1,
+        2
+      ],
+      "mensajeIndices": [
+        3,
+        4,
+        5
+      ],
+      "familia": "Formas que contienen texto",
+      "mensaje": "integrado",
+      "hallazgo": "Las manos abren una chaqueta y revelan un emblema. Título y mensaje bajan por el cuerpo azul entre las solapas.",
+      "aplicacion": "El gesto de revelar puede guiar la lectura. No copiar el emblema de esta referencia: lo que se estudia aquí es el encuadre y la acción.",
+      "cajas": {
+        "titulo": [
+          9.0,
+          50.3,
+          81.1,
+          26.1
+        ],
+        "mensaje": [
+          10.9,
+          79.3,
+          78.3,
+          15.7
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1873.PNG",
+      "fuente": "IMG_1873.PNG",
+      "sha256": "19e7327c121d49895c37e208faa1e2a23283d4e6776bf98ba3e046324e7cf509",
+      "width": 750,
+      "height": 1624,
+      "titulo": "¿Me explico con claridad?",
+      "marca": "Wiser",
+      "crop": [
+        174,
+        244,
+        402,
+        600
+      ],
+      "parcial": false,
+      "id": 46,
+      "lineas": [
+        {
+          "caja": [
+            5.97,
+            5.33,
+            87.56,
+            8.67
+          ],
+          "confianza": 1,
+          "texto": "¿ME EXPLICO"
+        },
+        {
+          "caja": [
+            34.83,
+            13.33,
+            29.85,
+            7.0
+          ],
+          "confianza": 1,
+          "texto": "CON"
+        },
+        {
+          "caja": [
+            12.91,
+            20.88,
+            75.18,
+            8.57
+          ],
+          "confianza": 1,
+          "texto": "CLARIDAD?"
+        },
+        {
+          "caja": [
+            29.27,
+            83.36,
+            40.95,
+            5.62
+          ],
+          "confianza": 1,
+          "texto": "El poder y la"
+        },
+        {
+          "caja": [
+            23.87,
+            87.3,
+            51.76,
+            5.4
+          ],
+          "confianza": 1,
+          "texto": "importancia de"
+        },
+        {
+          "caja": [
+            11.94,
+            91.67,
+            76.12,
+            3.67
+          ],
+          "confianza": 1,
+          "texto": "escribir de forma clara"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1,
+        2
+      ],
+      "mensajeIndices": [
+        3,
+        4,
+        5
+      ],
+      "familia": "Formas que contienen texto",
+      "mensaje": "integrado",
+      "hallazgo": "El título es el globo de voz de un alienígena y el mensaje ocupa el haz de luz del ovni. Ambos textos participan en lo que está sucediendo.",
+      "aplicacion": "Pensar dónde hablaría o escribiría el propio dibujo. La frase tiene una función espacial, no solo un sitio vacío.",
+      "estructura": [
+        {
+          "nombre": "Bocadillo del título",
+          "d": "M5 1 L96 1 L96 29 L56 29 L51 36 L47 29 L5 29 Z"
+        },
+        {
+          "nombre": "Ovni",
+          "d": "M1 53 Q49 32 99 54 Q96 72 50 74 Q6 73 1 53 Z"
+        },
+        {
+          "nombre": "Haz que contiene el mensaje",
+          "d": "M31 70 L73 70 L95 93 Q48 105 6 94 Z"
+        }
+      ],
+      "cajas": {
+        "titulo": [
+          6.0,
+          5.3,
+          87.6,
+          24.1
+        ],
+        "mensaje": [
+          11.9,
+          83.4,
+          76.1,
+          12.0
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1876.PNG",
+      "fuente": "IMG_1876.PNG",
+      "sha256": "03c50272934dacd637ab3acc42ddc35fa381228aa70e968ea051d68c7fc1b1f9",
+      "width": 750,
+      "height": 1624,
+      "titulo": "La maldición de lo gigantesco",
+      "marca": "Wiser",
+      "crop": [
+        174,
+        244,
+        402,
+        600
+      ],
+      "parcial": false,
+      "id": 47,
+      "lineas": [
+        {
+          "caja": [
+            44.28,
+            35.67,
+            10.95,
+            4.67
+          ],
+          "confianza": 1,
+          "texto": "La"
+        },
+        {
+          "caja": [
+            4.48,
+            42.0,
+            91.54,
+            8.0
+          ],
+          "confianza": 1,
+          "texto": "maldición de"
+        },
+        {
+          "caja": [
+            1.49,
+            51.33,
+            96.02,
+            9.33
+          ],
+          "confianza": 1,
+          "texto": "lo gigantesco"
+        },
+        {
+          "caja": [
+            19.9,
+            89.0,
+            60.2,
+            3.33
+          ],
+          "confianza": 1,
+          "texto": "Cómo luchar contra los"
+        },
+        {
+          "caja": [
+            4.9,
+            92.18,
+            89.7,
+            5.24
+          ],
+          "confianza": 1,
+          "texto": "monopolios y salvar la democracia"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1,
+        2
+      ],
+      "mensajeIndices": [
+        3,
+        4
+      ],
+      "familia": "Formas que contienen texto",
+      "mensaje": "integrado",
+      "hallazgo": "La silueta negra del personaje contiene el título en el torso y el mensaje cerca de la base. Sombrero, monóculo y billetes quedan en el contorno o arriba.",
+      "aplicacion": "Los detalles periféricos explican al personaje y el interior plano recibe las letras. El texto no necesita un recuadro propio.",
+      "cajas": {
+        "titulo": [
+          1.5,
+          35.7,
+          96.0,
+          25.0
+        ],
+        "mensaje": [
+          4.9,
+          89.0,
+          89.7,
+          8.4
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1910.PNG",
+      "fuente": "IMG_1910.PNG",
+      "sha256": "5743712ad21d73c14fdb1c119403bb79e42dd775ca0cb70279f8c2d1661c0b81",
+      "width": 750,
+      "height": 1624,
+      "titulo": "El polímata",
+      "marca": "Wiser",
+      "crop": [
+        174,
+        244,
+        402,
+        600
+      ],
+      "parcial": false,
+      "id": 48,
+      "lineas": [
+        {
+          "caja": [
+            10.92,
+            12.23,
+            77.67,
+            9.54
+          ],
+          "confianza": 0.5,
+          "texto": "POLÍMATA"
+        },
+        {
+          "caja": [
+            15.42,
+            88.33,
+            69.15,
+            4.0
+          ],
+          "confianza": 1,
+          "texto": "Desbloqueando el poder"
+        },
+        {
+          "caja": [
+            13.43,
+            93.0,
+            72.64,
+            3.33
+          ],
+          "confianza": 1,
+          "texto": "de la versatilidad humana"
+        }
+      ],
+      "tituloIndices": [
+        0
+      ],
+      "mensajeIndices": [
+        1,
+        2
+      ],
+      "familia": "Objeto central y aire",
+      "mensaje": "separado",
+      "hallazgo": "Una persona con varios brazos se inscribe en geometría fina y maneja objetos de distintas actividades. Las letras quedan fuera del cuerpo.",
+      "aplicacion": "Aquí los pequeños objetos tienen una justificación común: amplitud de capacidades. No convertir esta excepción en una receta de añadir accesorios.",
+      "cajas": {
+        "titulo": [
+          10.9,
+          12.2,
+          77.7,
+          9.5
+        ],
+        "mensaje": [
+          13.4,
+          88.3,
+          72.6,
+          8.0
+        ]
+      },
+      "tituloOCRIncompleto": true
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1912.PNG",
+      "fuente": "IMG_1912.PNG",
+      "sha256": "7e35fe022d66b47d252b1de4a9eaf4b50b836b1694c72af5df425591bf455a13",
+      "width": 750,
+      "height": 1624,
+      "titulo": "El poder de estar presente",
+      "marca": "Wiser",
+      "crop": [
+        174,
+        244,
+        402,
+        600
+      ],
+      "parcial": false,
+      "id": 49,
+      "lineas": [
+        {
+          "caja": [
+            46.27,
+            5.67,
+            8.46,
+            4.33
+          ],
+          "confianza": 0.5,
+          "texto": "El"
+        },
+        {
+          "caja": [
+            18.82,
+            10.38,
+            63.36,
+            9.58
+          ],
+          "confianza": 1,
+          "texto": "poder de"
+        },
+        {
+          "caja": [
+            31.77,
+            18.82,
+            36.97,
+            7.36
+          ],
+          "confianza": 1,
+          "texto": "estar"
+        },
+        {
+          "caja": [
+            19.7,
+            27.17,
+            60.55,
+            7.68
+          ],
+          "confianza": 1,
+          "texto": "presente"
+        },
+        {
+          "caja": [
+            17.91,
+            80.67,
+            64.18,
+            4.67
+          ],
+          "confianza": 1,
+          "texto": "Cómo la presencia de"
+        },
+        {
+          "caja": [
+            21.8,
+            84.1,
+            55.4,
+            5.14
+          ],
+          "confianza": 1,
+          "texto": "los padres moldea"
+        },
+        {
+          "caja": [
+            23.81,
+            88.11,
+            51.93,
+            4.94
+          ],
+          "confianza": 1,
+          "texto": "a nuestros hijos y"
+        },
+        {
+          "caja": [
+            18.79,
+            91.57,
+            61.9,
+            5.71
+          ],
+          "confianza": 1,
+          "texto": "configura su cerebro"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "mensajeIndices": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "familia": "Formas que contienen texto",
+      "mensaje": "integrado",
+      "hallazgo": "Los polluelos se alinean junto al adulto. La gran forma inferior del nido contiene el mensaje; el título queda en el hueco superior izquierdo.",
+      "aplicacion": "La base de la escena puede ser recipiente de texto sin convertirse en una banda desligada del motivo.",
+      "cajas": {
+        "titulo": [
+          18.8,
+          5.7,
+          63.4,
+          29.2
+        ],
+        "mensaje": [
+          17.9,
+          80.7,
+          64.2,
+          16.6
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1926.PNG",
+      "fuente": "IMG_1926.PNG",
+      "sha256": "a5d47d50aac36c4a9f0f13c9922dcaf341db713f521b6d184293729c08d9a38e",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Dólares y sentido común",
+      "marca": "Wiser",
+      "crop": [
+        174,
+        244,
+        402,
+        600
+      ],
+      "parcial": false,
+      "id": 50,
+      "lineas": [
+        {
+          "caja": [
+            21.21,
+            5.48,
+            45.2,
+            6.48
+          ],
+          "confianza": 0.5,
+          "texto": "Dólares у"
+        },
+        {
+          "caja": [
+            7.45,
+            11.95,
+            66.69,
+            8.43
+          ],
+          "confianza": 1,
+          "texto": "SENTIDO"
+        },
+        {
+          "caja": [
+            34.79,
+            19.58,
+            56.78,
+            9.84
+          ],
+          "confianza": 1,
+          "texto": "COMÚN"
+        },
+        {
+          "caja": [
+            39.8,
+            31.33,
+            51.74,
+            4.0
+          ],
+          "confianza": 1,
+          "texto": "Cómo pensamos mal"
+        },
+        {
+          "caja": [
+            28.86,
+            35.33,
+            62.69,
+            4.0
+          ],
+          "confianza": 1,
+          "texto": "el dinero y cómo gastarlo"
+        },
+        {
+          "caja": [
+            40.3,
+            39.33,
+            50.75,
+            4.0
+          ],
+          "confianza": 1,
+          "texto": "con más inteligencia"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1,
+        2
+      ],
+      "mensajeIndices": [
+        3,
+        4,
+        5
+      ],
+      "familia": "Patrón y protagonista",
+      "mensaje": "separado",
+      "hallazgo": "El campo inferior repite huchas rosas y destaca una amarilla. Título y mensaje se acomodan arriba, alineados hacia la derecha.",
+      "aplicacion": "Construir variedad mediante una anomalía dentro del patrón. No usar varios acentos igualmente protagonistas.",
+      "cajas": {
+        "titulo": [
+          7.4,
+          5.5,
+          84.1,
+          23.9
+        ],
+        "mensaje": [
+          28.9,
+          31.3,
+          62.7,
+          12.0
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1927.PNG",
+      "fuente": "IMG_1927.PNG",
+      "sha256": "7911a4b1b9021190ef6c96ec5d584ae0e58c0899fa85cc1d133d3dc267736397",
+      "width": 750,
+      "height": 1624,
+      "titulo": "El hombre que resolvió el mercado",
+      "marca": "Wiser",
+      "crop": [
+        174,
+        244,
+        402,
+        600
+      ],
+      "parcial": false,
+      "id": 51,
+      "lineas": [
+        {
+          "caja": [
+            3.98,
+            4.0,
+            14.93,
+            4.67
+          ],
+          "confianza": 0.30000001192092896,
+          "texto": "y=b"
+        },
+        {
+          "caja": [
+            83.58,
+            3.67,
+            13.43,
+            4.67
+          ],
+          "confianza": 0.5,
+          "texto": "1(O)"
+        },
+        {
+          "caja": [
+            16.42,
+            6.67,
+            67.66,
+            6.33
+          ],
+          "confianza": 1,
+          "texto": "EL HOMBRE"
+        },
+        {
+          "caja": [
+            5.86,
+            13.27,
+            88.27,
+            7.83
+          ],
+          "confianza": 1,
+          "texto": "QUE RESOLVIÓ"
+        },
+        {
+          "caja": [
+            12.94,
+            22.0,
+            74.13,
+            6.0
+          ],
+          "confianza": 1,
+          "texto": "EL MERCADO"
+        },
+        {
+          "caja": [
+            3.43,
+            28.55,
+            26.96,
+            5.56
+          ],
+          "confianza": 0.5,
+          "texto": "x=a ta"
+        },
+        {
+          "caja": [
+            5.47,
+            51.67,
+            5.47,
+            3.33
+          ],
+          "confianza": 0.5,
+          "texto": "F"
+        },
+        {
+          "caja": [
+            3.48,
+            61.67,
+            11.94,
+            4.0
+          ],
+          "confianza": 0.30000001192092896,
+          "texto": "dw"
+        },
+        {
+          "caja": [
+            14.43,
+            63.67,
+            11.94,
+            4.67
+          ],
+          "confianza": 0.5,
+          "texto": "=[f"
+        },
+        {
+          "caja": [
+            4.48,
+            66.67,
+            9.95,
+            4.0
+          ],
+          "confianza": 0.30000001192092896,
+          "texto": "dit"
+        },
+        {
+          "caja": [
+            75.62,
+            61.67,
+            22.39,
+            7.33
+          ],
+          "confianza": 0.30000001192092896,
+          "texto": ")k] dk"
+        },
+        {
+          "caja": [
+            2.99,
+            75.0,
+            26.87,
+            7.0
+          ],
+          "confianza": 0.30000001192092896,
+          "texto": "m.d?r(t)"
+        },
+        {
+          "caja": [
+            75.62,
+            77.0,
+            23.88,
+            5.33
+          ],
+          "confianza": 0.30000001192092896,
+          "texto": "V[r(t)]"
+        },
+        {
+          "caja": [
+            15.92,
+            80.33,
+            64.18,
+            4.33
+          ],
+          "confianza": 0.5,
+          "texto": "dCómo Jim Simons"
+        },
+        {
+          "caja": [
+            24.38,
+            86.0,
+            50.75,
+            4.33
+          ],
+          "confianza": 1,
+          "texto": "revolucionó las"
+        },
+        {
+          "caja": [
+            12.44,
+            91.33,
+            74.63,
+            4.33
+          ],
+          "confianza": 1,
+          "texto": "finanzas cuantitativas"
+        },
+        {
+          "caja": [
+            3.98,
+            95.67,
+            5.47,
+            2.67
+          ],
+          "confianza": 0.5,
+          "texto": "i=1"
+        }
+      ],
+      "tituloIndices": [
+        2,
+        3,
+        4
+      ],
+      "mensajeIndices": [
+        13,
+        14,
+        15
+      ],
+      "familia": "Dos lecturas en una silueta",
+      "mensaje": "separado",
+      "hallazgo": "El toro lleva birrete y gafas. Las fórmulas del fondo tienen poco contraste; los textos blancos se apoyan en el campo verde sin competir con ellas.",
+      "aplicacion": "Las fórmulas son ambiente secundario. El OCR las detecta, pero no deben contarse como título ni mensaje.",
+      "cajas": {
+        "titulo": [
+          5.9,
+          6.7,
+          88.3,
+          21.3
+        ],
+        "mensaje": [
+          12.4,
+          80.3,
+          74.6,
+          15.3
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1928.PNG",
+      "fuente": "IMG_1928.PNG",
+      "sha256": "5546dba0d337b0ae9834ba1d14cad08ac5fce2a334cf530f46162609d855bb70",
+      "width": 750,
+      "height": 1624,
+      "titulo": "El fracaso de la gestión de riesgos",
+      "marca": "Wiser",
+      "crop": [
+        174,
+        244,
+        402,
+        600
+      ],
+      "parcial": false,
+      "id": 52,
+      "lineas": [
+        {
+          "caja": [
+            17.41,
+            11.67,
+            65.67,
+            5.33
+          ],
+          "confianza": 1,
+          "texto": "Fracaso de la"
+        },
+        {
+          "caja": [
+            1.35,
+            17.17,
+            97.35,
+            8.79
+          ],
+          "confianza": 1,
+          "texto": "Gestión de Riesgos"
+        },
+        {
+          "caja": [
+            14.93,
+            40.67,
+            70.15,
+            5.67
+          ],
+          "confianza": 1,
+          "texto": "Por qué está rota"
+        },
+        {
+          "caja": [
+            13.93,
+            46.33,
+            71.64,
+            5.67
+          ],
+          "confianza": 1,
+          "texto": "y cómo arreglarla"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        2,
+        3
+      ],
+      "familia": "Formas que contienen texto",
+      "mensaje": "integrado",
+      "hallazgo": "El paracaídas está roto y el mensaje está impreso sobre su tela. Las personas cuelgan abajo; el título ocupa el cielo.",
+      "aplicacion": "La misma superficie puede sostener la frase y mostrar el problema que la frase explica.",
+      "cajas": {
+        "titulo": [
+          1.4,
+          11.7,
+          97.4,
+          14.3
+        ],
+        "mensaje": [
+          13.9,
+          40.7,
+          71.6,
+          11.3
+        ]
+      },
+      "tituloOCRIncompleto": true
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1929.PNG",
+      "fuente": "IMG_1929.PNG",
+      "sha256": "6071037ab3a1c46517947209b9d877438d57a12306b76bf9c44d4eae63465c61",
+      "width": 750,
+      "height": 1624,
+      "titulo": "La sexta extinción",
+      "marca": "Wiser",
+      "crop": [
+        174,
+        244,
+        402,
+        600
+      ],
+      "parcial": false,
+      "id": 53,
+      "lineas": [
+        {
+          "caja": [
+            21.85,
+            8.82,
+            56.31,
+            7.02
+          ],
+          "confianza": 1,
+          "texto": "La Sexta"
+        },
+        {
+          "caja": [
+            19.89,
+            15.96,
+            60.72,
+            7.42
+          ],
+          "confianza": 1,
+          "texto": "Extinción"
+        },
+        {
+          "caja": [
+            15.42,
+            30.33,
+            69.65,
+            3.67
+          ],
+          "confianza": 1,
+          "texto": "Una historia antinatural"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        2
+      ],
+      "familia": "Objeto central y aire",
+      "mensaje": "separado",
+      "hallazgo": "El mundo forma la cabeza de una cerilla encendida, sostenida por una mano. El blanco circundante separa bien el título, el subtítulo breve y la acción.",
+      "aplicacion": "Una fusión de objetos con una consecuencia visible aporta riqueza sin sumar elementos decorativos.",
+      "cajas": {
+        "titulo": [
+          19.9,
+          8.8,
+          60.7,
+          14.6
+        ],
+        "mensaje": [
+          15.4,
+          30.3,
+          69.7,
+          3.7
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1930.PNG",
+      "fuente": "IMG_1930.PNG",
+      "sha256": "eacde8c7876753401ec89f757228e8edb9a1c0b377b87e75ae0fc4bd2cf2c7e4",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Lo inevitable",
+      "marca": "Wiser",
+      "crop": [
+        174,
+        244,
+        402,
+        600
+      ],
+      "parcial": false,
+      "id": 54,
+      "lineas": [
+        {
+          "caja": [
+            40.3,
+            5.0,
+            19.4,
+            7.33
+          ],
+          "confianza": 0.5,
+          "texto": "Lo"
+        },
+        {
+          "caja": [
+            7.76,
+            11.47,
+            84.48,
+            11.39
+          ],
+          "confianza": 1,
+          "texto": "Inevitable"
+        },
+        {
+          "caja": [
+            12.36,
+            81.3,
+            75.3,
+            5.55
+          ],
+          "confianza": 1,
+          "texto": "Las fuerzas tecnológicas"
+        },
+        {
+          "caja": [
+            13.36,
+            86.19,
+            72.76,
+            5.19
+          ],
+          "confianza": 1,
+          "texto": "que están dando forma"
+        },
+        {
+          "caja": [
+            24.38,
+            91.67,
+            50.75,
+            3.67
+          ],
+          "confianza": 1,
+          "texto": "a nuestro futuro"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        2,
+        3,
+        4
+      ],
+      "familia": "Formas que contienen texto",
+      "mensaje": "integrado",
+      "hallazgo": "Los cables convergen en una persona con visor. Su gran torso claro alberga el mensaje; las letras del título se sitúan entre los cables de arriba.",
+      "aplicacion": "Unificar las líneas de dirección en un protagonista y mantener el torso como zona de descanso.",
+      "cajas": {
+        "titulo": [
+          7.8,
+          5.0,
+          84.5,
+          17.9
+        ],
+        "mensaje": [
+          12.4,
+          81.3,
+          75.3,
+          14.0
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1932.PNG",
+      "fuente": "IMG_1932.PNG",
+      "sha256": "7003175693714826c4968e79fc7e5e65e35ff3635899f7c7518c1240cb67720d",
+      "width": 750,
+      "height": 1624,
+      "titulo": "El único juego en la ciudad",
+      "marca": "Wiser",
+      "crop": [
+        174,
+        244,
+        402,
+        600
+      ],
+      "parcial": false,
+      "id": 55,
+      "lineas": [
+        {
+          "caja": [
+            46.27,
+            59.0,
+            4.48,
+            3.33
+          ],
+          "confianza": 0.5,
+          "texto": "E"
+        },
+        {
+          "caja": [
+            5.89,
+            61.32,
+            87.63,
+            12.98
+          ],
+          "confianza": 1,
+          "texto": "Único Juego"
+        },
+        {
+          "caja": [
+            7.96,
+            73.0,
+            84.58,
+            8.0
+          ],
+          "confianza": 1,
+          "texto": "en la Ciudad"
+        },
+        {
+          "caja": [
+            20.9,
+            86.67,
+            58.21,
+            4.0
+          ],
+          "confianza": 1,
+          "texto": "Por qué los bancos"
+        },
+        {
+          "caja": [
+            5.97,
+            90.67,
+            88.06,
+            3.67
+          ],
+          "confianza": 1,
+          "texto": "centrales son fundamentales"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1,
+        2
+      ],
+      "mensajeIndices": [
+        3,
+        4
+      ],
+      "familia": "Diagonal dominante",
+      "mensaje": "separado",
+      "hallazgo": "Una mano mueve una institución bancaria sobre un tablero en perspectiva. La diagonal deja la parte inferior blanca para título y mensaje.",
+      "aplicacion": "La perspectiva simplificada también aparece en Wiser. No confundir dibujo plano de color con prohibir toda profundidad espacial.",
+      "cajas": {
+        "titulo": [
+          5.9,
+          59.0,
+          87.6,
+          22.0
+        ],
+        "mensaje": [
+          6.0,
+          86.7,
+          88.1,
+          7.7
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1936.PNG",
+      "fuente": "IMG_1936.PNG",
+      "sha256": "7506744e355c3884dcc5f7d82616e8785bfd157327c48b0f61099bd00bfb0158",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Respira",
+      "marca": "Wiser",
+      "crop": [
+        174,
+        244,
+        402,
+        600
+      ],
+      "parcial": false,
+      "id": 56,
+      "lineas": [
+        {
+          "caja": [
+            6.91,
+            6.15,
+            88.67,
+            12.71
+          ],
+          "confianza": 1,
+          "texto": "RESPIRA"
+        },
+        {
+          "caja": [
+            7.95,
+            23.97,
+            24.9,
+            4.39
+          ],
+          "confianza": 1,
+          "texto": "Calma tu"
+        },
+        {
+          "caja": [
+            7.34,
+            29.27,
+            20.29,
+            4.65
+          ],
+          "confianza": 1,
+          "texto": "mente."
+        },
+        {
+          "caja": [
+            7.43,
+            34.24,
+            28.42,
+            4.52
+          ],
+          "confianza": 1,
+          "texto": "Encuentra"
+        },
+        {
+          "caja": [
+            7.45,
+            39.98,
+            24.89,
+            4.71
+          ],
+          "confianza": 1,
+          "texto": "enfoque."
+        },
+        {
+          "caja": [
+            7.93,
+            44.61,
+            19.96,
+            4.46
+          ],
+          "confianza": 1,
+          "texto": "Haz las"
+        },
+        {
+          "caja": [
+            7.46,
+            51.0,
+            17.91,
+            3.67
+          ],
+          "confianza": 0.5,
+          "texto": "cosas."
+        }
+      ],
+      "tituloIndices": [
+        0
+      ],
+      "mensajeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "familia": "Recorte y escala",
+      "mensaje": "hueco",
+      "hallazgo": "RESPIRA ocupa una línea arriba; el mensaje rojo se estrecha a la izquierda del rostro. La mano y el ojo cerrado forman un gesto sencillo.",
+      "aplicacion": "Seis líneas cortas pueden funcionar si corresponden a un hueco vertical. El apoyo no tiene que estar siempre debajo del dibujo.",
+      "cajas": {
+        "titulo": [
+          6.9,
+          6.1,
+          88.7,
+          12.7
+        ],
+        "mensaje": [
+          7.3,
+          24.0,
+          28.5,
+          30.7
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1938.PNG",
+      "fuente": "IMG_1938.PNG",
+      "sha256": "00e7ad6081ecbeb949def558265e60d133890919b4a3a8b97763e401622f56b8",
+      "width": 750,
+      "height": 1624,
+      "titulo": "La dieta rápida",
+      "marca": "Wiser",
+      "crop": [
+        174,
+        244,
+        402,
+        600
+      ],
+      "parcial": false,
+      "id": 57,
+      "lineas": [
+        {
+          "caja": [
+            2.35,
+            5.6,
+            95.31,
+            16.13
+          ],
+          "confianza": 1,
+          "texto": "Dieta Rápida"
+        },
+        {
+          "caja": [
+            19.4,
+            63.0,
+            60.2,
+            4.0
+          ],
+          "confianza": 1,
+          "texto": "Pierde peso, mantente"
+        },
+        {
+          "caja": [
+            23.25,
+            66.63,
+            51.49,
+            5.2
+          ],
+          "confianza": 1,
+          "texto": "sano y vive más con"
+        },
+        {
+          "caja": [
+            22.89,
+            71.67,
+            54.23,
+            3.67
+          ],
+          "confianza": 1,
+          "texto": "el simple secreto del"
+        },
+        {
+          "caja": [
+            24.28,
+            75.43,
+            50.93,
+            4.66
+          ],
+          "confianza": 1,
+          "texto": "ayuno intermitente"
+        }
+      ],
+      "tituloIndices": [
+        0
+      ],
+      "mensajeIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "familia": "Formas que contienen texto",
+      "mensaje": "integrado",
+      "hallazgo": "Dos zanahorias son las agujas del reloj en la sopa. El mensaje blanco está dentro de la olla roja y las llamas forman su base.",
+      "aplicacion": "La superficie del recipiente resuelve texto y metáfora a la vez. Conservar espacio suficiente dentro del rojo antes de dibujar los detalles.",
+      "estructura": [
+        {
+          "nombre": "Olla que contiene el mensaje",
+          "d": "M16 40 Q16 27 50 25 Q84 25 85 40 L85 76 Q84 88 50 88 Q16 88 16 76 Z"
+        },
+        {
+          "nombre": "Superficie de sopa / reloj",
+          "d": "M17 39 Q51 17 84 40 Q88 58 50 61 Q13 57 17 39 Z"
+        }
+      ],
+      "cajas": {
+        "titulo": [
+          2.3,
+          5.6,
+          95.3,
+          16.1
+        ],
+        "mensaje": [
+          19.4,
+          63.0,
+          60.2,
+          17.1
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1939.PNG",
+      "fuente": "IMG_1939.PNG",
+      "sha256": "0669da34df0810fde0ce7581b7d11f4b289cc34be2fb35cf73a055897a3b01df",
+      "width": 750,
+      "height": 1624,
+      "titulo": "El libro del bebé",
+      "marca": "Wiser",
+      "crop": [
+        174,
+        244,
+        402,
+        600
+      ],
+      "parcial": false,
+      "id": 58,
+      "lineas": [
+        {
+          "caja": [
+            8.96,
+            6.67,
+            11.94,
+            5.33
+          ],
+          "confianza": 1,
+          "texto": "EL"
+        },
+        {
+          "caja": [
+            8.46,
+            12.67,
+            53.23,
+            9.33
+          ],
+          "confianza": 1,
+          "texto": "LIBRO"
+        },
+        {
+          "caja": [
+            8.9,
+            21.14,
+            82.21,
+            11.73
+          ],
+          "confianza": 1,
+          "texto": "DEL BEBÉ"
+        },
+        {
+          "caja": [
+            7.96,
+            71.33,
+            80.1,
+            5.0
+          ],
+          "confianza": 1,
+          "texto": "Todo lo que necesitas"
+        },
+        {
+          "caja": [
+            7.96,
+            76.33,
+            71.64,
+            4.67
+          ],
+          "confianza": 1,
+          "texto": "saber sobre tu bebé"
+        },
+        {
+          "caja": [
+            7.96,
+            80.67,
+            70.15,
+            5.0
+          ],
+          "confianza": 1,
+          "texto": "desde el nacimiento"
+        },
+        {
+          "caja": [
+            7.96,
+            86.0,
+            63.18,
+            4.33
+          ],
+          "confianza": 1,
+          "texto": "hasta los dos años"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1,
+        2
+      ],
+      "mensajeIndices": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "familia": "Recorte y escala",
+      "mensaje": "hueco",
+      "hallazgo": "El bebé es sostenido por brazos que entran desde lados distintos. El título arriba y el mensaje abajo comparten el fondo rosa; los brazos rodean al protagonista.",
+      "aplicacion": "La cercanía entre texto y escena puede surgir por encuadre, aunque las palabras no estén impresas dentro de un objeto.",
+      "cajas": {
+        "titulo": [
+          8.5,
+          6.7,
+          82.6,
+          26.2
+        ],
+        "mensaje": [
+          8.0,
+          71.3,
+          80.1,
+          19.0
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1940.PNG",
+      "fuente": "IMG_1940.PNG",
+      "sha256": "d4eed259bf9c138238f8cfdc5720af71f297307ddcdd4a0fc2a6d775602b1588",
+      "width": 750,
+      "height": 1624,
+      "titulo": "El manual del recién nacido",
+      "marca": "Wiser",
+      "crop": [
+        174,
+        244,
+        402,
+        600
+      ],
+      "parcial": false,
+      "id": 59,
+      "lineas": [
+        {
+          "caja": [
+            81.59,
+            3.67,
+            9.95,
+            5.0
+          ],
+          "confianza": 0.5,
+          "texto": "El"
+        },
+        {
+          "caja": [
+            29.35,
+            10.0,
+            62.19,
+            6.33
+          ],
+          "confianza": 1,
+          "texto": "Manual del"
+        },
+        {
+          "caja": [
+            10.45,
+            16.67,
+            80.6,
+            7.0
+          ],
+          "confianza": 1,
+          "texto": "Recién Nacido"
+        },
+        {
+          "caja": [
+            44.75,
+            75.91,
+            46.81,
+            5.85
+          ],
+          "confianza": 1,
+          "texto": "Tu guía para"
+        },
+        {
+          "caja": [
+            40.8,
+            82.67,
+            50.25,
+            4.67
+          ],
+          "confianza": 1,
+          "texto": "llevar al bebé"
+        },
+        {
+          "caja": [
+            67.66,
+            90.67,
+            22.89,
+            3.33
+          ],
+          "confianza": 1,
+          "texto": "a casa"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1,
+        2
+      ],
+      "mensajeIndices": [
+        3,
+        4,
+        5
+      ],
+      "familia": "Formas que contienen texto",
+      "mensaje": "integrado",
+      "hallazgo": "La cigüeña sostiene un pañuelo amarillo con el bebé. El mensaje va dentro del pañuelo, bajo el cuerpo, mientras el título se alinea arriba a la derecha.",
+      "aplicacion": "El objeto portador de la acción también porta el texto. Ajustar la caja a su anchura disponible.",
+      "estructura": [
+        {
+          "nombre": "Pañuelo y mensaje",
+          "d": "M58 39 L85 100 L17 100 Z"
+        },
+        {
+          "nombre": "Pico y punto de suspensión",
+          "d": "M25 36 L92 39 L34 41"
+        }
+      ],
+      "cajas": {
+        "titulo": [
+          10.4,
+          3.7,
+          81.1,
+          20.0
+        ],
+        "mensaje": [
+          40.8,
+          75.9,
+          50.8,
+          18.1
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-referencias/IMG_1978.PNG",
+      "fuente": "IMG_1978.PNG",
+      "sha256": "8cabdbccca7707fe5557c828dd165e717c3ded2f5216144f717f9b37b160088d",
+      "width": 750,
+      "height": 1624,
+      "titulo": "Desbloqueando el potencial",
+      "marca": "Wiser",
+      "crop": [
+        174,
+        244,
+        402,
+        600
+      ],
+      "parcial": false,
+      "id": 60,
+      "lineas": [
+        {
+          "caja": [
+            9.45,
+            8.67,
+            82.59,
+            7.33
+          ],
+          "confianza": 1,
+          "texto": "Desbloqueando"
+        },
+        {
+          "caja": [
+            8.96,
+            16.67,
+            63.18,
+            6.67
+          ],
+          "confianza": 1,
+          "texto": "el Potencial"
+        },
+        {
+          "caja": [
+            8.96,
+            40.0,
+            44.78,
+            4.33
+          ],
+          "confianza": 1,
+          "texto": "7 habilidades"
+        },
+        {
+          "caja": [
+            8.92,
+            45.2,
+            40.87,
+            5.61
+          ],
+          "confianza": 1,
+          "texto": "de coaching"
+        },
+        {
+          "caja": [
+            8.96,
+            50.67,
+            45.27,
+            5.33
+          ],
+          "confianza": 1,
+          "texto": "que impulsan"
+        },
+        {
+          "caja": [
+            8.96,
+            56.33,
+            46.27,
+            4.33
+          ],
+          "confianza": 1,
+          "texto": "el crecimiento"
+        }
+      ],
+      "tituloIndices": [
+        0,
+        1
+      ],
+      "mensajeIndices": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "familia": "Dos lecturas en una silueta",
+      "mensaje": "hueco",
+      "hallazgo": "El gato pequeño proyecta una sombra de león. El mensaje ocupa el hueco claro entre el título y el gato, a la izquierda de la sombra grande.",
+      "aplicacion": "Cambiar la escala y la identidad de una sombra puede contar la transformación. Evitar llenar ese hueco con decoración.",
+      "cajas": {
+        "titulo": [
+          9.0,
+          8.7,
+          83.1,
+          14.7
+        ],
+        "mensaje": [
+          8.9,
+          40.0,
+          46.3,
+          20.7
+        ]
+      },
+      "tituloOCRIncompleto": false
+    },
+    {
+      "archivo": "./assets/comparacion-propuestas/pensamiento-positivo-ojo-sencillo-aa4587ba25.png",
+      "crop": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "lineas": [
+        {
+          "caja": [
+            18.96,
+            8.59,
+            59.69,
+            9.12
+          ],
+          "confianza": 1,
+          "texto": "El poder del"
+        },
+        {
+          "caja": [
+            19.23,
+            16.21,
+            65.59,
+            7.0
+          ],
+          "confianza": 1,
+          "texto": "pensamiento"
+        },
+        {
+          "caja": [
+            19.59,
+            23.2,
+            39.91,
+            7.08
+          ],
+          "confianza": 1,
+          "texto": "positivo"
+        },
+        {
+          "caja": [
+            17.43,
+            81.83,
+            66.88,
+            3.65
+          ],
+          "confianza": 1,
+          "texto": "Fortalece tu confianza"
+        },
+        {
+          "caja": [
+            16.12,
+            85.92,
+            40.77,
+            5.03
+          ],
+          "confianza": 1,
+          "texto": "y afronta tus"
+        },
+        {
+          "caja": [
+            16.72,
+            90.54,
+            68.41,
+            5.78
+          ],
+          "confianza": 1,
+          "texto": "preocupaciones con fe"
+        }
+      ],
+      "titulo": "El poder del pensamiento positivo · propuesta actual",
+      "id": 61,
+      "marca": "Curva",
+      "width": 1024,
+      "height": 1536,
+      "tituloIndices": [
+        0,
+        1,
+        2
+      ],
+      "mensajeIndices": [
+        3,
+        4,
+        5
+      ],
+      "familia": "Recorte y escala",
+      "mensaje": "separado",
+      "parcial": false,
+      "tituloOCRIncompleto": false,
+      "fuente": "Propuesta con ojo cerrado",
+      "hallazgo": "La llave toca la cabeza, pero los textos quedan en dos bloques independientes. El mensaje es ancho, pesa mucho y baja casi hasta el borde. La iluminación y el grano persisten en las masas de color.",
+      "aplicacion": "Conservar el ojo cerrado aprobado. En un nuevo encargo, decidir primero si hace falta mensaje; si aporta algo, componer su recipiente con el dibujo. Comparar pesos, huecos y acabado, además del motivo.",
+      "cajas": {
+        "titulo": [
+          19.0,
+          8.6,
+          65.9,
+          21.7
+        ],
+        "mensaje": [
+          16.1,
+          81.8,
+          69.0,
+          14.5
+        ]
+      }
+    }
+  ],
+  "pliegue": [
+    {
+      "id": 1,
+      "titulo": "Atlas del corazón",
+      "muestras": [
+        {
+          "x": 0.5,
+          "rgb": [
+            228,
+            201,
+            139
+          ]
+        },
+        {
+          "x": 1,
+          "rgb": [
+            240,
+            208,
+            125
+          ]
+        },
+        {
+          "x": 1.5,
+          "rgb": [
+            238,
+            207,
+            118
+          ]
+        },
+        {
+          "x": 2,
+          "rgb": [
+            234,
+            201,
+            116
+          ]
+        },
+        {
+          "x": 2.5,
+          "rgb": [
+            213,
+            181,
+            98
+          ]
+        },
+        {
+          "x": 3,
+          "rgb": [
+            221,
+            191,
+            104
+          ]
+        },
+        {
+          "x": 4,
+          "rgb": [
+            239,
+            207,
+            118
+          ]
+        },
+        {
+          "x": 5,
+          "rgb": [
+            237,
+            202,
+            110
+          ]
+        },
+        {
+          "x": 6,
+          "rgb": [
+            232,
+            197,
+            105
+          ]
+        },
+        {
+          "x": 8,
+          "rgb": [
+            232,
+            197,
+            105
+          ]
+        }
+      ],
+      "franjaY": [
+        4,
+        7
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "El quinto acuerdo",
+      "muestras": [
+        {
+          "x": 0.5,
+          "rgb": [
+            72,
+            84,
+            179
+          ]
+        },
+        {
+          "x": 1,
+          "rgb": [
+            37,
+            51,
+            177
+          ]
+        },
+        {
+          "x": 1.5,
+          "rgb": [
+            31,
+            45,
+            176
+          ]
+        },
+        {
+          "x": 2,
+          "rgb": [
+            22,
+            39,
+            167
+          ]
+        },
+        {
+          "x": 2.5,
+          "rgb": [
+            4,
+            23,
+            150
+          ]
+        },
+        {
+          "x": 3,
+          "rgb": [
+            10,
+            27,
+            157
+          ]
+        },
+        {
+          "x": 4,
+          "rgb": [
+            30,
+            47,
+            177
+          ]
+        },
+        {
+          "x": 5,
+          "rgb": [
+            18,
+            35,
+            165
+          ]
+        },
+        {
+          "x": 6,
+          "rgb": [
+            7,
+            23,
+            155
+          ]
+        },
+        {
+          "x": 8,
+          "rgb": [
+            6,
+            22,
+            158
+          ]
+        }
+      ],
+      "franjaY": [
+        4,
+        7
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "El elefante en el cerebro",
+      "muestras": [
+        {
+          "x": 0.5,
+          "rgb": [
+            224,
+            129,
+            104
+          ]
+        },
+        {
+          "x": 1,
+          "rgb": [
+            239,
+            108,
+            76
+          ]
+        },
+        {
+          "x": 1.5,
+          "rgb": [
+            241,
+            104,
+            68
+          ]
+        },
+        {
+          "x": 2,
+          "rgb": [
+            235,
+            101,
+            68
+          ]
+        },
+        {
+          "x": 2.5,
+          "rgb": [
+            212,
+            83,
+            51
+          ]
+        },
+        {
+          "x": 3,
+          "rgb": [
+            219,
+            89,
+            54
+          ]
+        },
+        {
+          "x": 4,
+          "rgb": [
+            243,
+            100,
+            66
+          ]
+        },
+        {
+          "x": 5,
+          "rgb": [
+            235,
+            96,
+            57
+          ]
+        },
+        {
+          "x": 6,
+          "rgb": [
+            231,
+            90,
+            54
+          ]
+        },
+        {
+          "x": 8,
+          "rgb": [
+            232,
+            91,
+            55
+          ]
+        }
+      ],
+      "franjaY": [
+        4,
+        7
+      ]
+    },
+    {
+      "id": 23,
+      "titulo": "Sabia mente",
+      "muestras": [
+        {
+          "x": 0.5,
+          "rgb": [
+            223,
+            231,
+            102
+          ]
+        },
+        {
+          "x": 1,
+          "rgb": [
+            239,
+            250,
+            80
+          ]
+        },
+        {
+          "x": 1.5,
+          "rgb": [
+            240,
+            252,
+            76
+          ]
+        },
+        {
+          "x": 2,
+          "rgb": [
+            233,
+            246,
+            66
+          ]
+        },
+        {
+          "x": 2.5,
+          "rgb": [
+            212,
+            225,
+            47
+          ]
+        },
+        {
+          "x": 3,
+          "rgb": [
+            218,
+            231,
+            52
+          ]
+        },
+        {
+          "x": 4,
+          "rgb": [
+            239,
+            252,
+            73
+          ]
+        },
+        {
+          "x": 5,
+          "rgb": [
+            229,
+            242,
+            63
+          ]
+        },
+        {
+          "x": 6,
+          "rgb": [
+            219,
+            232,
+            52
+          ]
+        },
+        {
+          "x": 8,
+          "rgb": [
+            222,
+            234,
+            51
+          ]
+        }
+      ],
+      "franjaY": [
+        4,
+        7
+      ]
+    },
+    {
+      "id": 61,
+      "titulo": "El poder del pensamiento positivo · propuesta actual",
+      "muestras": [
+        {
+          "x": 0.5,
+          "rgb": [
+            216,
+            80,
+            38
+          ]
+        },
+        {
+          "x": 1,
+          "rgb": [
+            234,
+            90,
+            46
+          ]
+        },
+        {
+          "x": 1.5,
+          "rgb": [
+            240,
+            92,
+            48
+          ]
+        },
+        {
+          "x": 2,
+          "rgb": [
+            241,
+            92,
+            49
+          ]
+        },
+        {
+          "x": 2.5,
+          "rgb": [
+            240,
+            92,
+            49
+          ]
+        },
+        {
+          "x": 3,
+          "rgb": [
+            209,
+            81,
+            43
+          ]
+        },
+        {
+          "x": 4,
+          "rgb": [
+            244,
+            104,
+            64
+          ]
+        },
+        {
+          "x": 5,
+          "rgb": [
+            241,
+            93,
+            50
+          ]
+        },
+        {
+          "x": 6,
+          "rgb": [
+            241,
+            93,
+            51
+          ]
+        },
+        {
+          "x": 8,
+          "rgb": [
+            240,
+            94,
+            53
+          ]
+        }
+      ],
+      "franjaY": [
+        4,
+        7
+      ]
+    }
+  ]
+}
