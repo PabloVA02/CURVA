@@ -1,0 +1,48 @@
+{
+  "fecha": "2026-09-21",
+  "titulo": "El poder del pensamiento positivo",
+  "id": "pensamiento-positivo",
+  "autor": "Norman Vincent Peale",
+  "mensaje": "Fortalece tu confianza y afronta tus preocupaciones con fe",
+  "idea": "Una goma de borrar abre en una nube un claro que contiene el mensaje",
+  "motivos": [
+    "goma de borrar",
+    "claro en una nube"
+  ],
+  "paleta": [
+    "#5B3FBF",
+    "#33228A",
+    "#F2603C",
+    "#F5C233",
+    "#FAF6EE"
+  ],
+  "fuente": "https://www.simonandschuster.com/books/The-Power-of-Positive-Thinking/Dr-Norman-Vincent-Peale/9780743234801",
+  "herramienta": "image_gen integrada",
+  "modo": "edición con referencias",
+  "imagenes": [
+    {
+      "archivo": "Version-inicial.png",
+      "origen": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-7b7506af-a68d-467e-bb33-55bd8aff43e2.png",
+      "dimensiones": [
+        1024,
+        1536
+      ],
+      "sha256": "b24e3fa5eb304d2116b11589e9a36e6d128babfe1627f5e9db6b012c8cea9521"
+    },
+    {
+      "archivo": "Portada.png",
+      "origen": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-9be8151a-4878-43e9-ac21-5bb8004f0247.png",
+      "dimensiones": [
+        1024,
+        1536
+      ],
+      "sha256": "e732bdd919d59de7725b53c6fdf68bade7a1237b93e76e7ed19cc158f6f7f804"
+    }
+  ],
+  "instaladaEnApp": false,
+  "estado": "Propuesta individual archivada",
+  "referencias": [
+    "IMG_1969.PNG",
+    "IMG_1966.PNG"
+  ]
+}

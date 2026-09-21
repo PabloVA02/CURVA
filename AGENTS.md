@@ -1,5 +1,7 @@
 # Portadas de Curva
 
+**Prioridad posterior · Headway.** Última exigencia del usuario, posterior a la propuesta de pensamiento positivo: «si las portadas no tienen ese diseño de headway no las quiere tienen que ser un 100% mismo diseño». Headway es la referencia obligatoria de ilustración, tipografía, composición, doblez y esquinas; Wiser queda como referencia complementaria. Consultar sus imágenes directamente y comparar cada resultado. No asumir que las propuestas actuales están aprobadas ni certificar una coincidencia exacta solo por haberla solicitado en el prompt. Conservar versiones y seguir trabajando una portada por encargo. La comparación completa está en `docs/comparar-portadas.html`.
+
 Memoria permanente solicitada expresamente por el usuario: leer `MEMORIA-PORTADAS.md` al retomar trabajo de portadas, también en nuevas sesiones. El sistema se aplica a todos los encargos futuros de Curva hasta que el usuario lo cambie.
 
 Antes de crear o modificar portadas, consultar `referencias/portadas/Preferencias-del-usuario.md` y el sistema vigente `referencias/portadas/sistema-2026-09-21/Prompt-maestro.md`. La última aclaración del usuario prevalece sobre las preferencias anteriores. Revisar las referencias originales de Headway/Wiser y el historial para evitar repetir dibujos y composiciones.
