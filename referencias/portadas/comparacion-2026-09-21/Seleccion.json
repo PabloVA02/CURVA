@@ -1,0 +1,222 @@
+{
+  "headway": [
+    {
+      "titulo": "El quinto acuerdo",
+      "archivo": "./assets/comparacion-headway/IMG_1962.PNG",
+      "fuente": "IMG_1962.PNG",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "sha256": "e2b00ad3ae6f565b557b7fec0be54389f3ec1a0153c8b8c63be22c292ff71727"
+    },
+    {
+      "titulo": "Hábitos mínimos",
+      "archivo": "./assets/comparacion-headway/IMG_1966.PNG",
+      "fuente": "IMG_1966.PNG",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "sha256": "7a64afd1b9bd7efff98522b72bc9b3bb398b6ea66a494dff0d3018a4fe950b6f"
+    },
+    {
+      "titulo": "El elefante en el cerebro",
+      "archivo": "./assets/comparacion-headway/IMG_1969.PNG",
+      "fuente": "IMG_1969.PNG",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "sha256": "6fb79764de7f05f325ac2c13cf4ec6e3d406638d79d2fd005dd0ee9b69af159b"
+    },
+    {
+      "titulo": "Estrés: el lado bueno",
+      "archivo": "./assets/comparacion-headway/IMG_1976.PNG",
+      "fuente": "IMG_1976.PNG",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "sha256": "5647931cb8d3329e07e1af5cebc3e1a8e337260bbd00e1b16d22d071173b7271"
+    },
+    {
+      "titulo": "Kintsukuroi",
+      "archivo": "./assets/comparacion-headway/IMG_1963.PNG",
+      "fuente": "IMG_1963.PNG",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "sha256": "145024ad48d2e7ae07d4b84c8591d27d20531de603bcc612762c9851aa675ae9"
+    },
+    {
+      "titulo": "Déjalo ir ahora",
+      "archivo": "./assets/comparacion-headway/IMG_1964.PNG",
+      "fuente": "IMG_1964.PNG",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "sha256": "83c6d7e3cba8b89e2e5731912034ed10a89c6814336238dfa26beb531a197f66"
+    },
+    {
+      "titulo": "Sabia mente",
+      "archivo": "./assets/comparacion-headway/IMG_1973.PNG",
+      "fuente": "IMG_1973.PNG",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "sha256": "326381b5df013665c5d1081e54dec9948feb80992a328abeba278aa632c73aa8"
+    },
+    {
+      "titulo": "Desintoxica tus pensamientos",
+      "archivo": "./assets/comparacion-headway/IMG_1965.PNG",
+      "fuente": "IMG_1965.PNG",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "sha256": "916108a81a1dbe977d668faf6aeaa4706dce21a6f475d7712912673a7de9a78a"
+    },
+    {
+      "titulo": "El código de las mentes extraordinarias",
+      "archivo": "./assets/comparacion-headway/IMG_1967.PNG",
+      "fuente": "IMG_1967.PNG",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "sha256": "23c2754636ceb0c345c9b079f91f3cc51b58caff57da511776cf19cfa863f149"
+    },
+    {
+      "titulo": "Tu miedo es tu poder",
+      "archivo": "./assets/comparacion-headway/IMG_1972.PNG",
+      "fuente": "IMG_1972.PNG",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "sha256": "80419157040b2a8ee715f9e2b4343fd5c54b70f5f04491599fc7cc3adbf00581"
+    },
+    {
+      "titulo": "La felicidad es el camino",
+      "archivo": "./assets/comparacion-headway/IMG_1975.PNG",
+      "fuente": "IMG_1975.PNG",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "sha256": "cfff5864f2e87dcb6499d49e76b9552b123769d321b4ff00fbe74f8020a0d93a"
+    },
+    {
+      "titulo": "El año que cambiará tu vida",
+      "archivo": "./assets/comparacion-headway/IMG_1968.PNG",
+      "fuente": "IMG_1968.PNG",
+      "crop": [
+        192,
+        156,
+        366,
+        549
+      ],
+      "sha256": "bdde1e26e1782fca7e4c1005db6e23f5a88a44e989741655da0943f97e9ad5e4"
+    }
+  ],
+  "curva": [
+    {
+      "id": "pensamiento-positivo",
+      "titulo": "El poder del pensamiento positivo",
+      "archivo": "./assets/./portadas-aportadas/pensamiento-positivo-1e869009aa.webp",
+      "autor": "Norman Vincent Peale"
+    },
+    {
+      "id": "sanate",
+      "titulo": "Sánate",
+      "archivo": "./assets/./portadas-aportadas/sanate-5b86872607.webp",
+      "autor": "Nicole LePera"
+    },
+    {
+      "id": "hazte-la-cama",
+      "titulo": "Hazte la cama",
+      "archivo": "./assets/./portadas-aportadas/hazte-la-cama-f1a54eb54a.webp",
+      "autor": "William H. McRaven"
+    },
+    {
+      "id": "gente-exitosa-desayuno",
+      "titulo": "Qué hace la gente exitosa antes del desayuno",
+      "archivo": "./assets/./portadas-aportadas/gente-exitosa-desayuno-4cadb1e666.webp",
+      "autor": "Laura Vanderkam"
+    },
+    {
+      "id": "deja-de-chingarte",
+      "titulo": "¡Deja de chingarte!",
+      "archivo": "./assets/./portadas-aportadas/deja-de-chingarte-ed97811210.webp",
+      "autor": "Gary John Bishop"
+    },
+    {
+      "id": "suprimir-preocupaciones",
+      "titulo": "Cómo suprimir las preocupaciones y disfrutar de la vida",
+      "archivo": "./assets/./portadas-aportadas/suprimir-preocupaciones-efaf782310.webp",
+      "autor": "Dale Carnegie"
+    },
+    {
+      "id": "poder-mente-subconsciente",
+      "titulo": "El poder de tu mente subconsciente",
+      "archivo": "./assets/portadas-generadas/poder-mente-subconsciente-b724349be2.webp",
+      "autor": "Joseph Murphy"
+    },
+    {
+      "id": "sin-gasolina",
+      "titulo": "Sin gasolina",
+      "archivo": "./assets/portadas-generadas/sin-gasolina-d187a97e30.webp",
+      "autor": "Jonice Webb"
+    },
+    {
+      "id": "autentica-felicidad",
+      "titulo": "La auténtica felicidad",
+      "archivo": "./assets/portadas-generadas/autentica-felicidad-19d273b028.webp",
+      "autor": "Martin Seligman"
+    },
+    {
+      "id": "caer-bien-90-segundos",
+      "titulo": "Cómo caer bien a los demás en menos de 90 segundos",
+      "archivo": "./assets/portadas-generadas/caer-bien-90-segundos-1b961745bb.webp",
+      "autor": "Nicholas Boothman"
+    },
+    {
+      "id": "trece-cosas-mentalmente-fuertes",
+      "titulo": "13 cosas que las personas mentalmente fuertes no hacen",
+      "archivo": "./assets/portadas-generadas/trece-cosas-mentalmente-fuertes-1ff952e486.webp",
+      "autor": "Amy Morin"
+    },
+    {
+      "id": "sindrome-de-la-impostora",
+      "titulo": "El síndrome de la impostora",
+      "archivo": "./assets/portadas-generadas/sindrome-de-la-impostora-49d831ea14.webp",
+      "autor": "Élisabeth Cadoche y Anne de Montarlot"
+    }
+  ]
+}

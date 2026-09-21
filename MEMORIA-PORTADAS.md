@@ -18,3 +18,5 @@ Trabajar una a una conforme el usuario envíe los encargos individuales. Su nuev
 Los resúmenes y las portadas ya instaladas se conservan. Guardar esta memoria y los cambios del sistema en GitHub para poder recuperarlos en otras sesiones del proyecto.
 
 Última corrección del 21 de septiembre: mensajes concretos que expliquen el contenido, sin fórmulas vagas como «acabó explicando a España». Variar de forma deliberada tamaño, forma, color y colocación del título y del mensaje, además del motivo y la composición. La familia común no impone una maqueta ni una jerarquía idénticas. Consultar la actualización prioritaria del prompt maestro y de Preferencias-del-usuario.md. En la app, comparar el conjunto mediante la vista compacta de «Todos los libros».
+
+El usuario pide después comparar la armonía de Headway y Curva. Se conserva una vista conjunta en `docs/comparar-portadas.html` y el análisis visual de la muestra en `referencias/portadas/comparacion-2026-09-21/LEEME.md`. Recuperar esa comparación al revisar el lenguaje gráfico del catálogo; no confundir variedad de ideas y composición con cambiar de acabado de ilustración en cada cubierta.
