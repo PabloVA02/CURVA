@@ -54,7 +54,7 @@ function renderGallery(){
  filtered=records.filter(b=>(brand==='Curva'?b.marca==='Curva':b.marca!=='Curva'&&(brand==='all'||b.marca===brand))&&(place==='all'||b.mensaje===place)&&norm(b.titulo+' '+b.hallazgo+' '+b.familia).includes(query));
  observer.disconnect();q('#gallery').replaceChildren();
  for(const b of filtered){const card=document.createElement('button');card.className='card';card.type='button';card.dataset.id=b.id;card.setAttribute('aria-label','Estudiar '+b.titulo+' · '+b.marca);card.setAttribute('aria-pressed',String(current?.id===b.id));const cover=document.createElement('div');cover.className='cover';cover.append(art(b,{lazy:true}));const name=document.createElement('b');name.textContent=b.titulo;const info=document.createElement('small');info.textContent=b.marca+' · '+placementLabels[b.mensaje];card.append(cover,name,info);card.addEventListener('click',()=>select(b,true));q('#gallery').append(card);}
- q('#count').textContent=filtered.length+' '+(filtered.length===1?'portada':'portadas')+' · Pulsa para estudiar su composición';q('#empty').hidden=filtered.length>0;updatePager();
+ q('#count').textContent=filtered.length+' '+(filtered.length===1?'portada':'portadas')+' · Pulsa para estudiar su composición';q('#empty').hidden=filtered.length>0;if(filtered.length){if(!current||!filtered.some(b=>b.id===current.id))select(filtered[0]);else q('#estudio').hidden=false;}else q('#estudio').hidden=true;updatePager();
 }
 function updatePager(){const idx=filtered.findIndex(b=>b.id===current?.id);q('#prev').disabled=idx<=0;q('#next').disabled=idx<0||idx===filtered.length-1;}
 function select(b,scroll=false){
@@ -74,7 +74,7 @@ q('#show-ours').addEventListener('click',()=>select(records.find(b=>b.id===61),t
 async function init(){try{
  const response=await fetch('./assets/atlas-portadas.json');if(!response.ok)throw new Error('No se han cargado las medidas');const data=await response.json();records=data.casos;
  observer=new IntersectionObserver(entries=>{for(const e of entries)if(e.isIntersecting){e.target.setAttribute('href',e.target.dataset.src);observer.unobserve(e.target);}}, {root:q('#gallery'),rootMargin:'350px'});
- q('#loading').hidden=true;renderGallery();select(records[0]);q('#compare-ref').append(art(records.find(b=>b.id===3)));q('#compare-ours').append(art(records.find(b=>b.id===61)));
+ q('#loading').hidden=true;renderGallery();q('#compare-ref').append(art(records.find(b=>b.id===3)));q('#compare-ours').append(art(records.find(b=>b.id===61)));
  for(const b of records.filter(r=>data.pliegue.some(p=>p.id===r.id))){const fig=document.createElement('figure'),wrap=document.createElement('div');wrap.className='strip';const [x,y,w,h]=b.crop;const svg=el('svg',{viewBox:`${x} ${y+h*.04} ${w*.08} ${h*.03}`,preserveAspectRatio:'none','aria-hidden':'true'});svg.append(el('image',{href:b.archivo,width:b.width||750,height:b.height||1624}));wrap.append(svg);const cap=document.createElement('figcaption');cap.textContent=b.marca+' · '+b.titulo;fig.append(wrap,cap);q('#folds').append(fig);}
  }catch(err){q('#loading').className='error';q('#loading').textContent='No se ha podido cargar el estudio. Recarga la página para volver a intentarlo.';console.error(err);}}
 init();
