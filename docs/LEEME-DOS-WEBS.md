@@ -6,17 +6,17 @@ En `docs/` hay dos cosas compiladas, hechas por dos sesiones distintas:
 
 - **La app de Curva**, compilada desde `prototipo-microaprendizaje` con
   `npx vite build --config vite.web.config.mjs`. Su paquete es
-  `docs/assets/index-Egb0ofd6.js`, y lleva los 291 libros con el texto de Pablo.
+  `docs/assets/index-BkE2Fy-4.js`, y lleva los 361 libros con el texto de Pablo.
 - **El catálogo de portadas**, de la otra sesión. Su paquete es
   `docs/assets/index-portadas-*.js`, y sirve para revisar las portadas nuevas.
 
 **`docs/index.html` apunta hoy al catálogo de portadas**, que es lo que estaba
 publicado cuando esta tanda de libros llegó. La app NO se ha pisado: su paquete
-está guardado aquí al lado, entero y con los 291 libros dentro.
+está guardado aquí al lado, entero y con los 361 libros dentro.
 
 Para que la raíz vuelva a servir la app, basta cambiar esa línea del `<head>`:
 
-    <script type="module" crossorigin src="./assets/index-Egb0ofd6.js"></script>
+    <script type="module" crossorigin src="./assets/index-BkE2Fy-4.js"></script>
 
 Y al revés para volver al catálogo. **Está pendiente de que Pablo diga cuál de
 las dos quiere en `https://pablova02.github.io/CURVA/`**, y la otra puede vivir
