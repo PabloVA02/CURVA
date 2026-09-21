@@ -3,9 +3,9 @@
   "id": "canones-agosto",
   "titulo": "Los cañones de agosto",
   "autor": "Barbara W. Tuchman",
-  "mensaje": null,
+  "mensaje": "El primer mes de la Primera Guerra Mundial",
   "tituloEnImagen": "Los\ncañones\nde agosto",
-  "motivo": "Cañón diagonal recortado y nube de humo que contiene el título",
+  "motivo": "Cañón diagonal y dos bocanadas conectadas: título en la superior y mensaje explicativo en la inferior izquierda",
   "paletaSolicitada": [
     "#1B47C4",
     "#F2B134",
@@ -43,17 +43,35 @@
       "sha256": "8289c708fa02c3a0907b97e5581b5bea7609c79c787c58edf6ff17b6c92896e4"
     },
     {
-      "archivo": "Portada.png",
+      "archivo": "Portada-sin-mensaje.png",
       "origen": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-9c2acb89-9347-4986-83f3-24b3d971216c.png",
       "dimensiones": [
         1024,
         1536
       ],
-      "sha256": "1a59cabb05f9568082ad8813c09989cd0aba374a07470269e2379ed943ad0064"
+      "sha256": "1a59cabb05f9568082ad8813c09989cd0aba374a07470269e2379ed943ad0064",
+      "estado": "Versión anterior sin mensaje, conservada"
+    },
+    {
+      "archivo": "Portada.png",
+      "origen": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-e3c7cd1c-7f7b-405d-973b-4a0daf7803b0.png",
+      "dimensiones": [
+        1024,
+        1536
+      ],
+      "sha256": "1e6161ba1da11a984e9c63dfdbd87639c379413e1623c3faf72d4feffe712ab3",
+      "estado": "Mensaje añadido por petición expresa del usuario"
     }
   ],
-  "archivoComparador": "./assets/comparacion-propuestas/canones-agosto-humo-1a59cabb05.png",
+  "archivoComparador": "./assets/comparacion-propuestas/canones-agosto-mensaje-1e6161ba1d.png",
   "instaladaEnApp": false,
-  "estado": "Nueva propuesta individual mostrada primero en el comparador; cubierta anterior conservada",
-  "revision": "Título y ñ correctos; 1024 × 1536; sin mensaje, autor ni palabras añadidas; doblez única. Revisión con referencia Wiser y una edición dirigida a reducir textura. No se certifica igualdad exacta con Headway ni cinco valores RGB únicos."
+  "estado": "Propuesta actualizada con el mensaje solicitado, primera en el comparador",
+  "revision": "Texto exacto revisado, título y composición conservados, mensaje integrado en una bocanada conectada al cañón. Archivo 1024 × 1536; doblez única. Se conserva la versión sin mensaje.",
+  "fechaActualizacion": "2026-09-22",
+  "mensajeEnImagen": "El primer mes\nde la Primera\nGuerra Mundial",
+  "referenciasMensaje": [
+    "IMG_1962.PNG",
+    "IMG_1916.PNG"
+  ],
+  "promptMensaje": "Prompt-mensaje-2026-09-22.txt"
 }

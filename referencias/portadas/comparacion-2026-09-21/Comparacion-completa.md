@@ -21,3 +21,5 @@ Revisión posterior del mismo día: el usuario rechaza la propuesta de la goma d
 ## Encargo posterior: Los cañones de agosto
 
 Se añade primero `canones-agosto-humo-1a59cabb05.png`, sin mensaje y con el título dentro de la nube del cañón. La propuesta de pensamiento positivo sigue inmediatamente después. El filtro «Nuevas propuestas» permite ver ambas. El catálogo de cubiertas guardadas y los 361 libros visibles en la app permanecen intactos. Originales, corrección, prompts y procedencia del nuevo encargo: `../individuales-2026-09-21/canones-agosto/`.
+
+El 22 de septiembre se actualiza esa propuesta a `canones-agosto-mensaje-1e6161ba1d.png`, con «El primer mes de la Primera Guerra Mundial» integrado en una segunda bocanada. La imagen anterior sin mensaje se conserva en el historial y en su ruta pública original.

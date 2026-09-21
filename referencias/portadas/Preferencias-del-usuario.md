@@ -142,3 +142,7 @@ El usuario pide variar todavía más, hacer cosas distintas y permite cualquier 
 ## Ajuste de la doblez tras completar el catálogo
 
 El usuario pide mejorar la doblez porque apenas se aprecia y no parece una encuadernación. Debe notarse un poco más como un pliegue real: una franja estrecha de luz en el lomo, una hendidura oscura y una transición suave a la tapa. Aplicar el acabado de forma consistente en las tarjetas y fichas de la app y en la galería, proporcionado al tamaño de la cubierta. Mantener los dibujos originales. Sigue sin contorno blanco, bloque de páginas ni perspectiva 3D.
+
+## Caso concreto · Los cañones de agosto · 22 de septiembre
+
+Tras ver la versión sin frase, el usuario pide añadir «El primer mes de la Primera Guerra Mundial» como en Headway. Para este libro el mensaje sí se incluye y se integra en el dibujo; la posibilidad general de omitir mensajes en otras cubiertas sigue vigente. El historial se conserva en `individuales-2026-09-21/canones-agosto/`.
