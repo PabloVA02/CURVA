@@ -17,3 +17,7 @@ Se mantienen el catálogo activo y todos sus resúmenes sin cambios. «Todas las
 La nueva propuesta se conserva en `../individuales-2026-09-21/pensamiento-positivo/`, con las dos imágenes mostradas, ambos prompts, fuente editorial y registro. Generador integrado; sin modificación externa de los píxeles.
 
 Revisión posterior del mismo día: el usuario rechaza la propuesta de la goma de borrar. La primera tarjeta muestra ahora la revisión con perfil azul y llave de cuerda, archivada en `../individuales-2026-09-21/pensamiento-positivo-llave/`. Se conserva el PNG anterior y su historial. Los recuentos no cambian.
+
+## Encargo posterior: Los cañones de agosto
+
+Se añade primero `canones-agosto-humo-1a59cabb05.png`, sin mensaje y con el título dentro de la nube del cañón. La propuesta de pensamiento positivo sigue inmediatamente después. El filtro «Nuevas propuestas» permite ver ambas. El catálogo de cubiertas guardadas y los 361 libros visibles en la app permanecen intactos. Originales, corrección, prompts y procedencia del nuevo encargo: `../individuales-2026-09-21/canones-agosto/`.

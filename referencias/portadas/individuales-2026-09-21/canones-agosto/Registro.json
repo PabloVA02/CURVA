@@ -1,0 +1,59 @@
+{
+  "fecha": "2026-09-21",
+  "id": "canones-agosto",
+  "titulo": "Los cañones de agosto",
+  "autor": "Barbara W. Tuchman",
+  "mensaje": null,
+  "tituloEnImagen": "Los\ncañones\nde agosto",
+  "motivo": "Cañón diagonal recortado y nube de humo que contiene el título",
+  "paletaSolicitada": [
+    "#1B47C4",
+    "#F2B134",
+    "#F2603C",
+    "#12307F",
+    "#FAF6EE"
+  ],
+  "numeroDePaletaAsignadoPorUsuario": null,
+  "criterioPaleta": "Elección para este encargo, sin atribuir al usuario un número de la rueda.",
+  "herramienta": "image_gen integrado",
+  "modo": "Rediseño con referencias y corrección posterior de acabado",
+  "referencias": [
+    "IMG_1972.PNG",
+    "IMG_1862.PNG",
+    "IMG_1938.PNG"
+  ],
+  "fuenteContenido": "https://www.penguinrandomhouse.com/books/180851/the-guns-of-august-by-barbara-w-tuchman/",
+  "imagenes": [
+    {
+      "archivo": "Portada-anterior.webp",
+      "origen": "docs/assets/canones-agosto-BlQvxYGQ.webp",
+      "dimensiones": [
+        520,
+        780
+      ],
+      "sha256": "88529d3d0312cf4465917fe1f620c0566d8b69529b1d0f02907a80610d63dd71"
+    },
+    {
+      "archivo": "Version-inicial.png",
+      "origen": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-a693e08a-a9f3-4016-96f7-930c3c13b566.png",
+      "dimensiones": [
+        1024,
+        1536
+      ],
+      "sha256": "8289c708fa02c3a0907b97e5581b5bea7609c79c787c58edf6ff17b6c92896e4"
+    },
+    {
+      "archivo": "Portada.png",
+      "origen": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-9c2acb89-9347-4986-83f3-24b3d971216c.png",
+      "dimensiones": [
+        1024,
+        1536
+      ],
+      "sha256": "1a59cabb05f9568082ad8813c09989cd0aba374a07470269e2379ed943ad0064"
+    }
+  ],
+  "archivoComparador": "./assets/comparacion-propuestas/canones-agosto-humo-1a59cabb05.png",
+  "instaladaEnApp": false,
+  "estado": "Nueva propuesta individual mostrada primero en el comparador; cubierta anterior conservada",
+  "revision": "Título y ñ correctos; 1024 × 1536; sin mensaje, autor ni palabras añadidas; doblez única. Revisión con referencia Wiser y una edición dirigida a reducir textura. No se certifica igualdad exacta con Headway ni cinco valores RGB únicos."
+}
