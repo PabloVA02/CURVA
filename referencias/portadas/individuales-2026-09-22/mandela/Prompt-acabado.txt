@@ -1,0 +1,9 @@
+Use case: precise-object-edit.
+Edit image 1, the orange Mandela cover. Make ONE targeted correction: flatten the finish of every illustration shape to the perfectly even solid-color drawing of Headway in reference image 2. Keep the entire existing composition, word placement, font proportions, diagonal ballot, broken barbed wire, large X, ballot box, narrow left binding crease and EXACT words unchanged.
+
+Remove ALL cloudy shading, surface texture, gradients and mottling from the orange background, ivory ballot, navy title, green word “libertad”, green X, wire, lid and front face of the green box. Replace each surface with one perfectly uniform base ink. It should look like the clean flat screen artwork in the supplied Headway reference, not painted paper, print texture or rendered 3D. The box's lid may remain a different SOLID green/navy plane, never a smoothly shaded surface. The warm side strip can remain uniformly burnt orange. Preserve gently imperfect drawn silhouettes.
+
+Only the narrow left binding crease may retain subtle tonal variation. No additional shadows, edge bevel, white border or cast shadows. Keep 1024 × 1536 full-bleed cover and all typography readable and identical. No other changes, additions or words.
+
+Exact title: El largo camino / hacia la / libertad.
+Exact message: La vida de Mandela / y su lucha contra / el apartheid.
