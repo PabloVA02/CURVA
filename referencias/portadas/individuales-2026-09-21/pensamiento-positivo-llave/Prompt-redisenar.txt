@@ -1,0 +1,21 @@
+Redesign IMAGE 1 completely. It is the rejected cover for the book "El poder del pensamiento positivo". Preserve ONLY its book title and the subtitle wording below; replace ALL of its drawing, layout, typography and colors.
+
+IMAGE 2 (Headway, elephant/profile cover) is the PRIMARY ART DIRECTION to match closely: its bold flat illustrated shapes, expressive silhouette, purposeful overlap, scale of lettering relative to illustration, saturated color, subtle bookbinding groove and corner finish. IMAGE 3 (Headway, puppet/fear cover) reinforces the simple drawn storytelling and typographic restraint. Do not inherit the rejected purple cover's bland giant-type poster style. The requested output should look like a member of this exact Headway cover collection, with a new illustration for this book. ONLY the cover, not any screenshot UI.
+
+New visual idea: giving your confidence fresh energy, illustrated as a BLUE HUMAN PROFILE with an oversized GOLDEN CLOCKWORK WIND-UP KEY entering the back of its head. Draw a delightful, confident, graphic profile rather than a portrait. One simple cream eye with a dark dot looking slightly upwards, one small assured smile; no realistic anatomy. The face points RIGHT and is boldly cropped by the right and bottom edges. Its outer silhouette is deep midnight navy, with a large cobalt-blue face plane nested inside. The key comes in from the LEFT at a lively diagonal, with TWO broad rounded lobes and two holes showing the coral background. It must read as a playful hand-drawn winding key with organic curves, NOT a photoreal metal key or a technical icon. The large key and profile overlap as ONE strong editorial metaphor; the head is not centered like a clipart icon. No gears, no sun, no clouds, no eraser, no tiny decorative objects.
+
+Use the expressive, flat, slightly quirky curve design and decisive contrasting planes of IMAGE 2. Broad calm areas, shapes cropped by the edges, strong asymmetry. The navy silhouette creates a continuous dark field behind the title. Coral remains visible as a broad crescent down the left. Let the gold key cross that crescent into the head. Give the lower part a quiet dark field for the message. Keep flat ink; don't shade the head into a 3D character.
+
+Text must be drawn with the SAME rounded geometric bold sans appearance and NORMAL-WIDTH open letterforms as the primary Headway reference. The title has the scale of that reference's title, NOT the enormous size in IMAGE 1; set it comfortably inside the upper navy field with room on every side. Warm cream, three lines:
+El poder del
+pensamiento
+positivo
+
+Subtitle in warm cream, clearly lighter and smaller than the title but large enough for a phone card, three lines in the calm lower navy area:
+Fortalece tu confianza
+y afronta tus
+preocupaciones con fe
+
+Five base inks: saturated coral orange #F15B34; vivid cobalt #2862D4; deep navy #04163C; golden yellow #FFCB27; warm cream #F8EBDD. Flat colors throughout the drawing. No grain, mottling, paper, diffuse shadows, airbrush or lighting gradients. No extra words, author, logos or watermarks.
+
+Match the actual book finish visible in IMAGE 2: restrained rounded corners, ONE narrow vertical binding crease just inside the left edge, a soft light ridge next to a slightly darker tonal groove in the local coral color. It should look like that reference cover's binding, not several straight stripes or a thick embossed band. No white border and no page stack. Full-bleed flat front cover, 1024x1536 pixels, 2:3. The binding is the only softly shaded part. One polished final image.

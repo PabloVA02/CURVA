@@ -17,3 +17,5 @@ Se revisaron las referencias originales IMG_1969.PNG e IMG_1966.PNG y se aportar
 - **Registro.json:** dimensiones, hashes y procedencia.
 
 Modo: herramienta integrada image_gen, edición con referencias. La herramienta no expone un selector ni un identificador de modelo. Ambas imágenes se conservan sin retoque externo. Persisten pequeñas variaciones tonales; no se certifican cinco colores exactos ni una tipografía comercial concreta. La propuesta queda archivada para revisión, sin sustituir por ahora la cubierta instalada.
+
+Revisión posterior: el usuario rechaza esta propuesta porque no se parece a Headway. Se conserva completa como historial. La composición rehecha está en [pensamiento-positivo-llave](../pensamiento-positivo-llave/LEEME.md).

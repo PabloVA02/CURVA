@@ -40,9 +40,10 @@
     }
   ],
   "instaladaEnApp": false,
-  "estado": "Propuesta individual archivada",
+  "estado": "Propuesta rechazada por el usuario: no se parece a Headway",
   "referencias": [
     "IMG_1969.PNG",
     "IMG_1966.PNG"
-  ]
+  ],
+  "revisionPosterior": "../pensamiento-positivo-llave/"
 }

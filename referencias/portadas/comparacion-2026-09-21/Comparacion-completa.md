@@ -15,3 +15,5 @@ La vista `docs/comparar-portadas.html` presenta cuatro cubiertas por fila en cad
 Se mantienen el catálogo activo y todos sus resúmenes sin cambios. «Todas las guardadas» pertenece solamente a esta comparación; los libros archivados no reaparecen en la app.
 
 La nueva propuesta se conserva en `../individuales-2026-09-21/pensamiento-positivo/`, con las dos imágenes mostradas, ambos prompts, fuente editorial y registro. Generador integrado; sin modificación externa de los píxeles.
+
+Revisión posterior del mismo día: el usuario rechaza la propuesta de la goma de borrar. La primera tarjeta muestra ahora la revisión con perfil azul y llave de cuerda, archivada en `../individuales-2026-09-21/pensamiento-positivo-llave/`. Se conserva el PNG anterior y su historial. Los recuentos no cambian.
