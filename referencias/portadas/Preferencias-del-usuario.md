@@ -2,6 +2,8 @@
 
 ## Sistema vigente · 21 de septiembre de 2026
 
+Corrección posterior sobre «De Riotinto a la Roja»: el usuario pide **una sola portada**, más dibujo como las referencias Headway, y encarga inventar un diseño nuevo. No entregar varias versiones sucesivas por iniciativa propia. Para este nuevo diseño queda sustituida la escena detallada del valle minero anterior; conservar el título y mensaje y reforzar el lenguaje gráfico. Las propuestas anteriores se guardan como historial.
+
 El usuario aporta dos ZIP nuevos de referencias y el documento «SISTEMA DE PORTADAS · CURVA», pide analizarlos con profundidad, aplicar el prompt y afinarlo si ayuda a la belleza y armonía del conjunto. A partir de ahora enviará un prompt individual por portada: trabajar una a una, sin iniciar nuevas tandas por instrucciones antiguas.
 
 Consultar [Prompt maestro afinado](sistema-2026-09-21/Prompt-maestro.md), [análisis](sistema-2026-09-21/Analisis.md) y [original sin cambios](sistema-2026-09-21/Prompt-original.txt). Los ZIP se conservan íntegros en `sistema-2026-09-21/originales/`; son 134 PNG y 123 imágenes distintas por SHA-256. Hay once hojas de contacto con la revisión del conjunto.

@@ -1,0 +1,28 @@
+{
+  "fecha": "2026-09-21",
+  "titulo": "De Riotinto a la Roja",
+  "encargo": "hazme solo una portada, y tiene que ser mas dibujo como las de headway tio, ese tipo de diseño, inventate tu uno",
+  "idea": "Una vagoneta sale de la mina llevando un balón enorme en lugar de carbón.",
+  "motivos": [
+    "vagoneta minera",
+    "boca de mina",
+    "balón de fútbol sobredimensionado",
+    "raíles curvos"
+  ],
+  "referenciasRevisadas": [
+    "IMG_1938.PNG",
+    "IMG_1969.PNG"
+  ],
+  "imagen": "Portada.png",
+  "prompt": "Prompt.txt",
+  "dimensiones": [
+    1024,
+    1536
+  ],
+  "sha256": "a740bb24b4b3d7a7f19aed73779d69fcff017f4b432770f99086711545ea542b",
+  "herramienta": "image_gen integrada",
+  "numeroDeGeneracionesEnEsteEncargo": 1,
+  "instaladaEnApp": false,
+  "estado": "Propuesta individual mostrada al usuario",
+  "observacion": "El usuario pide una sola propuesta nueva, con libertad para inventar la escena y reforzar el lenguaje de dibujo de Headway. Se conservan aparte las propuestas anteriores."
+}
