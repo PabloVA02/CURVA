@@ -1,5 +1,7 @@
 # Portadas de Curva
 
+Memoria permanente solicitada expresamente por el usuario: leer `MEMORIA-PORTADAS.md` al retomar trabajo de portadas, también en nuevas sesiones. El sistema se aplica a todos los encargos futuros de Curva hasta que el usuario lo cambie.
+
 Antes de crear o modificar portadas, consultar `referencias/portadas/Preferencias-del-usuario.md` y el sistema vigente `referencias/portadas/sistema-2026-09-21/Prompt-maestro.md`. La última aclaración del usuario prevalece sobre las preferencias anteriores. Revisar las referencias originales de Headway/Wiser y el historial para evitar repetir dibujos y composiciones.
 
 El criterio vigente del 21 de septiembre de 2026 fija una familia sans geométrica común y dos niveles de texto, sustituyendo la antigua instrucción de variar la familia tipográfica. Seguir la rueda de doce paletas según el número del usuario; cinco tintas base, dibujo editorial plano, mayoría sin personas, motivos nuevos y composiciones distintas. La belleza y la legibilidad en móvil se revisan en cada cubierta y en el conjunto. El mensaje debe explicar el libro. Si al 38 % del título no se lee, ampliarlo conservando dos niveles; usar manchas de la misma paleta para corregir el contraste. Doblez tonal estrecha junto al 2 % izquierdo, aplicada una sola vez, sin contorno blanco, canto de páginas ni perspectiva. Ver `referencias/portadas/sistema-2026-09-21/Analisis.md` para las mejoras al prompt original y su fundamento.
