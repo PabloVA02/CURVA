@@ -8,6 +8,8 @@ Trabaja **una portada por encargo**, con el número, título, mensaje y contenid
 
 ## 1. Formato y acabado común
 
+**Corrección operativa tras el análisis profundo solicitado:** leer `../comparacion-2026-09-21/Diagnostico-profundo.md` antes del siguiente encargo. Definir primero una relación visual específica y la organización conjunta de forma, texto y fondo. No usar letras extremadamente pesadas y condensadas por defecto, ni confundir cambiar el objeto y el orden de tres bandas con una composición nueva. Si falla la estructura, permitir revisarla antes de limitar la edición a sombras o textura. Este procedimiento mantiene las restricciones y los textos autorizados del usuario; no convierte las observaciones sobre Headway en reglas universales.
+
 - Cubierta frontal completa, a sangre, 1024 × 1536 px y proporción 2:3. Sin escena alrededor ni maqueta de un libro.
 - Esquinas ligeramente redondeadas, sin halo ni marco blanco. Mantener el mismo radio visual en la colección.
 - Doblez de encuadernación junto al 2 % del borde izquierdo: una franja estrecha de luz y un surco oscuro contiguo, derivados del color local. Visible a tamaño de móvil y discreta. No ocupar una banda ancha ni invadir el texto.
