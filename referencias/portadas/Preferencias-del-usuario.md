@@ -1,5 +1,22 @@
 # Preferencias visuales de las portadas de Curva
 
+## Sistema vigente · 21 de septiembre de 2026
+
+El usuario aporta dos ZIP nuevos de referencias y el documento «SISTEMA DE PORTADAS · CURVA», pide analizarlos con profundidad, aplicar el prompt y afinarlo si ayuda a la belleza y armonía del conjunto. A partir de ahora enviará un prompt individual por portada: trabajar una a una, sin iniciar nuevas tandas por instrucciones antiguas.
+
+Consultar [Prompt maestro afinado](sistema-2026-09-21/Prompt-maestro.md), [análisis](sistema-2026-09-21/Analisis.md) y [original sin cambios](sistema-2026-09-21/Prompt-original.txt). Los ZIP se conservan íntegros en `sistema-2026-09-21/originales/`; son 134 PNG y 123 imágenes distintas por SHA-256. Hay once hojas de contacto con la revisión del conjunto.
+
+- Una familia sans geométrica común, tipo Poppins, y solo dos niveles de texto. Esta instrucción sustituye las anteriores de variar la familia en cada diseño. Variar escena, escala, encuadre, composición y posición de título y mensaje.
+- 1024 × 1536 px, cubierta frontal a sangre, sin maqueta. Rueda de doce paletas numeradas, cinco tintas base y fondo visible aproximadamente 35–45 %.
+- Dibujo editorial plano, una idea desarrollada mediante relaciones entre formas, sin relleno decorativo ni motivo aislado por defecto. Mayoría sin personas; cuando las haya, rasgos gráficos muy simples. Consultar el historial para no repetir motivos.
+- Texto exacto del encargo. Mensaje concreto de 8–13 palabras. Revisar a 170 px; ampliar el mensaje si el 38 % inicial del título lo vuelve ilegible, conservando dos niveles. Corregir el contraste con campos de las tintas existentes, especialmente en las paletas roja y turquesa.
+- Doblez tonal estrecha junto al 2 % del borde izquierdo; una sola aplicación, sin marco blanco, páginas ni perspectiva. Suavizado y doblez son excepciones técnicas a los cinco colores base, no permiso para modelar la ilustración.
+- Revisar también una cuadrícula con las vecinas reales. Guardar prompt, referencias, imágenes, variantes y registro de motivos. No modificar resúmenes ni rehacer cubiertas existentes por actualizar el sistema.
+
+Las notas siguientes se conservan como historial; en caso de conflicto prevalece este sistema y cualquier aclaración posterior del usuario.
+
+## Historial anterior
+
 Actualizadas el 12 de septiembre de 2026 con la corrección expresa del usuario.
 
 - Referencia principal: las portadas de Salud aportadas por el usuario y la composición editorial de sus ejemplos de Headway.

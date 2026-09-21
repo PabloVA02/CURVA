@@ -1,0 +1,242 @@
+[
+  {
+    "numero": 1,
+    "fondo": "#1B47C4",
+    "tintas": [
+      "#F2B134",
+      "#F2603C",
+      "#12307F"
+    ],
+    "texto": "#FAF6EE",
+    "contrasteTextoFondo": 7.0972,
+    "fondosTextoAptos": [
+      {
+        "color": "#1B47C4",
+        "contraste": 7.0972
+      },
+      {
+        "color": "#12307F",
+        "contraste": 11.1009
+      }
+    ]
+  },
+  {
+    "numero": 2,
+    "fondo": "#EFE4D2",
+    "tintas": [
+      "#C8432A",
+      "#2F6140",
+      "#E0A24A"
+    ],
+    "texto": "#14213D",
+    "contrasteTextoFondo": 12.7014,
+    "fondosTextoAptos": [
+      {
+        "color": "#EFE4D2",
+        "contraste": 12.7014
+      },
+      {
+        "color": "#E0A24A",
+        "contraste": 7.1778
+      }
+    ]
+  },
+  {
+    "numero": 3,
+    "fondo": "#D93F2B",
+    "tintas": [
+      "#F2B134",
+      "#7A1F17",
+      "#14213D"
+    ],
+    "texto": "#FAF0DC",
+    "contrasteTextoFondo": 3.9526,
+    "fondosTextoAptos": [
+      {
+        "color": "#7A1F17",
+        "contraste": 9.1176
+      },
+      {
+        "color": "#14213D",
+        "contraste": 14.1193
+      }
+    ]
+  },
+  {
+    "numero": 4,
+    "fondo": "#0B1430",
+    "tintas": [
+      "#F2603C",
+      "#3FB8A0",
+      "#F2B134"
+    ],
+    "texto": "#F4EBD9",
+    "contrasteTextoFondo": 15.3261,
+    "fondosTextoAptos": [
+      {
+        "color": "#0B1430",
+        "contraste": 15.3261
+      }
+    ]
+  },
+  {
+    "numero": 5,
+    "fondo": "#F5C233",
+    "tintas": [
+      "#D93F2B",
+      "#2F6140",
+      "#FAF6EE"
+    ],
+    "texto": "#14213D",
+    "contrasteTextoFondo": 9.6199,
+    "fondosTextoAptos": [
+      {
+        "color": "#F5C233",
+        "contraste": 9.6199
+      },
+      {
+        "color": "#FAF6EE",
+        "contraste": 14.8187
+      }
+    ]
+  },
+  {
+    "numero": 6,
+    "fondo": "#CBD6C4",
+    "tintas": [
+      "#C8432A",
+      "#2F4A3C",
+      "#E8DCC6"
+    ],
+    "texto": "#14213D",
+    "contrasteTextoFondo": 10.6148,
+    "fondosTextoAptos": [
+      {
+        "color": "#CBD6C4",
+        "contraste": 10.6148
+      },
+      {
+        "color": "#E8DCC6",
+        "contraste": 11.7778
+      }
+    ]
+  },
+  {
+    "numero": 7,
+    "fondo": "#2BA89B",
+    "tintas": [
+      "#F2603C",
+      "#0E5B55",
+      "#14213D"
+    ],
+    "texto": "#FAF0DC",
+    "contrasteTextoFondo": 2.5863,
+    "fondosTextoAptos": [
+      {
+        "color": "#0E5B55",
+        "contraste": 7.0145
+      },
+      {
+        "color": "#14213D",
+        "contraste": 14.1193
+      }
+    ]
+  },
+  {
+    "numero": 8,
+    "fondo": "#141210",
+    "tintas": [
+      "#F2B134",
+      "#D93F2B",
+      "#7C8F6A"
+    ],
+    "texto": "#F4EBD9",
+    "contrasteTextoFondo": 15.7792,
+    "fondosTextoAptos": [
+      {
+        "color": "#141210",
+        "contraste": 15.7792
+      }
+    ]
+  },
+  {
+    "numero": 9,
+    "fondo": "#5B3FBF",
+    "tintas": [
+      "#F5C233",
+      "#F2603C",
+      "#33228A"
+    ],
+    "texto": "#FAF6EE",
+    "contrasteTextoFondo": 6.699,
+    "fondosTextoAptos": [
+      {
+        "color": "#5B3FBF",
+        "contraste": 6.699
+      },
+      {
+        "color": "#33228A",
+        "contraste": 11.2185
+      }
+    ]
+  },
+  {
+    "numero": 10,
+    "fondo": "#DCD3C4",
+    "tintas": [
+      "#C8432A",
+      "#6E7A5E",
+      "#EFE9DC"
+    ],
+    "texto": "#14213D",
+    "contrasteTextoFondo": 10.7692,
+    "fondosTextoAptos": [
+      {
+        "color": "#DCD3C4",
+        "contraste": 10.7692
+      },
+      {
+        "color": "#EFE9DC",
+        "contraste": 13.2042
+      }
+    ]
+  },
+  {
+    "numero": 11,
+    "fondo": "#E8722C",
+    "tintas": [
+      "#2F6140",
+      "#A9451A",
+      "#FAF0DC"
+    ],
+    "texto": "#14213D",
+    "contrasteTextoFondo": 5.229,
+    "fondosTextoAptos": [
+      {
+        "color": "#E8722C",
+        "contraste": 5.229
+      },
+      {
+        "color": "#FAF0DC",
+        "contraste": 14.1193
+      }
+    ]
+  },
+  {
+    "numero": 12,
+    "fondo": "#2A1018",
+    "tintas": [
+      "#E8722C",
+      "#C8432A",
+      "#7C8F6A"
+    ],
+    "texto": "#F4EBD9",
+    "contrasteTextoFondo": 14.9541,
+    "fondosTextoAptos": [
+      {
+        "color": "#2A1018",
+        "contraste": 14.9541
+      }
+    ]
+  }
+]
