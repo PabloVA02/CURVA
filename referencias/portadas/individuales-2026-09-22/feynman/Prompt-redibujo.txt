@@ -1,0 +1,18 @@
+Redraw image 1, the violet Feynman cover, using the genuinely FLAT drawing of reference image 2, specifically Headway “Crea tu segundo cerebro” at lower right. This is a structural redrawing, not a cosmetic filter. The first image's safe is too much like a 3D product render and the message is too small. Correct both.
+
+Preserve the exact title, its three lines, colors, position and font:
+¿Está usted
+de broma,
+Sr. Feynman?
+
+Replace the safe with an editorial flat illustration made from a few crisp paper-cut silhouettes. View the yellow safe directly from the FRONT. Its body is a single yellow rounded rectangle, without a visible side face, underside, extruded thickness, bevel or highlight. Its opening is one flat dark-violet rectangle. Inside this dark opening, add ONE large ivory question mark: a bold graphic symbol of Feynman's curiosity. No numbers, additional letters or other objects.
+
+The coral safe door is open to the right, but depict its face essentially front-on as a broad flat panel, not a foreshortened 3D slab. Connect it to the yellow body with two tiny simple hinge tabs. The front face of the door is ivory, with only a narrow coral rim and one small coral combination dial at its top. Use a few dark tick strokes around the dial, no numbers. Enlarge this door face as necessary so the message fits naturally at a readable size. The open safe and the door should occupy the lower two-thirds of the illustration area as connected shapes, not a tiny icon floating in space.
+
+Exact message on the ivory door, deep violet, clean medium sans with natural width, no compressed or perspective-distorted text, in FOUR lines:
+Ciencia, bromas
+y curiosidad
+en la vida
+de un Nobel
+
+Every illustrated surface is a perfectly even solid flat fill, like the Headway reference. NO gradients, noise, mottling, material texture, light, reflections, shadows, thickness or 3D modeling anywhere in the safe. The only exception is the narrow tonal binding crease along the far-left edge of the cover. Keep the vivid violet background, coral, yellow, ivory and dark-violet palette. No white outline, pages or exterior shadow. Keep 1024 × 1536 full-bleed cover and rounded corners.

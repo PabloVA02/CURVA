@@ -1,0 +1,35 @@
+{
+  "libroId": "armas-germenes",
+  "titulo": "Armas, gérmenes y acero",
+  "autor": "Jared Diamond",
+  "fecha": "2026-09-22",
+  "estado": "Propuesta en comparador; portada instalada conservada",
+  "herramienta": "image_gen integrada",
+  "origen_generado": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-fbca5f5e-988d-4ef5-af72-ed27ee154b68.png",
+  "sha256": "feb425a90c199a6e5bd4daa71effb4c9b9757093681b855688f80398dd3819a6",
+  "archivo_publico": "docs/assets/comparacion-propuestas/armas-germenes-mensaje-feb425a90c.png",
+  "prompt": "Prompt-generacion.txt",
+  "referencias": [
+    "docs/assets/comparacion-headway/IMG_1968.PNG",
+    "docs/assets/comparacion-headway/IMG_1965.PNG"
+  ],
+  "mensaje": "Cómo la geografía y las epidemias dieron ventaja a unos pueblos",
+  "fuente_contenido": "https://www.penguin.co.uk/books/355771/guns-germs-and-steel-by-jared-diamond/9781448180202",
+  "paleta": [
+    "#D93F2B",
+    "#FAF0DC",
+    "#F2B134",
+    "#14213D",
+    "#7A1F17"
+  ],
+  "numero_usuario": null,
+  "resumen_confirmado": true,
+  "version_inicial": {
+    "origen_generado": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-3a4fe7bb-dd14-4aac-aa4f-35a2e76d0598.png",
+    "sha256": "2887366a04577234cc2d315d226007d64ca2306603836a196200115e719ffbc9",
+    "archivo_publico": "docs/assets/comparacion-propuestas/armas-germenes-espada-2887366a04.png",
+    "archivo": "Version-inicial.png",
+    "mensaje": "Por qué unos pueblos conquistaron a otros"
+  },
+  "prompt_edicion": "Prompt-mensaje.txt"
+}

@@ -1,0 +1,7 @@
+Correct ONLY the lower illustration in this existing 1024 x 1536 book cover. All typography, exact text, text sizes, upper layout, colors, left binding and corners must remain unchanged.
+
+Critical correction: from y=645 to y=952 there must be ABSOLUTELY NOTHING except smooth uniform teal background. The haystack and its pole are currently much too high. Move/redraw the whole haystack LOWER so the TOP OF THE WOODEN POLE starts at y=958 (62.4% of height), never above. Pole height about 65px. Dome begins around y=1010, has a BROAD ROUNDED low dome silhouette, not a tall conical pile. Keep the whole haystack horizontally centered, spanning approximately x=120 to x=865 at bottom and cropped by the bottom edge. Three curved simple toasted straw marks only. The right shadow is ONE completely flat toasted shape. No gradients or texture in the straw: uniform solid golden ochre.
+
+Ground band remains at y=1367 (89%). Preserve the tiny cream needle on the ground at bottom right, clearly separate from the straw with a generous visible green gap; never place it on the hay. Do not enlarge the needle. No added objects.
+
+Restore the newly exposed space from the old tall haystack with clean flat teal matching the background. Keep the full exact existing title and message unchanged. Only five base colors: #1E6F63 #E0A24A #C47028 #F4EBD9 #F5C233; ground/binding slight teal shade allowed. Strict flat editorial illustration, no realism, grain, metallic light or diffuse shading.

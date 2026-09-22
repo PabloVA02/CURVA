@@ -1,0 +1,34 @@
+Use case: style-transfer
+Asset type: one finished Spanish illustrated book cover for Curva, 1024 × 1536 px, 2:3.
+
+Redesign image 1 completely for the same book. Preserve only its exact Spanish book title and the meaning of its explanatory message. Replace the teal background, padlock and old layout with the new illustrated composition below. Return the cover alone, full bleed, never a phone screen or a mockup.
+
+INPUT ROLES
+Image 1: old Curva cover being redesigned. Do not copy its padlock or layout.
+Image 2: Headway “Atlas del corazón” screenshot, principal composition reference. Study ONLY the book cover: two interacting illustrated shapes contain the title and the smaller explanatory text. Copy its clean flat abstraction, confident typography, restrained detail, connected forms, rounded corners and narrow binding crease, not its heart/book subjects or words.
+Image 3: Headway “Tu miedo es tu poder” screenshot, principal drawing/finish reference. Study ONLY the book cover: clear silhouette, vivid flat background, decisive flat shapes, minimal detailing and the thin left book crease. No screenshot UI.
+Image 4: Wiser “El único juego en la ciudad” screenshot, secondary drawing reference for an object taking part in an action and shallow perspective constructed entirely with solid flat color. No hands, board, bank or symbols from that reference.
+
+IDEA AND COMPOSITION
+A large ivory ballot paper is entering a green ballot box; in doing so it has opened a dark barbed-wire barrier. The paper and the box are the two connected main shapes. Political freedom through the right to vote, an original editorial metaphor for Mandela's autobiography, not a technical diagram or a literal historical scene.
+Vivid orange full-bleed background. A wide ivory paper occupies most of the upper and central cover, tilted gently counterclockwise, with lively subtly irregular drawn edges. Its bottom edge disappears into a very dark narrow slot in the top of the large forest-green ballot box. The box occupies the lower third and extends off the right and bottom edges so this feels like an illustration with confident framing rather than an isolated icon. Indicate the lid with one flat dark plane, no lighting or rendered volume. Keep the front broad and essentially face-on for the message.
+Near the point where the paper meets the box, a single dark strand of barbed wire runs in from each side of the cover and is visibly broken apart around the paper. Just a few angular barbs and two curled free ends; never over the words. This narrow action zone gives the drawing meaning and detail, leaving both text areas calm. No extra objects or decorative filler. No people, hands, birds, flags, roads, padlocks, stars or confetti.
+
+TEXT AND TYPOGRAPHY
+Exactly the following words, nothing else: no author line, logos, labels, signature, numbers or pseudo-writing.
+Title entirely INSIDE the ivory ballot paper in deep navy geometric sans, crisp and readable, slightly following the paper's tilt. Natural mixed case. Make the final word “libertad” larger and forest green. Compact spacing with generous breathing room from paper edges. Three title lines:
+El largo camino
+hacia la
+libertad
+Under the title, one large hand-drawn green electoral X within a simple navy square makes the paper clearly a ballot. It is a graphic voting mark, not additional lettering. Keep this below the title, well separated from the wire.
+Message entirely INSIDE the front face of the green ballot box, in ivory clean sans medium weight, appreciably smaller than the title but large enough to read on a 170-pixel-wide cover. Three lines, with even spacing and comfortable margins:
+La vida de Mandela
+y su lucha contra
+el apartheid
+
+COLOR AND DRAWING
+Five base inks: vivid orange #E8722C, forest green #2F6140, burnt orange #A9451A, ivory #FAF0DC, deep navy #14213D. Orange is the exposed background; ivory paper and green box dominate the illustration; navy for fine structures and title; burnt orange may be used for one small flat side plane only if needed. Do not add colors merely to use all five. Maintain saturation and clean large masses, no beige wash.
+Make this a beautiful flat editorial drawing matching the supplied Headway artwork's degree of simplification. Slightly organic silhouettes, visually balanced asymmetric composition. No visible grain, paper texture, speckles, brush noise, gradients, soft shadows, highlights, shine, embossed letters or photoreal rendering. All illustration surfaces uniformly solid color. The tiny binding crease is the only tonal exception.
+
+FINISH
+Front cover fills the image. Gently rounded corners, no white outline, border, page edges or external drop shadow. One narrow vertical binding groove near the left edge like the Headway references: dark line near 2.5% width, narrow recovery of light near 4%, returning to the orange background by 6%. Subtle but readable; not a wide spine or folded triangular corner. Keep the artwork itself flat.

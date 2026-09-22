@@ -1,0 +1,26 @@
+Create ONE complete illustrated Spanish book cover, vertical 2:3, 1024 × 1536 px. Flat editorial DRAWING, not icon, diagram, photograph or 3D render. Use the supplied Headway screenshot ONLY as a reference for clean editorial color shapes, geometric lettering and subtle binding finish. Do not copy its objects, wording or phone UI. The following specific composition takes priority.
+
+SCENE: an enormous haystack in a field. Broad dome of golden straw, a wooden pole stuck into its top, and ONLY three curved strands marking its layers. It fills the lower portion and is cropped by the bottom edge. Center the dome horizontally; leave enough space at the right so a separate needle can lie on the ground. Ground horizon at 89% height, a horizontal band a slightly darker shade of the same background green.
+
+On the ground, to the RIGHT of the haystack and NOT touching it: a TINY sewing needle lying down, a thin cream line with a round eye at one end. It is minuscule relative to the haystack, clearly detached, on the ground rather than on the straw. No other objects: no people, animals, clouds, charts, coins or filler decoration. From 42% to 62% of image height, leave the background COMPLETELY EMPTY. This empty space is an intentional part of the design. Top of pole must stay below 62%.
+
+COMPOSITION: centered text block from 0% to 42% on clean background. Haystack from 62% to 100%. Everything horizontally centered except the deliberately separate tiny needle on the right. A flat irregular toasted shadow on the haystack's RIGHT side, no soft shadow.
+
+PALETTE, exactly these FIVE base inks: vivid deep teal green background #1E6F63; golden ochre hay #E0A24A; toasted strands, pole and hay shadow #C47028; cream text and needle #F4EBD9; bright yellow emphasized title #F5C233. Keep colors clear and saturated, not gray or muddy. No extra hues; the ground and binding may have only the specified slight tonal change of the background green.
+
+DRAWING: flat vector-like editorial poster illustration, big solid color masses, no black outlines. Gently irregular hand-drawn contours. No gradients, shine, realistic textures, all-over grain, 3D volume or render aesthetics. Only three spare curved straw marks; do not fill the haystack with hundreds of lines.
+
+TYPE: ONE heavy geometric sans family like Poppins, all text CENTERED. Title first two lines cream, approximately 74 px font size. Third line in bright yellow, enlarged or widened to fill the width between safe margins without clipping. Message regular, cream, approximately 42 px, two centered lines. Preserve these EXACT words, accents, capitalization and line breaks. No author name or any additional word, number, logo or signature.
+
+Title:
+El pequeño libro
+para invertir con
+SENTIDO COMÚN
+
+Message:
+Por qué comprar todo el mercado gana
+a intentar elegir a los ganadores
+
+Finish: slightly rounded corners. ONE discreet binding crease 2% from the left edge, narrow tonal light strip next to a slightly darker groove, both matching background. No frame, no white outline, no page edges or perspective. Cover is the full image, full bleed, never a mockup.
+
+NEVER: stock charts, upward arrows, currency, coins, recognizable faces, watermarks, photography, or the publisher's actual cover.

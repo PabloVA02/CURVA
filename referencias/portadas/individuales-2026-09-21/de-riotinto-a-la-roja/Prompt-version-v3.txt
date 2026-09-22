@@ -1,0 +1,33 @@
+Create ONE finished Spanish illustrated book cover, exact portrait 1024x1536, in strictly FLAT DIGITAL EDITORIAL ILLUSTRATION. Entire cover fills image. This is an original drawing with layered landscape depth, all surface fills absolutely uniform. Only five base colors. NO gradients, NO paper texture, NO grain, NO vintage distressing, NO lighting effects, NO vignettes, NO shading inside colored shapes. Use clean slightly hand-shaped vector-like paths, not ruler-perfect geometry, not a technical diagram.
+
+DESIGN in five inks only:
+Bone cream #EFE4D2 = all sky, football field lines and tiny ball.
+Terracotta #C8432A = dirt football pitch.
+Sage #6E7A5E = terraced far mining hillside.
+Dark green #2F4A3C = both text blocks, eight tiny players, near foreground ledge.
+Ochre #E0A24A = setting sun, thin faces of mine terraces, 3-4 tiny dust strokes.
+NO white or black. No extra hues. Especially do not shade the sky, sun, dirt or hills. Anti-aliasing and a VERY narrow left binding crease are the only technical tonal exceptions.
+
+A beautiful asymmetrical drawing of a football match in a terraced mining valley at sunset, viewed diagonally from a high terrace. Build depth ONLY through overlapping irregular planes, not tone gradients. Upper distant planes small, foreground planes large. Near ledge enters from bottom left and is cropped by bottom edge. The dirt football pitch lies slightly right of center on the flat valley floor, a foreshortened trapezoid narrower at far edge. Eight tiny dark green players in different simple running, waiting, raised-arm poses. No faces or anatomical detail. One tiny cream ball in air between two players. Thick slightly wobbly cream lime-painted boundary, halfway line, central circle, and two penalty boxes. Few short ochre dust strokes. Behind them, irregular broad sage terraces with ochre step faces. Behind the highest ridge, a low ochre sun partially hidden by it. Foreground dark green ledge with only 2-3 small irregular stones in flat silhouette.
+
+STRICT LAYOUT at 1024x1536:
+Sky and text = top 38%, y0–584. Sunset horizon y584.
+Background terraces ONLY between y584 and y829 (38–54%). Compress them vertically, only 3-4 overlapping broad mine steps, not a deep wall occupying half the cover.
+The WHOLE dirt pitch and all its field markings should fit between y829 and y1290 (54–84%). Pitch is entirely visible, subtly off-center right, no edge of the pitch runs out of the image. Four corners approximately (235,870), (690,835), (954,1235), (185,1260) with natural foreshortening; those are layout guidance only, must look drawn freely.
+Near dark green ledge is bottom y1290–1536 (84–100%), an irregular top contour, entering bottom-left, with 2–3 irregular stones only. Keep it fairly quiet so it does not dominate.
+Sun can rise above horizon, toward right, separated from text.
+
+TEXT exactly, accents perfect, left aligned, dark green. One geometric sans family similar to Poppins, TWO uniform text sizes only. Title extra bold, leading tight, x82, visible top near y154, approx 100px cap-height / 130px font-size. Title exactly TWO lines:
+De Riotinto
+a la Roja
+
+Below title, after one message line-height of space, regular same-family type around 38% of title height. EXACTLY these three lines:
+Cómo un juego que trajeron
+unos mineros británicos
+acabó explicando a España
+
+Title must fit in these two lines and text block ends above horizon. Clean sky behind all five lines. Every word must be exactly as provided. Do NOT add author, labels, numbers, captions, watermarks or logos.
+
+FINISH: absolutely frontal cover at full bleed, softly rounded corners. Only a very narrow quiet binding crease at x20: subtle tonal highlight next to tonal dark groove, no broad shadow. No border, no white outline, no page edges, no thickness, no mockup perspective. The LANDSCAPE has depth by overlapping shapes, the book cover itself does not have 3D volume.
+
+NO goalposts, floodlights, stands, crowd, flags, emblems, branded shirts, houses, trees, birds, clouds, green grass, photorealism, 3D render, realistic shadows, texture or gradient anywhere outside the tiny binding crease. Visually prioritize beautifully related irregular shapes and warm-to-cool color contrast. Crisp, flat, clean printed inks and carefully drawn simplicity.

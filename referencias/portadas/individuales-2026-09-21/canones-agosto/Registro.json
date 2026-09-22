@@ -1,0 +1,77 @@
+{
+  "fecha": "2026-09-21",
+  "id": "canones-agosto",
+  "titulo": "Los cañones de agosto",
+  "autor": "Barbara W. Tuchman",
+  "mensaje": "El primer mes de la Primera Guerra Mundial",
+  "tituloEnImagen": "Los\ncañones\nde agosto",
+  "motivo": "Cañón diagonal y dos bocanadas conectadas: título en la superior y mensaje explicativo en la inferior izquierda",
+  "paletaSolicitada": [
+    "#1B47C4",
+    "#F2B134",
+    "#F2603C",
+    "#12307F",
+    "#FAF6EE"
+  ],
+  "numeroDePaletaAsignadoPorUsuario": null,
+  "criterioPaleta": "Elección para este encargo, sin atribuir al usuario un número de la rueda.",
+  "herramienta": "image_gen integrado",
+  "modo": "Rediseño con referencias y corrección posterior de acabado",
+  "referencias": [
+    "IMG_1972.PNG",
+    "IMG_1862.PNG",
+    "IMG_1938.PNG"
+  ],
+  "fuenteContenido": "https://www.penguinrandomhouse.com/books/180851/the-guns-of-august-by-barbara-w-tuchman/",
+  "imagenes": [
+    {
+      "archivo": "Portada-anterior.webp",
+      "origen": "docs/assets/canones-agosto-BlQvxYGQ.webp",
+      "dimensiones": [
+        520,
+        780
+      ],
+      "sha256": "88529d3d0312cf4465917fe1f620c0566d8b69529b1d0f02907a80610d63dd71"
+    },
+    {
+      "archivo": "Version-inicial.png",
+      "origen": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-a693e08a-a9f3-4016-96f7-930c3c13b566.png",
+      "dimensiones": [
+        1024,
+        1536
+      ],
+      "sha256": "8289c708fa02c3a0907b97e5581b5bea7609c79c787c58edf6ff17b6c92896e4"
+    },
+    {
+      "archivo": "Portada-sin-mensaje.png",
+      "origen": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-9c2acb89-9347-4986-83f3-24b3d971216c.png",
+      "dimensiones": [
+        1024,
+        1536
+      ],
+      "sha256": "1a59cabb05f9568082ad8813c09989cd0aba374a07470269e2379ed943ad0064",
+      "estado": "Versión anterior sin mensaje, conservada"
+    },
+    {
+      "archivo": "Portada.png",
+      "origen": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-e3c7cd1c-7f7b-405d-973b-4a0daf7803b0.png",
+      "dimensiones": [
+        1024,
+        1536
+      ],
+      "sha256": "1e6161ba1da11a984e9c63dfdbd87639c379413e1623c3faf72d4feffe712ab3",
+      "estado": "Mensaje añadido por petición expresa del usuario"
+    }
+  ],
+  "archivoComparador": "./assets/comparacion-propuestas/canones-agosto-mensaje-1e6161ba1d.png",
+  "instaladaEnApp": false,
+  "estado": "Propuesta actualizada con el mensaje solicitado, primera en el comparador",
+  "revision": "Texto exacto revisado, título y composición conservados, mensaje integrado en una bocanada conectada al cañón. Archivo 1024 × 1536; doblez única. Se conserva la versión sin mensaje.",
+  "fechaActualizacion": "2026-09-22",
+  "mensajeEnImagen": "El primer mes\nde la Primera\nGuerra Mundial",
+  "referenciasMensaje": [
+    "IMG_1962.PNG",
+    "IMG_1916.PNG"
+  ],
+  "promptMensaje": "Prompt-mensaje-2026-09-22.txt"
+}

@@ -1,0 +1,30 @@
+/* Vista conjunta de portadas: solo Todos los libros. */
+.explorar .parrilla.parrilla-compacta {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 7px 6px;
+  padding: 0 10px;
+  margin-top: 14px;
+}
+.parrilla-compacta .ficha {
+  min-width: 0;
+  gap: 0;
+}
+.parrilla-compacta .ficha-arte {
+  width: 100%;
+  container-type: inline-size;
+}
+.parrilla-compacta .portada {
+  aspect-ratio: 2 / 3;
+  border-radius: 5px;
+}
+.parrilla-compacta .port {
+  --u: 1cqw !important;
+}
+.parrilla-compacta .ficha-pie {
+  display: none;
+}
+.parrilla-compacta .ficha:focus-visible {
+  outline: 2px solid #0096f9;
+  outline-offset: 2px;
+  border-radius: 5px;
+}

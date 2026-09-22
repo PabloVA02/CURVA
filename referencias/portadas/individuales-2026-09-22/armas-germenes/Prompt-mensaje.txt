@@ -1,0 +1,9 @@
+Edit this existing Spanish book cover. Change ONLY the subtitle at left beside the sword. Preserve the entire illustration, sword dissolution into dots, red background, title, palette, position of elements, binding crease and rounded corners. Keep 1024 x 1536 portrait dimensions.
+
+Remove the old subtitle «Por qué unos pueblos conquistaron a otros». Replace it with exactly these four lines:
+Cómo la geografía
+y las epidemias
+dieron ventaja
+a unos pueblos
+
+Use the same ivory geometric sans type and medium/regular weight as the old subtitle. Fit the longer lines into the open red space left of the blade without touching the sword. Start at the same left margin and around the same vertical position. Make the lettering as large and readable as that space allows, approximately 47–50 px, no tiny caption. This is a precise text replacement, not a redesign. No other changes or additional words.

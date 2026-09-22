@@ -1,0 +1,67 @@
+Crea una única portada ilustrada final para Curva. Aplica fielmente la dirección de arte siguiente, que prevalece sobre cualquier regla general de colección. Calidad editorial cuidada. No añadas elementos ni textos. La profundidad es pictórica, obtenida solo por superposición de planos de color sólido; el objeto cubierta permanece frontal y plano.
+
+Portada de libro ilustrada, vertical, proporción 2:3, 1024 × 1536 px.
+Es un DIBUJO, una escena ilustrada con profundidad, no un icono ni un diagrama ni un plano técnico.
+
+ESCENA
+Atardecer en un valle minero, visto desde lo alto de una de sus terrazas.
+
+PRIMER PLANO, abajo: el borde de la terraza en la que estamos, en verde muy oscuro, entrando por la esquina inferior izquierda y saliéndose del encuadre. Un borde irregular, con dos o tres piedras sueltas dibujadas con pocos trazos. Sirve para que el ojo tenga dónde apoyarse y para dar profundidad.
+
+PLANO MEDIO, el corazón de la portada: en el fondo del valle, un campo de fútbol de tierra roja terracota, visto en escorzo —un trapecio, más estrecho al fondo—. Encima, las líneas del campo trazadas en crema con trazo grueso y un poco tembloroso, como pintadas con cal: las bandas, el círculo central y las dos áreas. Sobre el campo, siete u ocho figuras diminutas jugando, siluetas planas de color verde oscuro, sin rasgos, cada una en una postura distinta —corriendo, parada, con el brazo levantado—. Un balón pequeño en el aire, crema, entre dos de ellas. Tres o cuatro trazos cortos de ocre a ras de suelo: el polvo que levantan.
+
+FONDO: la otra ladera del valle, con las terrazas de la mina escalonadas, resueltas en planos de verde salvia con el canto de cada escalón en ocre. Se superponen unas a otras y se van haciendo más pequeñas hacia arriba.
+
+Detrás de la ladera, medio tapado por ella, un sol bajo: un círculo plano de color ocre.
+
+CIELO: crema liso, sin nubes, sin pájaros, sin adornos. Ocupa la parte alta y es donde va el texto.
+
+Nada más. Ni focos, ni gradas, ni público, ni banderas, ni árboles, ni casas.
+
+CÓMO SE DIBUJA — esto es lo importante
+Es un dibujo hecho a mano, no una figura geométrica. Los contornos son ligeramente irregulares, como trazados con pincel: las terrazas no son escalones perfectos, las líneas del campo no son de regla, las piedras no son círculos.
+La profundidad se consigue apilando planos de color liso: primer plano más oscuro, fondo más claro. Nunca con degradados ni con luces suaves.
+Una sola dirección de luz, la del sol. Las sombras son manchas planas del color oscuro, nunca difuminadas.
+Los elementos se solapan entre sí. Nada está alineado ni centrado a la fuerza: la composición es asimétrica, el campo cae un poco a la derecha.
+Hay textura, pero mínima: unos pocos trazos sueltos para el polvo y la tierra. Nunca ruido ni grano por toda la imagen.
+PROHIBIDO: degradados, luces modeladas, brillos, sombras difuminadas, texturas fotográficas, volumen 3D, detalle anatómico, aspecto de render, aspecto de infografía y aspecto de plano cenital.
+
+COMPOSICIÓN
+0 % – 38 % de la altura: cielo crema limpio. Ahí va el texto y nada más.
+38 %: línea del horizonte, con el sol detrás de la ladera.
+38 % – 54 %: las terrazas del fondo.
+54 % – 84 %: el campo de tierra roja con los jugadores.
+84 % – 100 %: la terraza oscura del primer plano, saliéndose por abajo.
+Título alineado a la izquierda, margen del 8 %, empezando a un 10 % de altura.
+Mensaje justo debajo del título, con una separación de una línea.
+Ningún texto toca el paisaje.
+
+PALETA — exactamente estos cinco colores, ninguno más
+Cielo, líneas del campo y balón: crema hueso #EFE4D2
+Tierra del campo: terracota #C8432A
+Terrazas del fondo: verde salvia #6E7A5E
+Primer plano, jugadores y TEXTO: verde oscuro #2F4A3C
+Sol, cantos de los escalones, polvo: ocre #E0A24A
+Cinco tintas planas de diseño, sin tonalidades decorativas extra; únicamente el suavizado natural de bordes y la minúscula doblez tonal descrita al final pueden tener valores intermedios. El cielo tiene que ser perfectamente liso. Mantener toda la ilustración mate y plana.
+
+TIPOGRAFÍA
+Una sola familia, sans geométrica pesada tipo Poppins. Exactamente dos tamaños: el título en negrita, y el mensaje en regular a un 38 % de la altura del título. Interlineado apretado en el título. Tildes correctas. Usar el mayor tamaño de título que permita componer ambas líneas con margen del 8 %, reservando los tres renglones de mensaje antes del horizonte. Texto grande, limpio y de alto contraste.
+
+TEXTO EXACTO, con estos saltos de línea, y ninguna otra palabra, letra, número ni firma en la imagen:
+
+Título:
+De Riotinto
+a la Roja
+
+Mensaje:
+Cómo un juego que trajeron
+unos mineros británicos
+acabó explicando a España
+
+ACABADO
+Esquinas ligeramente redondeadas. Una doblez de encuadernación discreta a un 2 % del borde izquierdo: franja estrecha de luz y, pegado, un surco algo más oscuro, los dos en el tono del fondo. Sin marco, sin borde blanco, sin canto de páginas. La imagen es la cubierta entera, a sangre, nunca una maqueta de libro en perspectiva.
+
+NUNCA
+Escudos de clubes, banderas de países, camisetas con marcas, marcas deportivas, logotipos, caras reconocibles, césped verde, marcas de agua, fotografía, ni la cubierta real de la editorial.
+
+Comprobar los cinco renglones de texto literalmente: dos de título y tres de mensaje. En particular: «Cómo», «británicos», «acabó», «España». Conservar el contraste entre la rotundidad de las letras, el carácter dibujado de los bordes y la sencillez expresiva de los jugadores diminutos.

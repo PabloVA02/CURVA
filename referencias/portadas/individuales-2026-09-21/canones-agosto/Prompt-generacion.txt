@@ -1,0 +1,17 @@
+Redesign image 1 into ONE finished new cover for the same book. Image 1 is the old Curva cover: retain ONLY the book title, not its trumpet, typography, palette or layout. Images 2, 3 and 4 are art-direction references, not subjects to copy: use ONLY the illustrated book covers inside these screenshots, no phone interface. Match their clean Headway/Wiser editorial drawing, purposeful simple shapes, type living inside illustrated forms, and narrow binding crease. Return only the single cover.
+
+Format: portrait 1024 x 1536, 2:3, straight-on full-bleed artwork. No mockup. Exceptionally polished flat editorial illustration, designed as a beautiful member of this reference collection.
+
+Composition: on a vibrant solid cobalt-blue background, a large stylized early-1914 field-artillery cannon enters from the lower right. Its long mustard-yellow barrel points diagonally up-left. A handsome oversized dark-blue spoked wheel and one simplified coral carriage shape are cropped by the lower/right edges. Draw a readable field gun with confident simplified silhouettes, not a pirate cannon, not a detailed military rendering. There are no people.
+
+From the cannon mouth grows ONE large sculptural cream smoke shape. It sweeps upward and opens into a broad asymmetric cloud across the upper half of the cover. Four or five broad, beautifully balanced lobes, one slender curved connection to the muzzle: not dozens of little bubbles. A small coral flash at the connection expresses the shot. The smoke is both the visual consequence of the cannon and the surface containing the title. The cloud, barrel, wheel and negative blue spaces must fit together as one dynamic composition; never a generic title-above-icon layout.
+
+Exact text inside the cream smoke, deep blue, beautifully spaced substantial rounded geometric sans lettering, like the references. Follow these three lines:
+"Los
+cañones
+de agosto"
+Keep "Los" noticeably smaller; let the other two lines occupy the broad contours of the smoke. Correct Spanish ñ. The title belongs INSIDE the smoke with generous optical breathing room, not a rectangle laid on top. No other text at all: no subtitle, author, dates, signatures, lettering on the cannon or watermark.
+
+Five base inks only: vivid cobalt #1B47C4, mustard #F2B134, coral #F2603C, deep blue #12307F, warm ivory #FAF6EE. Unequal areas; coral is only a small accent. Actual FLAT solid fills, crisply drawn contours. No grain, paper texture, gradients, airbrushed edges, material shading, gloss, bevels, 3D rendering or realistic lighting anywhere in the illustration. Use the same drawing abstraction as the reference covers, not a toy render. Make the shape relationships and silhouette rich, not decorative clutter.
+
+Finish: gently rounded cover corners. Match the narrow local-colour binding crease in the Headway reference: subtle lighter strip, darker groove around 2.5% from the left edge, short lighter recovery near 4%, fading back into the local colour by about 6%. ONLY this binding crease may have tonal modelling. No white outline, no page edges, no perspective. No extra objects, stars, flags, insignia, landscape, bullets or border decorations.

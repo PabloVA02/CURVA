@@ -1,0 +1,53 @@
+{
+  "id": "prohibido-nacer",
+  "titulo": "Prohibido nacer",
+  "autor": "Trevor Noah",
+  "mensaje": "Humor y supervivencia en la Sudáfrica del apartheid",
+  "mensajeEnImagen": "Humor y\nsupervivencia en\nla Sudáfrica\ndel apartheid",
+  "motivo": "Niño saltando una rayuela diagonal de casillas contrastadas; título inclinado y mensaje en el hueco inferior derecho",
+  "revision": "Se reduce la anchura y el peso del título y se amplía el mensaje. La rayuela es una metáfora de infancia y divisiones sociales, no una escena documentada del libro.",
+  "fecha": "2026-09-22",
+  "herramienta": "image_gen integrado",
+  "referencias": [
+    "IMG_1966.PNG",
+    "IMG_1946.PNG",
+    "IMG_1930.PNG"
+  ],
+  "fuenteContenido": "https://www.penguinrandomhouse.com/books/608948/prohibido-nacer-memorias-de-racismo-rabia-y-risa--born-a-crime-stories-from-a-south-african-childhood-by-trevor-noah/",
+  "resumenComprobado": {
+    "bundle": "docs/assets/index-lectura-077e252662.js",
+    "paginas": 11
+  },
+  "instaladaEnApp": false,
+  "archivoComparador": "./assets/comparacion-propuestas/prohibido-nacer-9ce5f11ab4.png",
+  "imagenes": [
+    {
+      "archivo": "Portada-anterior.webp",
+      "origen": "docs/assets/portadas-generadas/prohibido-nacer-9beeba0938.webp",
+      "dimensiones": [
+        1024,
+        1536
+      ],
+      "sha256": "7104033640eb69b36fa39b71ff946e6e84b991ad3401efd52256e0fbee768832"
+    },
+    {
+      "archivo": "Version-inicial.png",
+      "origen": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-01be3ea2-ab4e-4d7d-b013-ce50dcdd839e.png",
+      "dimensiones": [
+        1024,
+        1536
+      ],
+      "sha256": "8f11dfa2794ca779db48865b74902393cd3b9ceba0c858d29ed2e2033cd2a256"
+    },
+    {
+      "archivo": "Portada.png",
+      "origen": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-0ac00ddf-62c7-45a6-8106-b5bc02a1de30.png",
+      "dimensiones": [
+        1024,
+        1536
+      ],
+      "sha256": "9ce5f11ab4497eae2bcf3789c4554d7853c64480f80d8ec12946fdd4274ac058"
+    }
+  ],
+  "estado": "Propuesta nueva; se conserva la cubierta instalada"
+}

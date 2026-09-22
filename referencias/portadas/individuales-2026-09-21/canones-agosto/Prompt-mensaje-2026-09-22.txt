@@ -1,0 +1,14 @@
+Use image 1 as the edit target. Images 2 and 3 are Headway references ONLY for how a smaller explanatory message belongs inside an illustrated form, with clear hierarchy. Ignore all interface elements in those screenshots.
+
+Add this EXACT Spanish message to the existing "Los cañones de agosto" cover:
+"El primer mes
+de la Primera
+Guerra Mundial"
+
+Keep the entire existing title, large upper smoke cloud, cannon, wheel, colours, crop, rounded corners and single narrow binding crease unchanged. Preserve the portrait 1024 x 1536 size. Do not replace the title or add an author, date or other words.
+
+Integrate the new message into the DRAWING. In the open blue space at lower left, below the barrel and left of the wheel, add one smaller ivory puff of cannon smoke. A slender, graceful curved tendril connects it naturally to the existing smoke near the muzzle. The smaller puff has three or four broad asymmetrical lobes; it is a continuation of the firing action, not a detached speech balloon, box or sticker. It should fit roughly inside x=7–57%, y=64–88%, without covering the wheel or cannon. Preserve meaningful blue breathing space.
+
+Place the three message lines inside this smaller ivory smoke shape, deep blue, medium-weight clean geometric sans. Approximately 60 px at 1024 px canvas width, generous contrast and enough stroke weight to read at mobile size. The title remains distinctly dominant: do not use its huge heavy lettering for the message. Give the words comfortable optical margins, balanced line spacing and accurate spelling/case.
+
+Match the flat editorial drawing and integrated secondary typography of the Headway references. Uniform colour shapes with crisp clean contours; no additional grain, gradients, cast shadows, glossy effects or realism. Do not change any other element. Output one final cover, nothing around it.

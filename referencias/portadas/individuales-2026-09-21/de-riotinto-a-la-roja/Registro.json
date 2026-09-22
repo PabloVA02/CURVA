@@ -1,0 +1,66 @@
+{
+  "fecha": "2026-09-21",
+  "tituloEnPortada": "De Riotinto\na la Roja",
+  "mensajeEnPortada": "Cómo un juego que trajeron\nunos mineros británicos\nacabó explicando a España",
+  "herramienta": "image_gen integrada",
+  "modeloEspecifico": "No expuesto por la herramienta",
+  "estado": "Propuesta individual entregada para revisión visual del usuario",
+  "ultimaVersion": 4,
+  "instaladaEnApp": false,
+  "instruccionIndividualPrevaleceSobreSistema": true,
+  "motivos": [
+    "valle minero escalonado",
+    "campo de tierra terracota en escorzo",
+    "ocho jugadores diminutos",
+    "sol bajo tras ladera",
+    "terraza oscura en primer plano"
+  ],
+  "notasRevision": [
+    "Se corrigió la textura abundante de la primera versión.",
+    "La versión 4 completa la línea central del campo que quedaba cortada en la versión 3.",
+    "Las proporciones, colores y rasgos tipográficos son aproximaciones del generador: no se certifica igualdad matemática de cinco valores RGB ni tipografía Poppins exacta.",
+    "Se conservan todas las versiones mostradas y los cuatro prompts."
+  ],
+  "versiones": [
+    {
+      "version": 1,
+      "archivo": "de-riotinto-a-la-roja-v1.png",
+      "sha256": "5a7ff0284846c59b12d1144a906bcd6e750f767c389a3262436f28f51448e459",
+      "ancho": 1024,
+      "alto": 1536,
+      "prompt": "Prompt-generacion.txt",
+      "origen": "exec-57a20dbd-fe27-4a3c-86f1-87c74b7edf4f.png",
+      "mostradaEnChat": true
+    },
+    {
+      "version": 2,
+      "archivo": "de-riotinto-a-la-roja-v2.png",
+      "sha256": "b7e7953e7c2391d11255ee9b75d0c8dc77213552e71f0200cf92177ed92f2f68",
+      "ancho": 1024,
+      "alto": 1536,
+      "prompt": "Prompt-correccion-v2.txt",
+      "origen": "exec-2890d5e4-14ec-4adc-b2d3-9f7cbb89d56e.png",
+      "mostradaEnChat": true
+    },
+    {
+      "version": 3,
+      "archivo": "de-riotinto-a-la-roja-v3.png",
+      "sha256": "e79a271f493152ce612ba22f2fdf0843f88e1bb30a3207388f8c919eabcf01e0",
+      "ancho": 1024,
+      "alto": 1536,
+      "prompt": "Prompt-version-v3.txt",
+      "origen": "exec-58045b41-437d-4fd3-82ea-e3d835478907.png",
+      "mostradaEnChat": true
+    },
+    {
+      "version": 4,
+      "archivo": "de-riotinto-a-la-roja-v4.png",
+      "sha256": "00be3f2dd5872f0277cbf915484e67b8bb1e6bc0413c3105c8f0cbb10f4c646a",
+      "ancho": 1024,
+      "alto": 1536,
+      "prompt": "Prompt-correccion-v4.txt",
+      "origen": "exec-1cdf8df7-d994-4c7b-93b6-fefd9d07503d.png",
+      "mostradaEnChat": true
+    }
+  ]
+}

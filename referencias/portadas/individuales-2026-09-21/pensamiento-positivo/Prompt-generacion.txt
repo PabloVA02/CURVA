@@ -1,0 +1,19 @@
+Redesign the book cover in IMAGE 1 for the SAME book, preserving its exact title but replacing its illustration, layout, colors and subtitle as specified below. Output ONE finished front cover, 1024 × 1536, 2:3. Images 2 and 3 are STYLE REFERENCES only: use the crisp economical flat illustration, open letterforms, balanced quiet areas, and the way shapes create places for text. Do not reproduce their elephant, head, hand, subjects or layouts. Do not output a phone screen or comparison.
+
+The new visual idea: a coral eraser opens a clear space in a dark cloud. The cleared space is also the space that holds the subtitle. The action and typography belong to a single drawing. Draw this as a confident flat editorial illustration with the same level of simplification as the reference covers, not a realistic object.
+
+A continuous lively violet background. A large dark-purple cloud-like silhouette grows into the composition from the lower-right edge, with only a few bold scalloped curves. A wide warm-cream curved clearing sweeps upward through it. At the upper-right end of that clearing sits a simple coral eraser, lightly tilted, partly overlapping the cloud: a rounded coral rectangle with one cream band, drawn from its face in TWO DIMENSIONS, no thickness or shaded side. A few tiny coral eraser crumbs immediately beside it make the erasing action understandable. One flat golden semicircle peeks through the opened area, suggesting a clearer outlook; no radiating glow or decorative confetti. The cloud, cleared shape and eraser interlock. Let the silhouette and clearing crop at the page edges. Avoid a scene inside a rectangular frame.
+
+Place the title toward the upper-left on the clean violet field, with generous breathing room, in normal-width rounded geometric sans, confident bold but NOT black-weight and NOT condensed. Letter shapes and visual weight similar to the title of the elephant reference. Use cream for the first two lines and golden yellow for the last. Exact text:
+El poder del
+pensamiento
+positivo
+
+Place the subtitle INSIDE the broad warm-cream clearing, dark purple, medium-weight geometric sans, comfortably legible and clearly secondary to the title. It should look naturally accommodated by the illustration, not like a bottom caption strip. Exact text:
+Fortalece tu confianza
+y afronta tus
+preocupaciones con fe
+
+Only these five base inks: violet #5B3FBF, dark purple #33228A, coral #F2603C, golden yellow #F5C233, warm cream #FAF6EE. Large truly solid color fields. The cloud is a graphic silhouette, not fluffy, smoky or shaded. No gradients, texture, grain, airbrush, realistic lighting, glossy surfaces, bevels or diffuse shadows. No people, faces, brains, flowers, hands, extra objects, microtext, author, brand, logo or watermark. Shape relationships should make the image engaging rather than adding decorative details.
+
+Book finish: entire front cover at full bleed, barely rounded corners and one restrained tonal binding groove around 2% from the left edge. No white border, page edges or perspective book mockup. The narrow binding groove is the only place allowed a subtle tonal transition. Preserve exact Spanish spelling. Make the drawing feel as simple, deliberate and graphically integrated as the references.

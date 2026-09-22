@@ -1,0 +1,46 @@
+{
+  "fecha": "2026-09-21",
+  "titulo": "De Riotinto a la Roja",
+  "mensaje": "La historia del fútbol español entre rivalidades, política y triunfos",
+  "idea": "Futbolín diagonal recortado; mensaje superior y título inferior en dos colores",
+  "motivos": [
+    "futbolín",
+    "piezas de futbolín sin rasgos",
+    "barras de futbolín"
+  ],
+  "paleta": [
+    "#F5C233",
+    "#D93F2B",
+    "#2F6140",
+    "#FAF6EE",
+    "#14213D"
+  ],
+  "fuente": "https://www.jimmy-burns.com/books/football-books/la-roja/",
+  "herramienta": "image_gen integrada",
+  "imagenes": [
+    {
+      "archivo": "Version-inicial.png",
+      "origen": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-3f21e6b6-c173-4c4e-a369-7501876cd120.png",
+      "dimensiones": [
+        1024,
+        1536
+      ],
+      "sha256": "e06d85438602c95a3ad59cbc53ac703f22c5cf4fe44eb334ec4fb4c5530ff72b"
+    },
+    {
+      "archivo": "Portada.png",
+      "origen": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-52c9c230-d686-4481-ac36-693b44579781.png",
+      "dimensiones": [
+        1024,
+        1536
+      ],
+      "sha256": "127307381c61b20b2aab44a4958473c113ec863e83f3c5a903ab3c4268556a42"
+    }
+  ],
+  "instaladaEnApp": false,
+  "estado": "Propuesta individual corregida y archivada para revisión",
+  "referencias": [
+    "IMG_1969.PNG",
+    "IMG_1895.PNG"
+  ]
+}

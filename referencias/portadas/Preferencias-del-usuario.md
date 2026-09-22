@@ -1,5 +1,35 @@
 # Preferencias visuales de las portadas de Curva
 
+**Estudio ampliado posterior.** Antes del próximo encargo, consultar `referencias/portadas/atlas-2026-09-21/Analisis.md` y `docs/atlas-portadas.html`: 60 casos Headway/Wiser revisados individualmente, medidas de texto, 10 esquemas de masas y comparación del pliegue. Elegir referencias por la relación entre formas y palabras; decidir primero si hace falta mensaje. Las cajas medidas no son una plantilla universal y los contornos analíticos no son vectores originales. Conservar el ojo cerrado aprobado de la propuesta de pensamiento positivo; la composición completa no queda aprobada por esa elección.
+
+
+**Actualización posterior · integración y mensaje opcional.** El usuario exige estudiar también Wiser y colocar el mensaje dentro del propio dibujo cuando la composición lo pida, no separarlo sistemáticamente. El mensaje es opcional: omitirlo si el título ya explica suficiente o si una portada funciona mejor sin él. No inventar una frase para rellenar ni reservar siempre una franja inferior. Cuando se incluya, su espacio se diseña con la ilustración y debe ser fiel al libro y legible. Esta indicación prevalece sobre las reglas anteriores que exigían dos textos en todas las cubiertas.
+
+**Prioridad posterior · Headway.** Última exigencia del usuario, posterior a la propuesta de pensamiento positivo: «si las portadas no tienen ese diseño de headway no las quiere tienen que ser un 100% mismo diseño». Headway es la referencia obligatoria de ilustración, tipografía, composición, doblez y esquinas; Wiser queda como referencia complementaria. Consultar sus imágenes directamente y comparar cada resultado. No asumir que las propuestas actuales están aprobadas ni certificar una coincidencia exacta solo por haberla solicitado en el prompt. Conservar versiones y seguir trabajando una portada por encargo. La comparación completa está en `docs/comparar-portadas.html`.
+
+## Sistema vigente · 21 de septiembre de 2026
+
+**Última corrección:** el usuario rechaza «acabó explicando a España» porque el mensaje no explica con claridad el libro. Pide mucha más originalidad y variedad también en títulos y mensajes. Antes de generar, comprobar qué explica realmente el mensaje y variar deliberadamente tamaño, forma, color, posición y relación entre texto e imagen; no repetir la plantilla título arriba, objeto centrado y mensaje abajo. La coherencia de colección no justifica uniformar todas las jerarquías. Conservar la identidad del libro y sus resúmenes. Usar el generador integrado de imágenes de mayor calidad disponible, sin atribuirle un modelo concreto que la herramienta no identifique. Esta corrección autoriza a reescribir el mensaje de esta propuesta, y prevalece sobre la indicación anterior de conservarlo.
+
+En «Todos los libros» quiere las cubiertas mucho más juntas para contrastar la armonía del conjunto. Mostrar un mosaico compacto, sin modificar ni regenerar las cubiertas existentes.
+
+Corrección anterior sobre «De Riotinto a la Roja»: el usuario pide **una sola portada**, más dibujo como las referencias Headway, y encarga inventar un diseño nuevo. No entregar varios conceptos sucesivos por iniciativa propia. Para ese diseño quedó sustituida la escena detallada del valle minero anterior. Las propuestas y correcciones se guardan como historial.
+
+El usuario aporta dos ZIP nuevos de referencias y el documento «SISTEMA DE PORTADAS · CURVA», pide analizarlos con profundidad, aplicar el prompt y afinarlo si ayuda a la belleza y armonía del conjunto. A partir de ahora enviará un prompt individual por portada: trabajar una a una, sin iniciar nuevas tandas por instrucciones antiguas.
+
+Consultar [Prompt maestro afinado](sistema-2026-09-21/Prompt-maestro.md), [análisis](sistema-2026-09-21/Analisis.md) y [original sin cambios](sistema-2026-09-21/Prompt-original.txt). Los ZIP se conservan íntegros en `sistema-2026-09-21/originales/`; son 134 PNG y 123 imágenes distintas por SHA-256. Hay once hojas de contacto con la revisión del conjunto.
+
+- Una familia sans geométrica común, tipo Poppins, y solo dos niveles de texto. Esta instrucción sustituye las anteriores de variar la familia en cada diseño. Variar escena, escala, encuadre, composición y posición de título y mensaje.
+- 1024 × 1536 px, cubierta frontal a sangre, sin maqueta. Rueda de doce paletas numeradas, cinco tintas base y fondo visible aproximadamente 35–45 %.
+- Dibujo editorial plano, una idea desarrollada mediante relaciones entre formas, sin relleno decorativo ni motivo aislado por defecto. Mayoría sin personas; cuando las haya, rasgos gráficos muy simples. Consultar el historial para no repetir motivos.
+- Texto exacto del encargo. Mensaje concreto de 8–13 palabras. Revisar a 170 px; ampliar el mensaje si el 38 % inicial del título lo vuelve ilegible, conservando dos niveles. Corregir el contraste con campos de las tintas existentes, especialmente en las paletas roja y turquesa.
+- Doblez tonal estrecha junto al 2 % del borde izquierdo; una sola aplicación, sin marco blanco, páginas ni perspectiva. Suavizado y doblez son excepciones técnicas a los cinco colores base, no permiso para modelar la ilustración.
+- Revisar también una cuadrícula con las vecinas reales. Guardar prompt, referencias, imágenes, variantes y registro de motivos. No modificar resúmenes ni rehacer cubiertas existentes por actualizar el sistema.
+
+Las notas siguientes se conservan como historial; en caso de conflicto prevalece este sistema y cualquier aclaración posterior del usuario.
+
+## Historial anterior
+
 Actualizadas el 12 de septiembre de 2026 con la corrección expresa del usuario.
 
 - Referencia principal: las portadas de Salud aportadas por el usuario y la composición editorial de sus ejemplos de Headway.
@@ -112,3 +142,15 @@ El usuario pide variar todavía más, hacer cosas distintas y permite cualquier 
 ## Ajuste de la doblez tras completar el catálogo
 
 El usuario pide mejorar la doblez porque apenas se aprecia y no parece una encuadernación. Debe notarse un poco más como un pliegue real: una franja estrecha de luz en el lomo, una hendidura oscura y una transición suave a la tapa. Aplicar el acabado de forma consistente en las tarjetas y fichas de la app y en la galería, proporcionado al tamaño de la cubierta. Mantener los dibujos originales. Sigue sin contorno blanco, bloque de páginas ni perspectiva 3D.
+
+## Caso concreto · Los cañones de agosto · 22 de septiembre
+
+Tras ver la versión sin frase, el usuario pide añadir «El primer mes de la Primera Guerra Mundial» como en Headway. Para este libro el mensaje sí se incluye y se integra en el dibujo; la posibilidad general de omitir mensajes en otras cubiertas sigue vigente. El historial se conserva en `individuales-2026-09-21/canones-agosto/`.
+
+### Corrección posterior · 22 de septiembre, Feynman posavasos
+
+No añadir el nombre del autor en las portadas. El usuario lo corrige expresamente incluso cuando el prompt individual anterior lo incluía. Colores vivos como las referencias Headway, y mensajes suficientemente grandes para leerlos en móvil: evitar columnas demasiado estrechas con letra pequeña. Conservar las versiones anteriores. Una indicación posterior específica puede cambiar estas preferencias.
+
+### Pauta posterior · texto centrado y sobre el dibujo
+
+El usuario observa que en las referencias el título y el mensaje suelen estar centrados y muchas veces encima del dibujo. Aplicar esta composición con frecuencia, empezando por «Tropezar con la felicidad». Es una pauta preferente, no una obligación para todas las portadas; conservar variedad y atender cada prompt específico.

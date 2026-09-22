@@ -1,0 +1,28 @@
+Generate ONE original finished illustrated book-cover image, portrait 1024 × 1536 px, 2:3. This is a completely NEW concept for the Spanish book "De Riotinto a la Roja". ONE cover only, no variations, no grid.
+
+Art direction: the bold, playful, clever FLAT 2D editorial drawings of Headway and Wiser book-summary covers. Oversized, expressive shapes, vivid solid colors, crisp clean silhouettes, an ingenious visual connection. Professionally drawn digital illustration, with slightly human, organic contours. Absolutely flat fills. NOT a painted landscape, NOT vintage travel art, NOT a diagram, NOT photorealistic, NOT a 3D book mockup. No paper texture, grain, gradients, soft shadows, highlights or lighting across the cover.
+
+ORIGINAL VISUAL IDEA: "The mine brings football into the light."
+A bright coral-red mine cart rolls diagonally out of a large ochre-yellow mine entrance. Instead of coal, the cart carries an absurdly oversized CREAM FOOTBALL with dark cobalt polygon patches, rising above the cart and leaning playfully to the right. Two or three angular dark-blue pieces of mineral sit beside its base, to make the mining connection clear. The mine entrance is a beautifully shaped simple asymmetric rounded arch, deep navy inside, yellow outer arch; no stone brick detail. The cart is a charming bold drawn shape with two large dark-blue wheels and yellow flat hubs. Two short curved rails run toward the lower right, giving a lively sense of movement. This is a deliberate visual metaphor, an integrated scene, not separate clip-art icons. No humans. No tiny details, decorative plants, stars, confetti, sun, mountains, football pitch or generic infographic arrows.
+Compose the main drawing LARGE across the central 55% of the image, asymmetric and energetic. The football is the focal point. All objects drawn in simple clean color shapes, no realistic volume.
+
+Use only these FIVE base inks:
+vivid cobalt BLUE #1B47C4 for the full-bleed main background;
+sunny AMBER #F2B134 for the mine arch and small accents;
+vivid CORAL #F2603C for the cart;
+deep BLUE #12307F for the tunnel opening, wheels and ball patches;
+warm CREAM #FAF6EE for both text blocks and ball.
+Vibrant and harmonious. Every color area is genuinely solid, like a digital vector drawing. Large open cobalt areas separate text from illustration.
+
+TYPOGRAPHY: one rounded geometric sans-serif family similar to Poppins. Heavy, confident title in the TOP LEFT, with generous margins. Exactly TWO title lines, identical bold type size:
+De Riotinto
+a la Roja
+
+Place the explanatory message in THREE lines in a clean cobalt area at the BOTTOM, left aligned, clearly readable, regular weight of the same font, sufficiently large for a mobile thumbnail. Preserve EXACT spelling, accents and line breaks:
+Cómo un juego que trajeron
+unos mineros británicos
+acabó explicando a España
+
+No text overlaps the illustration. Only these two sizes of text. No author, logos, numbers, labels, watermark, signatures, flags, club crests, commercial brands or lettering on the cart.
+
+Finish: full-bleed digital cover with very slightly rounded corners. A tiny understated binding crease near 2% from the left, tone-on-tone, a hairline highlight beside a hairline darker groove, never a wide shaded band. No white border, no surrounding canvas, no page edges, no perspective of the cover itself. The result must feel like a bright, appealing, intelligently illustrated contemporary book cover with the graphic confidence of the supplied Headway references.

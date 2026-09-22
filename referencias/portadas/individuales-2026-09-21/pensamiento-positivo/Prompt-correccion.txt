@@ -1,0 +1,19 @@
+Refine IMAGE 1, the purple Spanish cover just made. Output one finished 1024 × 1536 cover. Images 2 and 3 are visual style references only: study especially their lighter, more open lettering and crisp flat graphics. Do not copy their subjects or layouts.
+
+Keep the same visual idea: a coral eraser clears a cream opening through a deep-purple cloud, with a flat golden semicircle visible. Keep the violet field, cloud outline, diagonal cream clearing and the eraser. Make a focused correction to typography and truly flat color.
+
+TYPOGRAPHY IS THE MAIN CORRECTION: the previous lettering is much too heavy and tight. Redraw the title with NORMAL-WIDTH geometric sans lettering of SEMIBOLD weight, visibly thinner strokes, generous counters and no condensed characters. Use roughly the open visual weight of the lettering in the elephant reference. Reduce the title's physical height about 18%, with more breathing room between lines. Keep it at the top left, cream first two lines and golden yellow last line, within about x=95 to 920 and y=135 to 460. Exact title:
+El poder del
+pensamiento
+positivo
+
+Make the subtitle noticeably LARGER and less heavy: open medium-weight lettering around 62 pixels high on the 1024-pixel-wide image, not black weight. The cream clearing must broaden where needed to accommodate it comfortably, with no word close to an edge. Start around x=110, y=925; use FOUR exact lines:
+Fortalece tu confianza
+y afronta tus
+preocupaciones
+con fe
+These are the only words on the cover. Check every letter.
+
+FLAT FINISH: fill every illustration region with a single completely even solid ink. Remove ALL gradients, lighting, mottling, grain, paper texture, soft shading, or tonal changes from the violet background, golden sun, cream clearing, cloud and coral eraser. No glossy highlights. The eraser is a simple face-on flat coral shape with a cream band, not a 3D object. A few crumbs are enough. Five solid base inks only: violet #5B3FBF, dark purple #33228A, coral #F2603C, golden yellow #F5C233, warm cream #FAF6EE. Preserve the current harmonious scale and direct interlocking forms, not the previous heavy lettering.
+
+The sole exception to even solid color is one narrow bookbinding crease at x about 2% of the cover, maximum 14 pixels total width, with a subtle tonal line pair. The previous binding was too wide: do not add several parallel ridges. Barely rounded corners, full bleed, no white border, no page edges, no book mockup.

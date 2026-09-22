@@ -1,0 +1,54 @@
+{
+  "fecha": "2026-09-21",
+  "id": "pensamiento-positivo",
+  "titulo": "El poder del pensamiento positivo",
+  "autor": "Norman Vincent Peale",
+  "mensaje": "Fortalece tu confianza y afronta tus preocupaciones con fe",
+  "motivo": "Perfil azul con llave de cuerda amarilla",
+  "paletaSolicitada": [
+    "#F15B34",
+    "#2862D4",
+    "#04163C",
+    "#FFCB27",
+    "#F8EBDD"
+  ],
+  "herramienta": "image_gen integrado",
+  "modo": "edición con referencias",
+  "referencias": [
+    "IMG_1969.PNG",
+    "IMG_1972.PNG"
+  ],
+  "fuente": "https://www.simonandschuster.com/books/The-Power-of-Positive-Thinking/Dr-Norman-Vincent-Peale/9780743234801",
+  "imagenes": [
+    {
+      "archivo": "Version-inicial.png",
+      "origen": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-bf186e48-ed47-4e6d-9847-dd9b01bad576.png",
+      "dimensiones": [
+        1024,
+        1536
+      ],
+      "sha256": "6be7162fc9d94514c48c66cd62495a3c3a5d778c445e5c551352711d8db358d0"
+    },
+    {
+      "archivo": "Version-ojo-abierto.png",
+      "origen": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-6a9e1c2e-8ce6-4dbb-a2b9-da3647dfb2d6.png",
+      "dimensiones": [
+        1024,
+        1536
+      ],
+      "sha256": "f378ad9556462d3ecf3fa6e6692a288bd366950f48d0c7ddeef939e1908999c0",
+      "estado": "Ojo rechazado por el usuario"
+    },
+    {
+      "archivo": "Portada.png",
+      "origen": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-4c571602-4617-4b0c-9554-e670675e98bc.png",
+      "dimensiones": [
+        1024,
+        1536
+      ],
+      "sha256": "aa4587ba25d5865e092a41bbaade7b85ec5810e2b997bfb4fa2f3dc929248299"
+    }
+  ],
+  "instaladaEnApp": false,
+  "estado": "Propuesta con ojo cerrado, corregido por petición expresa del usuario"
+}

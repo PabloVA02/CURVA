@@ -1,0 +1,15 @@
+{
+  "libroId": "tropezar-felicidad",
+  "titulo": "Tropezar con la felicidad",
+  "autor": "Daniel Gilbert",
+  "fecha": "2026-09-22",
+  "herramienta": "image_gen integrada",
+  "origen_generado": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-583491be-e506-468e-9351-065a04806370.png",
+  "sha256": "6162d5cf6daf6063596374f09df16e71eb033583f4569e3c8a3d10b0273cd2a6",
+  "archivo_publico": "docs/assets/comparacion-propuestas/tropezar-felicidad-6162d5cf6d.png",
+  "prompt": "Prompt-generacion.txt",
+  "referencia": "docs/assets/comparacion-headway/IMG_1966.PNG",
+  "fuente_contenido": "https://www.randomhouse.com/kvpa/gilbert/about.html",
+  "mensaje": "Por qué imaginamos mal lo que nos hará felices",
+  "estado": "Propuesta en comparador; portada instalada y resumen conservados"
+}

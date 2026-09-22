@@ -1,0 +1,63 @@
+{
+  "fecha": "2026-09-22",
+  "id": "mandela",
+  "titulo": "El largo camino hacia la libertad",
+  "autor": "Nelson Mandela",
+  "tituloEnImagen": "El largo camino\nhacia la\nlibertad",
+  "mensaje": "La vida de Mandela y su lucha contra el apartheid",
+  "mensajeEnImagen": "La vida de Mandela\ny su lucha contra\nel apartheid",
+  "motivo": "Papeleta que entra en una urna y abre una alambrada; título en la papeleta y mensaje en la urna",
+  "paletaSolicitada": [
+    "#E8722C",
+    "#2F6140",
+    "#A9451A",
+    "#FAF0DC",
+    "#14213D"
+  ],
+  "numeroDePaletaAsignadoPorUsuario": null,
+  "criterioPaleta": "Elegida para este encargo sin atribuir al usuario un número de portada.",
+  "herramienta": "image_gen integrado",
+  "modo": "Rediseño con referencias y corrección de acabado",
+  "referencias": [
+    "IMG_1916.PNG",
+    "IMG_1972.PNG",
+    "IMG_1932.PNG"
+  ],
+  "fuentesContenido": [
+    "https://www.nelsonmandela.org/biography",
+    "https://www.nelsonmandela.org/faqs"
+  ],
+  "imagenes": [
+    {
+      "archivo": "Portada-anterior.webp",
+      "origen": "docs/assets/mandela-DDofLD2d.webp",
+      "sha256": "25f8a8d4603c391bbd66864ce252ea88abf98c1d0daf568d7ce4b64a9d17530c",
+      "dimensiones": [
+        520,
+        780
+      ]
+    },
+    {
+      "archivo": "Version-inicial.png",
+      "origen": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-d8035353-87de-4750-a999-960ba0d3d445.png",
+      "sha256": "2f8fc28d4aa53a4361e54316bbfb6ca5066a6a42022db3a6097ad11421f60db4",
+      "dimensiones": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "archivo": "Portada.png",
+      "origen": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-b92a9e7d-f45e-4a68-8148-b5f817abaceb.png",
+      "sha256": "a2461a1e3247ed41e08b8a5206091f3f434f82dc5fb3ac5869e2f1025c136e6e",
+      "dimensiones": [
+        1024,
+        1536
+      ]
+    }
+  ],
+  "archivoComparador": "./assets/comparacion-propuestas/mandela-urna-a2461a1e32.png",
+  "instaladaEnApp": false,
+  "estado": "Propuesta nueva en el comparador; la portada instalada se conserva",
+  "revision": "Composición y textos inspeccionados. Corrección para reducir modelado tonal; no se certifica ausencia absoluta de pequeñas variaciones del generador."
+}

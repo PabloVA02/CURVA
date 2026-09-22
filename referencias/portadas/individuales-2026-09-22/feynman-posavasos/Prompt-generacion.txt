@@ -1,0 +1,24 @@
+Create ONE illustrated Spanish book cover, 1024 x 1536, vertical 2:3. Flat editorial drawing with the graphic economy and cohesive geometric typography of the Headway cover INSIDE the supplied screenshot. The screenshot is a STYLE REFERENCE ONLY: do not copy its hand, words or phone interface.
+
+Follow this composition precisely: «C · El posavasos — registro apagado». Strict overhead view of a large GOLD MEDAL lying on a table, used irreverently as a coaster. The medal is cropped by the TOP edge, dominates the upper right two thirds. A cream ceramic coffee cup has been carelessly set off-center on the medal. Seen straight down, its coffee is a dark flat circular pool, its small handle points diagonally right. A clearly visible incomplete damp coffee ring, darker ochre, stains the exposed gold beside and partly beneath the cup. Medal recognizable through a simple double engraved rim and a few spare laurel-like incisions, not a saucer. One unified object grouping, no spoon, napkin, ribbon, extra props or people.
+
+Drawing: deliberately flat, hand-drawn simplified contours, solid muted ink areas. Absolutely no photographic shiny metal, realistic ceramic, soft shadows, wood grain, atmospheric light or 3D render. Gold expressed as ochre/gold flat shapes with ONE darker rim, no gradients. The damp ring is an irregular flat stain, not a transparent photographic effect. Background is a continuous muted dusty blue tabletop without visible edges or texture. Restrained palette: dusty blue #788F99, warm gold #D7AA4E, dark ochre #9B7437, ivory #F3E8CF, dark ink #25343D. Small asymmetries make the drawing witty and tactile rather than an icon.
+
+Typography and layout: reserve the lower quarter for the title. At lower left, smaller heavy geometric sans line EXACTLY:
+¿Está usted de broma,
+Immediately underneath, much larger heavy geometric sans, EXACTLY:
+SR. FEYNMAN?
+Keep the whole last line visible and comfortably inside margins. Dark ink title, strong weight, deliberate contrast between the small first line and big second line. No text on the cup or medal.
+
+At left in a narrow upright column, around the middle height, legible geometric sans message in exactly FOUR short lines:
+Ciencia y humor
+en la vida
+de un Nobel
+irreverente
+
+Very small author name at the very top on the exposed blue background at left:
+Richard Feynman
+
+All accents and punctuation correct. No other letters, logos, badges or watermarks. Balance left text against the large cropped medal on the right, with plenty of clean space between them. Keep the cup and damp ring clearly legible at thumbnail scale.
+
+Finish like the reference: slightly rounded corners, one slim subtle tonal binding crease around 2.5% from left, settled by 6%. Only this tiny binding detail may have soft tonal shading. No white frame, no page edges, no book perspective. Full-bleed front cover only.

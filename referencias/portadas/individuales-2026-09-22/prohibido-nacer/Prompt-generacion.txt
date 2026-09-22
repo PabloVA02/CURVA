@@ -1,0 +1,14 @@
+Adapt the illustrated cover in reference image 1 (“Hábitos mínimos”, Headway) into a new cover for “Prohibido nacer”. Output ONLY the complete cover, 1024 × 1536. Match the actual reference's clean drawn contours, typography weight, flat color and thin binding crease as closely as possible, as if this were another commission to the same illustrator. Ignore all phone interface. This is a new subject and composition, not a recolored hand. Image 2's upper-right Headway cover (“Guía del amor y la amistad”) provides the bright sky-blue, ivory, sunny-yellow and navy color feeling. Image 3 (“Lo inevitable”, Wiser) shows the degree of facial simplification: a few flat shapes, no modeling.
+
+An expressive small brown-skinned boy is hopping across a hopscotch game that runs diagonally from the lower left toward the upper right. The child's movement crosses the rigid divisions of the squares: a playful metaphor for Trevor Noah's childhood in a society divided by apartheid. He has a sunny-yellow shirt, navy shorts, simple ivory sneakers, a compact black/navy hair silhouette, one tiny dot eye and a short mouth stroke in profile. One leg reaches forward, the other bends back; arms balance naturally. No portrait likeness. Draw him with the charming economical flat abstraction of the supplied references, never glossy cartoon anatomy. The board has six broad ivory outlined irregular squares with a few alternating navy/ivory filled panels, no numbers. View from a gentle illustrative angle, not a diagram. Sky blue fills the entire background. No city, sun, plants, flags or decorative filler.
+
+The large two-line title is navy, slightly angled in the open upper-left area, its position answering the child's forward movement like the text responds to the hand in the first reference. Medium-bold geometric sans with natural width, not an ultra-heavy font. Exact title:
+Prohibido
+nacer
+
+The message sits in the roomy lower-right gap created by the diagonal board, navy, smaller, clearly readable, with the quiet hierarchy of the Headway reference. Exact words, three lines:
+Humor y supervivencia
+en la Sudáfrica
+del apartheid
+
+Five flat base colors: sky blue, navy, ivory, sunny yellow, warm brown. Clean uniform digital fills, strong simple silhouettes, very few internal strokes, no texture, grain, gradients or soft shadows. No author or other lettering. Gently rounded cover corners and the same narrow tonal crease at the far left as Headway; this is the only shading. No border, white outline, pages, cast shadow or 3D book mockup. Prioritize beautiful composition and an unmistakably hand-designed flat illustration.

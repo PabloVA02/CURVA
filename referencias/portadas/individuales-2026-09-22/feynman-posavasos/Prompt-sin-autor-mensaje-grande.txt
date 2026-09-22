@@ -1,0 +1,12 @@
+Edit this existing cover, portrait 1024 x 1536. Two required corrections: REMOVE the author name completely, and make the explanatory message substantially larger and easy to read on a phone. Keep the vivid cobalt blue and golden yellow, bottom title unchanged, top-down cup on cropped gold medal, and left binding crease.
+
+Erase «Richard Feynman» at the top and fill with continuous blue. No author names anywhere.
+
+Erase the small four-line message at middle left. Use that blue left-hand space and the blue space BELOW the medal to create a generous bold ivory text block ABOVE the main title, with exactly these THREE lines:
+Ciencia y humor
+en la vida de un
+Nobel irreverente
+
+Set it in an open, non-condensed geometric sans, semibold, at least 60–65 px letter size at 1024px width. It should be visibly larger than the old message, not just heavier. Position the block left aligned around y=865–1100, keeping the title at its existing y=1180 onward. If necessary reduce the medal-and-cup group together slightly (10–15%) so its bottom finishes around y=820 and the enlarged message has clean blue breathing room. Keep the medal cropped through the top edge. Do not overlap the medal or title with the message. Prioritize mobile readability over the former narrow-column layout. The composition must still be the same medal used as a coaster, with the visible coffee ring.
+
+Preserve exact bottom title text: «¿Está usted de broma,» and «SR. FEYNMAN?». No other text. No additional objects, no author, no white border. Flat bright colors, no new textures or realistic effects.
