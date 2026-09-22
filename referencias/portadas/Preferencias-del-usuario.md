@@ -150,3 +150,7 @@ Tras ver la versión sin frase, el usuario pide añadir «El primer mes de la Pr
 ### Corrección posterior · 22 de septiembre, Feynman posavasos
 
 No añadir el nombre del autor en las portadas. El usuario lo corrige expresamente incluso cuando el prompt individual anterior lo incluía. Colores vivos como las referencias Headway, y mensajes suficientemente grandes para leerlos en móvil: evitar columnas demasiado estrechas con letra pequeña. Conservar las versiones anteriores. Una indicación posterior específica puede cambiar estas preferencias.
+
+### Pauta posterior · texto centrado y sobre el dibujo
+
+El usuario observa que en las referencias el título y el mensaje suelen estar centrados y muchas veces encima del dibujo. Aplicar esta composición con frecuencia, empezando por «Tropezar con la felicidad». Es una pauta preferente, no una obligación para todas las portadas; conservar variedad y atender cada prompt específico.

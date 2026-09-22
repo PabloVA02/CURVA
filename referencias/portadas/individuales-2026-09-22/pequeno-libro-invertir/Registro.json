@@ -1,0 +1,17 @@
+{
+  "libroId": "bogle-sentido-comun",
+  "autor": "John C. Bogle",
+  "fecha": "2026-09-22",
+  "herramienta": "image_gen integrada",
+  "origen_generado": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-0e1cd20b-cdda-4b87-828d-36332fa6f344.png",
+  "sha256": "c2ea579e8873f7f6e3de793f46703ff4f3e28c29a77f713231d72563f5c97efe",
+  "archivo_publico": "docs/assets/comparacion-propuestas/bogle-pajar-c2ea579e88.png",
+  "prompts": [
+    "Prompt-generacion.txt",
+    "Prompt-ajuste-pajar.txt"
+  ],
+  "referencia": "docs/assets/comparacion-headway/IMG_1966.PNG",
+  "estado": "Propuesta en comparador, anteriores conservadas",
+  "texto": "Texto exacto proporcionado por el usuario",
+  "version_inicial": "exec-6a11cd02-0497-4e69-ae95-4c77b903391f.png"
+}

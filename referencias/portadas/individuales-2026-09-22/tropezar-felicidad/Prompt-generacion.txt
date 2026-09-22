@@ -1,0 +1,17 @@
+Use case: illustration-story. Create ONE finished Spanish illustrated cover, vertical 2:3, 1024 x 1536. The supplied Headway screenshot is a STYLE REFERENCE for clean flat hand-drawn editorial illustration, strong geometric typography, clear saturated inks and one thin left binding crease. Do not reproduce its objects, text or phone UI.
+
+Book: Tropezar con la felicidad. Main idea: we mispredict what will make us happy. Illustrate ONE oversized fortune cookie broken into two charming irregular golden halves, with a wide ivory fortune-paper strip emerging between them and curling into a gentle smile-shaped arc across the lower part. The paper is BLANK, no invented fortune or marks. No eyes or face. A metaphor for unreliable predictions, not a food photograph. A couple of tiny angular golden crumbs close to the break are enough; no extra icons, stars, people, coins or scenery. Make the two cookie halves expressive through their asymmetrical folds and silhouettes. Flat ochre crease shapes, no baked texture, no realism, no soft shading. Paper is a flat ivory ribbon with one simple dark-violet fold shape.
+
+Vivid harmonious palette: saturated violet background #643BC5, golden yellow cookie #FFC544, orange crease shapes #E5832D, warm ivory paper and text #FFF0DA, dark violet #39206F for the few deepest folds. Big solid ink areas, slightly irregular drawn contours. No gradients, global grain, glossy material, 3D render or drop shadows.
+
+CENTER THE TITLE AND MESSAGE ABOVE THE DRAWING, as one coherent upper text composition. Title top, message directly below it, then the large fortune cookie drawing fills the lower half. No separate footer caption, no author. Keep both texts comfortably readable on mobile. Title in heavy open geometric sans, not narrow condensed; first line ivory, second line golden yellow, same family. Message ivory regular/medium, large enough to read, approximately 52–56 px at output size. Generous safe margins. Drawing begins around 53% height, lower ivory smile-shaped strip finishes around 91%.
+
+EXACT title, two centered lines:
+Tropezar con
+la felicidad
+
+EXACT message, two centered lines:
+Por qué imaginamos mal
+lo que nos hará felices
+
+No other words, author, signatures, brands or logos. Slightly rounded corners, discreet single tonal binding groove near 2% of left edge, same background hue, settled by 5%. Binding is the only very slight tonal shading exception. Full bleed front cover, no white frame, no page edges, no book mockup perspective. Aim for witty, inviting editorial drawing with strong thumbnail clarity and ample breathing room, visually coherent with the supplied Headway reference.
