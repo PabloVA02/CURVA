@@ -17,7 +17,7 @@ era una app entera, pero con 114 resúmenes, y activarlo esconde los 247 nuevos.
 
 ## Y al lado está el paquete de esta sesión
 
-`docs/assets/index-NeSUOvOI.js`, compilado desde `prototipo-microaprendizaje`
+`docs/assets/index-ELnDYFUY.js`, compilado desde `prototipo-microaprendizaje`
 con `npx vite build --config vite.web.config.mjs`. Lleva los mismos 361
 resúmenes y **dos cosas que el de la raíz no tiene**:
 
@@ -27,14 +27,15 @@ resúmenes y **dos cosas que el de la raíz no tiene**:
    pedido el 19 de septiembre para encontrar los recién metidos en el móvil.
    Comprobado: en el paquete de la raíz no está ni `ficha-sello-nuevo` ni
    `cuenta-nuevo`.
-2. **Los iconos nuevos de la lupa**, el balón y la bombilla que mandó el 22 de
-   septiembre con el coral mandando.
+2. **Los iconos nuevos de la lupa**: el balón y la bombilla rehechos con el
+   coral mandando, y el dragón de Ficción y la paleta de Arte, que eran los
+   dos únicos géneros que se pintaban sin dibujo. Todo del 22 de septiembre.
 
 **Las dos cosas son decisión de Pablo, no de ninguna de las dos sesiones.** Para
 que la raíz sirva este otro paquete basta cambiar esa línea del `<head>` de
 `docs/index.html`:
 
-    <script type="module" crossorigin src="./assets/index-NeSUOvOI.js"></script>
+    <script type="module" crossorigin src="./assets/index-ELnDYFUY.js"></script>
 
 Y al revés para volver al de la otra sesión.
 
