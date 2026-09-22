@@ -17,7 +17,7 @@ era una app entera, pero con 114 resúmenes, y activarlo esconde los 247 nuevos.
 
 ## Y al lado está el paquete de esta sesión
 
-`docs/assets/index-a_MWVPLm.js`, compilado desde `prototipo-microaprendizaje`
+`docs/assets/index-BWDMxWi-.js`, compilado desde `prototipo-microaprendizaje`
 con `npx vite build --config vite.web.config.mjs`. Lleva los mismos 361
 resúmenes y **dos cosas que el de la raíz no tiene**:
 
@@ -37,7 +37,7 @@ resúmenes y **dos cosas que el de la raíz no tiene**:
 que la raíz sirva este otro paquete basta cambiar esa línea del `<head>` de
 `docs/index.html`:
 
-    <script type="module" crossorigin src="./assets/index-a_MWVPLm.js"></script>
+    <script type="module" crossorigin src="./assets/index-BWDMxWi-.js"></script>
 
 Y al revés para volver al de la otra sesión.
 
@@ -46,6 +46,11 @@ Y al revés para volver al de la otra sesión.
 Las 82 portadas nuevas de la selección de Pablo ya están en el fuente de la
 app, así que este paquete las lleva igual que el de la raíz. Y la bienvenida
 ha vuelto a la de antes, crema y con un escaparate de 21 de ellas.
+
+Y desde la noche del 22: «Escoge 3 o más títulos» con 24 de ellas a tamaño de
+libro; la gráfica del plan con el diseño de la introducción; el pollito quieto
+y con los ojos que brillan; y los botones de pago, que suben una hoja como la
+del iPhone —tarjeta, Face ID, «Hecho»— en vez de la caja con correo y tarjeta.
 
 ## Una advertencia para quien compile
 
