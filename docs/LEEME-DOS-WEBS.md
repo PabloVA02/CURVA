@@ -17,7 +17,7 @@ era una app entera, pero con 114 resúmenes, y activarlo esconde los 247 nuevos.
 
 ## Y al lado está el paquete de esta sesión
 
-`docs/assets/index-kKjJSLHT.js`, compilado desde `prototipo-microaprendizaje`
+`docs/assets/index-UdHmIWFm.js`, compilado desde `prototipo-microaprendizaje`
 con `npx vite build --config vite.web.config.mjs`. Lleva los mismos 361
 resúmenes y **dos cosas que el de la raíz no tiene**:
 
@@ -37,7 +37,7 @@ resúmenes y **dos cosas que el de la raíz no tiene**:
 que la raíz sirva este otro paquete basta cambiar esa línea del `<head>` de
 `docs/index.html`:
 
-    <script type="module" crossorigin src="./assets/index-kKjJSLHT.js"></script>
+    <script type="module" crossorigin src="./assets/index-UdHmIWFm.js"></script>
 
 Y al revés para volver al de la otra sesión.
 
@@ -51,6 +51,11 @@ Y desde la noche del 22: «Escoge 3 o más títulos» con 24 de ellas a tamaño 
 libro; la gráfica del plan con el diseño de la introducción; el pollito quieto
 y con el brillo de los ojos que crece y vuelve; y los botones de pago, que suben una hoja como la
 del iPhone —tarjeta, Face ID, «Hecho»— en vez de la caja con correo y tarjeta.
+
+Y desde el 23: la bienvenida con la estética de Imprint, y en la introducción
+lo que Pablo pidió de Wiser —la rueda de minutos, el mosaico de objetivos, las
+frases en tarjeta blanca, los libros de uno en uno, «Lee más en menos tiempo» y
+«¡7 días de prueba desbloqueados!»—.
 
 ## Una advertencia para quien compile
 
