@@ -17,7 +17,7 @@ era una app entera, pero con 114 resúmenes, y activarlo esconde los 247 nuevos.
 
 ## Y al lado está el paquete de esta sesión
 
-`docs/assets/index-B0vNcr0i.js`, compilado desde `prototipo-microaprendizaje`
+`docs/assets/index-a_MWVPLm.js`, compilado desde `prototipo-microaprendizaje`
 con `npx vite build --config vite.web.config.mjs`. Lleva los mismos 361
 resúmenes y **dos cosas que el de la raíz no tiene**:
 
@@ -37,7 +37,7 @@ resúmenes y **dos cosas que el de la raíz no tiene**:
 que la raíz sirva este otro paquete basta cambiar esa línea del `<head>` de
 `docs/index.html`:
 
-    <script type="module" crossorigin src="./assets/index-B0vNcr0i.js"></script>
+    <script type="module" crossorigin src="./assets/index-a_MWVPLm.js"></script>
 
 Y al revés para volver al de la otra sesión.
 
