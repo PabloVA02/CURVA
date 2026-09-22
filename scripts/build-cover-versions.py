@@ -5,6 +5,9 @@ import subprocess, json, re, hashlib, posixpath
 from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parents[1]
+PREVIOUS_PATH = ROOT/'docs/assets/todas-las-portadas.json'
+PREVIOUS = json.loads(PREVIOUS_PATH.read_text()) if PREVIOUS_PATH.exists() else {'libros': []}
+OLD_BOOKS = {b['id']: b for b in PREVIOUS['libros']}
 def git(*args):
     return subprocess.check_output(['git', *args], cwd=ROOT)
 def read(path):
@@ -42,7 +45,8 @@ for path in (ROOT / 'docs/assets').rglob('*'):
     if path.suffix.lower() in ('.png', '.jpg', '.jpeg', '.webp'):
         name = path.relative_to(ROOT).as_posix()
         if name not in tree:
-            tree[name] = 'local-' + hashlib.sha256(path.read_bytes()).hexdigest()
+            content = path.read_bytes()
+            tree[name] = hashlib.sha1(b'blob '+str(len(content)).encode()+b'\0'+content).hexdigest()
 
 books, entries, unions, missing = {}, {}, {}, []
 def book(b):
@@ -95,6 +99,7 @@ for b in comparison['curva']:
 
 catalogs = [p for p in tracked if p.startswith('referencias/portadas/') and '/wiser/' not in p
             and (p.endswith('/Catalogo.json') or Path(p).name.startswith('portadas-') and p.endswith('.json'))]
+catalogs = sorted(set(catalogs) | {p.relative_to(ROOT).as_posix() for p in (ROOT/'referencias/portadas').glob('importadas-*/Catalogo.json')})
 for path in sorted(catalogs):
     data = json.loads(read(path))
     if not isinstance(data, list): continue
@@ -166,15 +171,25 @@ for (ident, _), group in groups.items():
     sources = sorted(set().union(*(e['sources'] for e in group)))
     kind = 'Actual en el catálogo' if current.get(ident) in paths else 'Propuesta reciente' if any('/individuales-' in p or '/comparacion-propuestas/' in p for p in paths) else 'Versión archivada'
     if 'Portada-anterior' in Path(preferred).stem and kind == 'Propuesta reciente': kind = 'Versión anterior'
+    imported = any('/portadas-importadas-86/' in p for p in paths)
+    if imported: kind = 'Nueva · ZIP de 86'
     url = './'+preferred[5:] if preferred.startswith('docs/') else 'https://raw.githubusercontent.com/PabloVA02/CURVA/'+REVISION+'/'+quote(preferred)
-    results[ident].append({'key': hashlib.sha256((ident+'|'+tree[preferred]).encode()).hexdigest()[:16],
+    old = [v for v in OLD_BOOKS.get(ident, {}).get('versiones', []) if set(v['copias']) & set(paths)]
+    old.sort(key=lambda v: v['numero'])
+    stable_key = old[0]['key'] if old else hashlib.sha256((ident+'|'+tree[preferred]).encode()).hexdigest()[:16]
+    results[ident].append({'key': stable_key, 'aliases': sorted({k for v in old for k in [v['key'], *v.get('aliases', [])]} - {stable_key}),
+                          'numero': old[0]['numero'] if old else None, 'ultimoZip': imported,
                           'src': url, 'archivo': preferred, 'tipo': kind, 'etiquetas': sorted(labels),
                           'copias': paths, 'fuentes': sources})
 out = []
 for ident, b in books.items():
     variants = results[ident]
-    variants.sort(key=lambda v: (v['tipo'] != 'Propuesta reciente', v['tipo'] != 'Actual en el catálogo', v['archivo']))
-    for i, v in enumerate(variants): v['numero'] = i+1
+    variants.sort(key=lambda v: (not v['ultimoZip'], v['tipo'] != 'Propuesta reciente', v['tipo'] != 'Actual en el catálogo', v['archivo']))
+    highest = max([v['numero'] for v in OLD_BOOKS.get(ident, {}).get('versiones', [])] or [0])
+    for v in variants:
+        if v['numero'] is None:
+            highest += 1
+            v['numero'] = highest
     out.append({**b, 'resumen': ident in summary_ids, 'versiones': variants})
 out.sort(key=lambda b: b['titulo'].casefold())
 payload = {'fecha': '2026-09-22', 'revisionFuentes': REVISION, 'libros': out, 'sinAsignar': unknown,
