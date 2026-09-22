@@ -1,0 +1,52 @@
+{
+  "id": "feynman",
+  "titulo": "¿Está usted de broma, Sr. Feynman?",
+  "autor": "Richard Feynman",
+  "mensaje": "Ciencia, bromas y curiosidad en la vida de un Nobel",
+  "mensajeEnImagen": "Ciencia, bromas\ny curiosidad\nen la vida\nde un Nobel",
+  "motivo": "Caja fuerte frontal abierta; gran interrogante dentro y mensaje en la cara interior de la puerta",
+  "revision": "La primera caja fuerte resultaba demasiado tridimensional y el mensaje pequeño. Se redibuja frontal, se integra un interrogante y se amplía el mensaje a cuatro líneas.",
+  "fecha": "2026-09-22",
+  "herramienta": "image_gen integrado",
+  "referencias": [
+    "IMG_1896.PNG",
+    "IMG_1951.PNG"
+  ],
+  "fuenteContenido": "https://wwnorton.co.uk/books/9780393316049-surely-you-re-joking-mr-feynman",
+  "resumenComprobado": {
+    "bundle": "docs/assets/index-lectura-077e252662.js",
+    "paginas": 11
+  },
+  "instaladaEnApp": false,
+  "archivoComparador": "./assets/comparacion-propuestas/feynman-923b936437.png",
+  "imagenes": [
+    {
+      "archivo": "Portada-anterior.webp",
+      "origen": "docs/assets/portadas-generadas/feynman-e80dd7a09a.webp",
+      "dimensiones": [
+        1024,
+        1536
+      ],
+      "sha256": "ff3e6a23ac876094c03fb9fd0976efba04325a501bb015d810df64e7557ef82a"
+    },
+    {
+      "archivo": "Version-inicial.png",
+      "origen": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-b053d879-36c2-41a0-b73f-b54f405a3d07.png",
+      "dimensiones": [
+        1024,
+        1536
+      ],
+      "sha256": "b16ac2ada50cffc1ad30cc2bb9e8dd672c9e38d48d434dbd80b25e3f5f70e3fa"
+    },
+    {
+      "archivo": "Portada.png",
+      "origen": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-50018296-1434-4c90-a301-05077f3ef8b8.png",
+      "dimensiones": [
+        1024,
+        1536
+      ],
+      "sha256": "923b936437a1e504265a3843981999a3baccf8430cffd271f9c69783d1daa58b"
+    }
+  ],
+  "estado": "Propuesta nueva; se conserva la cubierta instalada"
+}

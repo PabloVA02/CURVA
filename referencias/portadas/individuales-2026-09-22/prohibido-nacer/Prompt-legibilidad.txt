@@ -1,0 +1,9 @@
+Edit image 1, the sky-blue “Prohibido nacer” cover. Keep the boy, hopscotch diagonal, colors, words and binding crease. Use image 2, Headway “Hábitos mínimos”, to correct the TYPE HIERARCHY: the current title is much heavier than the reference. Reduce title stroke weight to the same ordinary geometric bold as Headway, with more open counters; reduce its overall width to about 65% of the cover, preserving the upward tilt and two-line arrangement in the upper-left sky. Do not make it condensed or ultra-black. Its top-left position stays around 10% from the left and 12% from the top.
+
+Enlarge the explanatory message in the lower-right gap to read well at phone thumbnail size. Medium weight, four shorter lines, navy, with clear margins:
+Humor y
+supervivencia en
+la Sudáfrica
+del apartheid
+
+This is a typography correction. All drawing elements stay the same. Preserve a clean flat digital illustration, no new texture, shadows, highlights or gradients. No extra words or objects. 1024 × 1536.

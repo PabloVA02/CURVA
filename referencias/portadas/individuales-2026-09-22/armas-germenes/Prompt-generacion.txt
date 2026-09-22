@@ -1,0 +1,27 @@
+Use case: illustration-story.
+Create ONE finished Spanish illustrated book cover, portrait 2:3, 1024 x 1536. Full bleed, straight frontal cover only.
+
+Reference image 1 is a Headway screenshot of «El año que cambiará tu vida»: use ONLY the cover inside it as reference for the flat silhouette, the confident ordinary geometric sans typography, the generous negative space beside an elongated motif, and the very narrow left binding crease. Reference image 2 is a Headway screenshot of «Desintoxica tus pensamientos»: use its clean solid fills, modest bold type weight, readable regular subtitle, and restrained editorial drawing. Never reproduce the surrounding phone UI, stars, cloud, faces, or words in the reference screenshots.
+
+USER'S CENTRAL IDEA, preserve exactly: a sword pointing straight down whose blade, progressively as it descends, dissolves into a dust of tiny dots falling and spreading. ONE sword, no other objects. This is a clever flat editorial drawing, not a realistic weapon or a game prop.
+
+Composition: warm vivid vermilion ground. Title upper left with three tightly stacked lines; avoid gigantic ultra-heavy condensed typography. The sword is slightly right of center, its handle below the top title area, simple golden pommel, wine-red grip, elegant gently curved golden crossguard. Long ivory blade with ONE narrow flat navy facet. The lower blade loses tiny pieces, becomes increasingly perforated, and then ceases to be a solid shape: below it there are ONLY individually drawn ivory/navy dots, small and irregular, falling down and spreading gently toward the lower corners. The transformation must clearly belong to the blade itself, not smoke added behind an intact sword. No intact tip. Use dots rather than big shards or lightning. Clear intentional shapes, a few organic edge irregularities, no photographic metal detail.
+
+Fit the subtitle into the open space to the LEFT of the descending blade, around the lower middle of the cover, surrounded by plain red ground. It belongs to the same composition, not a separate caption strip or label. Dots remain mostly below it and never obscure words. Allow breathing room and readable text at mobile thumbnail scale.
+
+Exact title, ivory bold geometric sans, these line breaks:
+Armas,
+gérmenes
+y acero
+
+Exact subtitle, ivory medium/regular geometric sans, about half the title's letter height, these line breaks:
+Por qué
+unos pueblos
+conquistaron
+a otros
+
+Only these words. No author line, branding, signature or extra lettering.
+
+Five flat base inks: vermilion #D93F2B, warm ivory #FAF0DC, golden yellow #F2B134, deep navy #14213D, wine #7A1F17. Not all must occupy equal space: mainly red and ivory. No background grain, gradients, metallic shine, airbrush, diffuse shadows, realistic lighting, 3D modelling, decorative border or unrelated filler.
+
+Finish: very slightly rounded corners and ONE narrow tonal binding crease close to the left edge, around 2.5% of width, faint dark groove with adjacent slim light recovery, settling into the ground by 6%. This tiny binding treatment is the sole tonal shading exception. No white outline, no page edges, no book mockup perspective. Match the visual restraint and unified drawing/type treatment of the supplied Headway covers.

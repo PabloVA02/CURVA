@@ -1,0 +1,16 @@
+Adapt the visual language of the Headway covers in these two screenshots into ONE finished cover for “¿Está usted de broma, Sr. Feynman?”. Output only the 1024 × 1536 front cover, with no phone interface. Reference 1: use the LOWER RIGHT cover, “Crea tu segundo cerebro”: clean flat shapes, a bold but ordinary geometric sans title, and explanatory text belonging to the main illustrated container. Reference 2: use “Marketing 4.0” at LOWER RIGHT for its economy of line, carefully drawn object and varied typography. Match the same editorial collection's degree of simplification and precise flat drawing; do not import their folder, pencil, screen or words.
+
+Vivid violet background. An oversized sunny-yellow safe occupies the lower half, slightly off-center to the left. Its door has swung open toward the right and partly out of the cover: a playful image of Feynman's famous curiosity and safe-cracking adventures. The interior is deep purple and empty. The open door is coral outside and ivory inside, with a large simple circular combination dial on its narrow visible outer edge, a few short tick marks and two little hinge shapes. Everything is a flat illustrated shape, as confidently simplified as the Headway folder. Only a few solid facets to explain the door's orientation, no photoreal volume. No character, hand, lockpick, money, formula, gears, stars, notebook or other objects. The safe itself and the open door form one connected graphic idea.
+
+Place the exact title in the calm upper part, left aligned, balanced width rather than huge condensed letters. Three lines with clear generous side margins:
+¿Está usted
+de broma,
+Sr. Feynman?
+Make the first and third lines ivory, the middle line sunny yellow. Medium-bold geometric sans, open counters, crisp punctuation and the accent in Está. The title occupies roughly one quarter of the total height, leaving the illustration space to breathe.
+
+On the IVORY INNER FACE of the open door, integrate this smaller dark-purple message, in a regular/medium geometric sans. The door provides a clean broad face for the words, without strong perspective distortion. Three lines:
+Ciencia, bromas
+y curiosidad en la
+vida de un Nobel
+
+Use only five base inks: violet #5B3FBF, sunny yellow #F5C233, coral #F2603C, deep purple #33228A and ivory #FAF6EE. All surfaces are uniformly flat digital color. No grain, paper texture, cloudy tonal modeling, bevels, blurry shadows or gradients. Gently rounded corners and a single thin Headway binding crease near the left edge, the ONLY tonal effect. No white border, page edges, external shadow or perspective book mockup. The finished design should feel intelligent, playful, clear and beautifully composed, with type and drawing designed together. No extra words, author name, numbers, logo or watermark.
