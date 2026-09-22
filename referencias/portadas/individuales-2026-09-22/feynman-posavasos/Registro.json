@@ -1,0 +1,30 @@
+{
+  "libroId": "feynman",
+  "titulo": "¿Está usted de broma, Sr. Feynman?",
+  "autor": "Richard Feynman",
+  "concepto_usuario": "C · El posavasos — registro apagado",
+  "fecha": "2026-09-22",
+  "herramienta": "image_gen integrada",
+  "origen_generado": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-c82f27fe-c1f6-4c18-b66b-2104963d76a1.png",
+  "sha256": "ee956c154974787424880ded21090da9c3c50e5ec7d91ecf682821b2f43ed84d",
+  "archivo_publico": "docs/assets/comparacion-propuestas/feynman-posavasos-vivo-ee956c1549.png",
+  "referencia": "docs/assets/comparacion-headway/IMG_1966.PNG",
+  "prompt": "Prompt-generacion.txt",
+  "estado": "Propuesta en comparador; versiones anteriores conservadas",
+  "mensaje": "Ciencia y humor en la vida de un Nobel irreverente",
+  "fuente_contenido": "https://wwnorton.co.uk/books/9780393316049-surely-you-re-joking-mr-feynman",
+  "version_inicial": {
+    "sha256": "0dbc11e974c018440819845f9ebf0a3a8e2be12d748bf29abdc4b6539823e278",
+    "origen_generado": "/Users/administrador/.codex/generated_images/01a09620-e9ae-7ff2-823f-92b6b10818e1/exec-75946542-eb3d-4d4f-9bcc-cb8e1b9a11eb.png",
+    "archivo": "Version-apagada.png"
+  },
+  "prompts_edicion": [
+    "Prompt-colores-vivos.txt",
+    "Prompt-sin-autor-mensaje-grande.txt"
+  ],
+  "version_intermedia": {
+    "archivo": "Version-viva-con-autor.png",
+    "origen_generado": "exec-3d36bdb2-6ea6-44c9-8f3b-539a050c1dd6.png"
+  },
+  "correccion_usuario": "Colores vivos, sin autor, mensaje grande y legible en móvil"
+}
