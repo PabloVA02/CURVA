@@ -1,0 +1,12 @@
+{
+  "bundleAnterior": "docs/assets/index-lectura-077e252662.js",
+  "bundleNuevo": "docs/assets/index-lectura-4f6d159823.js",
+  "seleccionadas": 87,
+  "aplicadas": 85,
+  "cambiadas": 82,
+  "pendientesSinResumen": [
+    "como-mediras-tu-vida",
+    "de-que-color-paracaidas"
+  ],
+  "verificacion": "El contenido fuera del mapa OS de portadas es idéntico byte por byte. La app sigue filtrada a los 361 libros con resumen."
+}
