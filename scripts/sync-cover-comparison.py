@@ -11,6 +11,7 @@ source=page.read_text()
 data,start,length=literal(source,'const data=')
 books,_,_=literal((ROOT/'docs/portadas.html').read_text(),'const books=')
 ids={b['id'] for b in books}
+data['librosConResumen']=[{k:b[k] for k in ['id','titulo','autor']} for b in books]
 imports=json.loads((ROOT/'referencias/portadas/importadas-86-2026-09-22/Catalogo.json').read_text())
 selected=json.loads((ROOT/'referencias/portadas/seleccion-aplicada-2026-09-22/Catalogo.json').read_text())
 recent={b['id'] for b in selected}
