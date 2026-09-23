@@ -23,7 +23,9 @@ finanzas=json.loads((ROOT/'referencias/portadas/importadas-finanzas-10-2026-09-2
 data['finanzas10']=[{'id':b['id'],'titulo':b['titulo'],'autor':b['autor'],'archivo':'./'+b['archivo'][5:],'marca':'Curva','lote10':True,'sinDobleAdicional':True} for b in finanzas if b['id'] in ids]
 ultimas=json.loads((ROOT/'referencias/portadas/importadas-ultimas-94-2026-09-23/Catalogo.json').read_text())
 data['ultimas94']=[{'id':b['id'],'titulo':b['titulo'],'autor':b['autor'],'archivo':'./'+b['archivo'][5:],'marca':'Curva','lote94':True,'sinDobleAdicional':True} for b in ultimas if b['id'] in ids]
-data['fecha']='2026-09-23'
+rondas=json.loads((ROOT/'referencias/portadas/rondas-1-7-2026-09-24/Catalogo.json').read_text())
+data['rondas']=[{'id':b['id'],'titulo':b['titulo'],'autor':b['autor'],'archivo':'./'+b['archivo'][5:],'marca':'Curva','loteRondas':True,'sinDobleAdicional':True} for b in rondas if b['id'] in ids]
+data['fecha']='2026-09-24'
 source=source[:start]+json.dumps(data,ensure_ascii=False,separators=(',',':'))+source[start+length:]
 page.write_text(source)
 print(f"Comparativa: {len(data['curva'])} portadas actuales, {len(data['importadas86'])} del ZIP, {len(data['headway'])} Headway y {len(data['wiser'])} Wiser.")

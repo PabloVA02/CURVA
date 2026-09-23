@@ -1,0 +1,2543 @@
+[
+  {
+    "id": "lideres-comen-al-final",
+    "titulo": "Los líderes comen al final",
+    "autor": "Simon Sinek",
+    "archivo": "docs/assets/portadas-rondas-1-7/lideres-comen-al-final-d4d067af8dc1.png",
+    "sha256": "d4d067af8dc1570ce002d2485fcdc0486e7dc6c072cac43b90084ec424469019",
+    "origenes": [
+      {
+        "zip": "RONDAA1.zip",
+        "archivo": "CURVA-tanda-221-232-ultimas/100-los-lideres-comen-al-final.png"
+      }
+    ]
+  },
+  {
+    "id": "patitos-feos",
+    "titulo": "Los patitos feos",
+    "autor": "Boris Cyrulnik",
+    "archivo": "docs/assets/portadas-rondas-1-7/patitos-feos-f794b598084f.png",
+    "sha256": "f794b598084f3d90f9ef5d29d68c11cc375b595e9eedc95bf262b902d8b7cdce",
+    "origenes": [
+      {
+        "zip": "RONDAA1.zip",
+        "archivo": "CURVA-tanda-221-232-ultimas/101-los-patitos-feos.png"
+      }
+    ]
+  },
+  {
+    "id": "principios-del-exito",
+    "titulo": "Los principios del éxito",
+    "autor": "Jack Canfield",
+    "archivo": "docs/assets/portadas-rondas-1-7/principios-del-exito-d9a2662dae7a.png",
+    "sha256": "d9a2662dae7a38757f3aa66f1057e90b69e41f47e69afd7483ad355e82085f58",
+    "origenes": [
+      {
+        "zip": "RONDAA1.zip",
+        "archivo": "CURVA-tanda-221-232-ultimas/102-los-principios-del-exito.png"
+      }
+    ]
+  },
+  {
+    "id": "mente-millonaria",
+    "titulo": "Los secretos de la mente millonaria",
+    "autor": "T. Harv Eker",
+    "archivo": "docs/assets/portadas-rondas-1-7/mente-millonaria-46f235265a63.png",
+    "sha256": "46f235265a6371fd33b88102963cce4ed40b4ce1b44be070066d8e4aa7f0f094",
+    "origenes": [
+      {
+        "zip": "RONDAA1.zip",
+        "archivo": "CURVA-tanda-221-232-ultimas/103-los-secretos-de-la-mente-millonaria.png"
+      }
+    ]
+  },
+  {
+    "id": "seis-pilares-autoestima",
+    "titulo": "Los seis pilares de la autoestima",
+    "autor": "Nathaniel Branden",
+    "archivo": "docs/assets/portadas-rondas-1-7/seis-pilares-autoestima-54566ca3e30a.png",
+    "sha256": "54566ca3e30ae884b5f07e38477efe4530753ea335267bc1ff24ccd389a1f7a3",
+    "origenes": [
+      {
+        "zip": "RONDAA1.zip",
+        "archivo": "CURVA-tanda-221-232-ultimas/104-los-seis-pilares-de-la-autoestima.png"
+      }
+    ]
+  },
+  {
+    "id": "maestria-greene",
+    "titulo": "Maestría",
+    "autor": "Robert Greene",
+    "archivo": "docs/assets/portadas-rondas-1-7/maestria-greene-3baccd39f1ae.png",
+    "sha256": "3baccd39f1ae3535c127169968e05a9b060c1d4bb792c72b9ce529a9715fae6c",
+    "origenes": [
+      {
+        "zip": "RONDAA1.zip",
+        "archivo": "CURVA-tanda-221-232-ultimas/105-maestria.png"
+      }
+    ]
+  },
+  {
+    "id": "mamba-mentality",
+    "titulo": "Mamba Mentality",
+    "autor": "Kobe Bryant",
+    "archivo": "docs/assets/portadas-rondas-1-7/mamba-mentality-683f00e2c3a1.png",
+    "sha256": "683f00e2c3a14cfd8ceebdbec0816328ee1ac0674df41a8947b31299099f5310",
+    "origenes": [
+      {
+        "zip": "RONDAA1.zip",
+        "archivo": "CURVA-tanda-221-232-ultimas/106-mamba-mentality.png"
+      }
+    ]
+  },
+  {
+    "id": "canones-agosto",
+    "titulo": "Los cañones de agosto",
+    "autor": "Barbara Tuchman",
+    "archivo": "docs/assets/portadas-rondas-1-7/canones-agosto-efc79386ea9e.png",
+    "sha256": "efc79386ea9e3c47457ee4f85754baef96936a92af5b5956a867b1163d300a66",
+    "origenes": [
+      {
+        "zip": "RONDAA1.zip",
+        "archivo": "CURVA-tanda-221-232-ultimas/95-los-canones-de-agosto.png"
+      }
+    ]
+  },
+  {
+    "id": "cinco-arrepentimientos",
+    "titulo": "Los cinco arrepentimientos de los moribundos",
+    "autor": "Bronnie Ware",
+    "archivo": "docs/assets/portadas-rondas-1-7/cinco-arrepentimientos-2e0604676511.png",
+    "sha256": "2e0604676511f2e56be2fc8926b04ad80a1a76c4d497a6f6feab13c4213ae805",
+    "origenes": [
+      {
+        "zip": "RONDAA1.zip",
+        "archivo": "CURVA-tanda-221-232-ultimas/96-los-cinco-arrepentimientos-de-los-moribundos.png"
+      }
+    ]
+  },
+  {
+    "id": "lenguajes-amor",
+    "titulo": "Los cinco lenguajes del amor",
+    "autor": "Gary Chapman",
+    "archivo": "docs/assets/portadas-rondas-1-7/lenguajes-amor-3c974d5a7976.png",
+    "sha256": "3c974d5a7976990778a2a0b8b72d4d546a83c0d0c028b926ff487887e514c296",
+    "origenes": [
+      {
+        "zip": "RONDAA1.zip",
+        "archivo": "CURVA-tanda-221-232-ultimas/97-los-cinco-lenguajes-del-amor.png"
+      }
+    ]
+  },
+  {
+    "id": "dones-de-la-imperfeccion",
+    "titulo": "Los dones de la imperfección",
+    "autor": "Brené Brown",
+    "archivo": "docs/assets/portadas-rondas-1-7/dones-de-la-imperfeccion-989e07d6cfa9.png",
+    "sha256": "989e07d6cfa9da574492bfb835c1ea5f66c6752b995226a4e86d96c679b4edde",
+    "origenes": [
+      {
+        "zip": "RONDAA1.zip",
+        "archivo": "CURVA-tanda-221-232-ultimas/98-los-dones-de-la-imperfeccion.png"
+      }
+    ]
+  },
+  {
+    "id": "hombres-marte-mujeres-venus",
+    "titulo": "Los hombres son de Marte, las mujeres son de Venus",
+    "autor": "John Gray",
+    "archivo": "docs/assets/portadas-rondas-1-7/hombres-marte-mujeres-venus-f0339da0489e.png",
+    "sha256": "f0339da0489ebae9d3da56ea538b647bf3544113d5e61ea99b0db51854f40d10",
+    "origenes": [
+      {
+        "zip": "RONDAA1.zip",
+        "archivo": "CURVA-tanda-221-232-ultimas/99-los-hombres-son-de-marte-las-mujeres-son-de-venus.png"
+      }
+    ]
+  },
+  {
+    "id": "republica-platon",
+    "titulo": "La República",
+    "autor": "Platón",
+    "archivo": "docs/assets/portadas-rondas-1-7/republica-platon-9891cd311db3.png",
+    "sha256": "9891cd311db365d62d13b79e4adbf4d1911fb35616dd387c0995910e7aaa0654",
+    "origenes": [
+      {
+        "zip": "RONDAA2.zip",
+        "archivo": "200-la-republica.png"
+      },
+      {
+        "zip": "RONDAA3.zip",
+        "archivo": "200-la-republica.png"
+      }
+    ]
+  },
+  {
+    "id": "revolucion-glucosa",
+    "titulo": "La revolución de la glucosa",
+    "autor": "Jessie Inchauspé",
+    "archivo": "docs/assets/portadas-rondas-1-7/revolucion-glucosa-63549ff05f1b.png",
+    "sha256": "63549ff05f1b324f68b1b596ff613bae97c86a7a38f998c376f66a2d39411726",
+    "origenes": [
+      {
+        "zip": "RONDAA2.zip",
+        "archivo": "201-la-revolucion-de-la-glucosa.png"
+      },
+      {
+        "zip": "RONDAA3.zip",
+        "archivo": "201-la-revolucion-de-la-glucosa.png"
+      }
+    ]
+  },
+  {
+    "id": "riqueza-naciones",
+    "titulo": "La riqueza de las naciones",
+    "autor": "Adam Smith",
+    "archivo": "docs/assets/portadas-rondas-1-7/riqueza-naciones-d126c91ed11d.png",
+    "sha256": "d126c91ed11de227f19e9decb1c71ba9a753e88084272b3af43ab015cda69d7b",
+    "origenes": [
+      {
+        "zip": "RONDAA2.zip",
+        "archivo": "202-la-riqueza-de-las-naciones.png"
+      },
+      {
+        "zip": "RONDAA3.zip",
+        "archivo": "202-la-riqueza-de-las-naciones.png"
+      }
+    ]
+  },
+  {
+    "id": "la-roja",
+    "titulo": "La roja",
+    "autor": "Jimmy Burns",
+    "archivo": "docs/assets/portadas-rondas-1-7/la-roja-74e9466f2ad7.png",
+    "sha256": "74e9466f2ad7cb7d8fdcc7fa68814453d653330a27628079bd8e513ae7f06cc4",
+    "origenes": [
+      {
+        "zip": "RONDAA2.zip",
+        "archivo": "203-la-roja.png"
+      },
+      {
+        "zip": "RONDAA3.zip",
+        "archivo": "203-la-roja.png"
+      }
+    ]
+  },
+  {
+    "id": "sabiduria-psicopatas",
+    "titulo": "La sabiduría de los psicópatas",
+    "autor": "Kevin Dutton",
+    "archivo": "docs/assets/portadas-rondas-1-7/sabiduria-psicopatas-87b20a1a1309.png",
+    "sha256": "87b20a1a13091a41ef3cfbc0eb04795e14ee65774cb7769144d80dcef226b6cb",
+    "origenes": [
+      {
+        "zip": "RONDAA2.zip",
+        "archivo": "204-la-sabiduria-de-los-psicopatas.png"
+      },
+      {
+        "zip": "RONDAA3.zip",
+        "archivo": "204-la-sabiduria-de-los-psicopatas.png"
+      }
+    ]
+  },
+  {
+    "id": "sexta-extincion",
+    "titulo": "La sexta extinción",
+    "autor": "Elizabeth Kolbert",
+    "archivo": "docs/assets/portadas-rondas-1-7/sexta-extincion-6fff9829015e.png",
+    "sha256": "6fff9829015e3aa9f82c16cda305dc5f116391ee096aff49f6583bdf9b7f0ed8",
+    "origenes": [
+      {
+        "zip": "RONDAA2.zip",
+        "archivo": "205-la-sexta-extincion.png"
+      },
+      {
+        "zip": "RONDAA3.zip",
+        "archivo": "205-la-sexta-extincion.png"
+      }
+    ]
+  },
+  {
+    "id": "trampa-felicidad",
+    "titulo": "La trampa de la felicidad",
+    "autor": "Russ Harris",
+    "archivo": "docs/assets/portadas-rondas-1-7/trampa-felicidad-6dfd0ab0f340.png",
+    "sha256": "6dfd0ab0f3400db69dd46307695d5cd57234fb78899367169af693da5565f5eb",
+    "origenes": [
+      {
+        "zip": "RONDAA2.zip",
+        "archivo": "206-la-trampa-de-la-felicidad.png"
+      },
+      {
+        "zip": "RONDAA3.zip",
+        "archivo": "206-la-trampa-de-la-felicidad.png"
+      }
+    ]
+  },
+  {
+    "id": "verdad-indiscutible",
+    "titulo": "La verdad indiscutible",
+    "autor": "Mike Tyson",
+    "archivo": "docs/assets/portadas-rondas-1-7/verdad-indiscutible-393e2436e45f.png",
+    "sha256": "393e2436e45f17569ebcd6eb6df935721d78fd09cc25eae1d958025fc4f324af",
+    "origenes": [
+      {
+        "zip": "RONDAA2.zip",
+        "archivo": "207-la-verdad-indiscutible.png"
+      },
+      {
+        "zip": "RONDAA3.zip",
+        "archivo": "207-la-verdad-indiscutible.png"
+      }
+    ]
+  },
+  {
+    "id": "vida-de-100-anos",
+    "titulo": "La vida de 100 años",
+    "autor": "Lynda Gratton y Andrew Scott",
+    "archivo": "docs/assets/portadas-rondas-1-7/vida-de-100-anos-5e5b93fe6007.png",
+    "sha256": "5e5b93fe60073feb442eb5de7f2f32117e1f0a16e76ccdae96df0b4b14650d74",
+    "origenes": [
+      {
+        "zip": "RONDAA2.zip",
+        "archivo": "208-la-vida-de-100-anos.png"
+      },
+      {
+        "zip": "RONDAA3.zip",
+        "archivo": "208-la-vida-de-100-anos.png"
+      }
+    ]
+  },
+  {
+    "id": "henrietta-lacks",
+    "titulo": "La vida inmortal de Henrietta Lacks",
+    "autor": "Rebecca Skloot",
+    "archivo": "docs/assets/portadas-rondas-1-7/henrietta-lacks-a53558a2011d.png",
+    "sha256": "a53558a2011de8eeda3bdd4e0c0d7fe4c3f9c650bf7ef5c3a46c624348f72a3c",
+    "origenes": [
+      {
+        "zip": "RONDAA2.zip",
+        "archivo": "209-la-vida-inmortal-de-henrietta-lacks.png"
+      },
+      {
+        "zip": "RONDAA3.zip",
+        "archivo": "209-la-vida-inmortal-de-henrietta-lacks.png"
+      }
+    ]
+  },
+  {
+    "id": "vida-secreta-mente",
+    "titulo": "La vida secreta de la mente",
+    "autor": "Mariano Sigman",
+    "archivo": "docs/assets/portadas-rondas-1-7/vida-secreta-mente-576ab3f6bca9.png",
+    "sha256": "576ab3f6bca979db623253a9a18447f68f23c557f9ceb51e2034dc6c546d0f9c",
+    "origenes": [
+      {
+        "zip": "RONDAA2.zip",
+        "archivo": "210-la-vida-secreta-de-la-mente.png"
+      },
+      {
+        "zip": "RONDAA3.zip",
+        "archivo": "210-la-vida-secreta-de-la-mente.png"
+      }
+    ]
+  },
+  {
+    "id": "vida-arboles",
+    "titulo": "La vida secreta de los árboles",
+    "autor": "Peter Wohlleben",
+    "archivo": "docs/assets/portadas-rondas-1-7/vida-arboles-7faa213f2ad9.png",
+    "sha256": "7faa213f2ad9d314045fb189d5eff02fd6570036e49b2a7eb588f02d78cf6a09",
+    "origenes": [
+      {
+        "zip": "RONDAA2.zip",
+        "archivo": "211-la-vida-secreta-de-los-arboles.png"
+      },
+      {
+        "zip": "RONDAA3.zip",
+        "archivo": "211-la-vida-secreta-de-los-arboles.png"
+      }
+    ]
+  },
+  {
+    "id": "21-leyes-liderazgo",
+    "titulo": "Las 21 leyes irrefutables del liderazgo",
+    "autor": "John C. Maxwell",
+    "archivo": "docs/assets/portadas-rondas-1-7/21-leyes-liderazgo-5b8ab6ed285b.png",
+    "sha256": "5b8ab6ed285bd1a25ab15acb87e9fda98daa01390ea777c6b5b273697c318f66",
+    "origenes": [
+      {
+        "zip": "RONDAA2.zip",
+        "archivo": "212-las-21-leyes-irrefutables-del-liderazgo.png"
+      },
+      {
+        "zip": "RONDAA3.zip",
+        "archivo": "212-las-21-leyes-irrefutables-del-liderazgo.png"
+      }
+    ]
+  },
+  {
+    "id": "cinco-heridas",
+    "titulo": "Las cinco heridas que impiden ser uno mismo",
+    "autor": "Lise Bourbeau",
+    "archivo": "docs/assets/portadas-rondas-1-7/cinco-heridas-99a07a254af6.png",
+    "sha256": "99a07a254af6a13050021c9698673a4331997a05ae47d41d9aba30e2b6109320",
+    "origenes": [
+      {
+        "zip": "RONDAA2.zip",
+        "archivo": "213-las-cinco-heridas-que-impiden-ser-uno-mismo.png"
+      },
+      {
+        "zip": "RONDAA3.zip",
+        "archivo": "213-las-cinco-heridas-que-impiden-ser-uno-mismo.png"
+      }
+    ]
+  },
+  {
+    "id": "claves-del-talento",
+    "titulo": "Las claves del talento",
+    "autor": "Daniel Coyle",
+    "archivo": "docs/assets/portadas-rondas-1-7/claves-del-talento-9476ad7b3283.png",
+    "sha256": "9476ad7b32835eb5c74a1a84f3f6d16b6abef3fc8a0188842e1d6de3e5a8065d",
+    "origenes": [
+      {
+        "zip": "RONDAA2.zip",
+        "archivo": "214-las-claves-del-talento.png"
+      },
+      {
+        "zip": "RONDAA3.zip",
+        "archivo": "214-las-claves-del-talento.png"
+      }
+    ]
+  },
+  {
+    "id": "mujeres-inteligentes-acaban-ricas",
+    "titulo": "Las mujeres inteligentes acaban ricas",
+    "autor": "David Bach",
+    "archivo": "docs/assets/portadas-rondas-1-7/mujeres-inteligentes-acaban-ricas-365e10faa4fd.png",
+    "sha256": "365e10faa4fd30240d70b4946bd4537c46fa89401302f43eca5f91aa3ee5ea94",
+    "origenes": [
+      {
+        "zip": "RONDAA2.zip",
+        "archivo": "215-las-mujeres-inteligentes-acaban-ricas.png"
+      },
+      {
+        "zip": "RONDAA3.zip",
+        "archivo": "215-las-mujeres-inteligentes-acaban-ricas.png"
+      }
+    ]
+  },
+  {
+    "id": "legado-all-blacks",
+    "titulo": "Legado",
+    "autor": "James Kerr",
+    "archivo": "docs/assets/portadas-rondas-1-7/legado-all-blacks-88597d4d2b58.png",
+    "sha256": "88597d4d2b58397334059ec8154421bd1ee0b28be36ca9b2aba7ca5360d0b30d",
+    "origenes": [
+      {
+        "zip": "RONDAA2.zip",
+        "archivo": "216-legado.png"
+      },
+      {
+        "zip": "RONDAA3.zip",
+        "archivo": "216-legado.png"
+      }
+    ]
+  },
+  {
+    "id": "lo-que-nunca-cambia",
+    "titulo": "Lo que nunca cambia",
+    "autor": "Morgan Housel",
+    "archivo": "docs/assets/portadas-rondas-1-7/lo-que-nunca-cambia-9b46db7ae96c.png",
+    "sha256": "9b46db7ae96c1d0666b104824f52ab2da44901a7080c25e75f990211dea3ac01",
+    "origenes": [
+      {
+        "zip": "RONDAA2.zip",
+        "archivo": "217-lo-que-nunca-cambia.png"
+      },
+      {
+        "zip": "RONDAA3.zip",
+        "archivo": "217-lo-que-nunca-cambia.png"
+      }
+    ]
+  },
+  {
+    "id": "siete-habitos",
+    "titulo": "Los 7 hábitos de la gente altamente efectiva",
+    "autor": "Stephen Covey",
+    "archivo": "docs/assets/portadas-rondas-1-7/siete-habitos-7de513be143b.png",
+    "sha256": "7de513be143bf25e7f7a8cf15d14698808f0d84208806f613e5f8ee873414417",
+    "origenes": [
+      {
+        "zip": "RONDAA2.zip",
+        "archivo": "218-los-7-habitos-de-la-gente-altamente-efectiva.png"
+      },
+      {
+        "zip": "RONDAA3.zip",
+        "archivo": "218-los-7-habitos-de-la-gente-altamente-efectiva.png"
+      }
+    ]
+  },
+  {
+    "id": "asombrosos-secretos-vida",
+    "titulo": "Los asombrosos secretos de la vida",
+    "autor": "Gaur Gopal Das",
+    "archivo": "docs/assets/portadas-rondas-1-7/asombrosos-secretos-vida-f23eba424d73.png",
+    "sha256": "f23eba424d7338b82721be40b642f1f14b5450bb4cb93351fb80fc5e297ccc18",
+    "origenes": [
+      {
+        "zip": "RONDAA2.zip",
+        "archivo": "219-los-asombrosos-secretos-de-la-vida.png"
+      },
+      {
+        "zip": "RONDAA3.zip",
+        "archivo": "219-los-asombrosos-secretos-de-la-vida.png"
+      }
+    ]
+  },
+  {
+    "id": "beneficios-meditacion",
+    "titulo": "Los beneficios de la meditación",
+    "autor": "Daniel Goleman y Richard J. Davidson",
+    "archivo": "docs/assets/portadas-rondas-1-7/beneficios-meditacion-df9fca0d50e2.png",
+    "sha256": "df9fca0d50e2f8a215979df23596fe0e67c1c485b8527f9d086e9b46dfaa314b",
+    "origenes": [
+      {
+        "zip": "RONDAA2.zip",
+        "archivo": "220-los-beneficios-de-la-meditacion.png"
+      },
+      {
+        "zip": "RONDAA3.zip",
+        "archivo": "220-los-beneficios-de-la-meditacion.png"
+      }
+    ]
+  },
+  {
+    "id": "hablar-con-extranos",
+    "titulo": "Hablar con extraños",
+    "autor": "Malcolm Gladwell",
+    "archivo": "docs/assets/portadas-rondas-1-7/hablar-con-extranos-c7c527aee2f8.png",
+    "sha256": "c7c527aee2f88e1944dcec989c8052455b661e302725451174ea4a8e97cdfcc8",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "160-hablar-con-extranos.png"
+      }
+    ]
+  },
+  {
+    "id": "hacia-el-infinito",
+    "titulo": "Hacia el infinito",
+    "autor": "Michael Lewis",
+    "archivo": "docs/assets/portadas-rondas-1-7/hacia-el-infinito-646599522d74.png",
+    "sha256": "646599522d74c08115650f40c1be1a748264ca641bec068095d7cd4a44f50b73",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "161-hacia-el-infinito.png"
+      }
+    ]
+  },
+  {
+    "id": "tan-bien-que-no-puedan-ignorarte",
+    "titulo": "Hazlo tan bien que no puedan ignorarte",
+    "autor": "Cal Newport",
+    "archivo": "docs/assets/portadas-rondas-1-7/tan-bien-que-no-puedan-ignorarte-d38d2b37ca39.png",
+    "sha256": "d38d2b37ca399ec0196d8e021284d367d43aeceb1a206f10f8bce50d12f66fdf",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "162-hazlo-tan-bien-que-no-puedan-ignorarte.png"
+      }
+    ]
+  },
+  {
+    "id": "hazte-la-cama",
+    "titulo": "Hazte la cama",
+    "autor": "William H. McRaven",
+    "archivo": "docs/assets/portadas-rondas-1-7/hazte-la-cama-aa21a4576fb5.png",
+    "sha256": "aa21a4576fb5ebfb9814f954f778b3bf3d207538a8b73cb3435b8f95325767f6",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "163-hazte-la-cama.png"
+      }
+    ]
+  },
+  {
+    "id": "hiperenfoque",
+    "titulo": "Hiperenfoque",
+    "autor": "Chris Bailey",
+    "archivo": "docs/assets/portadas-rondas-1-7/hiperenfoque-3df876b1fd6e.png",
+    "sha256": "3df876b1fd6ee8d55bf383cfcd9f2705e74539e9c27828e121c0c8e42c9bfab0",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "164-hiperenfoque.png"
+      }
+    ]
+  },
+  {
+    "id": "arte-sin-hombres",
+    "titulo": "Historia del arte sin hombres",
+    "autor": "Katy Hessel",
+    "archivo": "docs/assets/portadas-rondas-1-7/arte-sin-hombres-49c42362b684.png",
+    "sha256": "49c42362b684b05be038b1c83ed376aca204899d88de57beb50cdfe03788c923",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "165-historia-del-arte-sin-hombres.png"
+      }
+    ]
+  },
+  {
+    "id": "homenaje-cataluna",
+    "titulo": "Homenaje a Cataluña",
+    "autor": "George Orwell",
+    "archivo": "docs/assets/portadas-rondas-1-7/homenaje-cataluna-bb28add1acbe.png",
+    "sha256": "bb28add1acbe25d54f79c0d9861035fb9c18bb745157122f5ad13e4f60db841f",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "166-homenaje-a-cataluna.png"
+      }
+    ]
+  },
+  {
+    "id": "homo-deus",
+    "titulo": "Homo Deus",
+    "autor": "Yuval Noah Harari",
+    "archivo": "docs/assets/portadas-rondas-1-7/homo-deus-f9640a9fe292.png",
+    "sha256": "f9640a9fe292db47fb70575821d4b5568e543986b34e11c6ed9f3105ee4b3514",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "167-homo-deus.png"
+      }
+    ]
+  },
+  {
+    "id": "ideas-que-pegan",
+    "titulo": "Ideas que pegan",
+    "autor": "Chip y Dan Heath",
+    "archivo": "docs/assets/portadas-rondas-1-7/ideas-que-pegan-d22c017d7f1a.png",
+    "sha256": "d22c017d7f1a9c3934300da918858eb03636ad5e028a8a487c6ee1ef38868b5f",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "168-ideas-que-pegan.png"
+      }
+    ]
+  },
+  {
+    "id": "ikigai",
+    "titulo": "Ikigai",
+    "autor": "García y Miralles",
+    "archivo": "docs/assets/portadas-rondas-1-7/ikigai-20fe5ba6551d.png",
+    "sha256": "20fe5ba6551d13aac1a1ef93aaf7d710552369961806ff3bc129d278ee746c9a",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "169-ikigai.png"
+      }
+    ]
+  },
+  {
+    "id": "relentless",
+    "titulo": "Imparable",
+    "autor": "Tim Grover",
+    "archivo": "docs/assets/portadas-rondas-1-7/relentless-a8fda36f7562.png",
+    "sha256": "a8fda36f7562b8099358c3dcae677a4bea4555c90413f9511124d70186ec89cf",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "170-imparable.png"
+      }
+    ]
+  },
+  {
+    "id": "incognito",
+    "titulo": "Incógnito",
+    "autor": "David Eagleman",
+    "archivo": "docs/assets/portadas-rondas-1-7/incognito-ecb8b3193f15.png",
+    "sha256": "ecb8b3193f15fbf2c73f406894005f6a85cebacd54093b9f4b1e6415475924a1",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "171-incognito.png"
+      }
+    ]
+  },
+  {
+    "id": "indomable",
+    "titulo": "Indomable",
+    "autor": "Glennon Doyle",
+    "archivo": "docs/assets/portadas-rondas-1-7/indomable-1e74eaeff9b2.png",
+    "sha256": "1e74eaeff9b255e667288044347cabb78743afec90d009a0c28989c2a70c36bf",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "172-indomable.png"
+      }
+    ]
+  },
+  {
+    "id": "influencia",
+    "titulo": "Influencia",
+    "autor": "Robert Cialdini",
+    "archivo": "docs/assets/portadas-rondas-1-7/influencia-1e967b9545d0.png",
+    "sha256": "1e967b9545d0675a643896e93249141200aaa91ceb5b1c5a35f3df85ed6d944b",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "173-influencia.png"
+      }
+    ]
+  },
+  {
+    "id": "inteligencia-emocional",
+    "titulo": "Inteligencia emocional",
+    "autor": "Daniel Goleman",
+    "archivo": "docs/assets/portadas-rondas-1-7/inteligencia-emocional-1233a1184e0c.png",
+    "sha256": "1233a1184e0cde7a165b5add89109c3d1e1f8cce7886fcfba878087780249f8b",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "174-inteligencia-emocional.png"
+      }
+    ]
+  },
+  {
+    "id": "inteligencia-intuitiva",
+    "titulo": "Inteligencia intuitiva",
+    "autor": "Malcolm Gladwell",
+    "archivo": "docs/assets/portadas-rondas-1-7/inteligencia-intuitiva-b622dc645a26.png",
+    "sha256": "b622dc645a2677974c6a80868c166d9265d81a19044c474e458508b8c4c25b13",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "175-inteligencia-intuitiva.png"
+      }
+    ]
+  },
+  {
+    "id": "intro-psicoanalisis",
+    "titulo": "Introducción al psicoanálisis",
+    "autor": "Sigmund Freud",
+    "archivo": "docs/assets/portadas-rondas-1-7/intro-psicoanalisis-3018ecc5aaf8.png",
+    "sha256": "3018ecc5aaf8dda9766692687de9012e8aa2020b3708a7f53d4879eb6d325e9f",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "176-introduccion-al-psicoanalisis.png"
+      }
+    ]
+  },
+  {
+    "id": "jugarse-la-piel",
+    "titulo": "Jugarse la piel",
+    "autor": "Nassim Nicholas Taleb",
+    "archivo": "docs/assets/portadas-rondas-1-7/jugarse-la-piel-8472127a0745.png",
+    "sha256": "8472127a074597adc368996820624a0b6b74a0f8fac7e2ae10715b78cbcedae9",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "177-jugarse-la-piel.png"
+      }
+    ]
+  },
+  {
+    "id": "autentica-felicidad",
+    "titulo": "La auténtica felicidad",
+    "autor": "Martin Seligman",
+    "archivo": "docs/assets/portadas-rondas-1-7/autentica-felicidad-b11a7bae8e12.png",
+    "sha256": "b11a7bae8e124ecef9e4479e5447ff19b13a02baa646d165b346b86fdb025168",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "178-la-autentica-felicidad.png"
+      }
+    ]
+  },
+  {
+    "id": "bolsa-o-vida",
+    "titulo": "La bolsa o la vida",
+    "autor": "Robin y Dominguez",
+    "archivo": "docs/assets/portadas-rondas-1-7/bolsa-o-vida-70cb3e634767.png",
+    "sha256": "70cb3e634767d28f674457ef6ec21c1aa27659d2853c9bcddf13c82edaa715c0",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "179-la-bolsa-o-la-vida.png"
+      }
+    ]
+  },
+  {
+    "id": "ciencia-de-la-felicidad",
+    "titulo": "La ciencia de la felicidad",
+    "autor": "Sonja Lyubomirsky",
+    "archivo": "docs/assets/portadas-rondas-1-7/ciencia-de-la-felicidad-a97cb13ce602.png",
+    "sha256": "a97cb13ce602226d5c63fb0278d7eda15e8fec04bf70cd03b9cea42a2e10ef2a",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "180-la-ciencia-de-la-felicidad.png"
+      }
+    ]
+  },
+  {
+    "id": "dieta-longevidad",
+    "titulo": "La dieta de la longevidad",
+    "autor": "Valter Longo",
+    "archivo": "docs/assets/portadas-rondas-1-7/dieta-longevidad-a464ab2c8062.png",
+    "sha256": "a464ab2c8062b229d84d395e004a04b35a74480c24eb547b06e35aed7c90487f",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "181-la-dieta-de-la-longevidad.png"
+      }
+    ]
+  },
+  {
+    "id": "digestion-cuestion",
+    "titulo": "La digestión es la cuestión",
+    "autor": "Giulia Enders",
+    "archivo": "docs/assets/portadas-rondas-1-7/digestion-cuestion-0bde58055b74.png",
+    "sha256": "0bde58055b74a4f3ee99282987ee0757b68ccba9b42b62fee1ec59f978946d90",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "182-la-digestion-es-la-cuestion.png"
+      }
+    ]
+  },
+  {
+    "id": "disciplina-es-destino",
+    "titulo": "La disciplina es el destino",
+    "autor": "Ryan Holiday",
+    "archivo": "docs/assets/portadas-rondas-1-7/disciplina-es-destino-aed178dd074d.png",
+    "sha256": "aed178dd074d226e173b8e32d1c51208b8640191f6e720279e20f753065de0eb",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "183-la-disciplina-es-el-destino.png"
+      }
+    ]
+  },
+  {
+    "id": "doctrina-shock",
+    "titulo": "La doctrina del shock",
+    "autor": "Naomi Klein",
+    "archivo": "docs/assets/portadas-rondas-1-7/doctrina-shock-8d3972a70c58.png",
+    "sha256": "8d3972a70c5822bccb3190b154d192cc0d94c56beff9152c3d781caea1e52f84",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "184-la-doctrina-del-shock.png"
+      }
+    ]
+  },
+  {
+    "id": "oceano-azul",
+    "titulo": "La estrategia del océano azul",
+    "autor": "Kim y Mauborgne",
+    "archivo": "docs/assets/portadas-rondas-1-7/oceano-azul-e473fb31abf2.png",
+    "sha256": "e473fb31abf2fcc21d9022bfa8c12ddf2cce43208bb20b11a359439dc3794deb",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "185-la-estrategia-del-oceano-azul.png"
+      }
+    ]
+  },
+  {
+    "id": "generacion-ansiosa",
+    "titulo": "La generación ansiosa",
+    "autor": "Jonathan Haidt",
+    "archivo": "docs/assets/portadas-rondas-1-7/generacion-ansiosa-960d88d1214e.png",
+    "sha256": "960d88d1214e1e21bd93404425bc2aeeb57513a8f73bcccd93aa54962d86350b",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "186-la-generacion-ansiosa.png"
+      }
+    ]
+  },
+  {
+    "id": "la-gran-apuesta",
+    "titulo": "La gran apuesta",
+    "autor": "Michael Lewis",
+    "archivo": "docs/assets/portadas-rondas-1-7/la-gran-apuesta-d8fc1b5fa1ce.png",
+    "sha256": "d8fc1b5fa1ce291c3411d78de5ff52ce7d99816006374f4df8f72c00b7e1928c",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "187-la-gran-apuesta.png"
+      }
+    ]
+  },
+  {
+    "id": "hambruna-mao",
+    "titulo": "La gran hambruna en la China de Mao",
+    "autor": "Frank Dikötter",
+    "archivo": "docs/assets/portadas-rondas-1-7/hambruna-mao-49395eee6d31.png",
+    "sha256": "49395eee6d3187044650abf1250f2d666c1df04452da4a90fb0de3289511ca71",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "188-la-gran-hambruna-en-la-china-de-mao.png"
+      }
+    ]
+  },
+  {
+    "id": "guerra-chips",
+    "titulo": "La guerra de los chips",
+    "autor": "Chris Miller",
+    "archivo": "docs/assets/portadas-rondas-1-7/guerra-chips-d78cc2d4d660.png",
+    "sha256": "d78cc2d4d6608ceb5168d403f7e221f68da4216b638356f6367e1c6515e7e397",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "189-la-guerra-de-los-chips.png"
+      }
+    ]
+  },
+  {
+    "id": "interpretacion-suenos",
+    "titulo": "La interpretación de los sueños",
+    "autor": "Sigmund Freud",
+    "archivo": "docs/assets/portadas-rondas-1-7/interpretacion-suenos-df5cd7c73366.png",
+    "sha256": "df5cd7c7336629754cae2651d671152e5434e9ff91f154ff6ec52317d22642aa",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "190-la-interpretacion-de-los-suenos.png"
+      }
+    ]
+  },
+  {
+    "id": "invencion-de-la-naturaleza",
+    "titulo": "La invención de la naturaleza",
+    "autor": "Andrea Wulf",
+    "archivo": "docs/assets/portadas-rondas-1-7/invencion-de-la-naturaleza-1e799d9464ea.png",
+    "sha256": "1e799d9464eaf012b479d104dbc608291f6f5557112079d7d647af6149ef9ed1",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "191-la-invencion-de-la-naturaleza.png"
+      }
+    ]
+  },
+  {
+    "id": "llegada-de-superman",
+    "titulo": "La llegada de Superman",
+    "autor": "Steven Kotler",
+    "archivo": "docs/assets/portadas-rondas-1-7/llegada-de-superman-c69229d5f561.png",
+    "sha256": "c69229d5f56143d0741b78b81aff16c7363eed54a42430e63f76a4dfcc8aacd3",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "192-la-llegada-de-superman.png"
+      }
+    ]
+  },
+  {
+    "id": "magia-pensar-grande",
+    "titulo": "La magia de pensar en grande",
+    "autor": "David Schwartz",
+    "archivo": "docs/assets/portadas-rondas-1-7/magia-pensar-grande-7e4f64266a85.png",
+    "sha256": "7e4f64266a85fbf91c0d8a12ceaf2eb049a4ed4a697e4e6ecc9254a6625acb10",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "193-la-magia-de-pensar-en-grande.png"
+      }
+    ]
+  },
+  {
+    "id": "magia-orden",
+    "titulo": "La magia del orden",
+    "autor": "Marie Kondo",
+    "archivo": "docs/assets/portadas-rondas-1-7/magia-orden-d244ea637d84.png",
+    "sha256": "d244ea637d849d2226fe3f02bf810db39010964691096bc82c552bfc46c1fd1d",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "194-la-magia-del-orden.png"
+      }
+    ]
+  },
+  {
+    "id": "mente-justos",
+    "titulo": "La mente de los justos",
+    "autor": "Jonathan Haidt",
+    "archivo": "docs/assets/portadas-rondas-1-7/mente-justos-7c9a21106520.png",
+    "sha256": "7c9a21106520dac901baa4bca77fdf3b970eeddc5df777768b5a32eb5328e643",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "195-la-mente-de-los-justos.png"
+      }
+    ]
+  },
+  {
+    "id": "paradoja-eleccion",
+    "titulo": "La paradoja de la elección",
+    "autor": "Barry Schwartz",
+    "archivo": "docs/assets/portadas-rondas-1-7/paradoja-eleccion-9858e08aae5f.png",
+    "sha256": "9858e08aae5f44528bebff132882cfacf90f6ac021cc243a4797913b629fb027",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "196-la-paradoja-de-la-eleccion.png"
+      }
+    ]
+  },
+  {
+    "id": "la-peste",
+    "titulo": "La peste",
+    "autor": "Albert Camus",
+    "archivo": "docs/assets/portadas-rondas-1-7/la-peste-562f9397c397.png",
+    "sha256": "562f9397c397d54408c5737dfa83e753ef48b75bb6e40f06ac2c6950c2e828d6",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "197-la-peste.png"
+      }
+    ]
+  },
+  {
+    "id": "psicologia-dinero",
+    "titulo": "La psicología del dinero",
+    "autor": "Morgan Housel",
+    "archivo": "docs/assets/portadas-rondas-1-7/psicologia-dinero-952dc0d9382b.png",
+    "sha256": "952dc0d9382bcf555b7d286fcbd76c2e9de75070b55af5d072307f141e910dec",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "198-la-psicologia-del-dinero.png"
+      }
+    ]
+  },
+  {
+    "id": "quietud-es-la-clave",
+    "titulo": "La quietud es la clave",
+    "autor": "Ryan Holiday",
+    "archivo": "docs/assets/portadas-rondas-1-7/quietud-es-la-clave-35f5e0922423.png",
+    "sha256": "35f5e0922423ee3b261e447cf2cd6b948dd497fac065b38bf65dd5a9e2d8cb5f",
+    "origenes": [
+      {
+        "zip": "RONDAA4.zip",
+        "archivo": "199-la-quietud-es-la-clave.png"
+      }
+    ]
+  },
+  {
+    "id": "ano-12-semanas",
+    "titulo": "El año de 12 semanas",
+    "autor": "Brian P. Moran y Michael Lennington",
+    "archivo": "docs/assets/portadas-rondas-1-7/ano-12-semanas-0a43b531ff59.png",
+    "sha256": "0a43b531ff59b1ec3cdcb51b114261101e263bbaf5c2c8cde2add7da79359336",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/070-el-ano-de-12-semanas.png"
+      }
+    ]
+  },
+  {
+    "id": "ano-de-menos",
+    "titulo": "El año de menos",
+    "autor": "Cait Flanders",
+    "archivo": "docs/assets/portadas-rondas-1-7/ano-de-menos-ceeac8a508cc.png",
+    "sha256": "ceeac8a508cc313f2c86f2de4d43321a9ad9f84f55ac397013d7bb8ed032f705",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/071-el-ano-de-menos.png"
+      }
+    ]
+  },
+  {
+    "id": "arte-de-amar",
+    "titulo": "El arte de amar",
+    "autor": "Erich Fromm",
+    "archivo": "docs/assets/portadas-rondas-1-7/arte-de-amar-a268e31aed8f.png",
+    "sha256": "a268e31aed8fa4e904e4569e94d77000e395d5c6ee0d0b3d4b21e9bef5fc2727",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/072-el-arte-de-amar.png"
+      }
+    ]
+  },
+  {
+    "id": "arte-guerra",
+    "titulo": "El arte de la guerra",
+    "autor": "Sun Tzu",
+    "archivo": "docs/assets/portadas-rondas-1-7/arte-guerra-f3f1af6856c6.png",
+    "sha256": "f3f1af6856c6e45a1a7bb01f8406edd48c17450fbdb43438b38795eddf749d30",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/073-el-arte-de-la-guerra.png"
+      }
+    ]
+  },
+  {
+    "id": "arte-de-leer-la-mente",
+    "titulo": "El arte de leer la mente",
+    "autor": "Henrik Fexeus",
+    "archivo": "docs/assets/portadas-rondas-1-7/arte-de-leer-la-mente-8fb11c6efe5d.png",
+    "sha256": "8fb11c6efe5da9aecb4e57840384507e20d5e0856ae336cf763e40241eab85fd",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/074-el-arte-de-leer-la-mente.png"
+      }
+    ]
+  },
+  {
+    "id": "arte-no-amargarse",
+    "titulo": "El arte de no amargarse la vida",
+    "autor": "Rafael Santandreu",
+    "archivo": "docs/assets/portadas-rondas-1-7/arte-no-amargarse-a51bd446cf9c.png",
+    "sha256": "a51bd446cf9c7c5193b84a38bbbf4d49e0bd76b52e304f256c9559ed286b46b5",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/075-el-arte-de-no-amargarse-la-vida.png"
+      }
+    ]
+  },
+  {
+    "id": "camino-hacia-la-riqueza",
+    "titulo": "El camino hacia la riqueza",
+    "autor": "Benjamin Franklin",
+    "archivo": "docs/assets/portadas-rondas-1-7/camino-hacia-la-riqueza-20b161a64da2.png",
+    "sha256": "20b161a64da2a3b4603d59217025e9b9c27a7a56c57c771c0a480d8dcaf55d63",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/076-el-camino-hacia-la-riqueza.png"
+      }
+    ]
+  },
+  {
+    "id": "capital-siglo-xxi",
+    "titulo": "El capital en el siglo XXI",
+    "autor": "Thomas Piketty",
+    "archivo": "docs/assets/portadas-rondas-1-7/capital-siglo-xxi-ab161c75bc4e.png",
+    "sha256": "ab161c75bc4e35ec7a334d0a6485b82eab26fdb3b34d2d9ca9151a241d0f3ade",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/077-el-capital-en-el-siglo-xxi.png"
+      }
+    ]
+  },
+  {
+    "id": "el-cerebro",
+    "titulo": "El cerebro",
+    "autor": "David Eagleman",
+    "archivo": "docs/assets/portadas-rondas-1-7/el-cerebro-08b2fd0a3a94.png",
+    "sha256": "08b2fd0a3a94f004408c46d963507758ca8d8146377a41f095f2536bbb2f4735",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/078-el-cerebro.png"
+      }
+    ]
+  },
+  {
+    "id": "cerebro-adolescente",
+    "titulo": "El cerebro adolescente",
+    "autor": "Frances Jensen",
+    "archivo": "docs/assets/portadas-rondas-1-7/cerebro-adolescente-b165b029566b.png",
+    "sha256": "b165b029566bee68aa35d7b6df97ffd99b7854d050a186efea0fe387ade89813",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/079-el-cerebro-adolescente.png"
+      }
+    ]
+  },
+  {
+    "id": "cerebro-del-nino",
+    "titulo": "El cerebro del niño",
+    "autor": "Siegel y Payne Bryson",
+    "archivo": "docs/assets/portadas-rondas-1-7/cerebro-del-nino-b1d19532bf5a.png",
+    "sha256": "b1d19532bf5a0c3f1811af2b005b9760c63abce98532ddd2331cee15404500e4",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/080-el-cerebro-del-nino.png"
+      }
+    ]
+  },
+  {
+    "id": "cerebro-femenino",
+    "titulo": "El cerebro femenino",
+    "autor": "Louann Brizendine",
+    "archivo": "docs/assets/portadas-rondas-1-7/cerebro-femenino-572ea4651d77.png",
+    "sha256": "572ea4651d771dad87d02d6ef5a0ffaa2e50b454748421716b175020dbc52354",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/081-el-cerebro-femenino.png"
+      }
+    ]
+  },
+  {
+    "id": "cerebro-hambriento",
+    "titulo": "El cerebro hambriento",
+    "autor": "Stephan Guyenet",
+    "archivo": "docs/assets/portadas-rondas-1-7/cerebro-hambriento-df87dc52fc54.png",
+    "sha256": "df87dc52fc54f1d59b3c38342f4cf64aad2df2aaa24a168dd22441e5d47827ba",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/082-el-cerebro-hambriento.png"
+      }
+    ]
+  },
+  {
+    "id": "cerebro-cambia",
+    "titulo": "El cerebro se cambia a sí mismo",
+    "autor": "Norman Doidge",
+    "archivo": "docs/assets/portadas-rondas-1-7/cerebro-cambia-ba5e3e5b1f42.png",
+    "sha256": "ba5e3e5b1f4298ff5f51024f1409e984b6b95139242b1a4b74ca934792577dbc",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/083-el-cerebro-se-cambia-a-si-mismo.png"
+      }
+    ]
+  },
+  {
+    "id": "cisne-negro",
+    "titulo": "El cisne negro",
+    "autor": "Nassim Taleb",
+    "archivo": "docs/assets/portadas-rondas-1-7/cisne-negro-2caf2e75ffd4.png",
+    "sha256": "2caf2e75ffd4983bfaa90718e1e7f9f5817be475fbb9314cf0998d492aefa493",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/084-el-cisne-negro.png"
+      }
+    ]
+  },
+  {
+    "id": "club-5-manana",
+    "titulo": "El club de las 5 de la mañana",
+    "autor": "Robin Sharma",
+    "archivo": "docs/assets/portadas-rondas-1-7/club-5-manana-de60f5d0374a.png",
+    "sha256": "de60f5d0374a3106f033f0d14107c5135fb38806aac1585d08a3c76a16a473fb",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/085-el-club-de-las-5-de-la-manana.png"
+      }
+    ]
+  },
+  {
+    "id": "codigo-obesidad",
+    "titulo": "El código de la obesidad",
+    "autor": "Jason Fung",
+    "archivo": "docs/assets/portadas-rondas-1-7/codigo-obesidad-66b3e2226ed9.png",
+    "sha256": "66b3e2226ed93cfca7673fad4149727ff37e5e7cb25ac8a19b2ce54b7631b684",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/086-el-codigo-de-la-obesidad.png"
+      }
+    ]
+  },
+  {
+    "id": "el-cuerpo-bryson",
+    "titulo": "El cuerpo",
+    "autor": "Bill Bryson",
+    "archivo": "docs/assets/portadas-rondas-1-7/el-cuerpo-bryson-551ba738a8a0.png",
+    "sha256": "551ba738a8a0fa2c4af7f96a1af90a5f630eb5bd652f17d4b3ee20d911311c4d",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/087-el-cuerpo.png"
+      }
+    ]
+  },
+  {
+    "id": "cuerpo-cuenta",
+    "titulo": "El cuerpo lleva la cuenta",
+    "autor": "Bessel van der Kolk",
+    "archivo": "docs/assets/portadas-rondas-1-7/cuerpo-cuenta-9de0eb1e95f4.png",
+    "sha256": "9de0eb1e95f4a4039b3ee7836d03d69118cb2d636d0d1582e999d1432be80615",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/088-el-cuerpo-lleva-la-cuenta.png"
+      }
+    ]
+  },
+  {
+    "id": "cuerpo-4-horas",
+    "titulo": "El cuerpo perfecto en 4 horas",
+    "autor": "Tim Ferriss",
+    "archivo": "docs/assets/portadas-rondas-1-7/cuerpo-4-horas-6146b4efb438.png",
+    "sha256": "6146b4efb43829ca1093dbb62f0ae5ef1e633e144a96bbf0e5c3b5e6efaa3de6",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/089-el-cuerpo-perfecto-en-4-horas.png"
+      }
+    ]
+  },
+  {
+    "id": "diablo-de-los-numeros",
+    "titulo": "El diablo de los números",
+    "autor": "Hans Magnus Enzensberger",
+    "archivo": "docs/assets/portadas-rondas-1-7/diablo-de-los-numeros-18def84da3cd.png",
+    "sha256": "18def84da3cde53938ec0aab1be9f1351994b76c39ff6179cd6d80c0314e5fab",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/090-el-diablo-de-los-numeros.png"
+      }
+    ]
+  },
+  {
+    "id": "dilema-del-innovador",
+    "titulo": "El dilema del innovador",
+    "autor": "Clayton M. Christensen",
+    "archivo": "docs/assets/portadas-rondas-1-7/dilema-del-innovador-b7c7138c1d19.png",
+    "sha256": "b7c7138c1d19792a02b0df5844d7de2f38e2268389622a1e361f1b01f2e49f99",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/091-el-dilema-del-innovador.png"
+      }
+    ]
+  },
+  {
+    "id": "dilema-omnivoro",
+    "titulo": "El dilema del omnívoro",
+    "autor": "Michael Pollan",
+    "archivo": "docs/assets/portadas-rondas-1-7/dilema-omnivoro-5f2a6ef62fef.png",
+    "sha256": "5f2a6ef62fef1f1ff5983b4598dfea7cdc0b99a674a63855b6f30f4a6613828a",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/092-el-dilema-del-omnivoro.png"
+      }
+    ]
+  },
+  {
+    "id": "economista-camuflado",
+    "titulo": "El economista camuflado",
+    "autor": "Tim Harford",
+    "archivo": "docs/assets/portadas-rondas-1-7/economista-camuflado-5ed2217b0bd0.png",
+    "sha256": "5ed2217b0bd0efceefc102182db286ce731e95dec309972fa99074ae98ca7297",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/093-el-economista-camuflado.png"
+      }
+    ]
+  },
+  {
+    "id": "emperador-males",
+    "titulo": "El emperador de todos los males",
+    "autor": "Siddhartha Mukherjee",
+    "archivo": "docs/assets/portadas-rondas-1-7/emperador-males-123c145a9174.png",
+    "sha256": "123c145a9174a03ef0e84a767b2c98fb98d0caf869f3c25f7bb5898ac90dec76",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/094-el-emperador-de-todos-los-males.png"
+      }
+    ]
+  },
+  {
+    "id": "futbol-sol-sombra",
+    "titulo": "El fútbol a sol y sombra",
+    "autor": "Eduardo Galeano",
+    "archivo": "docs/assets/portadas-rondas-1-7/futbol-sol-sombra-fffbd856400b.png",
+    "sha256": "fffbd856400b450180e7b1da393af3dff60dfe38e7a2c135446883077a5833c1",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/095-el-futbol-a-sol-y-sombra.png"
+      }
+    ]
+  },
+  {
+    "id": "futuro-nuestra-mente",
+    "titulo": "El futuro de nuestra mente",
+    "autor": "Michio Kaku",
+    "archivo": "docs/assets/portadas-rondas-1-7/futuro-nuestra-mente-8e719b116cfe.png",
+    "sha256": "8e719b116cfe1a485355277201b67004bc5b6a3bcd7810b93b60052e7978adf3",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/096-el-futuro-de-nuestra-mente.png"
+      }
+    ]
+  },
+  {
+    "id": "gen-historia",
+    "titulo": "El gen",
+    "autor": "Siddhartha Mukherjee",
+    "archivo": "docs/assets/portadas-rondas-1-7/gen-historia-dc286c0e3f52.png",
+    "sha256": "dc286c0e3f52e50afe47b8b702913bac88cadeb24c5527ba816a19fa90ab14be",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/097-el-gen.png"
+      }
+    ]
+  },
+  {
+    "id": "gen-deportivo",
+    "titulo": "El gen deportivo",
+    "autor": "David Epstein",
+    "archivo": "docs/assets/portadas-rondas-1-7/gen-deportivo-a18eaa2ebe04.png",
+    "sha256": "a18eaa2ebe0473b3a75848a20f3bd3d021f768e935911cd0a2e59f874127f457",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/098-el-gen-deportivo.png"
+      }
+    ]
+  },
+  {
+    "id": "gen-egoista",
+    "titulo": "El gen egoísta",
+    "autor": "Richard Dawkins",
+    "archivo": "docs/assets/portadas-rondas-1-7/gen-egoista-04fb85ffd8b0.png",
+    "sha256": "04fb85ffd8b0701c2f49b160698502df1aaf86437173d1d5591da030f78a96f3",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/099-el-gen-egoista.png"
+      }
+    ]
+  },
+  {
+    "id": "hobbit",
+    "titulo": "El hobbit",
+    "autor": "J. R. R. Tolkien",
+    "archivo": "docs/assets/portadas-rondas-1-7/hobbit-c2066222f58c.png",
+    "sha256": "c2066222f58ce05b47e9e10f2dd0bdcc1155b7aa311bf9c743aa1f3acd6fc985",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/100-el-hobbit.png"
+      }
+    ]
+  },
+  {
+    "id": "busca-sentido",
+    "titulo": "El hombre en busca de sentido",
+    "autor": "Viktor Frankl",
+    "archivo": "docs/assets/portadas-rondas-1-7/busca-sentido-9bfffcd0b1fb.png",
+    "sha256": "9bfffcd0b1fbda25b20fa4e85be8017525dce022a1103fdb4a9827c924e1a8b5",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/101-el-hombre-en-busca-de-sentido.png"
+      }
+    ]
+  },
+  {
+    "id": "hombre-rico-babilonia",
+    "titulo": "El hombre más rico de Babilonia",
+    "autor": "George S. Clason",
+    "archivo": "docs/assets/portadas-rondas-1-7/hombre-rico-babilonia-f115bb1259c4.png",
+    "sha256": "f115bb1259c4ff7d99dcd326c57b99bc744482a1b66d895aa5228fab4d82f96d",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/102-el-hombre-mas-rico-de-babilonia.png"
+      }
+    ]
+  },
+  {
+    "id": "inversor-inteligente",
+    "titulo": "El inversor inteligente",
+    "autor": "Benjamin Graham",
+    "archivo": "docs/assets/portadas-rondas-1-7/inversor-inteligente-a3e8637abef8.png",
+    "sha256": "a3e8637abef852afb3f091b84c646c79e238c3da786b07d351488a63d9ed807c",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/103-el-inversor-inteligente.png"
+      }
+    ]
+  },
+  {
+    "id": "lenguaje-del-cuerpo",
+    "titulo": "El lenguaje del cuerpo",
+    "autor": "Allan y Barbara Pease",
+    "archivo": "docs/assets/portadas-rondas-1-7/lenguaje-del-cuerpo-923e0ccac6d8.png",
+    "sha256": "923e0ccac6d8d8ca0b0e8f653469769e702533e8a3453d094282a0e663b6b739",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/104-el-lenguaje-del-cuerpo.png"
+      }
+    ]
+  },
+  {
+    "id": "libro-de-la-alegria",
+    "titulo": "El libro de la alegría",
+    "autor": "Dalái Lama y Desmond Tutu",
+    "archivo": "docs/assets/portadas-rondas-1-7/libro-de-la-alegria-e3c16cdf0a0a.png",
+    "sha256": "e3c16cdf0a0a888f19c5aafae75a7e6a949c0193eca8b66409f7a78faeb98555",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/105-el-libro-de-la-alegria.png"
+      }
+    ]
+  },
+  {
+    "id": "libro-hygge",
+    "titulo": "El libro del hygge",
+    "autor": "Meik Wiking",
+    "archivo": "docs/assets/portadas-rondas-1-7/libro-hygge-dcc86e3d4378.png",
+    "sha256": "dcc86e3d43781b4598f459649699b2028b34b3cf90deed13e02dcbfe290749b4",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/106-el-libro-del-hygge.png"
+      }
+    ]
+  },
+  {
+    "id": "manifiesto-comunista",
+    "titulo": "El manifiesto comunista",
+    "autor": "Karl Marx y Friedrich Engels",
+    "archivo": "docs/assets/portadas-rondas-1-7/manifiesto-comunista-bfd9e1d6da11.png",
+    "sha256": "bfd9e1d6da1175b07ab41a8d866a0c1a7ae339c8f753f918021a81fbfd8f0bc6",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/107-el-manifiesto-comunista.png"
+      }
+    ]
+  },
+  {
+    "id": "el-metodo-strauss",
+    "titulo": "El método",
+    "autor": "Neil Strauss",
+    "archivo": "docs/assets/portadas-rondas-1-7/el-metodo-strauss-2d7cd3c195a9.png",
+    "sha256": "2d7cd3c195a9cecd04c7196c7740462a5d0b56d493853e7b64cecc76d3022a2f",
+    "origenes": [
+      {
+        "zip": "RONDAA5.zip",
+        "archivo": "CURVA-portadas-070-108/108-el-metodo.png"
+      }
+    ]
+  },
+  {
+    "id": "trece-cosas-mentalmente-fuertes",
+    "titulo": "13 cosas que las personas mentalmente fuertes no hacen",
+    "autor": "Amy Morin",
+    "archivo": "docs/assets/portadas-rondas-1-7/trece-cosas-mentalmente-fuertes-7b6ff5a21b3c.png",
+    "sha256": "7b6ff5a21b3c49ba08eeac195a6d55fccbea7474543d5b697fa4f2f95d12bd4a",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/001-13-cosas-que-las-personas-mentalmente-fuertes-no-hacen.png"
+      }
+    ]
+  },
+  {
+    "id": "21-lecciones",
+    "titulo": "21 lecciones para el siglo XXI",
+    "autor": "Yuval Noah Harari",
+    "archivo": "docs/assets/portadas-rondas-1-7/21-lecciones-36227acd4d3b.png",
+    "sha256": "36227acd4d3b5df02ddea5160cd10b884af22deb2bf33513c1de8aff4d82bed9",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/002-21-lecciones-para-el-siglo-xxi.png"
+      }
+    ]
+  },
+  {
+    "id": "veintitres-cosas-capitalismo",
+    "titulo": "23 cosas que no te cuentan sobre el capitalismo",
+    "autor": "Ha-Joon Chang",
+    "archivo": "docs/assets/portadas-rondas-1-7/veintitres-cosas-capitalismo-045c696faa1b.png",
+    "sha256": "045c696faa1b82178560d92c1f7b736ba3f0c7b9f833f8991d2affaaa639eda5",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/003-23-cosas-que-no-te-cuentan-sobre-el-capitalismo.png"
+      }
+    ]
+  },
+  {
+    "id": "actua-dama-piensa-hombre",
+    "titulo": "Actúa como dama, piensa como hombre",
+    "autor": "Steve Harvey",
+    "archivo": "docs/assets/portadas-rondas-1-7/actua-dama-piensa-hombre-3639f667709b.png",
+    "sha256": "3639f667709bf7b939f3a09f9904d0195301e457a10addc78faf957c8f04d5b3",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/004-actua-como-dama-piensa-como-hombre.png"
+      }
+    ]
+  },
+  {
+    "id": "amarse-ojos-abiertos",
+    "titulo": "Amarse con los ojos abiertos",
+    "autor": "Jorge Bucay y Silvia Salinas",
+    "archivo": "docs/assets/portadas-rondas-1-7/amarse-ojos-abiertos-8367ab6a7a0d.png",
+    "sha256": "8367ab6a7a0d412c699d2d138a23ff651e5e423e2c9a1eba0415bd237d4b7baf",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/005-amarse-con-los-ojos-abiertos.png"
+      }
+    ]
+  },
+  {
+    "id": "amiga-lavate-esa-cara",
+    "titulo": "Amiga, lávate esa cara",
+    "autor": "Rachel Hollis",
+    "archivo": "docs/assets/portadas-rondas-1-7/amiga-lavate-esa-cara-48078bbd9cfa.png",
+    "sha256": "48078bbd9cfa7f35b99466e38162cf3d6d9805763b771eda426dd6cb4522e1b7",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/006-amiga-lavate-esa-cara.png"
+      }
+    ]
+  },
+  {
+    "id": "ansiedad-stossel",
+    "titulo": "Ansiedad",
+    "autor": "Scott Stossel",
+    "archivo": "docs/assets/portadas-rondas-1-7/ansiedad-stossel-02a69621296d.png",
+    "sha256": "02a69621296d2d3dd9b1d40d6ff550b3c12176b5795be977f6b01166fc852a66",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/007-ansiedad.png"
+      }
+    ]
+  },
+  {
+    "id": "anticancer",
+    "titulo": "Anticáncer",
+    "autor": "David Servan-Schreiber",
+    "archivo": "docs/assets/portadas-rondas-1-7/anticancer-22cf43b50fab.png",
+    "sha256": "22cf43b50fab73097679947a6a8b3e1de63dcdcaf30a5922828bd3b3e42c14f0",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/008-anticancer.png"
+      }
+    ]
+  },
+  {
+    "id": "antifragil",
+    "titulo": "Antifrágil",
+    "autor": "Nassim Taleb",
+    "archivo": "docs/assets/portadas-rondas-1-7/antifragil-37f2e26a0759.png",
+    "sha256": "37f2e26a075925ff9070f0a0b5cc681f2697ce418bbec734ebcec0f4880b52a3",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/009-antifragil.png"
+      }
+    ]
+  },
+  {
+    "id": "aprende-idiomas-en-3-meses",
+    "titulo": "Aprende idiomas en 3 meses",
+    "autor": "Benny Lewis",
+    "archivo": "docs/assets/portadas-rondas-1-7/aprende-idiomas-en-3-meses-0242123b7247.png",
+    "sha256": "0242123b7247d0a304785c519bbd036999bff81d4b50ca964763e99fcd959205",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/010-aprende-idiomas-en-3-meses.png"
+      }
+    ]
+  },
+  {
+    "id": "armas-germenes",
+    "titulo": "Armas, gérmenes y acero",
+    "autor": "Jared Diamond",
+    "archivo": "docs/assets/portadas-rondas-1-7/armas-germenes-dc39ac798d70.png",
+    "sha256": "dc39ac798d705df17550683999487c246f850b6f7b3eefcbef8252f9ad1b1406",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/011-armas-germenes-y-acero.png"
+      }
+    ]
+  },
+  {
+    "id": "zaratustra",
+    "titulo": "Así habló Zaratustra",
+    "autor": "Friedrich Nietzsche",
+    "archivo": "docs/assets/portadas-rondas-1-7/zaratustra-dcdd55eb3d9d.png",
+    "sha256": "dcdd55eb3d9d4fb3ffb5d0020ef6b390858d802c773c625706359e6e4c8fed10",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/012-asi-hablo-zaratustra.png"
+      }
+    ]
+  },
+  {
+    "id": "astrofisica-prisa",
+    "titulo": "Astrofísica para gente con prisa",
+    "autor": "Neil deGrasse Tyson",
+    "archivo": "docs/assets/portadas-rondas-1-7/astrofisica-prisa-dcfac714a5ed.png",
+    "sha256": "dcfac714a5ed796fea4205fb805ca5775c7e88fed5ba48ff57c4a47cc5b2d23f",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/013-astrofisica-para-gente-con-prisa.png"
+      }
+    ]
+  },
+  {
+    "id": "autobiografia-franklin",
+    "titulo": "Autobiografía",
+    "autor": "Benjamin Franklin",
+    "archivo": "docs/assets/portadas-rondas-1-7/autobiografia-franklin-0115cfcfa3d6.png",
+    "sha256": "0115cfcfa3d6afe19f32761242126487bd2cdd313d292ca2acf4a14ca30ab932",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/014-autobiografia-benjamin-franklin.png"
+      }
+    ]
+  },
+  {
+    "id": "malcolm-x",
+    "titulo": "Autobiografía de Malcolm X",
+    "autor": "Malcolm X y Alex Haley",
+    "archivo": "docs/assets/portadas-rondas-1-7/malcolm-x-97a563b77c88.png",
+    "sha256": "97a563b77c88453311a70485d45d02fbc458daeb8c51b03c1a4a518ccc1af414",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/015-autobiografia-de-malcolm-x.png"
+      }
+    ]
+  },
+  {
+    "id": "autocontrol-mcgonigal",
+    "titulo": "Autocontrol",
+    "autor": "Kelly McGonigal",
+    "archivo": "docs/assets/portadas-rondas-1-7/autocontrol-mcgonigal-060f4c4c25e4.png",
+    "sha256": "060f4c4c25e43052a85fca43b89d7ab93312ccffd0fc5f212553b919e0bbc1f2",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/016-autocontrol.png"
+      }
+    ]
+  },
+  {
+    "id": "barca-kuper",
+    "titulo": "Barça",
+    "autor": "Simon Kuper",
+    "archivo": "docs/assets/portadas-rondas-1-7/barca-kuper-9ded6d4854a7.png",
+    "sha256": "9ded6d4854a7f4461c84a9a5eafda773cd2ac044abeb6270b2a020170c4f1e83",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/017-barca.png"
+      }
+    ]
+  },
+  {
+    "id": "bola-de-nieve",
+    "titulo": "Bola de nieve",
+    "autor": "Alice Schroeder",
+    "archivo": "docs/assets/portadas-rondas-1-7/bola-de-nieve-9c36cd3af422.png",
+    "sha256": "9c36cd3af422c873918b9612d5c767b5f9a10bab70726643ec5cffec2a39face",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/018-bola-de-nieve.png"
+      }
+    ]
+  },
+  {
+    "id": "breve-historia-todos-vivido",
+    "titulo": "Breve historia de todos los que han vivido",
+    "autor": "Adam Rutherford",
+    "archivo": "docs/assets/portadas-rondas-1-7/breve-historia-todos-vivido-5bd40d0f926b.png",
+    "sha256": "5bd40d0f926b54f353f0332dd1328ed29a42fb9a6fdf5732ca84ac9ce347eb58",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/019-breve-historia-de-todos-los-que-han-vivido.png"
+      }
+    ]
+  },
+  {
+    "id": "breve-historia-del-mundo",
+    "titulo": "Breve historia del mundo",
+    "autor": "E. H. Gombrich",
+    "archivo": "docs/assets/portadas-rondas-1-7/breve-historia-del-mundo-a345ef43515d.png",
+    "sha256": "a345ef43515de605111c75cb62e1aa0c6585b443b9ed2a83639761e534617445",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/020-breve-historia-del-mundo.png"
+      }
+    ]
+  },
+  {
+    "id": "breve-historia-tiempo",
+    "titulo": "Breve historia del tiempo",
+    "autor": "Stephen Hawking",
+    "archivo": "docs/assets/portadas-rondas-1-7/breve-historia-tiempo-e6c4a2ffebab.png",
+    "sha256": "e6c4a2ffebab012d540dbca6677b7c9910dc49bcbf736e29ba330bec319243cc",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/021-breve-historia-del-tiempo.png"
+      }
+    ]
+  },
+  {
+    "id": "breve-historia-tiempo-14",
+    "titulo": "Breve historia del tiempo (14 apartados)",
+    "autor": "Stephen Hawking",
+    "archivo": "docs/assets/portadas-rondas-1-7/breve-historia-tiempo-14-da12233be01c.png",
+    "sha256": "da12233be01c8c28809f6a874dbbc23e7ae91d96e4b862df56ee7b5dd512298f",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/022-breve-historia-del-tiempo-14-apartados.png"
+      }
+    ]
+  },
+  {
+    "id": "burnout-nagoski",
+    "titulo": "Burnout",
+    "autor": "Emily y Amelia Nagoski",
+    "archivo": "docs/assets/portadas-rondas-1-7/burnout-nagoski-4b5825dc7701.png",
+    "sha256": "4b5825dc7701ec1c4b8ef382a9571c82f30034109c96901bef379889ae62df8e",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/023-burnout.png"
+      }
+    ]
+  },
+  {
+    "id": "cambia-el-chip",
+    "titulo": "Cambia el chip",
+    "autor": "Chip y Dan Heath",
+    "archivo": "docs/assets/portadas-rondas-1-7/cambia-el-chip-7b01aa024aca.png",
+    "sha256": "7b01aa024aca1a654238abcdcc555f2abc1f52cf5f6453dd8fe0a956376cb215",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/024-cambia-el-chip.png"
+      }
+    ]
+  },
+  {
+    "id": "caos-gleick",
+    "titulo": "Caos",
+    "autor": "James Gleick",
+    "archivo": "docs/assets/portadas-rondas-1-7/caos-gleick-c077f2c4b23a.png",
+    "sha256": "c077f2c4b23abe2992d6fa9265fae6cb9bf4f8a0582b1bff941c961be7b1a569",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/025-caos.png"
+      }
+    ]
+  },
+  {
+    "id": "trabajo-profundo",
+    "titulo": "Céntrate",
+    "autor": "Cal Newport",
+    "archivo": "docs/assets/portadas-rondas-1-7/trabajo-profundo-07e0c9d46236.png",
+    "sha256": "07e0c9d4623682ba73782781979b7626729102bcb6313489c6a1fcfbd4508619",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/026-centrate.png"
+      }
+    ]
+  },
+  {
+    "id": "cerebro-de-pan",
+    "titulo": "Cerebro de pan",
+    "autor": "David Perlmutter",
+    "archivo": "docs/assets/portadas-rondas-1-7/cerebro-de-pan-b3b2a1b7655e.png",
+    "sha256": "b3b2a1b7655e6a7aea2ba37d6b5d28a97e2ebcbb964b43018643ed9c8cd76336",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/027-cerebro-de-pan.png"
+      }
+    ]
+  },
+  {
+    "id": "charlas-ted",
+    "titulo": "Charlas TED",
+    "autor": "Chris Anderson",
+    "archivo": "docs/assets/portadas-rondas-1-7/charlas-ted-4ec28b25824f.png",
+    "sha256": "4ec28b25824fc6a15d23e2d42cd11b1655daf8d55a56bf4c9a2c9ebf98b89f8f",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/028-charlas-ted.png"
+      }
+    ]
+  },
+  {
+    "id": "cleopatra-schiff",
+    "titulo": "Cleopatra",
+    "autor": "Stacy Schiff",
+    "archivo": "docs/assets/portadas-rondas-1-7/cleopatra-schiff-37fa8869aaa3.png",
+    "sha256": "37fa8869aaa324c3cf6aafdb442d0b8b20aac93a89c39808d123de6156b140cd",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/029-cleopatra.png"
+      }
+    ]
+  },
+  {
+    "id": "come-comida-real",
+    "titulo": "Come comida real",
+    "autor": "Carlos Ríos",
+    "archivo": "docs/assets/portadas-rondas-1-7/come-comida-real-a71877c6acab.png",
+    "sha256": "a71877c6acab482faad5cd9df45b8a929c29fb577f471ec19cd31c568eccd314",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/030-come-comida-real.png"
+      }
+    ]
+  },
+  {
+    "id": "caer-bien-90-segundos",
+    "titulo": "Cómo caer bien a los demás en menos de 90 segundos",
+    "autor": "Nicholas Boothman",
+    "archivo": "docs/assets/portadas-rondas-1-7/caer-bien-90-segundos-60c5724bd00b.png",
+    "sha256": "60c5724bd00bfda0dc9ab010098429adcaaf5f841e44ddf154f2041630b6e5df",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/031-como-caer-bien-a-los-demas-en-menos-de-90-segundos.png"
+      }
+    ]
+  },
+  {
+    "id": "como-construir-un-coche",
+    "titulo": "Cómo construir un coche",
+    "autor": "Adrian Newey",
+    "archivo": "docs/assets/portadas-rondas-1-7/como-construir-un-coche-822929ee66e9.png",
+    "sha256": "822929ee66e9fb106a185db44a24d09b31b413e3b1abc4a1105b6fa8ff46fd14",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/032-como-construir-un-coche.png"
+      }
+    ]
+  },
+  {
+    "id": "controlar-la-ansiedad",
+    "titulo": "Cómo controlar la ansiedad antes de que te controle a ti",
+    "autor": "Albert Ellis",
+    "archivo": "docs/assets/portadas-rondas-1-7/controlar-la-ansiedad-32379185e4dd.png",
+    "sha256": "32379185e4dd8c11af8c417df2c328e1555436fe8af38107d625ebd857be1361",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/033-como-controlar-la-ansiedad-antes-de-que-te-controle-a-ti.png"
+      }
+    ]
+  },
+  {
+    "id": "amigos-influir",
+    "titulo": "Cómo ganar amigos e influir sobre las personas",
+    "autor": "Dale Carnegie",
+    "archivo": "docs/assets/portadas-rondas-1-7/amigos-influir-f4c3a68dc2eb.png",
+    "sha256": "f4c3a68dc2eb2f489800fa111b90b0a10cdf1ff41ad0710373853a4cecee2a18",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/034-como-ganar-amigos-e-influir-sobre-las-personas.png"
+      }
+    ]
+  },
+  {
+    "id": "como-hablar-con-cualquiera",
+    "titulo": "Cómo hablar con cualquiera",
+    "autor": "Leil Lowndes",
+    "archivo": "docs/assets/portadas-rondas-1-7/como-hablar-con-cualquiera-bd99b458a883.png",
+    "sha256": "bd99b458a883535693505639eba43da3b56f762e88fa2511e92589489b8c7672",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/035-como-hablar-con-cualquiera.png"
+      }
+    ]
+  },
+  {
+    "id": "cosas-buenas",
+    "titulo": "Cómo hacer que te pasen cosas buenas",
+    "autor": "Marian Rojas Estapé",
+    "archivo": "docs/assets/portadas-rondas-1-7/cosas-buenas-ac2e608716db.png",
+    "sha256": "ac2e608716db24f286a7575303b8200f2e0fb8a12829fe17ecb69b0c3140b565",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/036-como-hacer-que-te-pasen-cosas-buenas.png"
+      }
+    ]
+  },
+  {
+    "id": "como-hacerse-rico-dennis",
+    "titulo": "Cómo hacerse rico",
+    "autor": "Felix Dennis",
+    "archivo": "docs/assets/portadas-rondas-1-7/como-hacerse-rico-dennis-3274c4f519d1.png",
+    "sha256": "3274c4f519d1cd158b493347dfedf065d54cadce303e97c380693b2f1dd977ca",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/037-como-hacerse-rico.png"
+      }
+    ]
+  },
+  {
+    "id": "como-leer-un-libro",
+    "titulo": "Cómo leer un libro",
+    "autor": "Mortimer J. Adler y Charles Van Doren",
+    "archivo": "docs/assets/portadas-rondas-1-7/como-leer-un-libro-23faf9052914.png",
+    "sha256": "23faf9052914bc687c4662d3d9c97289a554ffa8b404254e0f0703fc909e2c1e",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/038-como-leer-un-libro.png"
+      }
+    ]
+  },
+  {
+    "id": "como-ser-perfecto",
+    "titulo": "Cómo ser perfecto",
+    "autor": "Michael Schur",
+    "archivo": "docs/assets/portadas-rondas-1-7/como-ser-perfecto-549ff286e30a.png",
+    "sha256": "549ff286e30a1049934f7f074a7d9b400a15765927951abb0fda9d967e62e51e",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/039-como-ser-perfecto.png"
+      }
+    ]
+  },
+  {
+    "id": "como-ser-estoico",
+    "titulo": "Cómo ser un estoico",
+    "autor": "Massimo Pigliucci",
+    "archivo": "docs/assets/portadas-rondas-1-7/como-ser-estoico-dacc3441c9a4.png",
+    "sha256": "dacc3441c9a4f5caf13ac3fdad6cdb56cb3829de43cf03da0a847823bb16bfcd",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/040-como-ser-un-estoico.png"
+      }
+    ]
+  },
+  {
+    "id": "suprimir-preocupaciones",
+    "titulo": "Cómo suprimir las preocupaciones y disfrutar de la vida",
+    "autor": "Dale Carnegie",
+    "archivo": "docs/assets/portadas-rondas-1-7/suprimir-preocupaciones-a12ebbcdb1ab.png",
+    "sha256": "a12ebbcdb1abdbf5d0507d66906c3d1179efd946968103515b8671c46945b50e",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/041-como-suprimir-las-preocupaciones-y-disfrutar-de-la-vida.png"
+      }
+    ]
+  },
+  {
+    "id": "vivir-del-day-trading",
+    "titulo": "Cómo vivir del day trading",
+    "autor": "Andrew Aziz",
+    "archivo": "docs/assets/portadas-rondas-1-7/vivir-del-day-trading-0db8d9624762.png",
+    "sha256": "0db8d96247625d373a9f751c34beceb0dcd5dc23a3d25e9fe88890203654520a",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/042-como-vivir-del-day-trading.png"
+      }
+    ]
+  },
+  {
+    "id": "comprar-felicidad",
+    "titulo": "Comprar felicidad",
+    "autor": "Elizabeth Dunn y Michael Norton",
+    "archivo": "docs/assets/portadas-rondas-1-7/comprar-felicidad-6fce117305fc.png",
+    "sha256": "6fce117305fcc1fe0b0faed603034be7e535c30c5ca9535b0c1a7386dce047fd",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/043-comprar-felicidad.png"
+      }
+    ]
+  },
+  {
+    "id": "comunicacion-no-violenta",
+    "titulo": "Comunicación no violenta",
+    "autor": "Marshall Rosenberg",
+    "archivo": "docs/assets/portadas-rondas-1-7/comunicacion-no-violenta-e488e28e5c64.png",
+    "sha256": "e488e28e5c6499d9817831b0326d94c84d2161fca070263c9fcb8ea3c8ab0dbd",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/044-comunicacion-no-violenta.png"
+      }
+    ]
+  },
+  {
+    "id": "contagioso",
+    "titulo": "Contagioso",
+    "autor": "Jonah Berger",
+    "archivo": "docs/assets/portadas-rondas-1-7/contagioso-7731ccfbdff9.png",
+    "sha256": "7731ccfbdff93ffb23ce6fa97b1bf6937dcec29413bb324f8c52c2a668fd14bf",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/045-contagioso.png"
+      }
+    ]
+  },
+  {
+    "id": "cosmos",
+    "titulo": "Cosmos",
+    "autor": "Carl Sagan",
+    "archivo": "docs/assets/portadas-rondas-1-7/cosmos-6fcbf1fdcbee.png",
+    "sha256": "6fcbf1fdcbee842618d09a5cb935b3df7a8bcda4a3b66bbf5132a755ac94626f",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/046-cosmos.png"
+      }
+    ]
+  },
+  {
+    "id": "creatividad-sa",
+    "titulo": "Creatividad, S.A.",
+    "autor": "Ed Catmull y Amy Wallace",
+    "archivo": "docs/assets/portadas-rondas-1-7/creatividad-sa-f8a32301d24c.png",
+    "sha256": "f8a32301d24c6a2fcc8bd69e7987a6d524dadd3acd09f5141666ce314a444574",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/047-creatividad-s-a.png"
+      }
+    ]
+  },
+  {
+    "id": "crimen-castigo",
+    "titulo": "Crimen y castigo",
+    "autor": "Fiódor Dostoievski",
+    "archivo": "docs/assets/portadas-rondas-1-7/crimen-castigo-6a6f568fdaee.png",
+    "sha256": "6a6f568fdaee1458f5160718c1b43bd2df775368dcb2390d1e00dadc3f966b57",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/048-crimen-y-castigo.png"
+      }
+    ]
+  },
+  {
+    "id": "cuando-digo-no",
+    "titulo": "Cuando digo no, me siento culpable",
+    "autor": "Manuel J. Smith",
+    "archivo": "docs/assets/portadas-rondas-1-7/cuando-digo-no-1f3f3465e002.png",
+    "sha256": "1f3f3465e0022c0dcbf9df9215b54bc60c2a90ce0ded47e49308eed944ad2505",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/049-cuando-digo-no-me-siento-culpable.png"
+      }
+    ]
+  },
+  {
+    "id": "cuando-todo-se-derrumba",
+    "titulo": "Cuando todo se derrumba",
+    "autor": "Pema Chödrön",
+    "archivo": "docs/assets/portadas-rondas-1-7/cuando-todo-se-derrumba-1ecfc68eefaf.png",
+    "sha256": "1ecfc68eefaff334d43a9f5cae19e2cbec3fa1a13663b277c9bf17c4717b9b4a",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/050-cuando-todo-se-derrumba.png"
+      }
+    ]
+  },
+  {
+    "id": "cuatro-mil-semanas",
+    "titulo": "Cuatro mil semanas",
+    "autor": "Oliver Burkeman",
+    "archivo": "docs/assets/portadas-rondas-1-7/cuatro-mil-semanas-ef2246c447ba.png",
+    "sha256": "ef2246c447bab991ed5f0897dca8a35dbe2b5851bcc59870bc9dab7a3b14e71f",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/051-cuatro-mil-semanas.png"
+      }
+    ]
+  },
+  {
+    "id": "dar-y-recibir",
+    "titulo": "Dar y recibir",
+    "autor": "Adam Grant",
+    "archivo": "docs/assets/portadas-rondas-1-7/dar-y-recibir-2d9b4a25366d.png",
+    "sha256": "2d9b4a25366dc22a38983e8772a12798d83650d2af930c1ade2c88a2460bba44",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/052-dar-y-recibir.png"
+      }
+    ]
+  },
+  {
+    "id": "cero-a-uno",
+    "titulo": "De cero a uno",
+    "autor": "Peter Thiel",
+    "archivo": "docs/assets/portadas-rondas-1-7/cero-a-uno-3098847fb158.png",
+    "sha256": "3098847fb158adbf68da4863073d210d574164521a6b515e0d7b09318031ef0b",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/053-de-cero-a-uno.png"
+      }
+    ]
+  },
+  {
+    "id": "hablo-correr",
+    "titulo": "De qué hablo cuando hablo de correr",
+    "autor": "Haruki Murakami",
+    "archivo": "docs/assets/portadas-rondas-1-7/hablo-correr-00e8c895613c.png",
+    "sha256": "00e8c895613c6f24f82a6811067ee4ade18c41b5b704670f2934ad91f8224c6d",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/054-de-que-hablo-cuando-hablo-de-correr.png"
+      }
+    ]
+  },
+  {
+    "id": "debo-quedarme-o-irme",
+    "titulo": "¿Debo quedarme o debo irme?",
+    "autor": "Ramani Durvasula",
+    "archivo": "docs/assets/portadas-rondas-1-7/debo-quedarme-o-irme-3bdb3c39d3aa.png",
+    "sha256": "3bdb3c39d3aaecce725baabad9ea9354dc114e7e4bdd9df90b755f67f1ba6671",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/055-debo-quedarme-o-debo-irme.png"
+      }
+    ]
+  },
+  {
+    "id": "deja-de-ser-tu",
+    "titulo": "Deja de ser tú",
+    "autor": "Joe Dispenza",
+    "archivo": "docs/assets/portadas-rondas-1-7/deja-de-ser-tu-e231b5181b7f.png",
+    "sha256": "e231b5181b7fc8e25c10e3bb42023d6496a15c71ab5813bfcf11f305217669c2",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/057-deja-de-ser-tu.png"
+      }
+    ]
+  },
+  {
+    "id": "descansa",
+    "titulo": "Descansa",
+    "autor": "Alex Soojung-Kim Pang",
+    "archivo": "docs/assets/portadas-rondas-1-7/descansa-455f2f37bc82.png",
+    "sha256": "455f2f37bc8298a1f71d4bb99aee58a3c164c388b1bbc384715ee742e95b963d",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/058-descansa.png"
+      }
+    ]
+  },
+  {
+    "id": "despertando-gigante",
+    "titulo": "Despertando al gigante interior",
+    "autor": "Tony Robbins",
+    "archivo": "docs/assets/portadas-rondas-1-7/despertando-gigante-e7f0db3a4381.png",
+    "sha256": "e7f0db3a4381e4be41f60601f4a6edd1391aab691f1d54b5d8c2fc3885e3e33a",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/059-despertando-al-gigante-interior.png"
+      }
+    ]
+  },
+  {
+    "id": "determinacion",
+    "titulo": "Determinación",
+    "autor": "Angela Duckworth",
+    "archivo": "docs/assets/portadas-rondas-1-7/determinacion-feef8a1f13b7.png",
+    "sha256": "feef8a1f13b77f8c5f1f9d0e8b86fedf40db2f2d9c74fa209f10614f6c302315",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/060-determinacion.png"
+      }
+    ]
+  },
+  {
+    "id": "diario-ana-frank",
+    "titulo": "Diario de Ana Frank",
+    "autor": "Ana Frank",
+    "archivo": "docs/assets/portadas-rondas-1-7/diario-ana-frank-5b8c51f076c8.png",
+    "sha256": "5b8c51f076c8a339ae91258d0850d5ca2db188ac0a3e5d247af660c65fbfeaf4",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/061-diario-de-ana-frank.png"
+      }
+    ]
+  },
+  {
+    "id": "borrar-redes-sociales",
+    "titulo": "Diez razones para borrar tus redes sociales de inmediato",
+    "autor": "Jaron Lanier",
+    "archivo": "docs/assets/portadas-rondas-1-7/borrar-redes-sociales-b375ee288816.png",
+    "sha256": "b375ee288816e1fa9fb02a4cbfd35918c4c46671849f56f3dafb14029a0d190b",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/062-diez-razones-para-borrar-tus-redes-sociales-de-inmediato.png"
+      }
+    ]
+  },
+  {
+    "id": "dignos-de-ser-humanos",
+    "titulo": "Dignos de ser humanos",
+    "autor": "Rutger Bregman",
+    "archivo": "docs/assets/portadas-rondas-1-7/dignos-de-ser-humanos-f232cb68e5f0.png",
+    "sha256": "f232cb68e5f027bb7964d8b4ca563b71be15fec3cdc8169b5b32c5d2da7f2092",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/063-dignos-de-ser-humanos.png"
+      }
+    ]
+  },
+  {
+    "id": "dios-es-redondo",
+    "titulo": "Dios es redondo",
+    "autor": "Juan Villoro",
+    "archivo": "docs/assets/portadas-rondas-1-7/dios-es-redondo-932bfb3d5d2b.png",
+    "sha256": "932bfb3d5d2b5913406d9e3b6cdab32c77cf93254530921a616a9ddd01ad0eb0",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/064-dios-es-redondo.png"
+      }
+    ]
+  },
+  {
+    "id": "quijote",
+    "titulo": "Don Quijote de la Mancha",
+    "autor": "Miguel de Cervantes",
+    "archivo": "docs/assets/portadas-rondas-1-7/quijote-ec5b66ac095c.png",
+    "sha256": "ec5b66ac095c1319770c3d5ff4c601f743e3d993435a7d718258b516fbe197d8",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/065-don-quijote-de-la-mancha.png"
+      }
+    ]
+  },
+  {
+    "id": "dopamina-lieberman",
+    "titulo": "Dopamina",
+    "autor": "Daniel Z. Lieberman y Michael E. Long",
+    "archivo": "docs/assets/portadas-rondas-1-7/dopamina-lieberman-2d83479802a1.png",
+    "sha256": "2d83479802a19b852ef79ae18aefae2d74066e76e66f1490e35563b4309ced57",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/066-dopamina.png"
+      }
+    ]
+  },
+  {
+    "id": "eichmann-jerusalen",
+    "titulo": "Eichmann en Jerusalén",
+    "autor": "Hannah Arendt",
+    "archivo": "docs/assets/portadas-rondas-1-7/eichmann-jerusalen-7fcb05569675.png",
+    "sha256": "7fcb05569675b6ec9922ba9c2cbced54428a0e47b97685c6655ebb5e57766471",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/067-eichmann-en-jerusalen.png"
+      }
+    ]
+  },
+  {
+    "id": "einstein",
+    "titulo": "Einstein: su vida y su universo",
+    "autor": "Walter Isaacson",
+    "archivo": "docs/assets/portadas-rondas-1-7/einstein-6185d399d061.png",
+    "sha256": "6185d399d061ddbdb98cb433837c467eb33a86816a20e5a7ee1a59a2fcdafee1",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/068-einstein-su-vida-y-su-universo.png"
+      }
+    ]
+  },
+  {
+    "id": "alquimista",
+    "titulo": "El alquimista",
+    "autor": "Paulo Coelho",
+    "archivo": "docs/assets/portadas-rondas-1-7/alquimista-1fc53042b7dd.png",
+    "sha256": "1fc53042b7dd4e9873b05aff3137b8ea55b99a245eaa702e3780d902af738cf6",
+    "origenes": [
+      {
+        "zip": "RONDAA6.zip",
+        "archivo": "CURVA-portadas/069-el-alquimista.png"
+      }
+    ]
+  },
+  {
+    "id": "lean-startup",
+    "titulo": "El método Lean Startup",
+    "autor": "Eric Ries",
+    "archivo": "docs/assets/portadas-rondas-1-7/lean-startup-24077f2e5afc.png",
+    "sha256": "24077f2e5afcf35ccec8e35fd2847f00818ceec4948141865aa5b49f6a3a4b2b",
+    "origenes": [
+      {
+        "zip": "RONDAA7.zip",
+        "archivo": "CURVA-ultimas-portadas/109-el-metodo-lean-startup.png"
+      }
+    ]
+  },
+  {
+    "id": "metodo-wim-hof",
+    "titulo": "El método Wim Hof",
+    "autor": "Wim Hof",
+    "archivo": "docs/assets/portadas-rondas-1-7/metodo-wim-hof-f5250ea2f822.png",
+    "sha256": "f5250ea2f822e60c34dc8db67089b637b6823981b8aebf249506acaad4716c3b",
+    "origenes": [
+      {
+        "zip": "RONDAA7.zip",
+        "archivo": "CURVA-ultimas-portadas/110-el-metodo-wim-hof.png"
+      }
+    ]
+  },
+  {
+    "id": "milagro-mindfulness",
+    "titulo": "El milagro de mindfulness",
+    "autor": "Thich Nhat Hanh",
+    "archivo": "docs/assets/portadas-rondas-1-7/milagro-mindfulness-df81f5bacc3f.png",
+    "sha256": "df81f5bacc3fc6b437e951c48d019a4d71497deb64e93fb6a43e58325ddd19dd",
+    "origenes": [
+      {
+        "zip": "RONDAA7.zip",
+        "archivo": "CURVA-ultimas-portadas/111-el-milagro-de-mindfulness.png"
+      }
+    ]
+  },
+  {
+    "id": "millonario-automatico",
+    "titulo": "El millonario automático",
+    "autor": "David Bach",
+    "archivo": "docs/assets/portadas-rondas-1-7/millonario-automatico-6cbecdac7f7b.png",
+    "sha256": "6cbecdac7f7bc1313bc13a5e072960b48641ffce734322f87670368514e6c2fc",
+    "origenes": [
+      {
+        "zip": "RONDAA7.zip",
+        "archivo": "CURVA-ultimas-portadas/112-el-millonario-automatico.png"
+      }
+    ]
+  },
+  {
+    "id": "millonario-al-lado",
+    "titulo": "El millonario de al lado",
+    "autor": "Stanley y Danko",
+    "archivo": "docs/assets/portadas-rondas-1-7/millonario-al-lado-9176889b6dd6.png",
+    "sha256": "9176889b6dd6e6fa53ee5333cb9720ab1054c186d181f732b161bec941ae9413",
+    "origenes": [
+      {
+        "zip": "RONDAA7.zip",
+        "archivo": "CURVA-ultimas-portadas/113-el-millonario-de-al-lado.png"
+      }
+    ]
+  },
+  {
+    "id": "sisifo",
+    "titulo": "El mito de Sísifo",
+    "autor": "Albert Camus",
+    "archivo": "docs/assets/portadas-rondas-1-7/sisifo-7a005f127ddc.png",
+    "sha256": "7a005f127ddc4c77256f4955dfcd39c6237188d97c4254094258c598def92588",
+    "origenes": [
+      {
+        "zip": "RONDAA7.zip",
+        "archivo": "CURVA-ultimas-portadas/114-el-mito-de-sisifo.png"
+      }
+    ]
+  },
+  {
+    "id": "mito-del-emprendedor",
+    "titulo": "El mito del emprendedor",
+    "autor": "Michael E. Gerber",
+    "archivo": "docs/assets/portadas-rondas-1-7/mito-del-emprendedor-1a67bad89787.png",
+    "sha256": "1a67bad89787336c6cb237ce4f776b22169e3d124adf6fd35be5d85b78b8e67e",
+    "origenes": [
+      {
+        "zip": "RONDAA7.zip",
+        "archivo": "CURVA-ultimas-portadas/115-el-mito-del-emprendedor.png"
+      }
+    ]
+  },
+  {
+    "id": "monje-ferrari",
+    "titulo": "El monje que vendió su Ferrari",
+    "autor": "Robin Sharma",
+    "archivo": "docs/assets/portadas-rondas-1-7/monje-ferrari-029ae7d54598.png",
+    "sha256": "029ae7d545980df339d51eb91396dd2398b0d7073883d2c0a77e3662c4187cf9",
+    "origenes": [
+      {
+        "zip": "RONDAA7.zip",
+        "archivo": "CURVA-ultimas-portadas/116-el-monje-que-vendio-su-ferrari.png"
+      }
+    ]
+  },
+  {
+    "id": "mundo-ayer",
+    "titulo": "El mundo de ayer",
+    "autor": "Stefan Zweig",
+    "archivo": "docs/assets/portadas-rondas-1-7/mundo-ayer-970936187115.png",
+    "sha256": "9709361871157486712c7b9a7f76ac834dd9cac985c5bdb2c58401777c4804d1",
+    "origenes": [
+      {
+        "zip": "RONDAA7.zip",
+        "archivo": "CURVA-ultimas-portadas/117-el-mundo-de-ayer.png"
+      }
+    ]
+  }
+]

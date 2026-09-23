@@ -1,0 +1,35 @@
+{
+  "zips": [
+    {
+      "archivo": "RONDAA1.zip",
+      "sha256": "5a6ad6d0a402ad4b4433877ea47becbbd5fbb257c49f9b4e8703931a52499d3a"
+    },
+    {
+      "archivo": "RONDAA2.zip",
+      "sha256": "4b7908c5e767456776cdc1a2a546d33caf605b25188a69fb931d150093cdc87c"
+    },
+    {
+      "archivo": "RONDAA3.zip",
+      "sha256": "4b7908c5e767456776cdc1a2a546d33caf605b25188a69fb931d150093cdc87c"
+    },
+    {
+      "archivo": "RONDAA4.zip",
+      "sha256": "700d89b8d0613f97b05d57862b8b861241c6c3c47eb7d7392748432d4db6a9ca"
+    },
+    {
+      "archivo": "RONDAA5.zip",
+      "sha256": "9c1fa1fd850a0b10f2978db7598744f5399390fdedfe5031d368769f13ffcdb9"
+    },
+    {
+      "archivo": "RONDAA6.zip",
+      "sha256": "2e74cb0fd1e96e7bd76e943cab8624a63bb1ac170be4d61793b944553e1dc70e"
+    },
+    {
+      "archivo": "RONDAA7.zip",
+      "sha256": "e56ba1a7777fe124d0f6a1e50291769e6a7bb119e7921ed15b07f215088e34b2"
+    }
+  ],
+  "imagenes": 210,
+  "unicas": 189,
+  "duplicadasIdenticas": 21
+}

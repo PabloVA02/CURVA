@@ -26,3 +26,5 @@ Petición vigente del 21 de septiembre: mostrar únicamente libros con páginas 
 Actualización del usuario, 23 de septiembre: para el seguimiento de renovación, «portadas nuevas» son únicamente Portadas-recientes-25.zip y CURVA-tanda-nueva-10-finanzas.zip (35 libros con resumen). Las anteriores no cuentan como nuevas. Registro: referencias/portadas/importadas-finanzas-10-2026-09-23/Criterio-portadas-nuevas.json. Listado: docs/libros-pendientes-portada-nueva.txt.
 
 Actualización posterior: incluir también CURVA-ultimas-versiones.zip entre las nuevas; sus 94 imágenes prevalecen sobre versiones anteriores. Comparador por defecto: todas las nuevas mezcladas junto a Headway. Registro en referencias/portadas/importadas-ultimas-94-2026-09-23/.
+
+24 de septiembre: incorporadas RONDAA1–7 al comparador y al criterio de portadas nuevas. Registro en referencias/portadas/rondas-1-7-2026-09-24/. RONDAA2 y RONDAA3 repiten 21 imágenes idénticas; no duplicarlas.

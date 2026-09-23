@@ -1,236 +1,47 @@
-LIBROS CON RESUMEN SIN PORTADA NUEVA — 232
+LIBROS CON RESUMEN SIN PORTADA NUEVA — 43
 
-Nuevas: tandas de 25, 10 finanzas y 94 últimas versiones.
+Nuevas: tandas 25, 10 finanzas, 94 últimas versiones y RONDAA1–7.
 
-1. 13 cosas que las personas mentalmente fuertes no hacen — Amy Morin
-2. 21 lecciones para el siglo XXI — Yuval Noah Harari
-3. 23 cosas que no te cuentan sobre el capitalismo — Ha-Joon Chang
-4. Actúa como dama, piensa como hombre — Steve Harvey
-5. Amarse con los ojos abiertos — Jorge Bucay y Silvia Salinas
-6. Amiga, lávate esa cara — Rachel Hollis
-7. Ansiedad — Scott Stossel
-8. Anticáncer — David Servan-Schreiber
-9. Antifrágil — Nassim Taleb
-10. Aprende idiomas en 3 meses — Benny Lewis
-11. Armas, gérmenes y acero — Jared Diamond
-12. Así habló Zaratustra — Friedrich Nietzsche
-13. Astrofísica para gente con prisa — Neil deGrasse Tyson
-14. Autobiografía — Benjamin Franklin
-15. Autobiografía de Malcolm X — Malcolm X y Alex Haley
-16. Autocontrol — Kelly McGonigal
-17. Barça — Simon Kuper
-18. Bola de nieve — Alice Schroeder
-19. Breve historia de todos los que han vivido — Adam Rutherford
-20. Breve historia del mundo — E. H. Gombrich
-21. Breve historia del tiempo — Stephen Hawking
-22. Breve historia del tiempo (14 apartados) — Stephen Hawking
-23. Burnout — Emily y Amelia Nagoski
-24. Cambia el chip — Chip y Dan Heath
-25. Caos — James Gleick
-26. Céntrate — Cal Newport
-27. Cerebro de pan — David Perlmutter
-28. Charlas TED — Chris Anderson
-29. Cleopatra — Stacy Schiff
-30. Come comida real — Carlos Ríos
-31. Cómo caer bien a los demás en menos de 90 segundos — Nicholas Boothman
-32. Cómo construir un coche — Adrian Newey
-33. Cómo controlar la ansiedad antes de que te controle a ti — Albert Ellis
-34. Cómo ganar amigos e influir sobre las personas — Dale Carnegie
-35. Cómo hablar con cualquiera — Leil Lowndes
-36. Cómo hacer que te pasen cosas buenas — Marian Rojas Estapé
-37. Cómo hacerse rico — Felix Dennis
-38. Cómo leer un libro — Mortimer J. Adler y Charles Van Doren
-39. Cómo ser perfecto — Michael Schur
-40. Cómo ser un estoico — Massimo Pigliucci
-41. Cómo suprimir las preocupaciones y disfrutar de la vida — Dale Carnegie
-42. Cómo vivir del day trading — Andrew Aziz
-43. Comprar felicidad — Elizabeth Dunn y Michael Norton
-44. Comunicación no violenta — Marshall Rosenberg
-45. Contagioso — Jonah Berger
-46. Cosmos — Carl Sagan
-47. Creatividad, S.A. — Ed Catmull y Amy Wallace
-48. Crimen y castigo — Fiódor Dostoievski
-49. Cuando digo no, me siento culpable — Manuel J. Smith
-50. Cuando todo se derrumba — Pema Chödrön
-51. Cuatro mil semanas — Oliver Burkeman
-52. Dar y recibir — Adam Grant
-53. De cero a uno — Peter Thiel
-54. De qué hablo cuando hablo de correr — Haruki Murakami
-55. ¿Debo quedarme o debo irme? — Ramani Durvasula
-56. ¡Deja de chingarte! — Gary John Bishop
-57. Deja de ser tú — Joe Dispenza
-58. Descansa — Alex Soojung-Kim Pang
-59. Despertando al gigante interior — Tony Robbins
-60. Determinación — Angela Duckworth
-61. Diario de Ana Frank — Ana Frank
-62. Diez razones para borrar tus redes sociales de inmediato — Jaron Lanier
-63. Dignos de ser humanos — Rutger Bregman
-64. Dios es redondo — Juan Villoro
-65. Don Quijote de la Mancha — Miguel de Cervantes
-66. Dopamina — Daniel Z. Lieberman y Michael E. Long
-67. Eichmann en Jerusalén — Hannah Arendt
-68. Einstein: su vida y su universo — Walter Isaacson
-69. El alquimista — Paulo Coelho
-70. El año de 12 semanas — Brian P. Moran y Michael Lennington
-71. El año de menos — Cait Flanders
-72. El arte de amar — Erich Fromm
-73. El arte de la guerra — Sun Tzu
-74. El arte de leer la mente — Henrik Fexeus
-75. El arte de no amargarse la vida — Rafael Santandreu
-76. El camino hacia la riqueza — Benjamin Franklin
-77. El capital en el siglo XXI — Thomas Piketty
-78. El cerebro — David Eagleman
-79. El cerebro adolescente — Frances Jensen
-80. El cerebro del niño — Siegel y Payne Bryson
-81. El cerebro femenino — Louann Brizendine
-82. El cerebro hambriento — Stephan Guyenet
-83. El cerebro se cambia a sí mismo — Norman Doidge
-84. El cisne negro — Nassim Taleb
-85. El club de las 5 de la mañana — Robin Sharma
-86. El código de la obesidad — Jason Fung
-87. El cuerpo — Bill Bryson
-88. El cuerpo lleva la cuenta — Bessel van der Kolk
-89. El cuerpo perfecto en 4 horas — Tim Ferriss
-90. El diablo de los números — Hans Magnus Enzensberger
-91. El dilema del innovador — Clayton M. Christensen
-92. El dilema del omnívoro — Michael Pollan
-93. El economista camuflado — Tim Harford
-94. El emperador de todos los males — Siddhartha Mukherjee
-95. El fútbol a sol y sombra — Eduardo Galeano
-96. El futuro de nuestra mente — Michio Kaku
-97. El gen — Siddhartha Mukherjee
-98. El gen deportivo — David Epstein
-99. El gen egoísta — Richard Dawkins
-100. El hobbit — J. R. R. Tolkien
-101. El hombre en busca de sentido — Viktor Frankl
-102. El hombre más rico de Babilonia — George S. Clason
-103. El inversor inteligente — Benjamin Graham
-104. El lenguaje del cuerpo — Allan y Barbara Pease
-105. El libro de la alegría — Dalái Lama y Desmond Tutu
-106. El libro del hygge — Meik Wiking
-107. El manifiesto comunista — Karl Marx y Friedrich Engels
-108. El método — Neil Strauss
-109. El método Lean Startup — Eric Ries
-110. El método Wim Hof — Wim Hof
-111. El milagro de mindfulness — Thich Nhat Hanh
-112. El millonario automático — David Bach
-113. El millonario de al lado — Stanley y Danko
-114. El mito de Sísifo — Albert Camus
-115. El mito del emprendedor — Michael E. Gerber
-116. El monje que vendió su Ferrari — Robin Sharma
-117. El mundo de ayer — Stefan Zweig
-118. El mundo de Sofía — Jostein Gaarder
-119. El mundo y sus demonios — Carl Sagan
-120. El orden del tiempo — Carlo Rovelli
-121. El pequeño libro para invertir con sentido común — John C. Bogle
-122. El placebo eres tú — Joe Dispenza
-123. El poder de los 5 segundos — Mel Robbins
-124. El poder de los hábitos — Charles Duhigg
-125. El poder de los introvertidos — Susan Cain
-126. El poder de ser vulnerable — Brené Brown
-127. El poder de tu mente subconsciente — Joseph Murphy
-128. El poder del ahora — Eckhart Tolle
-129. El poder del pensamiento positivo — Norman Vincent Peale
-130. El príncipe — Nicolás Maquiavelo
-131. El secreto de las zonas azules — Dan Buettner
-132. El señor de las moscas — William Golding
-133. El síndrome de la impostora — Élisabeth Cadoche y Anne de Montarlot
-134. El sutil arte de que casi todo te importe una mierda — Mark Manson
-135. El triunfo del dinero — Niall Ferguson
-136. El universo en tu mano — Christophe Galfard
-137. El universo en una cáscara de nuez — Stephen Hawking
-138. El valor de la atención — Johann Hari
-139. El vendedor más grande del mundo — Og Mandino
-140. El viejo y el mar — Ernest Hemingway
-141. Elon Musk — Walter Isaacson
-142. Empieza con el porqué — Simon Sinek
-143. En defensa de la comida — Michael Pollan
-144. En el principio era el sexo — Christopher Ryan y Cacilda Jethá
-145. En forma por naturaleza — Daniel E. Lieberman
-146. Enamórate de ti — Walter Riso
-147. Encuentra tu persona vitamina — Marian Rojas Estapé
-148. Endurance — Alfred Lansing
-149. Es fácil dejar de fumar, si sabes cómo — Allen Carr
-150. Esencialismo — Greg McKeown
-151. ¿Está usted de broma, Sr. Feynman? — Richard Feynman
-152. Esto es marketing — Seth Godin
-153. Factfulness — Hans Rosling
-154. Fiambres — Mary Roach
-155. Fluir — Mihály Csíkszentmihályi
-156. Freakonomics — Levitt y Dubner
-157. Gente tóxica — Bernardo Stamateas
-158. Gestiona tu dinero como un jo**do adulto — Sam Beckbessinger
-159. Hábitos atómicos — James Clear
-160. Hablar con extraños — Malcolm Gladwell
-161. Hacia el infinito — Michael Lewis
-162. Hazlo tan bien que no puedan ignorarte — Cal Newport
-163. Hazte la cama — William H. McRaven
-164. Hiperenfoque — Chris Bailey
-165. Historia del arte sin hombres — Katy Hessel
-166. Homenaje a Cataluña — George Orwell
-167. Homo Deus — Yuval Noah Harari
-168. Ideas que pegan — Chip y Dan Heath
-169. Ikigai — García y Miralles
-170. Imparable — Tim Grover
-171. Incógnito — David Eagleman
-172. Indomable — Glennon Doyle
-173. Influencia — Robert Cialdini
-174. Inteligencia emocional — Daniel Goleman
-175. Inteligencia intuitiva — Malcolm Gladwell
-176. Introducción al psicoanálisis — Sigmund Freud
-177. Jugarse la piel — Nassim Nicholas Taleb
-178. La auténtica felicidad — Martin Seligman
-179. La bolsa o la vida — Robin y Dominguez
-180. La ciencia de la felicidad — Sonja Lyubomirsky
-181. La dieta de la longevidad — Valter Longo
-182. La digestión es la cuestión — Giulia Enders
-183. La disciplina es el destino — Ryan Holiday
-184. La doctrina del shock — Naomi Klein
-185. La estrategia del océano azul — Kim y Mauborgne
-186. La generación ansiosa — Jonathan Haidt
-187. La gran apuesta — Michael Lewis
-188. La gran hambruna en la China de Mao — Frank Dikötter
-189. La guerra de los chips — Chris Miller
-190. La interpretación de los sueños — Sigmund Freud
-191. La invención de la naturaleza — Andrea Wulf
-192. La llegada de Superman — Steven Kotler
-193. La magia de pensar en grande — David Schwartz
-194. La magia del orden — Marie Kondo
-195. La mente de los justos — Jonathan Haidt
-196. La paradoja de la elección — Barry Schwartz
-197. La peste — Albert Camus
-198. La psicología del dinero — Morgan Housel
-199. La quietud es la clave — Ryan Holiday
-200. La República — Platón
-201. La revolución de la glucosa — Jessie Inchauspé
-202. La riqueza de las naciones — Adam Smith
-203. La roja — Jimmy Burns
-204. La sabiduría de los psicópatas — Kevin Dutton
-205. La sexta extinción — Elizabeth Kolbert
-206. La trampa de la felicidad — Russ Harris
-207. La verdad indiscutible — Mike Tyson
-208. La vida de 100 años — Lynda Gratton y Andrew Scott
-209. La vida inmortal de Henrietta Lacks — Rebecca Skloot
-210. La vida secreta de la mente — Mariano Sigman
-211. La vida secreta de los árboles — Peter Wohlleben
-212. Las 21 leyes irrefutables del liderazgo — John C. Maxwell
-213. Las cinco heridas que impiden ser uno mismo — Lise Bourbeau
-214. Las claves del talento — Daniel Coyle
-215. Las mujeres inteligentes acaban ricas — David Bach
-216. Legado — James Kerr
-217. Lo que nunca cambia — Morgan Housel
-218. Los 7 hábitos de la gente altamente efectiva — Stephen Covey
-219. Los asombrosos secretos de la vida — Gaur Gopal Das
-220. Los beneficios de la meditación — Daniel Goleman y Richard J. Davidson
-221. Los cañones de agosto — Barbara Tuchman
-222. Los cinco arrepentimientos de los moribundos — Bronnie Ware
-223. Los cinco lenguajes del amor — Gary Chapman
-224. Los dones de la imperfección — Brené Brown
-225. Los hombres son de Marte, las mujeres son de Venus — John Gray
-226. Los líderes comen al final — Simon Sinek
-227. Los patitos feos — Boris Cyrulnik
-228. Los principios del éxito — Jack Canfield
-229. Los secretos de la mente millonaria — T. Harv Eker
-230. Los seis pilares de la autoestima — Nathaniel Branden
-231. Maestría — Robert Greene
-232. Mamba Mentality — Kobe Bryant
+1. ¡Deja de chingarte! — Gary John Bishop
+2. El mundo de Sofía — Jostein Gaarder
+3. El mundo y sus demonios — Carl Sagan
+4. El orden del tiempo — Carlo Rovelli
+5. El pequeño libro para invertir con sentido común — John C. Bogle
+6. El placebo eres tú — Joe Dispenza
+7. El poder de los 5 segundos — Mel Robbins
+8. El poder de los hábitos — Charles Duhigg
+9. El poder de los introvertidos — Susan Cain
+10. El poder de ser vulnerable — Brené Brown
+11. El poder de tu mente subconsciente — Joseph Murphy
+12. El poder del ahora — Eckhart Tolle
+13. El poder del pensamiento positivo — Norman Vincent Peale
+14. El príncipe — Nicolás Maquiavelo
+15. El secreto de las zonas azules — Dan Buettner
+16. El señor de las moscas — William Golding
+17. El síndrome de la impostora — Élisabeth Cadoche y Anne de Montarlot
+18. El sutil arte de que casi todo te importe una mierda — Mark Manson
+19. El triunfo del dinero — Niall Ferguson
+20. El universo en tu mano — Christophe Galfard
+21. El universo en una cáscara de nuez — Stephen Hawking
+22. El valor de la atención — Johann Hari
+23. El vendedor más grande del mundo — Og Mandino
+24. El viejo y el mar — Ernest Hemingway
+25. Elon Musk — Walter Isaacson
+26. Empieza con el porqué — Simon Sinek
+27. En defensa de la comida — Michael Pollan
+28. En el principio era el sexo — Christopher Ryan y Cacilda Jethá
+29. En forma por naturaleza — Daniel E. Lieberman
+30. Enamórate de ti — Walter Riso
+31. Encuentra tu persona vitamina — Marian Rojas Estapé
+32. Endurance — Alfred Lansing
+33. Es fácil dejar de fumar, si sabes cómo — Allen Carr
+34. Esencialismo — Greg McKeown
+35. ¿Está usted de broma, Sr. Feynman? — Richard Feynman
+36. Esto es marketing — Seth Godin
+37. Factfulness — Hans Rosling
+38. Fiambres — Mary Roach
+39. Fluir — Mihály Csíkszentmihályi
+40. Freakonomics — Levitt y Dubner
+41. Gente tóxica — Bernardo Stamateas
+42. Gestiona tu dinero como un jo**do adulto — Sam Beckbessinger
+43. Hábitos atómicos — James Clear
