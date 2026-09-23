@@ -1,0 +1,30 @@
+Oro digital
+
+Portada de libro, vertical 2:3, 1024 × 1536 px, a sangre. Estilo: cartel pop
+editorial, vectorial plano, colores sólidos muy saturados, sombras planas
+mínimas, sin degradados, sin texturas, sin realismo, sin contorno blanco.
+
+IDEA: dinero que se mina con ordenadores. Un pico de minero golpea una
+pepita de oro enorme hecha de píxeles cuadrados, y saltan chispas de
+píxeles de colores.
+
+ENCUADRE, asoma por una esquina: un pico de minero entra por la esquina
+superior derecha, cortado, con mango rojo y cabeza turquesa, y golpea una
+pepita de oro grande en el centro, hecha de píxeles cuadrados como en un
+videojuego antiguo. Del golpe saltan chispas cuadradas rosa, turquesa y
+amarillas. Sin personas, sin logos.
+
+TÍTULO, debajo de la pepita, centrado:
+«ORO» enorme, palo seco muy gruesa, amarillo oro.
+«digital» grande, en letra de píxeles de videojuego, turquesa.
+MENSAJE abajo del todo, palo seco pequeña crema, dos líneas.
+
+COLORES: fondo azul noche #14123A · pepita oro #FFC21A con píxeles amarillo
+#FFD60A y naranja #FF8A1F · mango rojo tomate #E8322B · cabeza del pico y
+«digital» turquesa #1FD1C1 · chispas rosa chicle #FF6FB5 · crema #FFF4E0.
+
+TEXTO EXACTO, con estas tildes, sin ninguna otra palabra ni autor:
+ORO
+digital
+La historia de Bitcoin y de quienes
+quisieron reinventar el dinero

@@ -1,0 +1,33 @@
+El efecto compuesto
+
+Portada de libro, vertical 2:3, 1024 × 1536 px, a sangre. Estilo: cartel pop
+editorial, vectorial plano, colores sólidos muy saturados, sombras planas
+mínimas, sin degradados, sin texturas, sin realismo, sin contorno blanco.
+
+IDEA: pequeñas decisiones que se multiplican. Una fila de fichas de dominó,
+cada una más grande que la anterior: la primera diminuta y la última
+gigantesca.
+
+ENCUADRE, asoma por un lado: siete fichas de dominó de pie en fila sobre
+una misma línea de suelo, al 62 % de la altura. Empiezan a la izquierda con
+una ficha diminuta que está cayendo, con líneas de movimiento, y crecen
+hacia la derecha. La última es tan enorme que se sale por el borde derecho
+y por el de arriba. Cada ficha es de un color distinto, con los puntos
+crema, en este orden: amarillo, naranja, rosa, rojo, violeta, turquesa
+oscuro y cobalto. Sin personas.
+
+TÍTULO, debajo de las fichas, centrado:
+«El efecto» cursiva serif rojo tomate, grande.
+«COMPUESTO» enorme, casi todo el ancho, palo seco muy gruesa, casi negro.
+MENSAJE debajo, palo seco pequeña casi negro, dos líneas.
+
+COLORES: fondo turquesa #1FD1C1 · fichas amarillo #FFD60A, naranja
+#FF8A1F, rosa chicle #FF6FB5, rojo tomate #E8322B, violeta #8A3FFC,
+turquesa oscuro #0B8C8C y cobalto #2448B8 · puntos crema #FFF4E0 · casi
+negro #1A1426.
+
+TEXTO EXACTO, con estas tildes, sin ninguna otra palabra ni autor:
+El efecto
+COMPUESTO
+Cómo pequeñas decisiones diarias
+acaban produciendo resultados enormes

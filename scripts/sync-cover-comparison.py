@@ -19,6 +19,8 @@ data['curva'].sort(key=lambda b:not b['reciente'])
 data['importadas86']=[{'id':b['id'],'titulo':b['titulo'],'autor':b['autor'],'archivo':'./'+b['archivo'][5:],'marca':'Curva','importada':True,'sinDobleAdicional':True} for b in imports if b['id'] in ids]
 recent25=json.loads((ROOT/'referencias/portadas/importadas-25-2026-09-23/Catalogo.json').read_text())
 data['recientes25']=[{'id':b['id'],'titulo':b['titulo'],'autor':b['autor'],'archivo':'./'+b['archivo'][5:],'marca':'Curva','lote25':True,'sinDobleAdicional':True} for b in recent25 if b['id'] in ids]
+finanzas=json.loads((ROOT/'referencias/portadas/importadas-finanzas-10-2026-09-23/Catalogo.json').read_text())
+data['finanzas10']=[{'id':b['id'],'titulo':b['titulo'],'autor':b['autor'],'archivo':'./'+b['archivo'][5:],'marca':'Curva','lote10':True,'sinDobleAdicional':True} for b in finanzas if b['id'] in ids]
 data['fecha']='2026-09-23'
 source=source[:start]+json.dumps(data,ensure_ascii=False,separators=(',',':'))+source[start+length:]
 page.write_text(source)

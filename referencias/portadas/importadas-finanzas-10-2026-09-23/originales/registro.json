@@ -1,0 +1,209 @@
+[
+  {
+    "archivo": "01-un-paseo-aleatorio-por-wall-street.png",
+    "ancho": 1024,
+    "alto": 1536,
+    "sha256": "7a968feeb9398b6f11c068359c75a87f1562c2138f2147dc3588d7c4f6a6d5d6",
+    "paleta": [
+      "#2448B8",
+      "#1FD1C1",
+      "#9BE22E",
+      "#FF3B30",
+      "#FFD60A",
+      "#FFF4E0"
+    ],
+    "encuadre": "diagonal",
+    "integracion_titulo": "Huellas detrás del título",
+    "herramienta": "ImageGen nativo",
+    "prompt": "prompts/01.txt",
+    "autor_en_portada": false
+  },
+  {
+    "archivo": "02-superpronosticadores.png",
+    "ancho": 1024,
+    "alto": 1536,
+    "sha256": "c117c3f923889d145f3f77abccb5271b769017264131775f332fc46c274f71c5",
+    "paleta": [
+      "#6A2BD9",
+      "#7FE9F0",
+      "#FFD60A",
+      "#FFC21A",
+      "#FF8A1F",
+      "#FF6FB5",
+      "#FFF4E0"
+    ],
+    "encuadre": "centrado entero",
+    "integracion_titulo": "Título encima de bola",
+    "herramienta": "ImageGen nativo",
+    "prompt": "prompts/02.txt",
+    "autor_en_portada": false
+  },
+  {
+    "archivo": "03-el-efecto-compuesto.png",
+    "ancho": 1024,
+    "alto": 1536,
+    "sha256": "2450ce65dfc3c00d4cc1dd407f1a61eff4cf883328c6e66be62150b1d8157d50",
+    "paleta": [
+      "#1FD1C1",
+      "#FFD60A",
+      "#FF8A1F",
+      "#FF6FB5",
+      "#E8322B",
+      "#8A3FFC",
+      "#0B8C8C",
+      "#2448B8",
+      "#FFF4E0",
+      "#1A1426"
+    ],
+    "encuadre": "asoma por un lado",
+    "integracion_titulo": "Título debajo de dominós",
+    "herramienta": "ImageGen nativo",
+    "prompt": "prompts/03.txt",
+    "autor_en_portada": false
+  },
+  {
+    "archivo": "04-empresas-que-sobresalen.png",
+    "ancho": 1024,
+    "alto": 1536,
+    "sha256": "6450d740c71e557d742bc979db8f57754b21afc8fee84baec73138e7537cea4c",
+    "paleta": [
+      "#FFD60A",
+      "#E86A2B",
+      "#FFF4E0",
+      "#2448B8",
+      "#1FD1C1",
+      "#FF6FB5",
+      "#8A3FFC",
+      "#0FA36B",
+      "#1A1426"
+    ],
+    "encuadre": "gigante",
+    "integracion_titulo": "Barra sobre última letra",
+    "herramienta": "ImageGen nativo",
+    "prompt": "prompts/04.txt",
+    "autor_en_portada": false
+  },
+  {
+    "archivo": "05-eres-un-chingon-haciendo-dinero.png",
+    "ancho": 1024,
+    "alto": 1536,
+    "sha256": "d429c433982fcfb26c00508b88ed827e9612f07ba01523a90af5638b88bf8b08",
+    "paleta": [
+      "#FF4F9A",
+      "#FF7A1A",
+      "#1A1426",
+      "#2448B8",
+      "#8A3FFC",
+      "#2BC46A",
+      "#FFC21A"
+    ],
+    "encuadre": "fondo partido",
+    "integracion_titulo": "Título rodea gafas",
+    "herramienta": "ImageGen nativo",
+    "prompt": "prompts/05.txt",
+    "autor_en_portada": false
+  },
+  {
+    "archivo": "06-los-5-tipos-de-riqueza.png",
+    "ancho": 1024,
+    "alto": 1536,
+    "sha256": "c239e64ab79b951846d7764972feb0f9e1bc7130dcfc919a84c032db08def049",
+    "paleta": [
+      "#0FA36B",
+      "#E8322B",
+      "#FFC21A",
+      "#1FD1C1",
+      "#FFD60A",
+      "#FF6FB5",
+      "#2448B8",
+      "#FFF4E0"
+    ],
+    "encuadre": "centrado entero",
+    "integracion_titulo": "Título encima del cofre",
+    "herramienta": "ImageGen nativo",
+    "prompt": "prompts/06.txt",
+    "autor_en_portada": false
+  },
+  {
+    "archivo": "07-oro-digital.png",
+    "ancho": 1024,
+    "alto": 1536,
+    "sha256": "d1f51b7002c69b78f65f07f0776d97c33f6a38fec9c6d12818d4a809d0373d37",
+    "paleta": [
+      "#14123A",
+      "#FFC21A",
+      "#FFD60A",
+      "#FF8A1F",
+      "#E8322B",
+      "#1FD1C1",
+      "#FF6FB5",
+      "#FFF4E0"
+    ],
+    "encuadre": "asoma por una esquina",
+    "integracion_titulo": "Título debajo de pepita",
+    "herramienta": "ImageGen nativo",
+    "prompt": "prompts/07.txt",
+    "autor_en_portada": false
+  },
+  {
+    "archivo": "08-el-camino-simple-a-la-riqueza.png",
+    "ancho": 1024,
+    "alto": 1536,
+    "sha256": "559098770ccc59a24bef40de20046755739c82e4e7ad7ac4146922a7affaba13",
+    "paleta": [
+      "#B79CFF",
+      "#2448B8",
+      "#FFD60A",
+      "#FF8A1F",
+      "#E8322B",
+      "#1A1426"
+    ],
+    "encuadre": "patrón",
+    "integracion_titulo": "Camino toca título",
+    "herramienta": "ImageGen nativo",
+    "prompt": "prompts/08.txt",
+    "autor_en_portada": false
+  },
+  {
+    "archivo": "09-la-vaca-purpura.png",
+    "ancho": 1024,
+    "alto": 1536,
+    "sha256": "59dcfea0b0d3f75ee7a2f3b2440344472a3f07bb9861f77560e979b4b858214f",
+    "paleta": [
+      "#9BE22E",
+      "#8A3FFC",
+      "#5B1FC0",
+      "#FFD60A",
+      "#FF6FB5",
+      "#0FA36B",
+      "#FF8A1F",
+      "#1A1426"
+    ],
+    "encuadre": "centrado entero",
+    "integracion_titulo": "Título encima de vaca",
+    "herramienta": "ImageGen nativo",
+    "prompt": "prompts/09.txt",
+    "autor_en_portada": false
+  },
+  {
+    "archivo": "10-pequeno-cerdo-capitalista.png",
+    "ancho": 1024,
+    "alto": 1536,
+    "sha256": "2c8f6daa4c02cab56f31e6e5b35dc2edc4d678f1daa1769bb086f428be77929f",
+    "paleta": [
+      "#E4007C",
+      "#F07C3E",
+      "#FFD60A",
+      "#1FD1C1",
+      "#2BC46A",
+      "#FFC21A",
+      "#FF8A1F",
+      "#FFF4E0"
+    ],
+    "encuadre": "sube desde abajo",
+    "integracion_titulo": "Título encima del cerdito",
+    "herramienta": "ImageGen nativo",
+    "prompt": "prompts/10.txt",
+    "autor_en_portada": false
+  }
+]

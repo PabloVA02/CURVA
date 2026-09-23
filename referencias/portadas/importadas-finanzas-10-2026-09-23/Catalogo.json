@@ -1,0 +1,82 @@
+[
+  {
+    "id": "paseo-aleatorio",
+    "titulo": "Un paseo aleatorio por Wall Street",
+    "autor": "Burton Malkiel",
+    "archivo": "docs/assets/portadas-finanzas-10/paseo-aleatorio-7a968feeb939.png",
+    "sha256": "7a968feeb9398b6f11c068359c75a87f1562c2138f2147dc3588d7c4f6a6d5d6",
+    "origenZip": "CURVA-tanda-nueva-10-finanzas/01-un-paseo-aleatorio-por-wall-street.png"
+  },
+  {
+    "id": "superpronosticadores",
+    "titulo": "Superpronosticadores",
+    "autor": "Tetlock y Gardner",
+    "archivo": "docs/assets/portadas-finanzas-10/superpronosticadores-c117c3f92388.png",
+    "sha256": "c117c3f923889d145f3f77abccb5271b769017264131775f332fc46c274f71c5",
+    "origenZip": "CURVA-tanda-nueva-10-finanzas/02-superpronosticadores.png"
+  },
+  {
+    "id": "efecto-compuesto",
+    "titulo": "El efecto compuesto",
+    "autor": "Darren Hardy",
+    "archivo": "docs/assets/portadas-finanzas-10/efecto-compuesto-2450ce65dfc3.png",
+    "sha256": "2450ce65dfc3c00d4cc1dd407f1a61eff4cf883328c6e66be62150b1d8157d50",
+    "origenZip": "CURVA-tanda-nueva-10-finanzas/03-el-efecto-compuesto.png"
+  },
+  {
+    "id": "empresas-sobresalen",
+    "titulo": "Empresas que sobresalen",
+    "autor": "Jim Collins",
+    "archivo": "docs/assets/portadas-finanzas-10/empresas-sobresalen-6450d740c71e.png",
+    "sha256": "6450d740c71e557d742bc979db8f57754b21afc8fee84baec73138e7537cea4c",
+    "origenZip": "CURVA-tanda-nueva-10-finanzas/04-empresas-que-sobresalen.png"
+  },
+  {
+    "id": "chingona-dinero",
+    "titulo": "Eres un chingón haciendo dinero",
+    "autor": "Jen Sincero",
+    "archivo": "docs/assets/portadas-finanzas-10/chingona-dinero-d429c433982f.png",
+    "sha256": "d429c433982fcfb26c00508b88ed827e9612f07ba01523a90af5638b88bf8b08",
+    "origenZip": "CURVA-tanda-nueva-10-finanzas/05-eres-un-chingon-haciendo-dinero.png"
+  },
+  {
+    "id": "cinco-tipos-riqueza",
+    "titulo": "Los 5 tipos de riqueza",
+    "autor": "Sahil Bloom",
+    "archivo": "docs/assets/portadas-finanzas-10/cinco-tipos-riqueza-c239e64ab79b.png",
+    "sha256": "c239e64ab79b951846d7764972feb0f9e1bc7130dcfc919a84c032db08def049",
+    "origenZip": "CURVA-tanda-nueva-10-finanzas/06-los-5-tipos-de-riqueza.png"
+  },
+  {
+    "id": "oro-digital",
+    "titulo": "Oro digital",
+    "autor": "Nathaniel Popper",
+    "archivo": "docs/assets/portadas-finanzas-10/oro-digital-d1f51b7002c6.png",
+    "sha256": "d1f51b7002c69b78f65f07f0776d97c33f6a38fec9c6d12818d4a809d0373d37",
+    "origenZip": "CURVA-tanda-nueva-10-finanzas/07-oro-digital.png"
+  },
+  {
+    "id": "camino-simple-riqueza",
+    "titulo": "El camino simple a la riqueza",
+    "autor": "J. L. Collins",
+    "archivo": "docs/assets/portadas-finanzas-10/camino-simple-riqueza-559098770ccc.png",
+    "sha256": "559098770ccc59a24bef40de20046755739c82e4e7ad7ac4146922a7affaba13",
+    "origenZip": "CURVA-tanda-nueva-10-finanzas/08-el-camino-simple-a-la-riqueza.png"
+  },
+  {
+    "id": "vaca-purpura",
+    "titulo": "La vaca púrpura",
+    "autor": "Seth Godin",
+    "archivo": "docs/assets/portadas-finanzas-10/vaca-purpura-59dcfea0b0d3.png",
+    "sha256": "59dcfea0b0d3f75ee7a2f3b2440344472a3f07bb9861f77560e979b4b858214f",
+    "origenZip": "CURVA-tanda-nueva-10-finanzas/09-la-vaca-purpura.png"
+  },
+  {
+    "id": "pequeno-cerdo-capitalista",
+    "titulo": "Pequeño cerdo capitalista",
+    "autor": "Sofía Macías",
+    "archivo": "docs/assets/portadas-finanzas-10/pequeno-cerdo-capitalista-2c8f6daa4c02.png",
+    "sha256": "2c8f6daa4c02cab56f31e6e5b35dc2edc4d678f1daa1769bb086f428be77929f",
+    "origenZip": "CURVA-tanda-nueva-10-finanzas/10-pequeno-cerdo-capitalista.png"
+  }
+]

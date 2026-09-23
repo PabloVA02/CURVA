@@ -1,0 +1,33 @@
+Un paseo aleatorio por Wall Street
+
+Portada de libro, vertical 2:3, 1024 × 1536 px, a sangre. Estilo: cartel pop
+editorial, vectorial plano, colores sólidos muy saturados, sombras planas
+mínimas, sin degradados, sin texturas, sin realismo, sin contorno blanco.
+
+IDEA: la bolsa se mueve como un paseo al azar. La línea de un gráfico de
+bolsa hecha de huellas de pisadas: verdes cuando sube, rojas cuando baja.
+
+ENCUADRE, diagonal: un rastro de huellas de zapato cruza la portada en
+zigzag desde la esquina inferior izquierda hasta la superior derecha y se
+sale por las dos esquinas. Sube y baja como un gráfico de bolsa, pero con
+tendencia a subir. Las huellas son verde lima en los tramos que suben y
+rojo tomate en los que bajan. Detrás, una cuadrícula fina turquesa de
+gráfico. Sin personas.
+
+TÍTULO, arriba, centrado; las huellas pasan por detrás:
+«Un paseo» palo seco gruesa crema, mediana.
+«ALEATORIO» enorme, casi todo el ancho, palo seco muy gruesa y condensada,
+crema.
+«por Wall Street» cursiva serif amarillo limón, grande.
+MENSAJE abajo, centrado, palo seco pequeña crema, dos líneas.
+
+COLORES: fondo azul cobalto #2448B8 · cuadrícula turquesa #1FD1C1 · huellas
+verde lima #9BE22E y rojo tomate #FF3B30 · amarillo limón #FFD60A · crema
+#FFF4E0.
+
+TEXTO EXACTO, con estas tildes, sin ninguna otra palabra ni autor:
+Un paseo
+ALEATORIO
+por Wall Street
+Por qué casi nadie le gana al mercado
+y cómo invertir sin adivinar

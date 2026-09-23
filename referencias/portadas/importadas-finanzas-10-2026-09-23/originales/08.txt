@@ -1,0 +1,30 @@
+El camino simple a la riqueza
+
+Portada de libro, vertical 2:3, 1024 × 1536 px, a sangre. Estilo: cartel pop
+editorial, vectorial plano, colores sólidos muy saturados, sombras planas
+mínimas, sin degradados, sin texturas, sin realismo, sin contorno blanco.
+
+IDEA: invertir no tiene por qué ser un laberinto. Un laberinto enorme y
+complicado, y un camino recto que lo atraviesa sin hacer caso de las
+paredes.
+
+ENCUADRE, patrón: un laberinto de paredes gruesas cobalto llena la portada
+desde un tercio de la altura hacia abajo y se sale por la izquierda, la
+derecha y el borde inferior. Un camino recto amarillo limón, con bordes
+naranja, nace en el centro del borde inferior y sube en línea recta,
+rompiendo las paredes a su paso (saltan trozos), hasta tocar el título.
+Sin personas.
+
+TÍTULO, arriba, centrado:
+«El camino» palo seco gruesa casi negro, mediana.
+«SIMPLE» enorme, casi todo el ancho, palo seco muy gruesa, rojo tomate.
+«a la riqueza» cursiva serif cobalto, grande.
+
+COLORES: fondo lila #B79CFF · paredes cobalto #2448B8 · camino amarillo
+limón #FFD60A con bordes naranja #FF8A1F · rojo tomate #E8322B · casi
+negro #1A1426.
+
+TEXTO EXACTO, con estas tildes, sin ninguna otra palabra ni autor:
+El camino
+SIMPLE
+a la riqueza
