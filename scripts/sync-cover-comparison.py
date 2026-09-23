@@ -21,6 +21,8 @@ recent25=json.loads((ROOT/'referencias/portadas/importadas-25-2026-09-23/Catalog
 data['recientes25']=[{'id':b['id'],'titulo':b['titulo'],'autor':b['autor'],'archivo':'./'+b['archivo'][5:],'marca':'Curva','lote25':True,'sinDobleAdicional':True} for b in recent25 if b['id'] in ids]
 finanzas=json.loads((ROOT/'referencias/portadas/importadas-finanzas-10-2026-09-23/Catalogo.json').read_text())
 data['finanzas10']=[{'id':b['id'],'titulo':b['titulo'],'autor':b['autor'],'archivo':'./'+b['archivo'][5:],'marca':'Curva','lote10':True,'sinDobleAdicional':True} for b in finanzas if b['id'] in ids]
+ultimas=json.loads((ROOT/'referencias/portadas/importadas-ultimas-94-2026-09-23/Catalogo.json').read_text())
+data['ultimas94']=[{'id':b['id'],'titulo':b['titulo'],'autor':b['autor'],'archivo':'./'+b['archivo'][5:],'marca':'Curva','lote94':True,'sinDobleAdicional':True} for b in ultimas if b['id'] in ids]
 data['fecha']='2026-09-23'
 source=source[:start]+json.dumps(data,ensure_ascii=False,separators=(',',':'))+source[start+length:]
 page.write_text(source)

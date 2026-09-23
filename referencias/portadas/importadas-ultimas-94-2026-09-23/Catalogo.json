@@ -1,0 +1,754 @@
+[
+  {
+    "id": "arte-de-pensar",
+    "titulo": "El arte de pensar",
+    "autor": "Rolf Dobelli",
+    "archivo": "docs/assets/portadas-ultimas-94/arte-de-pensar-db547c20d844.png",
+    "sha256": "db547c20d844dcb96c74cd08509e52e7f24ee5cda3d9a4212b2fe4dd58895280",
+    "origenZip": "CURVA-ultimas-versiones/01-el-arte-de-pensar.png"
+  },
+  {
+    "id": "nunca-comas-solo",
+    "titulo": "Nunca comas solo",
+    "autor": "Keith Ferrazzi",
+    "archivo": "docs/assets/portadas-ultimas-94/nunca-comas-solo-e94b42e82c24.png",
+    "sha256": "e94b42e82c24252dfc4f0e2d6543095e68ebf1aafc0b50f5bda22f7c35485f7f",
+    "origenZip": "CURVA-ultimas-versiones/02-nunca-comas-solo.png"
+  },
+  {
+    "id": "haz-cosas-dificiles",
+    "titulo": "Haz cosas difíciles",
+    "autor": "Steve Magness",
+    "archivo": "docs/assets/portadas-ultimas-94/haz-cosas-dificiles-ed80120d1ab4.png",
+    "sha256": "ed80120d1ab4c3023f92e7d934e0630674b74cebaf3b40107682360a20ad54f3",
+    "origenZip": "CURVA-ultimas-versiones/03-haz-cosas-dificiles.png"
+  },
+  {
+    "id": "filosofo-griego",
+    "titulo": "Piensa como un emperador romano",
+    "autor": "Donald Robertson",
+    "archivo": "docs/assets/portadas-ultimas-94/filosofo-griego-7162b0c10e07.png",
+    "sha256": "7162b0c10e072fc4fb4dc1bd259d1b272526abf59a9c8adbe7d6d712f1276682",
+    "origenZip": "CURVA-ultimas-versiones/04-piensa-como-un-emperador-romano.png"
+  },
+  {
+    "id": "sin-gasolina",
+    "titulo": "Sin gasolina",
+    "autor": "Jonice Webb",
+    "archivo": "docs/assets/portadas-ultimas-94/sin-gasolina-f62db3c313c1.png",
+    "sha256": "f62db3c313c125491fbe556e06ff0a2876951582c3e6d9fca651de9cfc390bf5",
+    "origenZip": "CURVA-ultimas-versiones/05-sin-gasolina.png"
+  },
+  {
+    "id": "una-buena-vida",
+    "titulo": "Una buena vida",
+    "autor": "Robert Waldinger y Marc Schulz",
+    "archivo": "docs/assets/portadas-ultimas-94/una-buena-vida-61709473277d.png",
+    "sha256": "61709473277d4ff033b9a1c9de660c44718f43b94a71e298f1dc5b0b4682802a",
+    "origenZip": "CURVA-ultimas-versiones/06-una-buena-vida.png"
+  },
+  {
+    "id": "educada",
+    "titulo": "Una educación",
+    "autor": "Tara Westover",
+    "archivo": "docs/assets/portadas-ultimas-94/educada-adbfe60e51c9.png",
+    "sha256": "adbfe60e51c9b4c13521e1afc849475c53d98da101f2ceca918cbd454b45c943",
+    "origenZip": "CURVA-ultimas-versiones/07-una-educacion.png"
+  },
+  {
+    "id": "usted-puede-sanar",
+    "titulo": "Usted puede sanar su vida",
+    "autor": "Louise Hay",
+    "archivo": "docs/assets/portadas-ultimas-94/usted-puede-sanar-616cbd9003b1.png",
+    "sha256": "616cbd9003b1330301df6e1f3729035d746211edbfea27c97b254069bd3cd5c1",
+    "origenZip": "CURVA-ultimas-versiones/08-usted-puede-sanar-su-vida.png"
+  },
+  {
+    "id": "utopia-para-realistas",
+    "titulo": "Utopía para realistas",
+    "autor": "Rutger Bregman",
+    "archivo": "docs/assets/portadas-ultimas-94/utopia-para-realistas-f4b033103584.png",
+    "sha256": "f4b03310358448b0f04fcee51cdb758998d3fc29f49c240976815b86fe45474e",
+    "origenZip": "CURVA-ultimas-versiones/09-utopia-para-realistas.png"
+  },
+  {
+    "id": "vida-3-0",
+    "titulo": "Vida 3.0",
+    "autor": "Max Tegmark",
+    "archivo": "docs/assets/portadas-ultimas-94/vida-3-0-257b7e3a8c2c.png",
+    "sha256": "257b7e3a8c2cadb0a5419e6f2b3c87c05ed4432ef7020fa411eb6ad5d410960a",
+    "origenZip": "CURVA-ultimas-versiones/10-vida-3-0.png"
+  },
+  {
+    "id": "vivir-plenitud",
+    "titulo": "Vivir con plenitud las crisis",
+    "autor": "Jon Kabat-Zinn",
+    "archivo": "docs/assets/portadas-ultimas-94/vivir-plenitud-2f76f523a223.png",
+    "sha256": "2f76f523a22351421c2883800608964424ee6c13d9f06e2d4cc9812bf98e0bc8",
+    "origenZip": "CURVA-ultimas-versiones/11-vivir-con-plenitud-las-crisis.png"
+  },
+  {
+    "id": "volver-al-amor",
+    "titulo": "Volver al amor",
+    "autor": "Marianne Williamson",
+    "archivo": "docs/assets/portadas-ultimas-94/volver-al-amor-4d4e402a5961.png",
+    "sha256": "4d4e402a59618f5ad1c78064899c23266818f76d9eabf664ab661b6f347054c2",
+    "origenZip": "CURVA-ultimas-versiones/12-volver-al-amor.png"
+  },
+  {
+    "id": "wabi-sabi",
+    "titulo": "Wabi Sabi",
+    "autor": "Beth Kempton",
+    "archivo": "docs/assets/portadas-ultimas-94/wabi-sabi-892f58fec2ac.png",
+    "sha256": "892f58fec2ac8cf3f8e3c9d4c9293bb510da6751b232f457022633bffe6db612",
+    "origenZip": "CURVA-ultimas-versiones/13-wabi-sabi.png"
+  },
+  {
+    "id": "will-smith",
+    "titulo": "Will",
+    "autor": "Will Smith y Mark Manson",
+    "archivo": "docs/assets/portadas-ultimas-94/will-smith-6bdc9c625ae3.png",
+    "sha256": "6bdc9c625ae34b1dd2d302f76b8834d8ad2e627cf9a8e4454950d960a9ddf291",
+    "origenZip": "CURVA-ultimas-versiones/14-will.png"
+  },
+  {
+    "id": "yo-soy-el-diego",
+    "titulo": "Yo soy el Diego",
+    "autor": "Diego Armando Maradona",
+    "archivo": "docs/assets/portadas-ultimas-94/yo-soy-el-diego-70c63fded018.png",
+    "sha256": "70c63fded018bbf40161b533805f647bc1839c24379d4806b60b10127bd2b14b",
+    "origenZip": "CURVA-ultimas-versiones/15-yo-soy-el-diego.png"
+  },
+  {
+    "id": "soy-zlatan",
+    "titulo": "Yo soy Zlatan Ibrahimović",
+    "autor": "David Lagercrantz",
+    "archivo": "docs/assets/portadas-ultimas-94/soy-zlatan-397b4cb69035.png",
+    "sha256": "397b4cb6903581114e229e2fd0af6fe0de670ae5486d6c7c793c83f891593348",
+    "origenZip": "CURVA-ultimas-versiones/16-yo-soy-zlatan-ibrahimovic.png"
+  },
+  {
+    "id": "tiger-woods",
+    "titulo": "Tiger Woods",
+    "autor": "Jeff Benedict y Armen Keteyian",
+    "archivo": "docs/assets/portadas-ultimas-94/tiger-woods-d42ad38d342d.png",
+    "sha256": "d42ad38d342de7ae43c9399b60e824d054b5d1b6c07d3eeedb4a6b633e17a392",
+    "origenZip": "CURVA-ultimas-versiones/17-tiger-woods.png"
+  },
+  {
+    "id": "traguese-sapo",
+    "titulo": "Tráguese ese sapo",
+    "autor": "Brian Tracy",
+    "archivo": "docs/assets/portadas-ultimas-94/traguese-sapo-5a1076a2656c.png",
+    "sha256": "5a1076a2656c5427d683843bae40d5015a8c900d28d94ff08b3c33b0daadff0b",
+    "origenZip": "CURVA-ultimas-versiones/18-traguese-ese-sapo.png"
+  },
+  {
+    "id": "tu-cerebro-y-la-musica",
+    "titulo": "Tu cerebro y la música",
+    "autor": "Daniel J. Levitin",
+    "archivo": "docs/assets/portadas-ultimas-94/tu-cerebro-y-la-musica-c8b03d0c2097.png",
+    "sha256": "c8b03d0c2097df52bb8f08e76de195c515f8c59904577d3b2eab38a95b7c495a",
+    "origenZip": "CURVA-ultimas-versiones/19-tu-cerebro-y-la-musica.png"
+  },
+  {
+    "id": "tu-dinero-y-tu-cerebro",
+    "titulo": "Tu dinero y tu cerebro",
+    "autor": "Jason Zweig",
+    "archivo": "docs/assets/portadas-ultimas-94/tu-dinero-y-tu-cerebro-7454dee0339f.png",
+    "sha256": "7454dee0339f2fb556f3150e70468171deb687e59cd12aa2b378ef5f4fa0bf27",
+    "origenZip": "CURVA-ultimas-versiones/20-tu-dinero-y-tu-cerebro.png"
+  },
+  {
+    "id": "mente-en-forma",
+    "titulo": "Tu mente en forma",
+    "autor": "Wendy Suzuki",
+    "archivo": "docs/assets/portadas-ultimas-94/mente-en-forma-dc09bf7fdf19.png",
+    "sha256": "dc09bf7fdf19ae3117d1c0d97242e163b727df2fa54b4edd6d21079c0d147eb0",
+    "origenZip": "CURVA-ultimas-versiones/21-tu-mente-en-forma.png"
+  },
+  {
+    "id": "tus-zonas-erroneas",
+    "titulo": "Tus zonas erróneas",
+    "autor": "Wayne Dyer",
+    "archivo": "docs/assets/portadas-ultimas-94/tus-zonas-erroneas-8b3ebf51b1b2.png",
+    "sha256": "8b3ebf51b1b2c8b1ae00d49e950e5a8870b47ceea825c598c30981a5f2a1e738",
+    "origenZip": "CURVA-ultimas-versiones/22-tus-zonas-erroneas.png"
+  },
+  {
+    "id": "mundo-feliz",
+    "titulo": "Un mundo feliz",
+    "autor": "Aldous Huxley",
+    "archivo": "docs/assets/portadas-ultimas-94/mundo-feliz-310dd690765e.png",
+    "sha256": "310dd690765e43c3c3d7ba835c2a974a2fcf0d2ba5c2a6e0d36384004479145b",
+    "origenZip": "CURVA-ultimas-versiones/23-un-mundo-feliz.png"
+  },
+  {
+    "id": "nuevo-mundo-ahora",
+    "titulo": "Un nuevo mundo, ahora",
+    "autor": "Eckhart Tolle",
+    "archivo": "docs/assets/portadas-ultimas-94/nuevo-mundo-ahora-3a5ce972c257.png",
+    "sha256": "3a5ce972c2570c99829bdb35b260cf9c322429f36a048f33e2be4c6bcde8486f",
+    "origenZip": "CURVA-ultimas-versiones/24-un-nuevo-mundo-ahora.png"
+  },
+  {
+    "id": "nudge",
+    "titulo": "Un pequeño empujón",
+    "autor": "Thaler y Sunstein",
+    "archivo": "docs/assets/portadas-ultimas-94/nudge-d9765e6813c6.png",
+    "sha256": "d9765e6813c625993a076b6a1d5a9ba68c90b462f40d7b8cd555276106d5416e",
+    "origenZip": "CURVA-ultimas-versiones/25-un-pequeno-empujon.png"
+  },
+  {
+    "id": "punto-azul-palido",
+    "titulo": "Un punto azul pálido",
+    "autor": "Carl Sagan",
+    "archivo": "docs/assets/portadas-ultimas-94/punto-azul-palido-b4e5d9499a23.png",
+    "sha256": "b4e5d9499a2360488937f289c283c7666d6ed077e3dfa761e0505ac9a0f425f4",
+    "origenZip": "CURVA-ultimas-versiones/26-un-punto-azul-palido.png"
+  },
+  {
+    "id": "casi-todo",
+    "titulo": "Una breve historia de casi todo",
+    "autor": "Bill Bryson",
+    "archivo": "docs/assets/portadas-ultimas-94/casi-todo-46d131de7010.png",
+    "sha256": "46d131de7010643968cfc7969c3064c35ff684c090939eb37218101afb3bf3c6",
+    "origenZip": "CURVA-ultimas-versiones/27-una-breve-historia-de-casi-todo.png"
+  },
+  {
+    "id": "senna-contra-prost",
+    "titulo": "Senna contra Prost",
+    "autor": "Malcolm Folley",
+    "archivo": "docs/assets/portadas-ultimas-94/senna-contra-prost-dff993b2d1bc.png",
+    "sha256": "dff993b2d1bca1a4a2bf1f168c12908694fc1191b5d6e34899ee792954fc5f26",
+    "origenZip": "CURVA-ultimas-versiones/28-senna-contra-prost.png"
+  },
+  {
+    "id": "ser-mortal",
+    "titulo": "Ser mortal",
+    "autor": "Atul Gawande",
+    "archivo": "docs/assets/portadas-ultimas-94/ser-mortal-cdddcdb049ea.png",
+    "sha256": "cdddcdb049eae93214dfcc29417474ae7301871b564fa678437f8417464dd7d2",
+    "origenZip": "CURVA-ultimas-versiones/29-ser-mortal.png"
+  },
+  {
+    "id": "gottman-pareja",
+    "titulo": "Siete reglas de oro para vivir en pareja",
+    "autor": "John Gottman",
+    "archivo": "docs/assets/portadas-ultimas-94/gottman-pareja-f9d34a25a0cf.png",
+    "sha256": "f9d34a25a0cfb839b53ff3e034c2c6ebb2be18e657b454b0245149ef27e0c49e",
+    "origenZip": "CURVA-ultimas-versiones/30-siete-reglas-de-oro-para-vivir-en-pareja.png"
+  },
+  {
+    "id": "sin-conciencia",
+    "titulo": "Sin conciencia",
+    "autor": "Robert D. Hare",
+    "archivo": "docs/assets/portadas-ultimas-94/sin-conciencia-e8235a36c823.png",
+    "sha256": "e8235a36c823bfecb78e3d8ffdf2cb73978e2423e811dfd9fc3b37cd3ce2aa80",
+    "origenZip": "CURVA-ultimas-versiones/31-sin-conciencia.png"
+  },
+  {
+    "id": "sin-esfuerzo",
+    "titulo": "Sin esfuerzo",
+    "autor": "Greg McKeown",
+    "archivo": "docs/assets/portadas-ultimas-94/sin-esfuerzo-b629d7ba33db.png",
+    "sha256": "b629d7ba33db0b45c77f53a097516907f5e9fd02165c2e9c07f13d45ccfcdf03",
+    "origenZip": "CURVA-ultimas-versiones/32-sin-esfuerzo.png"
+  },
+  {
+    "id": "brevedad-vida",
+    "titulo": "Sobre la brevedad de la vida",
+    "autor": "Séneca",
+    "archivo": "docs/assets/portadas-ultimas-94/brevedad-vida-c368aa45dee2.png",
+    "sha256": "c368aa45dee216c33b6aa30f2a18625e9b6c52a66c56093ffd32f23ae3148671",
+    "origenZip": "CURVA-ultimas-versiones/33-sobre-la-brevedad-de-la-vida.png"
+  },
+  {
+    "id": "sobre-tirania",
+    "titulo": "Sobre la tiranía",
+    "autor": "Timothy Snyder",
+    "archivo": "docs/assets/portadas-ultimas-94/sobre-tirania-42c4ca236f3a.png",
+    "sha256": "42c4ca236f3a2f7ff561f67facf72fc29a3d6b9e4532c199842031d96dedd5ee",
+    "origenZip": "CURVA-ultimas-versiones/34-sobre-la-tirania.png"
+  },
+  {
+    "id": "spqr",
+    "titulo": "SPQR",
+    "autor": "Mary Beard",
+    "archivo": "docs/assets/portadas-ultimas-94/spqr-ddf1f6ce3d47.png",
+    "sha256": "ddf1f6ce3d47eae6f50f0684baa3d91a0dabb66db2347d5c12e5279154fab05a",
+    "origenZip": "CURVA-ultimas-versiones/35-spqr.png"
+  },
+  {
+    "id": "steve-jobs",
+    "titulo": "Steve Jobs",
+    "autor": "Walter Isaacson",
+    "archivo": "docs/assets/portadas-ultimas-94/steve-jobs-edb6a9f485c6.png",
+    "sha256": "edb6a9f485c65b72863a15b804482e937acebd4fdd562df386890717ceaba7b7",
+    "origenZip": "CURVA-ultimas-versiones/36-steve-jobs.png"
+  },
+  {
+    "id": "tal-como-eres",
+    "titulo": "Tal como eres",
+    "autor": "Emily Nagoski",
+    "archivo": "docs/assets/portadas-ultimas-94/tal-como-eres-522a6bd07642.png",
+    "sha256": "522a6bd07642d33d2ad05b8977f550651910136bcc4f02bcf53da5db3c495902",
+    "origenZip": "CURVA-ultimas-versiones/37-tal-como-eres.png"
+  },
+  {
+    "id": "tao",
+    "titulo": "Tao Te Ching",
+    "autor": "Lao Tsé",
+    "archivo": "docs/assets/portadas-ultimas-94/tao-726f448f3b25.png",
+    "sha256": "726f448f3b256ea28dcb8bb983fa9a476fc541741c478f66de66caf4789f02de",
+    "origenZip": "CURVA-ultimas-versiones/38-tao-te-ching.png"
+  },
+  {
+    "id": "gente-exitosa-desayuno",
+    "titulo": "Qué hace la gente exitosa antes del desayuno",
+    "autor": "Laura Vanderkam",
+    "archivo": "docs/assets/portadas-ultimas-94/gente-exitosa-desayuno-8c49e0cae5f0.png",
+    "sha256": "8c49e0cae5f0d4652fe26fac3702f5efa4465d273ceee896795762851ef82482",
+    "origenZip": "CURVA-ultimas-versiones/39-que-hace-la-gente-exitosa-antes-del-desayuno.png"
+  },
+  {
+    "id": "quien-queso",
+    "titulo": "¿Quién se ha llevado mi queso?",
+    "autor": "Spencer Johnson",
+    "archivo": "docs/assets/portadas-ultimas-94/quien-queso-0c426d1558b4.png",
+    "sha256": "0c426d1558b441b1ddb94bd1435e26c427db7d3cacd7a71657716f423319abe4",
+    "origenZip": "CURVA-ultimas-versiones/40-quien-se-ha-llevado-mi-queso.png"
+  },
+  {
+    "id": "rafa-mi-historia",
+    "titulo": "Rafa, mi historia",
+    "autor": "Rafael Nadal y John Carlin",
+    "archivo": "docs/assets/portadas-ultimas-94/rafa-mi-historia-e58244993db6.png",
+    "sha256": "e58244993db600ce7a552cbb579fa5ceb7692f0582bd0fd03774a7f4615564c7",
+    "origenZip": "CURVA-ultimas-versiones/41-rafa-mi-historia.png"
+  },
+  {
+    "id": "razones-para-seguir-viviendo",
+    "titulo": "Razones para seguir viviendo",
+    "autor": "Matt Haig",
+    "archivo": "docs/assets/portadas-ultimas-94/razones-para-seguir-viviendo-06e96833ab55.png",
+    "sha256": "06e96833ab5561f5fbae4d047d3f4ce1abade15a52e2ff23d2045cfcd0e83626",
+    "origenZip": "CURVA-ultimas-versiones/42-razones-para-seguir-viviendo.png"
+  },
+  {
+    "id": "respira",
+    "titulo": "Respira",
+    "autor": "James Nestor",
+    "archivo": "docs/assets/portadas-ultimas-94/respira-6b5c3ea80d8a.png",
+    "sha256": "6b5c3ea80d8acd33bd3c4af2e3bf55dc46cdb7f51388c59b23e4cca1b688b0c5",
+    "origenZip": "CURVA-ultimas-versiones/43-respira.png"
+  },
+  {
+    "id": "retirate-joven-rico",
+    "titulo": "Retírate joven y rico",
+    "autor": "Robert Kiyosaki",
+    "archivo": "docs/assets/portadas-ultimas-94/retirate-joven-rico-651df65eaa21.png",
+    "sha256": "651df65eaa21589b76e92cb99b8b658308b425b903480a0cfb1090f83e620538",
+    "origenZip": "CURVA-ultimas-versiones/44-retirate-joven-y-rico.png"
+  },
+  {
+    "id": "rework",
+    "titulo": "Rework",
+    "autor": "Jason Fried y David Heinemeier Hansson",
+    "archivo": "docs/assets/portadas-ultimas-94/rework-0c1b625e7c90.png",
+    "sha256": "0c1b625e7c90e7cfd87e6ce6284ac8f74804a9475745ebc1fa5a71892c4c2bae",
+    "origenZip": "CURVA-ultimas-versiones/45-rework.png"
+  },
+  {
+    "id": "rey-del-mundo",
+    "titulo": "Rey del mundo",
+    "autor": "David Remnick",
+    "archivo": "docs/assets/portadas-ultimas-94/rey-del-mundo-1b23cd0f0dff.png",
+    "sha256": "1b23cd0f0dff0eb610fc1e1e4c5cbc5fcdcfa61ac14a13adbc6e33be970cf1eb",
+    "origenZip": "CURVA-ultimas-versiones/46-rey-del-mundo.png"
+  },
+  {
+    "id": "rodeado-de-idiotas",
+    "titulo": "Rodeado de idiotas",
+    "autor": "Thomas Erikson",
+    "archivo": "docs/assets/portadas-ultimas-94/rodeado-de-idiotas-8661a90c2bb0.png",
+    "sha256": "8661a90c2bb0cf24aa2e32922b717b3b377c9add1f9649b0999564950c499e1c",
+    "origenZip": "CURVA-ultimas-versiones/47-rodeado-de-idiotas.png"
+  },
+  {
+    "id": "rompe-barrera-no",
+    "titulo": "Rompe la barrera del no",
+    "autor": "Chris Voss",
+    "archivo": "docs/assets/portadas-ultimas-94/rompe-barrera-no-932becad7b7f.png",
+    "sha256": "932becad7b7fb7ec06fa8c68d5cf6ba3c1cdeccb0af3f90eafedcae95423ccf3",
+    "origenZip": "CURVA-ultimas-versiones/48-rompe-la-barrera-del-no.png"
+  },
+  {
+    "id": "sanate",
+    "titulo": "Sánate",
+    "autor": "Nicole LePera",
+    "archivo": "docs/assets/portadas-ultimas-94/sanate-573d0f8bb06d.png",
+    "sha256": "573d0f8bb06da5170ed6425c34551e1b189b3c73cee004dbe3c4e9a09b8d4f9f",
+    "origenZip": "CURVA-ultimas-versiones/49-sanate.png"
+  },
+  {
+    "id": "sapiens",
+    "titulo": "Sapiens",
+    "autor": "Yuval Noah Harari",
+    "archivo": "docs/assets/portadas-ultimas-94/sapiens-f4dcdef4189c.png",
+    "sha256": "f4dcdef4189ce219ba6faa474f3c0d9ded8612f9e62c2a45cbff753bb247f903",
+    "origenZip": "CURVA-ultimas-versiones/50-sapiens.png"
+  },
+  {
+    "id": "por-que-amamos",
+    "titulo": "Por qué amamos",
+    "autor": "Helen Fisher",
+    "archivo": "docs/assets/portadas-ultimas-94/por-que-amamos-d06fce9a14b8.png",
+    "sha256": "d06fce9a14b879e4e90c3f1f4a4e55865196366e5a478b69d4750baff5e91e8c",
+    "origenZip": "CURVA-ultimas-versiones/51-por-que-amamos.png"
+  },
+  {
+    "id": "por-que-dormimos",
+    "titulo": "Por qué dormimos",
+    "autor": "Matthew Walker",
+    "archivo": "docs/assets/portadas-ultimas-94/por-que-dormimos-2512926b204e.png",
+    "sha256": "2512926b204e5edf5f10ff40a4cd8d0f5a775fbe7e6c84c1718bed0e7b0a5830",
+    "origenZip": "CURVA-ultimas-versiones/52-por-que-dormimos.png"
+  },
+  {
+    "id": "por-que-engordamos",
+    "titulo": "Por qué engordamos",
+    "autor": "Gary Taubes",
+    "archivo": "docs/assets/portadas-ultimas-94/por-que-engordamos-6b59710a561a.png",
+    "sha256": "6b59710a561a15133eabee2c9c354f8dbacf25cf2689651c17c9f139171278eb",
+    "origenZip": "CURVA-ultimas-versiones/53-por-que-engordamos.png"
+  },
+  {
+    "id": "por-que-fracasan",
+    "titulo": "Por qué fracasan los países",
+    "autor": "Acemoglu y Robinson",
+    "archivo": "docs/assets/portadas-ultimas-94/por-que-fracasan-c3914ffd2416.png",
+    "sha256": "c3914ffd241698d6279cd5ae7939a708841e37dcfce97cad63047be74be95c17",
+    "origenZip": "CURVA-ultimas-versiones/54-por-que-fracasan-los-paises.png"
+  },
+  {
+    "id": "hombres-no-escuchan",
+    "titulo": "Por qué los hombres no escuchan y las mujeres no saben leer los mapas",
+    "autor": "Allan y Barbara Pease",
+    "archivo": "docs/assets/portadas-ultimas-94/hombres-no-escuchan-8b3ddf0a5198.png",
+    "sha256": "8b3ddf0a5198908eb9ef685ee3c487f3552a090bddd771e4230034e8c688f24d",
+    "origenZip": "CURVA-ultimas-versiones/55-por-que-los-hombres-no-escuchan-y-las-mujeres-no-saben-leer-los-mapas.png"
+  },
+  {
+    "id": "pre-suasion",
+    "titulo": "Pre-suasión",
+    "autor": "Robert Cialdini",
+    "archivo": "docs/assets/portadas-ultimas-94/pre-suasion-b2dac52571a3.png",
+    "sha256": "b2dac52571a3964a9f8b9c0822d62ae1dc28eb9c916e7f27e5eef5dcc1c6cf71",
+    "origenZip": "CURVA-ultimas-versiones/56-pre-suasion.png"
+  },
+  {
+    "id": "primavera-silenciosa",
+    "titulo": "Primavera silenciosa",
+    "autor": "Rachel Carson",
+    "archivo": "docs/assets/portadas-ultimas-94/primavera-silenciosa-b208351bc822.png",
+    "sha256": "b208351bc822d29c7ae64d5d5321c3a30e049352549b889d4ef1bc17841d1b75",
+    "origenZip": "CURVA-ultimas-versiones/57-primavera-silenciosa.png"
+  },
+  {
+    "id": "principios-orden-mundial",
+    "titulo": "Principios para enfrentarse al nuevo orden mundial",
+    "autor": "Ray Dalio",
+    "archivo": "docs/assets/portadas-ultimas-94/principios-orden-mundial-53cb75ce57f4.png",
+    "sha256": "53cb75ce57f4490287fef665f841dab895bb110ee668cc3941c82e5b9547fe10",
+    "origenZip": "CURVA-ultimas-versiones/58-principios-para-enfrentarse-al-nuevo-orden-mundial.png"
+  },
+  {
+    "id": "procrastinacion-steel",
+    "titulo": "Procrastinación",
+    "autor": "Piers Steel",
+    "archivo": "docs/assets/portadas-ultimas-94/procrastinacion-steel-1428339d29bf.png",
+    "sha256": "1428339d29bf29b54dbe8ee288ae8a8f1b34ac59ea60f43531265c0f41aa22fd",
+    "origenZip": "CURVA-ultimas-versiones/59-procrastinacion.png"
+  },
+  {
+    "id": "productividad-lenta",
+    "titulo": "Productividad lenta",
+    "autor": "Cal Newport",
+    "archivo": "docs/assets/portadas-ultimas-94/productividad-lenta-5a098c101009.png",
+    "sha256": "5a098c101009e69ec4417e1ab62b8407cbf85e63d834506e5319b27dae6a9607",
+    "origenZip": "CURVA-ultimas-versiones/60-productividad-lenta.png"
+  },
+  {
+    "id": "once-anillos",
+    "titulo": "Once anillos",
+    "autor": "Phil Jackson",
+    "archivo": "docs/assets/portadas-ultimas-94/once-anillos-4df8ae426424.png",
+    "sha256": "4df8ae4264248d56b7df5c337b8a4fdd9c30f40dee1878e2a5d90f622c3e9d7f",
+    "origenZip": "CURVA-ultimas-versiones/61-once-anillos.png"
+  },
+  {
+    "id": "open-agassi",
+    "titulo": "Open",
+    "autor": "Andre Agassi",
+    "archivo": "docs/assets/portadas-ultimas-94/open-agassi-55c27be2b85f.png",
+    "sha256": "55c27be2b85f7b8f9f7ed1bd75973e283f99d22276ac80a63a03053b5543b394",
+    "origenZip": "CURVA-ultimas-versiones/62-open.png"
+  },
+  {
+    "id": "orgullo-prejuicio",
+    "titulo": "Orgullo y prejuicio",
+    "autor": "Jane Austen",
+    "archivo": "docs/assets/portadas-ultimas-94/orgullo-prejuicio-7f8f94f928b5.png",
+    "sha256": "7f8f94f928b558817d0387bb45106e3306112e48eede47af0a6d95dc2a3dc81e",
+    "origenZip": "CURVA-ultimas-versiones/63-orgullo-y-prejuicio.png"
+  },
+  {
+    "id": "originales",
+    "titulo": "Originales",
+    "autor": "Adam Grant",
+    "archivo": "docs/assets/portadas-ultimas-94/originales-942f6e37596a.png",
+    "sha256": "942f6e37596a87f165252eeb5fc21b220c7e8d48a7468e24b97a13023d1308cb",
+    "origenZip": "CURVA-ultimas-versiones/64-originales.png"
+  },
+  {
+    "id": "otras-mentes",
+    "titulo": "Otras mentes",
+    "autor": "Peter Godfrey-Smith",
+    "archivo": "docs/assets/portadas-ultimas-94/otras-mentes-11e56e652b59.png",
+    "sha256": "11e56e652b59768dcd7b622f7bc99736afcce2a17f5156d1e0160e549a1a6399",
+    "origenZip": "CURVA-ultimas-versiones/65-otras-mentes.png"
+  },
+  {
+    "id": "outlive",
+    "titulo": "Outlive: el arte de vivir más y mejor",
+    "autor": "Peter Attia",
+    "archivo": "docs/assets/portadas-ultimas-94/outlive-4c0f81a5835c.png",
+    "sha256": "4c0f81a5835cea306c197565f1885fe17ccdce9df146f030897bf44459fd2834",
+    "origenZip": "CURVA-ultimas-versiones/66-outlive.png"
+  },
+  {
+    "id": "padre-rico",
+    "titulo": "Padre rico, padre pobre",
+    "autor": "Robert Kiyosaki",
+    "archivo": "docs/assets/portadas-ultimas-94/padre-rico-203d89f34abe.png",
+    "sha256": "203d89f34abed0bfe8130b9e0a31ad3b4eb1a4159729fcdaba6a78ea766cec4f",
+    "origenZip": "CURVA-ultimas-versiones/67-padre-rico-padre-pobre.png"
+  },
+  {
+    "id": "pensar-como-leonardo",
+    "titulo": "Pensar como Leonardo da Vinci",
+    "autor": "Michael J. Gelb",
+    "archivo": "docs/assets/portadas-ultimas-94/pensar-como-leonardo-6f1cf6f0074b.png",
+    "sha256": "6f1cf6f0074b52e18444082a68c27d35dc6d613d1828dfe234a4613685f59bce",
+    "origenZip": "CURVA-ultimas-versiones/68-pensar-como-leonardo-da-vinci.png"
+  },
+  {
+    "id": "pensar-rapido",
+    "titulo": "Pensar rápido, pensar despacio",
+    "autor": "Daniel Kahneman",
+    "archivo": "docs/assets/portadas-ultimas-94/pensar-rapido-73cddc895243.png",
+    "sha256": "73cddc895243dd84ff266ea58a387b1a4365e33b814bf1d887a06c0d0ffd07a8",
+    "origenZip": "CURVA-ultimas-versiones/69-pensar-rapido-pensar-despacio.png"
+  },
+  {
+    "id": "cientifico-espacial",
+    "titulo": "Piensa como un científico espacial",
+    "autor": "Ozan Varol",
+    "archivo": "docs/assets/portadas-ultimas-94/cientifico-espacial-0dee437ed236.png",
+    "sha256": "0dee437ed236c615c1a86ad960227dd0afe59cdc51ab7e1051c74c95a8e0d602",
+    "origenZip": "CURVA-ultimas-versiones/70-piensa-como-un-cientifico-espacial.png"
+  },
+  {
+    "id": "piensa-hazte-rico",
+    "titulo": "Piensa y hazte rico",
+    "autor": "Napoleon Hill",
+    "archivo": "docs/assets/portadas-ultimas-94/piensa-hazte-rico-83915224894f.png",
+    "sha256": "83915224894f2738851f98801bd9fdee8ead569a1d636c0c44f2399075aa1aa4",
+    "origenZip": "CURVA-ultimas-versiones/71-piensa-y-hazte-rico.png"
+  },
+  {
+    "id": "piensalo-otra-vez",
+    "titulo": "Piénsalo otra vez",
+    "autor": "Adam Grant",
+    "archivo": "docs/assets/portadas-ultimas-94/piensalo-otra-vez-e7a7d75687cb.png",
+    "sha256": "e7a7d75687cbd5cee518d17a1cf7bd8cbc4fa51f4da0d37c96b579dce70ef223",
+    "origenZip": "CURVA-ultimas-versiones/72-piensalo-otra-vez.png"
+  },
+  {
+    "id": "moneyball",
+    "titulo": "Moneyball",
+    "autor": "Michael Lewis",
+    "archivo": "docs/assets/portadas-ultimas-94/moneyball-af775c99f445.png",
+    "sha256": "af775c99f445e6ed359f7ca1b426ac5df56a0de687300ff3c5e65d5328f6fb86",
+    "origenZip": "CURVA-ultimas-versiones/73-moneyball.png"
+  },
+  {
+    "id": "morir-con-cero",
+    "titulo": "Morir con cero",
+    "autor": "Bill Perkins",
+    "archivo": "docs/assets/portadas-ultimas-94/morir-con-cero-ad54cf9ef1d8.png",
+    "sha256": "ad54cf9ef1d8352d69a1b8ee351b2b6b70943fd92625a7886f7c68e144bec045",
+    "origenZip": "CURVA-ultimas-versiones/74-morir-con-cero.png"
+  },
+  {
+    "id": "mujeres-aman-demasiado",
+    "titulo": "Mujeres que aman demasiado",
+    "autor": "Robin Norwood",
+    "archivo": "docs/assets/portadas-ultimas-94/mujeres-aman-demasiado-7bc0e76008d4.png",
+    "sha256": "7bc0e76008d414a2436d068e77ede4e18c89560d1a945cb46fc36543e9deb7f0",
+    "origenZip": "CURVA-ultimas-versiones/75-mujeres-que-aman-demasiado.png"
+  },
+  {
+    "id": "mujeres-lobos",
+    "titulo": "Mujeres que corren con los lobos",
+    "autor": "Clarissa Pinkola Estés",
+    "archivo": "docs/assets/portadas-ultimas-94/mujeres-lobos-28b70f734ea8.png",
+    "sha256": "28b70f734ea849e771f4f02316a40d7c2924b4ab6ab77dfc939bd072c6e42a04",
+    "origenZip": "CURVA-ultimas-versiones/76-mujeres-que-corren-con-los-lobos.png"
+  },
+  {
+    "id": "nacidos-correr",
+    "titulo": "Nacidos para correr",
+    "autor": "Christopher McDougall",
+    "archivo": "docs/assets/portadas-ultimas-94/nacidos-correr-e7d276ba6c90.png",
+    "sha256": "e7d276ba6c90cc76d2aac2fc93f0947004e5f9d256c8299bb11b4433fff79ddc",
+    "origenZip": "CURVA-ultimas-versiones/77-nacidos-para-correr.png"
+  },
+  {
+    "id": "napoleon-roberts",
+    "titulo": "Napoleón: una vida",
+    "autor": "Andrew Roberts",
+    "archivo": "docs/assets/portadas-ultimas-94/napoleon-roberts-8af0a9ee5e50.png",
+    "sha256": "8af0a9ee5e5083e243c02d9a970774c1cf81df520cc874c1e27d38b436e88d49",
+    "origenZip": "CURVA-ultimas-versiones/78-napoleon.png"
+  },
+  {
+    "id": "nexus",
+    "titulo": "Nexus",
+    "autor": "Yuval Noah Harari",
+    "archivo": "docs/assets/portadas-ultimas-94/nexus-28d3a2d22954.png",
+    "sha256": "28d3a2d22954bc11f66972b06333d548905cafcc36be345efa4d8b9010cb46ea",
+    "origenZip": "CURVA-ultimas-versiones/79-nexus.png"
+  },
+  {
+    "id": "no-te-ahogues-vaso-agua",
+    "titulo": "No te ahogues en un vaso de agua",
+    "autor": "Richard Carlson",
+    "archivo": "docs/assets/portadas-ultimas-94/no-te-ahogues-vaso-agua-487e1421f6d9.png",
+    "sha256": "487e1421f6d9f441d7212625f54552f27979cbf51917e7221a02807006f39778",
+    "origenZip": "CURVA-ultimas-versiones/80-no-te-ahogues-en-un-vaso-de-agua.png"
+  },
+  {
+    "id": "numero-uno",
+    "titulo": "Número uno",
+    "autor": "Anders Ericsson",
+    "archivo": "docs/assets/portadas-ultimas-94/numero-uno-3b34593ddede.png",
+    "sha256": "3b34593ddede575cd57bec2073d4f25d71ff91196c9d6d7dad8d2b4a636f2c27",
+    "origenZip": "CURVA-ultimas-versiones/81-numero-uno.png"
+  },
+  {
+    "id": "nunca-te-pares",
+    "titulo": "Nunca te pares",
+    "autor": "Phil Knight",
+    "archivo": "docs/assets/portadas-ultimas-94/nunca-te-pares-97d1b8ff6ee3.png",
+    "sha256": "97d1b8ff6ee3fe7ff6f20fca783f10ac92369326e63858a2acf8a07da5a52907",
+    "origenZip": "CURVA-ultimas-versiones/82-nunca-te-pares.png"
+  },
+  {
+    "id": "obediencia-autoridad",
+    "titulo": "Obediencia a la autoridad",
+    "autor": "Stanley Milgram",
+    "archivo": "docs/assets/portadas-ultimas-94/obediencia-autoridad-5d92209e5762.png",
+    "sha256": "5d92209e5762277b89af88a84c323d88bc3b1884e6b41a3d47e2d1ccda8611be",
+    "origenZip": "CURVA-ultimas-versiones/83-obediencia-a-la-autoridad.png"
+  },
+  {
+    "id": "obtenga-el-si",
+    "titulo": "Obtenga el sí",
+    "autor": "Fisher y Ury",
+    "archivo": "docs/assets/portadas-ultimas-94/obtenga-el-si-7a5ca89e7f95.png",
+    "sha256": "7a5ca89e7f95041580ff9e623cea2e8fa40cab21685db9cee2e57f3194b8d8c0",
+    "origenZip": "CURVA-ultimas-versiones/84-obtenga-el-si.png"
+  },
+  {
+    "id": "milagro-manana",
+    "titulo": "Mañanas milagrosas",
+    "autor": "Hal Elrod",
+    "archivo": "docs/assets/portadas-ultimas-94/milagro-manana-49d7b38107fa.png",
+    "sha256": "49d7b38107faffa4d637eb06477b9243f3e6b83c00658e27a29f4abfdd9205a7",
+    "origenZip": "CURVA-ultimas-versiones/85-mananas-milagrosas.png"
+  },
+  {
+    "id": "maneras-de-amar",
+    "titulo": "Maneras de amar",
+    "autor": "Levine y Heller",
+    "archivo": "docs/assets/portadas-ultimas-94/maneras-de-amar-bd1dc2c1f82c.png",
+    "sha256": "bd1dc2c1f82c1474a6d45552b80d4c1176d937b8ec1fc3ae1a3ff3f610510c3c",
+    "origenZip": "CURVA-ultimas-versiones/86-maneras-de-amar.png"
+  },
+  {
+    "id": "mas-alla-bien-mal",
+    "titulo": "Más allá del bien y del mal",
+    "autor": "Friedrich Nietzsche",
+    "archivo": "docs/assets/portadas-ultimas-94/mas-alla-bien-mal-357f59c16ee7.png",
+    "sha256": "357f59c16ee7e7cf296b7ea2ce7eed52f79da0c425e4464603c26905f74a79b4",
+    "origenZip": "CURVA-ultimas-versiones/87-mas-alla-del-bien-y-del-mal.png"
+  },
+  {
+    "id": "mas-joven-cada-ano",
+    "titulo": "Más joven cada año",
+    "autor": "Chris Crowley y Henry S. Lodge",
+    "archivo": "docs/assets/portadas-ultimas-94/mas-joven-cada-ano-63b761377a2c.png",
+    "sha256": "63b761377a2c5d708723338bec03b4f73699f6ed017e13fb8e8301095a041a45",
+    "origenZip": "CURVA-ultimas-versiones/88-mas-joven-cada-ano.png"
+  },
+  {
+    "id": "meditaciones",
+    "titulo": "Meditaciones",
+    "autor": "Marco Aurelio",
+    "archivo": "docs/assets/portadas-ultimas-94/meditaciones-c06e4a55d936.png",
+    "sha256": "c06e4a55d9364e0e08de12802fcd906d5ec2780f5970977a7227ff1bf818541d",
+    "origenZip": "CURVA-ultimas-versiones/89-meditaciones.png"
+  },
+  {
+    "id": "dieta-cojea",
+    "titulo": "Mi dieta cojea",
+    "autor": "Aitor Sánchez García",
+    "archivo": "docs/assets/portadas-ultimas-94/dieta-cojea-eb77c9d16cce.png",
+    "sha256": "eb77c9d16cce092ce17739df312a64982ee15284363f0c4de0fa3eacd84162cb",
+    "origenZip": "CURVA-ultimas-versiones/90-mi-dieta-cojea.png"
+  },
+  {
+    "id": "becoming",
+    "titulo": "Mi historia",
+    "autor": "Michelle Obama",
+    "archivo": "docs/assets/portadas-ultimas-94/becoming-d44088e7b4b8.png",
+    "sha256": "d44088e7b4b83ff833533d9889b7667acd29a9a302ab34ea584ddf09b16ca908",
+    "origenZip": "CURVA-ultimas-versiones/91-mi-historia.png"
+  },
+  {
+    "id": "mindset",
+    "titulo": "Mindset",
+    "autor": "Carol Dweck",
+    "archivo": "docs/assets/portadas-ultimas-94/mindset-07aa0d8bd766.png",
+    "sha256": "07aa0d8bd766407fc94b6bbc85dfd3f9b95071f91951e8815e4f34c57adeaeaa",
+    "origenZip": "CURVA-ultimas-versiones/92-mindset.png"
+  },
+  {
+    "id": "moby-dick",
+    "titulo": "Moby Dick",
+    "autor": "Herman Melville",
+    "archivo": "docs/assets/portadas-ultimas-94/moby-dick-3799d857973c.png",
+    "sha256": "3799d857973c7be0d35b6e2dd03afe4c0a7955ad9c6dce3314b6a10c7931f3e6",
+    "origenZip": "CURVA-ultimas-versiones/93-moby-dick.png"
+  },
+  {
+    "id": "momentos-estelares",
+    "titulo": "Momentos estelares de la humanidad",
+    "autor": "Stefan Zweig",
+    "archivo": "docs/assets/portadas-ultimas-94/momentos-estelares-471035c90f2c.png",
+    "sha256": "471035c90f2c265a78339ef08ea33ca0295c837f9c963c9e3cdf8d3d1a382e03",
+    "origenZip": "CURVA-ultimas-versiones/94-momentos-estelares-de-la-humanidad.png"
+  }
+]
