@@ -1,0 +1,252 @@
+[
+  {
+    "id": "origen-especies",
+    "titulo": "El origen de las especies",
+    "autor": "Charles Darwin",
+    "archivo": "docs/assets/portadas-recientes-25/origen-especies-973bf9d6a4db.png",
+    "sha256": "973bf9d6a4db1322b909daa1e0486b1d66f5e2ca8555ae1db08398d2c189cb54",
+    "origenZip": "Portadas-recientes-25/01-primera-tanda-reciente/130-el-origen-de-las-especies.png",
+    "ancho": 1024,
+    "alto": 1536
+  },
+  {
+    "id": "dorian-gray",
+    "titulo": "El retrato de Dorian Gray",
+    "autor": "Oscar Wilde",
+    "archivo": "docs/assets/portadas-recientes-25/dorian-gray-c5fd97b995a5.png",
+    "sha256": "c5fd97b995a58dc21dba43605988b6cc2d8163e3fb3b10c9d9c1bf4bf42f55de",
+    "origenZip": "Portadas-recientes-25/01-primera-tanda-reciente/141-el-retrato-de-dorian-gray.png",
+    "ancho": 1024,
+    "alto": 1536
+  },
+  {
+    "id": "gulag",
+    "titulo": "Gulag",
+    "autor": "Anne Applebaum",
+    "archivo": "docs/assets/portadas-recientes-25/gulag-aa7da7ffbd5e.png",
+    "sha256": "aa7da7ffbd5ef41e8dff53b17fe44a88d5df4c317abedd6db560b2a6644abc2c",
+    "origenZip": "Portadas-recientes-25/01-primera-tanda-reciente/172-gulag.png",
+    "ancho": 1024,
+    "alto": 1536
+  },
+  {
+    "id": "sociedad-cansancio",
+    "titulo": "La sociedad del cansancio",
+    "autor": "Byung-Chul Han",
+    "archivo": "docs/assets/portadas-recientes-25/sociedad-cansancio-c089ec62c596.png",
+    "sha256": "c089ec62c5960711f8dee0fa041ed6780fadbf3b81a74cd3787fc0cbf115588f",
+    "origenZip": "Portadas-recientes-25/01-primera-tanda-reciente/228-la-sociedad-del-cansancio.png",
+    "ancho": 1024,
+    "alto": 1536
+  },
+  {
+    "id": "leonardo",
+    "titulo": "Leonardo da Vinci",
+    "autor": "Walter Isaacson",
+    "archivo": "docs/assets/portadas-recientes-25/leonardo-3822021a7299.png",
+    "sha256": "3822021a7299d319529c8f248d654661913d6ea9c6945975beb1ce3045800dbf",
+    "origenZip": "Portadas-recientes-25/01-primera-tanda-reciente/241-leonardo-da-vinci.png",
+    "ancho": 1024,
+    "alto": 1536
+  },
+  {
+    "id": "prohibido-nacer",
+    "titulo": "Prohibido nacer",
+    "autor": "Trevor Noah",
+    "archivo": "docs/assets/portadas-recientes-25/prohibido-nacer-589787e8d64e.png",
+    "sha256": "589787e8d64e1277977f4230dbd760b49931349e584bf01331b6bd687f316fde",
+    "origenZip": "Portadas-recientes-25/01-primera-tanda-reciente/308-prohibido-nacer.png",
+    "ancho": 1024,
+    "alto": 1536
+  },
+  {
+    "id": "infinito-junco",
+    "titulo": "El infinito en un junco",
+    "autor": "Irene Vallejo",
+    "archivo": "docs/assets/portadas-recientes-25/infinito-junco-631825222344.png",
+    "sha256": "6318252223445cbd04b4d4f8db40a2492a27efd4a6d5501f983d068752cf9ad8",
+    "origenZip": "Portadas-recientes-25/02-tanda-de-9/110-el-infinito-en-un-junco.png",
+    "ancho": 1024,
+    "alto": 1536
+  },
+  {
+    "id": "mandela",
+    "titulo": "El largo camino hacia la libertad",
+    "autor": "Nelson Mandela",
+    "archivo": "docs/assets/portadas-recientes-25/mandela-5d253cd10b83.png",
+    "sha256": "5d253cd10b83196d4ae76b33ed368e2864ea710ff742bd3b0e732e47f990a839",
+    "origenZip": "Portadas-recientes-25/02-tanda-de-9/112-el-largo-camino-hacia-la-libertad.png",
+    "ancho": 1024,
+    "alto": 1536
+  },
+  {
+    "id": "en-la-sombra",
+    "titulo": "En la sombra",
+    "autor": "Príncipe Harry",
+    "archivo": "docs/assets/portadas-recientes-25/en-la-sombra-b6aab28e68fa.png",
+    "sha256": "b6aab28e68fab01833d42adc9e22603a956df2eeef8756358e33c46f8b271354",
+    "origenZip": "Portadas-recientes-25/02-tanda-de-9/158-en-la-sombra.png",
+    "ancho": 1024,
+    "alto": 1536
+  },
+  {
+    "id": "doble-helice",
+    "titulo": "La doble hélice",
+    "autor": "James D. Watson",
+    "archivo": "docs/assets/portadas-recientes-25/doble-helice-6f385e3bac5b.png",
+    "sha256": "6f385e3bac5b82424a231403382f8dd61e19e6af4b8fdfdb3be7c3b29da10b78",
+    "origenZip": "Portadas-recientes-25/02-tanda-de-9/200-la-doble-helice.png",
+    "ancho": 1024,
+    "alto": 1536
+  },
+  {
+    "id": "revoluciones-cientificas",
+    "titulo": "La estructura de las revoluciones científicas",
+    "autor": "Thomas S. Kuhn",
+    "archivo": "docs/assets/portadas-recientes-25/revoluciones-cientificas-e863020ca011.png",
+    "sha256": "e863020ca011e7e9f09e8135bdfc09b46a8b72d3d036c984f05c2b6b1722a735",
+    "origenZip": "Portadas-recientes-25/02-tanda-de-9/203-la-estructura-de-las-revoluciones-cientificas.png",
+    "ancho": 1024,
+    "alto": 1536
+  },
+  {
+    "id": "origenes-totalitarismo",
+    "titulo": "Los orígenes del totalitarismo",
+    "autor": "Hannah Arendt",
+    "archivo": "docs/assets/portadas-recientes-25/origenes-totalitarismo-37ffdb16a933.png",
+    "sha256": "37ffdb16a9337dc948b6c2a30602125a64aa82adda83a5206a393feed7d94799",
+    "origenZip": "Portadas-recientes-25/02-tanda-de-9/253-los-origenes-del-totalitarismo.png",
+    "ancho": 1024,
+    "alto": 1536
+  },
+  {
+    "id": "si-esto-hombre",
+    "titulo": "Si esto es un hombre",
+    "autor": "Primo Levi",
+    "archivo": "docs/assets/portadas-recientes-25/si-esto-hombre-1f96473bc26f.png",
+    "sha256": "1f96473bc26f2e725b2dc249e98ed20ca5405f4d2b281597f25187a53feea178",
+    "origenZip": "Portadas-recientes-25/02-tanda-de-9/323-si-esto-es-un-hombre.png",
+    "ancho": 1024,
+    "alto": 1536
+  },
+  {
+    "id": "siete-lecciones-fisica",
+    "titulo": "Siete breves lecciones de física",
+    "autor": "Carlo Rovelli",
+    "archivo": "docs/assets/portadas-recientes-25/siete-lecciones-fisica-e6a50de50020.png",
+    "sha256": "e6a50de50020393b83e1a338292476680bb139057d1deff48e215a349c6c3381",
+    "origenZip": "Portadas-recientes-25/02-tanda-de-9/324-siete-breves-lecciones-de-fisica.png",
+    "ancho": 1024,
+    "alto": 1536
+  },
+  {
+    "id": "malala",
+    "titulo": "Yo soy Malala",
+    "autor": "Malala Yousafzai",
+    "archivo": "docs/assets/portadas-recientes-25/malala-45866b7cecb7.png",
+    "sha256": "45866b7cecb7fdf485d39d5890fa5395192bffb9badc387f839522e31814a873",
+    "origenZip": "Portadas-recientes-25/02-tanda-de-9/359-yo-soy-malala.png",
+    "ancho": 1024,
+    "alto": 1536
+  },
+  {
+    "id": "gran-gatsby",
+    "titulo": "El gran Gatsby",
+    "autor": "F. Scott Fitzgerald",
+    "archivo": "docs/assets/portadas-recientes-25/gran-gatsby-d0fb1b70a3ab.png",
+    "sha256": "d0fb1b70a3ab491ddda5cf5082c0bb0253a12097538b0fe8ac85171d87b125e0",
+    "origenZip": "Portadas-recientes-25/03-tanda-de-10/105-el-gran-gatsby.png",
+    "ancho": 1024,
+    "alto": 1536
+  },
+  {
+    "id": "heroe-mil-caras",
+    "titulo": "El héroe de las mil caras",
+    "autor": "Joseph Campbell",
+    "archivo": "docs/assets/portadas-recientes-25/heroe-mil-caras-88f53f4be19b.png",
+    "sha256": "88f53f4be19bcabd8715b4c01cf89e5366b00e5f2b940af39408fc848389d2eb",
+    "origenZip": "Portadas-recientes-25/03-tanda-de-10/106-el-heroe-de-las-mil-caras.png",
+    "ancho": 1024,
+    "alto": 1536
+  },
+  {
+    "id": "conquista-felicidad",
+    "titulo": "La conquista de la felicidad",
+    "autor": "Bertrand Russell",
+    "archivo": "docs/assets/portadas-recientes-25/conquista-felicidad-4915fae62b7a.png",
+    "sha256": "4915fae62b7af2b6252a23c2d51a5972a6d4b706d0c07c927b72d3afb931aa23",
+    "origenZip": "Portadas-recientes-25/03-tanda-de-10/196-la-conquista-de-la-felicidad.png",
+    "ancho": 1024,
+    "alto": 1536
+  },
+  {
+    "id": "metamorfosis",
+    "titulo": "La metamorfosis",
+    "autor": "Franz Kafka",
+    "archivo": "docs/assets/portadas-recientes-25/metamorfosis-e936bbd9ecf6.png",
+    "sha256": "e936bbd9ecf6c41946ce8ed00d5475aaaacec05291875f74057f11cedb4d0427",
+    "origenZip": "Portadas-recientes-25/03-tanda-de-10/214-la-metamorfosis.png",
+    "ancho": 1024,
+    "alto": 1536
+  },
+  {
+    "id": "mujer-invisible",
+    "titulo": "La mujer invisible",
+    "autor": "Caroline Criado Perez",
+    "archivo": "docs/assets/portadas-recientes-25/mujer-invisible-8df3a795d482.png",
+    "sha256": "8df3a795d482b379adbf54e84ea3b9f98e3791f467fce8a5932f032d4ab0e2fe",
+    "origenZip": "Portadas-recientes-25/03-tanda-de-10/215-la-mujer-invisible.png",
+    "ancho": 1024,
+    "alto": 1536
+  },
+  {
+    "id": "odisea",
+    "titulo": "La Odisea",
+    "autor": "Homero",
+    "archivo": "docs/assets/portadas-recientes-25/odisea-41bb74695535.png",
+    "sha256": "41bb7469553529e546fd7706acbd44c164d0df4fd0d3b323923a5730840c162a",
+    "origenZip": "Portadas-recientes-25/03-tanda-de-10/216-la-odisea.png",
+    "ancho": 1024,
+    "alto": 1536
+  },
+  {
+    "id": "sabiduria-inseguridad",
+    "titulo": "La sabiduría de la inseguridad",
+    "autor": "Alan Watts",
+    "archivo": "docs/assets/portadas-recientes-25/sabiduria-inseguridad-aa2ec96e9ac8.png",
+    "sha256": "aa2ec96e9ac83e7e727bcad88d64ae8b05241dfa54b68e21a680983e66b714fd",
+    "origenZip": "Portadas-recientes-25/03-tanda-de-10/225-la-sabiduria-de-la-inseguridad.png",
+    "ancho": 1024,
+    "alto": 1536
+  },
+  {
+    "id": "productividad-sentirse-bien",
+    "titulo": "Productividad para sentirse bien",
+    "autor": "Ali Abdaal",
+    "archivo": "docs/assets/portadas-recientes-25/productividad-sentirse-bien-4dad6f257043.png",
+    "sha256": "4dad6f25704309b6e1559c9fdc8ea20962ad8fb809ec7c9a0e5a515fd7111203",
+    "origenZip": "Portadas-recientes-25/03-tanda-de-10/307-productividad-para-sentirse-bien.png",
+    "ancho": 1024,
+    "alto": 1536
+  },
+  {
+    "id": "se-amable-contigo",
+    "titulo": "Sé amable contigo mismo",
+    "autor": "Kristin Neff",
+    "archivo": "docs/assets/portadas-recientes-25/se-amable-contigo-b25d041b0e0c.png",
+    "sha256": "b25d041b0e0c7418c3279b24a05f4e8fbf5ff02af719e1753399d369390ffbcf",
+    "origenZip": "Portadas-recientes-25/03-tanda-de-10/320-se-amable-contigo-mismo.png",
+    "ancho": 1024,
+    "alto": 1536
+  },
+  {
+    "id": "tropezar-felicidad",
+    "titulo": "Tropezar con la felicidad",
+    "autor": "Daniel Gilbert",
+    "archivo": "docs/assets/portadas-recientes-25/tropezar-felicidad-9f224ffef0cf.png",
+    "sha256": "9f224ffef0cfc8dbb4307d8bd8c8ee0d37d6426b7d1c33cf1cf4448fdb73c59c",
+    "origenZip": "Portadas-recientes-25/03-tanda-de-10/338-tropezar-con-la-felicidad.png",
+    "ancho": 1024,
+    "alto": 1536
+  }
+]
