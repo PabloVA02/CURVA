@@ -17,7 +17,7 @@ era una app entera, pero con 114 resúmenes, y activarlo esconde los 247 nuevos.
 
 ## Y al lado está el paquete de esta sesión
 
-`docs/assets/index-nOm2qSRt.js`, compilado desde `prototipo-microaprendizaje`
+`docs/assets/index-DVNhRIEM.js`, compilado desde `prototipo-microaprendizaje`
 con `npx vite build --config vite.web.config.mjs`. Lleva los mismos 361
 resúmenes y **dos cosas que el de la raíz no tiene**:
 
@@ -37,7 +37,7 @@ resúmenes y **dos cosas que el de la raíz no tiene**:
 que la raíz sirva este otro paquete basta cambiar esa línea del `<head>` de
 `docs/index.html`:
 
-    <script type="module" crossorigin src="./assets/index-nOm2qSRt.js"></script>
+    <script type="module" crossorigin src="./assets/index-DVNhRIEM.js"></script>
 
 Y al revés para volver al de la otra sesión.
 
@@ -56,6 +56,14 @@ Y desde el 23: la bienvenida con la estética de Imprint, y en la introducción
 lo que Pablo pidió de Wiser —la rueda de minutos, el mosaico de objetivos, las
 frases en tarjeta blanca, los libros de uno en uno, «Lee más en menos tiempo» y
 «¡7 días de prueba desbloqueados!»—.
+
+Y desde el 24 de septiembre, **438 resúmenes** —los 77 de `RESUMENES1000.docx`
+de Pablo— y **las portadas nuevas de todos ellos**, sacadas de este mismo
+repositorio: de cada libro, la que el comparador enseña primero entre las
+tandas nuevas (`yeah`, acumuladas, tanda 120-159, rondas 1-7, últimas 94,
+finanzas y recientes 25). Donde Pablo mandó tres variantes —Original, Ligero y
+Medio— va la primera del comparador; si él eligió otra con «♡ Elegir», esa
+elección vive en su navegador y hay que pedirle el ZIP.
 
 ## Una advertencia para quien compile
 
