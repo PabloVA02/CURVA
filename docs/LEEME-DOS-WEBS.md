@@ -17,7 +17,7 @@ era una app entera, pero con 114 resúmenes, y activarlo esconde los 247 nuevos.
 
 ## Y al lado está el paquete de esta sesión
 
-`docs/assets/index-CnFsQvfk.js`, compilado desde `prototipo-microaprendizaje`
+`docs/assets/index-up-au9s_.js`, compilado desde `prototipo-microaprendizaje`
 con `npx vite build --config vite.web.config.mjs`. Lleva los mismos 361
 resúmenes y **dos cosas que el de la raíz no tiene**:
 
@@ -37,7 +37,7 @@ resúmenes y **dos cosas que el de la raíz no tiene**:
 que la raíz sirva este otro paquete basta cambiar esa línea del `<head>` de
 `docs/index.html`:
 
-    <script type="module" crossorigin src="./assets/index-CnFsQvfk.js"></script>
+    <script type="module" crossorigin src="./assets/index-up-au9s_.js"></script>
 
 Y al revés para volver al de la otra sesión.
 
@@ -72,6 +72,9 @@ con `?demo`); fuera los capítulos de prueba del prototipo y el «Seguir
 leyendo» de un libro que no se ha abierto; los enlaces de «Términos» y
 «Privacidad» abren sus hojas; y los sellos «Claude» y «Nuevo», el contador del
 catálogo y el pie técnico del perfil solo salen con `?revision`.
+
+Y después, esa misma noche: **la pestaña «Retos»** con los treinta dibujos de
+Pablo, y **la doblez del lomo** de Headway en todas las cubiertas.
 
 **Ojo, para el lanzamiento**: la raíz sigue sirviendo el paquete del 22 de
 septiembre, con 361 resúmenes y sin nada de lo de arriba. Y `docs/` pasa de
