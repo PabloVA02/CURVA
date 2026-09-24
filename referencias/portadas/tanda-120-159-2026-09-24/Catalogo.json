@@ -1,0 +1,322 @@
+[
+  {
+    "id": "orden-del-tiempo",
+    "titulo": "El orden del tiempo",
+    "autor": "Carlo Rovelli",
+    "archivo": "docs/assets/portadas-tanda-120-159/orden-del-tiempo-431e2d599ea0.png",
+    "sha256": "431e2d599ea06d4f5343a420efe9bb0a8949dd9f4653a9dee67cbb62f5892ba0",
+    "origenZip": "120-el-orden-del-tiempo.png"
+  },
+  {
+    "id": "bogle-sentido-comun",
+    "titulo": "El pequeño libro para invertir con sentido común",
+    "autor": "John C. Bogle",
+    "archivo": "docs/assets/portadas-tanda-120-159/bogle-sentido-comun-72c44783a857.png",
+    "sha256": "72c44783a857c74731b2e56c453e399603d08bdd4cbd08a65d3ad806e64354f9",
+    "origenZip": "121-el-pequeno-libro-para-invertir-con-sentido-comun.png"
+  },
+  {
+    "id": "placebo-eres-tu",
+    "titulo": "El placebo eres tú",
+    "autor": "Joe Dispenza",
+    "archivo": "docs/assets/portadas-tanda-120-159/placebo-eres-tu-f8503b5eb1e5.png",
+    "sha256": "f8503b5eb1e597cc7a054438a6833401a24a6b3b62c2434db934d8adba0834d2",
+    "origenZip": "122-el-placebo-eres-tu.png"
+  },
+  {
+    "id": "poder-5-segundos",
+    "titulo": "El poder de los 5 segundos",
+    "autor": "Mel Robbins",
+    "archivo": "docs/assets/portadas-tanda-120-159/poder-5-segundos-51c11c29fbe1.png",
+    "sha256": "51c11c29fbe1d0595a56e871b262eeaa804f7bc682910a26e7bbee5ac12b72a8",
+    "origenZip": "123-el-poder-de-los-5-segundos.png"
+  },
+  {
+    "id": "poder-habitos",
+    "titulo": "El poder de los hábitos",
+    "autor": "Charles Duhigg",
+    "archivo": "docs/assets/portadas-tanda-120-159/poder-habitos-cde99d734e66.png",
+    "sha256": "cde99d734e66d7aeccd0d86e28e70d69e02d6ddd3359c05ad70875e34f1f661f",
+    "origenZip": "124-el-poder-de-los-habitos.png"
+  },
+  {
+    "id": "poder-introvertidos",
+    "titulo": "El poder de los introvertidos",
+    "autor": "Susan Cain",
+    "archivo": "docs/assets/portadas-tanda-120-159/poder-introvertidos-7dfb2d493bc9.png",
+    "sha256": "7dfb2d493bc9ab23e40b1c2ed52313117486a777582add4930079fdace6da6f9",
+    "origenZip": "125-el-poder-de-los-introvertidos.png"
+  },
+  {
+    "id": "poder-ser-vulnerable",
+    "titulo": "El poder de ser vulnerable",
+    "autor": "Brené Brown",
+    "archivo": "docs/assets/portadas-tanda-120-159/poder-ser-vulnerable-cab62a392989.png",
+    "sha256": "cab62a3929895cd2b8d8201168dfbbc63ab0dfc454a360e9629c34f16a51bc0a",
+    "origenZip": "126-el-poder-de-ser-vulnerable.png"
+  },
+  {
+    "id": "poder-mente-subconsciente",
+    "titulo": "El poder de tu mente subconsciente",
+    "autor": "Joseph Murphy",
+    "archivo": "docs/assets/portadas-tanda-120-159/poder-mente-subconsciente-cde1ab0f8b1b.png",
+    "sha256": "cde1ab0f8b1be424226c54a0dc4b3e2226e9a314a4a8549ddc8d155da2f41f81",
+    "origenZip": "127-el-poder-de-tu-mente-subconsciente.png"
+  },
+  {
+    "id": "poder-ahora",
+    "titulo": "El poder del ahora",
+    "autor": "Eckhart Tolle",
+    "archivo": "docs/assets/portadas-tanda-120-159/poder-ahora-98b8520cbde3.png",
+    "sha256": "98b8520cbde3dfd626992bb140a6d35a49d6aa7837d5db766db0c74d16e75995",
+    "origenZip": "128-el-poder-del-ahora.png"
+  },
+  {
+    "id": "pensamiento-positivo",
+    "titulo": "El poder del pensamiento positivo",
+    "autor": "Norman Vincent Peale",
+    "archivo": "docs/assets/portadas-tanda-120-159/pensamiento-positivo-6df45eff1633.png",
+    "sha256": "6df45eff1633e2b0fe06b8096d8b9a92675283665a771048589fec7565f2714d",
+    "origenZip": "129-el-poder-del-pensamiento-positivo.png"
+  },
+  {
+    "id": "principe",
+    "titulo": "El príncipe",
+    "autor": "Nicolás Maquiavelo",
+    "archivo": "docs/assets/portadas-tanda-120-159/principe-00d804512491.png",
+    "sha256": "00d804512491ff328bf501153d211117f009f2c93be8e834ab1d6c768152e179",
+    "origenZip": "130-el-principe.png"
+  },
+  {
+    "id": "zonas-azules",
+    "titulo": "El secreto de las zonas azules",
+    "autor": "Dan Buettner",
+    "archivo": "docs/assets/portadas-tanda-120-159/zonas-azules-2b3323f7b99d.png",
+    "sha256": "2b3323f7b99d3fdb2e846281e471a2ddf502d1260064792268bc48ea50b94dfd",
+    "origenZip": "131-el-secreto-de-las-zonas-azules.png"
+  },
+  {
+    "id": "senor-moscas",
+    "titulo": "El señor de las moscas",
+    "autor": "William Golding",
+    "archivo": "docs/assets/portadas-tanda-120-159/senor-moscas-a370bd5c1ac8.png",
+    "sha256": "a370bd5c1ac8da3fdfbf81d769136790e033c53469d9186e1fe3d63dbeacdcd1",
+    "origenZip": "132-el-senor-de-las-moscas.png"
+  },
+  {
+    "id": "sindrome-de-la-impostora",
+    "titulo": "El síndrome de la impostora",
+    "autor": "Élisabeth Cadoche y Anne de Montarlot",
+    "archivo": "docs/assets/portadas-tanda-120-159/sindrome-de-la-impostora-326181d250f2.png",
+    "sha256": "326181d250f2412c392809472312518966ba0fa30026c5957100be65c8f00382",
+    "origenZip": "133-el-sindrome-de-la-impostora.png"
+  },
+  {
+    "id": "sutil-arte",
+    "titulo": "El sutil arte de que casi todo te importe una mierda",
+    "autor": "Mark Manson",
+    "archivo": "docs/assets/portadas-tanda-120-159/sutil-arte-0de66d7cbf07.png",
+    "sha256": "0de66d7cbf077cd0db75cea11624c4451424d70d7dc193e520c46803938353e1",
+    "origenZip": "134-el-sutil-arte-de-que-casi-todo-te-importe-una-mierda.png"
+  },
+  {
+    "id": "triunfo-del-dinero",
+    "titulo": "El triunfo del dinero",
+    "autor": "Niall Ferguson",
+    "archivo": "docs/assets/portadas-tanda-120-159/triunfo-del-dinero-db74147ca036.png",
+    "sha256": "db74147ca03652d9983a3a32203a2b759163eeb8a6ab886205f216b9f6e9f14b",
+    "origenZip": "135-el-triunfo-del-dinero.png"
+  },
+  {
+    "id": "universo-mano",
+    "titulo": "El universo en tu mano",
+    "autor": "Christophe Galfard",
+    "archivo": "docs/assets/portadas-tanda-120-159/universo-mano-05343a4cea9b.png",
+    "sha256": "05343a4cea9bce4c8aac40155f6e5452641159c8f73f089c8fc960533865ece0",
+    "origenZip": "136-el-universo-en-tu-mano.png"
+  },
+  {
+    "id": "universo-cascara",
+    "titulo": "El universo en una cáscara de nuez",
+    "autor": "Stephen Hawking",
+    "archivo": "docs/assets/portadas-tanda-120-159/universo-cascara-ed8d14656607.png",
+    "sha256": "ed8d146566077aac70c77fa16f258fa39545b2d8d5318b810c1f353f55033eb9",
+    "origenZip": "137-el-universo-en-una-cascara-de-nuez.png"
+  },
+  {
+    "id": "valor-de-la-atencion",
+    "titulo": "El valor de la atención",
+    "autor": "Johann Hari",
+    "archivo": "docs/assets/portadas-tanda-120-159/valor-de-la-atencion-75f15878342d.png",
+    "sha256": "75f15878342d3420fddfa3ff7c87f680332b9fb4fd0da60ed7c29f689336f03e",
+    "origenZip": "138-el-valor-de-la-atencion.png"
+  },
+  {
+    "id": "vendedor-mas-grande",
+    "titulo": "El vendedor más grande del mundo",
+    "autor": "Og Mandino",
+    "archivo": "docs/assets/portadas-tanda-120-159/vendedor-mas-grande-dc10f11c1bf2.png",
+    "sha256": "dc10f11c1bf20ee28d513ab9565463ad89e1c3fb1e2719943d0f5cb8fff8af2d",
+    "origenZip": "139-el-vendedor-mas-grande-del-mundo.png"
+  },
+  {
+    "id": "viejo-mar",
+    "titulo": "El viejo y el mar",
+    "autor": "Ernest Hemingway",
+    "archivo": "docs/assets/portadas-tanda-120-159/viejo-mar-c4addffc3a67.png",
+    "sha256": "c4addffc3a67b94b31fdaa2e1b3003d0acae879e466d4be9ae3c067b363257ce",
+    "origenZip": "140-el-viejo-y-el-mar.png"
+  },
+  {
+    "id": "elon-musk",
+    "titulo": "Elon Musk",
+    "autor": "Walter Isaacson",
+    "archivo": "docs/assets/portadas-tanda-120-159/elon-musk-08bcbf21b6eb.png",
+    "sha256": "08bcbf21b6eb247da4a77913d868e067bbd87ab5689ceec85e43faab6abdbe39",
+    "origenZip": "141-elon-musk.png"
+  },
+  {
+    "id": "empieza-porque",
+    "titulo": "Empieza con el porqué",
+    "autor": "Simon Sinek",
+    "archivo": "docs/assets/portadas-tanda-120-159/empieza-porque-b1a26a014a47.png",
+    "sha256": "b1a26a014a4796cf67daf1e6500fe9c092a6b7718043c3737b017c48ca4d92a0",
+    "origenZip": "142-empieza-con-el-porque.png"
+  },
+  {
+    "id": "en-defensa-de-la-comida",
+    "titulo": "En defensa de la comida",
+    "autor": "Michael Pollan",
+    "archivo": "docs/assets/portadas-tanda-120-159/en-defensa-de-la-comida-77a49cf4360f.png",
+    "sha256": "77a49cf4360ffa8db2c8d0b771fb05fa5ac4d9cb7a6e8ae07f379cb6734abc4b",
+    "origenZip": "143-en-defensa-de-la-comida.png"
+  },
+  {
+    "id": "principio-era-el-sexo",
+    "titulo": "En el principio era el sexo",
+    "autor": "Christopher Ryan y Cacilda Jethá",
+    "archivo": "docs/assets/portadas-tanda-120-159/principio-era-el-sexo-8b164282b9ec.png",
+    "sha256": "8b164282b9ecf06bffce998ee730eb464e368d2636f3191f4fffad143f096647",
+    "origenZip": "144-en-el-principio-era-el-sexo.png"
+  },
+  {
+    "id": "en-forma-por-naturaleza",
+    "titulo": "En forma por naturaleza",
+    "autor": "Daniel E. Lieberman",
+    "archivo": "docs/assets/portadas-tanda-120-159/en-forma-por-naturaleza-2e7e25408c25.png",
+    "sha256": "2e7e25408c25ac4d56f6cad3034685cd111b973a3976bc66996ae901a865e409",
+    "origenZip": "145-en-forma-por-naturaleza.png"
+  },
+  {
+    "id": "enamorate-de-ti",
+    "titulo": "Enamórate de ti",
+    "autor": "Walter Riso",
+    "archivo": "docs/assets/portadas-tanda-120-159/enamorate-de-ti-a54c22fcb4ec.png",
+    "sha256": "a54c22fcb4ec874a28ed532c911f1d3c14091abc776d28698fcb732115099b98",
+    "origenZip": "146-enamorate-de-ti.png"
+  },
+  {
+    "id": "persona-vitamina",
+    "titulo": "Encuentra tu persona vitamina",
+    "autor": "Marian Rojas Estapé",
+    "archivo": "docs/assets/portadas-tanda-120-159/persona-vitamina-8fc78b498151.png",
+    "sha256": "8fc78b4981514be59c78ccc5d5c4b6be464aa95155aa196e5e3c30601e53f3dd",
+    "origenZip": "147-encuentra-tu-persona-vitamina.png"
+  },
+  {
+    "id": "endurance-shackleton",
+    "titulo": "Endurance",
+    "autor": "Alfred Lansing",
+    "archivo": "docs/assets/portadas-tanda-120-159/endurance-shackleton-11caa2743d22.png",
+    "sha256": "11caa2743d2284c11f34ec18fce2b9c8b3416b7a108f1705b6c004918a279956",
+    "origenZip": "148-endurance.png"
+  },
+  {
+    "id": "es-facil-dejar-de-fumar",
+    "titulo": "Es fácil dejar de fumar, si sabes cómo",
+    "autor": "Allen Carr",
+    "archivo": "docs/assets/portadas-tanda-120-159/es-facil-dejar-de-fumar-6afa056d16b6.png",
+    "sha256": "6afa056d16b679ff9985fcc09a6b91384f7c49b846ca8a3bec317e8159cf7eb1",
+    "origenZip": "149-es-facil-dejar-de-fumar-si-sabes-como.png"
+  },
+  {
+    "id": "esencialismo",
+    "titulo": "Esencialismo",
+    "autor": "Greg McKeown",
+    "archivo": "docs/assets/portadas-tanda-120-159/esencialismo-4298d2515234.png",
+    "sha256": "4298d251523457e0144b8a80c5be1e3e483b7387e641a915c7c3309fbef793c4",
+    "origenZip": "150-esencialismo.png"
+  },
+  {
+    "id": "feynman",
+    "titulo": "¿Está usted de broma, Sr. Feynman?",
+    "autor": "Richard Feynman",
+    "archivo": "docs/assets/portadas-tanda-120-159/feynman-9dffcc0f3df7.png",
+    "sha256": "9dffcc0f3df7762f99448f4cbd6c0ea7ce230d86f29fbde0a284254727572b55",
+    "origenZip": "151-esta-usted-de-broma-sr-feynman.png"
+  },
+  {
+    "id": "esto-es-marketing",
+    "titulo": "Esto es marketing",
+    "autor": "Seth Godin",
+    "archivo": "docs/assets/portadas-tanda-120-159/esto-es-marketing-2538d04fa744.png",
+    "sha256": "2538d04fa744d4a41bfd57890c5fbcb69002624af04aac6201747684c290f941",
+    "origenZip": "152-esto-es-marketing.png"
+  },
+  {
+    "id": "factfulness",
+    "titulo": "Factfulness",
+    "autor": "Hans Rosling",
+    "archivo": "docs/assets/portadas-tanda-120-159/factfulness-da49d7d6d870.png",
+    "sha256": "da49d7d6d870926b54bebae83450461c05d3937e461759e6808aa088da5457b1",
+    "origenZip": "153-factfulness.png"
+  },
+  {
+    "id": "fiambres",
+    "titulo": "Fiambres",
+    "autor": "Mary Roach",
+    "archivo": "docs/assets/portadas-tanda-120-159/fiambres-65f2b7dd7acc.png",
+    "sha256": "65f2b7dd7acc69ab2d6f688e03c1dd5e5197d3dddd75b61619b84dc589eb854e",
+    "origenZip": "154-fiambres.png"
+  },
+  {
+    "id": "flow",
+    "titulo": "Fluir",
+    "autor": "Mihály Csíkszentmihályi",
+    "archivo": "docs/assets/portadas-tanda-120-159/flow-72b6b19cdb35.png",
+    "sha256": "72b6b19cdb35b1935fc7ff94ca695d14c6ee8e533572907c8ecd182e70a26ce6",
+    "origenZip": "155-fluir.png"
+  },
+  {
+    "id": "freakonomics",
+    "titulo": "Freakonomics",
+    "autor": "Levitt y Dubner",
+    "archivo": "docs/assets/portadas-tanda-120-159/freakonomics-0f1fbf37c3a2.png",
+    "sha256": "0f1fbf37c3a232146f67c8c833dd51f3fc5af26985f14408c54bf076c37068da",
+    "origenZip": "156-freakonomics.png"
+  },
+  {
+    "id": "gente-toxica",
+    "titulo": "Gente tóxica",
+    "autor": "Bernardo Stamateas",
+    "archivo": "docs/assets/portadas-tanda-120-159/gente-toxica-ebc4868f8803.png",
+    "sha256": "ebc4868f88030a7ecb545095b90a81ee6fe8d899f6385b5884a706c3f335625c",
+    "origenZip": "157-gente-toxica.png"
+  },
+  {
+    "id": "gestiona-tu-dinero-adulto",
+    "titulo": "Gestiona tu dinero como un jo**do adulto",
+    "autor": "Sam Beckbessinger",
+    "archivo": "docs/assets/portadas-tanda-120-159/gestiona-tu-dinero-adulto-d18d842dd5e4.png",
+    "sha256": "d18d842dd5e4582ad1117f5e4d3c78c9dbb6b373c712ecebcec1221e0c34313d",
+    "origenZip": "158-gestiona-tu-dinero-como-un-jodido-adulto.png"
+  },
+  {
+    "id": "habitos-atomicos",
+    "titulo": "Hábitos atómicos",
+    "autor": "James Clear",
+    "archivo": "docs/assets/portadas-tanda-120-159/habitos-atomicos-39581f0a047e.png",
+    "sha256": "39581f0a047e3375579be97fa01fff4253dfac2939dffa284cc0999addbfa33c",
+    "origenZip": "159-habitos-atomicos.png"
+  }
+]

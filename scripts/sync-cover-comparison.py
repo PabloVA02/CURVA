@@ -26,6 +26,8 @@ ultimas=json.loads((ROOT/'referencias/portadas/importadas-ultimas-94-2026-09-23/
 data['ultimas94']=[{'id':b['id'],'titulo':b['titulo'],'autor':b['autor'],'archivo':'./'+b['archivo'][5:],'marca':'Curva','lote94':True,'sinDobleAdicional':True} for b in ultimas if b['id'] in ids]
 rondas=json.loads((ROOT/'referencias/portadas/rondas-1-7-2026-09-24/Catalogo.json').read_text())
 data['rondas']=[{'id':b['id'],'titulo':b['titulo'],'autor':b['autor'],'archivo':'./'+b['archivo'][5:],'marca':'Curva','loteRondas':True,'sinDobleAdicional':True} for b in rondas if b['id'] in ids]
+tanda40=json.loads((ROOT/'referencias/portadas/tanda-120-159-2026-09-24/Catalogo.json').read_text())
+data['tanda40']=[{'id':b['id'],'titulo':b['titulo'],'autor':b['autor'],'archivo':'./'+b['archivo'][5:],'marca':'Curva','lote40':True,'sinDobleAdicional':True} for b in tanda40 if b['id'] in ids]
 data['fecha']='2026-09-24'
 source=source[:start]+json.dumps(data,ensure_ascii=False,separators=(',',':'))+source[start+length:]
 page.write_text(source)
