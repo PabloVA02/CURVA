@@ -1,8 +1,8 @@
 const selectionKey='curva-comparador-favoritas-v1';
 let favorites={};
-try{const saved=JSON.parse(localStorage.getItem(selectionKey)||'{}');for(const [id,b] of Object.entries(saved))if(resumenIds.has(id)&&b&&typeof b.archivo==='string'&&b.archivo.startsWith('./assets/'))favorites[id]=b;}catch{}
+try{const saved=JSON.parse(localStorage.getItem(selectionKey)||'{}');for(const [id,b] of Object.entries(saved))if(selectableIds.has(id)&&b&&typeof b.archivo==='string'&&b.archivo.startsWith('./assets/'))favorites[id]=b;}catch{}
 function chosen(book){return favorites[bookId(book)]?.archivo===book.archivo;}
-function selectionStatus(){const n=Object.keys(favorites).length;document.querySelector('#selection-status').textContent=n+' elegidas · '+(data.librosConResumen.length-n)+' libros sin elegir';document.querySelector('#download-zip').disabled=!n;}
+function selectionStatus(){const n=Object.keys(favorites).length;document.querySelector('#selection-status').textContent=n+' elegidas · '+data.librosConResumen.filter(b=>!favorites[b.id]).length+' libros con resumen sin elegir';document.querySelector('#download-zip').disabled=!n;}
 function selectableArt(book,root){
  const wrap=document.createElement('div');wrap.className='selectable';wrap.append(art(book,root));
  const toggle=document.createElement('button');toggle.type='button';toggle.className='choose-cover';

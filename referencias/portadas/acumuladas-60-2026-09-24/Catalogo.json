@@ -1,0 +1,542 @@
+[
+  {
+    "id": "deja-de-chingarte",
+    "titulo": "¡Deja de chingarte!",
+    "autor": "Gary John Bishop",
+    "archivo": "docs/assets/portadas-acumuladas-60/deja-de-chingarte-cd7e11bfed31.png",
+    "sha256": "cd7e11bfed3150a384faa7fb6ab74db6f7b6b6b4b98f2df1186af220e3aead14",
+    "origenZip": "CURVA-portadas/056-deja-de-chingarte.png",
+    "identificacion": "catalogo"
+  },
+  {
+    "id": "mundo-sofia",
+    "titulo": "El mundo de Sofía",
+    "autor": "Jostein Gaarder",
+    "archivo": "docs/assets/portadas-acumuladas-60/mundo-sofia-d55c4ce3e335.png",
+    "sha256": "d55c4ce3e335c6c86b4d5875b40839af9b82cdf18ed8d03b5039036f72f441c4",
+    "origenZip": "CURVA-portadas/118-el-mundo-de-sofia.png",
+    "identificacion": "catalogo"
+  },
+  {
+    "id": "mundo-demonios",
+    "titulo": "El mundo y sus demonios",
+    "autor": "Carl Sagan",
+    "archivo": "docs/assets/portadas-acumuladas-60/mundo-demonios-19eca87be90e.png",
+    "sha256": "19eca87be90e8ef56c57bf3052f0f1992eb8f07116aceaf45e337e8a9079ea2b",
+    "origenZip": "CURVA-portadas/119-el-mundo-y-sus-demonios.png",
+    "identificacion": "catalogo"
+  },
+  {
+    "id": "aportada-cristiano-ronaldo",
+    "titulo": "Cristiano ronaldo",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-cristiano-ronaldo-f37734179e86.png",
+    "sha256": "f37734179e86eca152b630e18475a2313aa74ca8329a9d4b2db846b5b1df3f5a",
+    "origenZip": "CURVA-portadas/deportes-historia-01-cristiano-ronaldo.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-los-angeles-blancos",
+    "titulo": "Los angeles blancos",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-los-angeles-blancos-462b6fa8bb82.png",
+    "sha256": "462b6fa8bb82be31d03743a62cf72f4c57af7ccf0da25bdd07026e0efb0d375f",
+    "origenZip": "CURVA-portadas/deportes-historia-03-los-angeles-blancos.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-herr-pep",
+    "titulo": "Herr pep",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-herr-pep-d21ffb008ac3.png",
+    "sha256": "d21ffb008ac371acd163448c3d93c5cff7b9945fe859996bc9dd568cfa480ea7",
+    "origenZip": "CURVA-portadas/deportes-historia-04-herr-pep.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-liderazgo",
+    "titulo": "Liderazgo",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-liderazgo-e07f6f5aafc7.png",
+    "sha256": "e07f6f5aafc72982c94352fb753937106f889fc321c2ec2b2f8b880669806bc2",
+    "origenZip": "CURVA-portadas/deportes-historia-05-liderazgo.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-la-jugada-de-mi-vida",
+    "titulo": "La jugada de mi vida",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-la-jugada-de-mi-vida-7bf9eb99b8c6.png",
+    "sha256": "7bf9eb99b8c620b63a0d4ec6db60f5962400a61b4a774ccd8ea64510d53278d2",
+    "origenZip": "CURVA-portadas/deportes-historia-06-la-jugada-de-mi-vida.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-the-master",
+    "titulo": "The master",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-the-master-b44bb24c7174.png",
+    "sha256": "b44bb24c7174f7ffb67230c342bba8b5c73aab9f3af38a18ce22d6c450c2b5db",
+    "origenZip": "CURVA-portadas/deportes-historia-07-the-master.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-michael-jordan-la-vida",
+    "titulo": "Michael jordan la vida",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-michael-jordan-la-vida-8d4281d3b3cd.png",
+    "sha256": "8d4281d3b3cd4b2e27da08c7fd934f3738fd5b3e6c4439e76a559d5954f51683",
+    "origenZip": "CURVA-portadas/deportes-historia-08-michael-jordan-la-vida.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-sirve-para-ganar",
+    "titulo": "Sirve para ganar",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-sirve-para-ganar-3e1e9538ef18.png",
+    "sha256": "3e1e9538ef1896f7f826e69b484ea41b1e065fefe95fe816073ae3d5f9a3df01",
+    "origenZip": "CURVA-portadas/deportes-historia-09-sirve-para-ganar.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-el-crac-del-29",
+    "titulo": "El crac del 29",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-el-crac-del-29-3562d756e97b.png",
+    "sha256": "3562d756e97bd900d61c6c52686886c4de17c23b61b039a88fa1bb3ce4983c04",
+    "origenZip": "CURVA-portadas/deportes-historia-10-el-crac-del-29.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-la-torre-elevada",
+    "titulo": "La torre elevada",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-la-torre-elevada-b874b912a2bd.png",
+    "sha256": "b874b912a2bd3614a04a58d1ad484f9111cee56c2554de4bb8b2b37aa0af4ae9",
+    "origenZip": "CURVA-portadas/deportes-historia-11-la-torre-elevada.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-medianoche-en-chernobil",
+    "titulo": "Medianoche en chernobil",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-medianoche-en-chernobil-4ea56de74722.png",
+    "sha256": "4ea56de7472248cd261a0078f1d41e71ec0fd8defd48aa0402b70b287fc5dd78",
+    "origenZip": "CURVA-portadas/deportes-historia-12-medianoche-en-chernobil.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-una-noche-para-recordar",
+    "titulo": "Una noche para recordar",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-una-noche-para-recordar-c1493bacdc70.png",
+    "sha256": "c1493bacdc70e429150756d791f58139a9055ef2ba24cc32429bb9034c500a07",
+    "origenZip": "CURVA-portadas/deportes-historia-13-una-noche-para-recordar.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-hiroshima",
+    "titulo": "Hiroshima",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-hiroshima-c659b021fc7b.png",
+    "sha256": "c659b021fc7b05d68d9183a118ca05ca602fe40d560d7e3ca9bcc408b92b206a",
+    "origenZip": "CURVA-portadas/deportes-historia-14-hiroshima.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-anatomia-de-un-instante",
+    "titulo": "Anatomia de un instante",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-anatomia-de-un-instante-b8b6a00f679e.png",
+    "sha256": "b8b6a00f679edccd9d2bcb94f722feffa703901c5b121562314ee5781f852dfc",
+    "origenZip": "CURVA-portadas/deportes-historia-15-anatomia-de-un-instante.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-el-primer-hombre",
+    "titulo": "El primer hombre",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-el-primer-hombre-52a394f3993d.png",
+    "sha256": "52a394f3993d70873e81146d45089426a4e85f75e3dc688fcf1d8d90b3c22d0a",
+    "origenZip": "CURVA-portadas/nueva-010-el-primer-hombre.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-nada-que-envidiar",
+    "titulo": "Nada que envidiar",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-nada-que-envidiar-a8ffaf6ad690.png",
+    "sha256": "a8ffaf6ad69090937296a90b8881b44359e18abdad6782d0590ac6da08b22ca8",
+    "origenZip": "CURVA-portadas/nueva-011-nada-que-envidiar.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-el-hombre-sin-rostro",
+    "titulo": "El hombre sin rostro",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-el-hombre-sin-rostro-968fd60c48cd.png",
+    "sha256": "968fd60c48cd3a6bc1bd24baa5ca9b2200b2f6d1ee6a25f51abea914681873d0",
+    "origenZip": "CURVA-portadas/nueva-012-el-hombre-sin-rostro.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-gengis-kan-y-el-inicio-del-mundo-moderno",
+    "titulo": "Gengis kan y el inicio del mundo moderno",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-gengis-kan-y-el-inicio-del-mundo-moderno-3f3eda6a1e59.png",
+    "sha256": "3f3eda6a1e59e8647f1af997f029cdaa71efdffbea2c7caf01f1053d43da250d",
+    "origenZip": "CURVA-portadas/nueva-013-gengis-kan-y-el-inicio-del-mundo-moderno.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-el-jinete-palido",
+    "titulo": "El jinete palido",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-el-jinete-palido-fcec55b16e52.png",
+    "sha256": "fcec55b16e52cf42be7db5fda931fdca6d54b3e646e19e962525b75b1ee84a64",
+    "origenZip": "CURVA-portadas/nueva-014-el-jinete-palido.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-che-guevara-una-vida-revolucionaria",
+    "titulo": "Che guevara una vida revolucionaria",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-che-guevara-una-vida-revolucionaria-1ce7e75294e0.png",
+    "sha256": "1ce7e75294e0e5e7543532efca3a95d5e3796b22b9c5956c76b53fbbbee58df6",
+    "origenZip": "CURVA-portadas/nueva-015-che-guevara-una-vida-revolucionaria.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-gomorra",
+    "titulo": "Gomorra",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-gomorra-beca07559b78.png",
+    "sha256": "beca07559b78a9c5ed36667687b754e963dbff69734fe23eaea7d46c6faf75aa",
+    "origenZip": "CURVA-portadas/nueva-022-gomorra.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-pablo-escobar-mi-padre",
+    "titulo": "Pablo escobar mi padre",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-pablo-escobar-mi-padre-2d0337c37190.png",
+    "sha256": "2d0337c371905f895243f9636f4813413c1f4ff74b8fea71edd818b387bb8232",
+    "origenZip": "CURVA-portadas/nueva-023-pablo-escobar-mi-padre.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-el-lobo-de-wall-street",
+    "titulo": "El lobo de wall street",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-el-lobo-de-wall-street-14ca4d0c1922.png",
+    "sha256": "14ca4d0c1922f36c4515d6b52464bfd17e9900a9750c01666fcf662ba8057b67",
+    "origenZip": "CURVA-portadas/nueva-024-el-lobo-de-wall-street.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-the-everything-store",
+    "titulo": "The everything store",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-the-everything-store-a483e7f3579e.png",
+    "sha256": "a483e7f3579e1aa851436d16398b161fb5ad03dc4c252ab984a98d9febe61ce4",
+    "origenZip": "CURVA-portadas/nueva-025-the-everything-store.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-samsung-rising",
+    "titulo": "Samsung rising",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-samsung-rising-4b73b3c2449b.png",
+    "sha256": "4b73b3c2449b231cacbec363c55c6892d41d612f25d02bc0197a2b53ff756343",
+    "origenZip": "CURVA-portadas/nueva-026-samsung-rising.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-asi-nacio-netflix",
+    "titulo": "Asi nacio netflix",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-asi-nacio-netflix-28e92f264b3a.png",
+    "sha256": "28e92f264b3a92a518f4e36e876c62bca48ac28aeb7f481c41e146ae9222653d",
+    "origenZip": "CURVA-portadas/nueva-027-asi-nacio-netflix.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-mala-sangre",
+    "titulo": "Mala sangre",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-mala-sangre-169f7adcc960.png",
+    "sha256": "169f7adcc96031912bf4b61b18e50d783f1143c2a7810c328ffe87907f6f2661",
+    "origenZip": "CURVA-portadas/nueva-028-mala-sangre.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-asi-es-amancio-ortega-el-hombre-que-creo-zara",
+    "titulo": "Asi es amancio ortega el hombre que creo zara",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-asi-es-amancio-ortega-el-hombre-que-creo-zara-4180fd84785f.png",
+    "sha256": "4180fd84785fd4999e63a4a523da07d66502ed9a1ea7c79cd4954f9e3aec9d7c",
+    "origenZip": "CURVA-portadas/nueva-029-asi-es-amancio-ortega-el-hombre-que-creo-zara.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-el-enemigo-conoce-el-sistema",
+    "titulo": "El enemigo conoce el sistema",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-el-enemigo-conoce-el-sistema-63bf9efcf70c.png",
+    "sha256": "63bf9efcf70c1e26fe278512d3708ab6a6853237832326d89bbd46d2a3bf35ca",
+    "origenZip": "CURVA-portadas/nueva-030-el-enemigo-conoce-el-sistema.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-armas-de-destruccion-matematica",
+    "titulo": "Armas de destruccion matematica",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-armas-de-destruccion-matematica-d5f6a339e58c.png",
+    "sha256": "d5f6a339e58c0484b248839e4a949641a1db07d4ca1ccec26eceb08d0d9cb6c4",
+    "origenZip": "CURVA-portadas/nueva-031-armas-de-destruccion-matematica.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-mis-inventos",
+    "titulo": "Mis inventos",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-mis-inventos-9117dc71cc28.png",
+    "sha256": "9117dc71cc28813a87d10471d56e728422fb68fd6e002c1eeea1a4996bbe28e6",
+    "origenZip": "CURVA-portadas/nueva-032-mis-inventos.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-oppenheimer-prometeo-americano",
+    "titulo": "Oppenheimer prometeo americano",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-oppenheimer-prometeo-americano-03af26c8f4b7.png",
+    "sha256": "03af26c8f4b7f02a53eb6db2ee7922c6f5a6fbaf1a24be54e90e5e9436312e33",
+    "origenZip": "CURVA-portadas/nueva-033-oppenheimer-prometeo-americano.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-el-universo-elegante",
+    "titulo": "El universo elegante",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-el-universo-elegante-ea68bc13030e.png",
+    "sha256": "ea68bc13030e9154ef3937c69d5f4930bbb02c6cad6b7325785f0ba9073b419c",
+    "origenZip": "CURVA-portadas/nueva-034-el-universo-elegante.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-la-especie-elegida",
+    "titulo": "La especie elegida",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-la-especie-elegida-1cee66b5f20d.png",
+    "sha256": "1cee66b5f20db8c56ff790f282ebffa41c3740021af760544cb58f24169e0254",
+    "origenZip": "CURVA-portadas/nueva-035-la-especie-elegida.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-el-coraje-de-no-gustar",
+    "titulo": "El coraje de no gustar",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-el-coraje-de-no-gustar-7a62723c9b59.png",
+    "sha256": "7a62723c9b598119c0d7d00ef8566d1acacc0115a1add1471d029c4eebdb2729",
+    "origenZip": "CURVA-portadas/nueva-036-el-coraje-de-no-gustar.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-el-siglo-de-la-soledad",
+    "titulo": "El siglo de la soledad",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-el-siglo-de-la-soledad-a39f97f8e1fe.png",
+    "sha256": "a39f97f8e1fe613132e78247af484436211f415f60e2047ee73986aadc7151e0",
+    "origenZip": "CURVA-portadas/nueva-037-el-siglo-de-la-soledad.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-hijos-de-padres-emocionalmente-inmaduros",
+    "titulo": "Hijos de padres emocionalmente inmaduros",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-hijos-de-padres-emocionalmente-inmaduros-06896d3df0e2.png",
+    "sha256": "06896d3df0e2dcc8cc4e2500c8e62371cd50f44c52439677ca420e32df200cce",
+    "origenZip": "CURVA-portadas/nueva-038-hijos-de-padres-emocionalmente-inmaduros.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-madres-que-no-saben-amar",
+    "titulo": "Madres que no saben amar",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-madres-que-no-saben-amar-498fcf48081e.png",
+    "sha256": "498fcf48081e25d6e806ef61ae53afe1f19c862abc1ef5c03837b1ba99d9baf6",
+    "origenZip": "CURVA-portadas/nueva-039-madres-que-no-saben-amar.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-el-libro-que-ojala-tus-padres-hubieran-leido",
+    "titulo": "El libro que ojala tus padres hubieran leido",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-el-libro-que-ojala-tus-padres-hubieran-leido-ad431c0bcd84.png",
+    "sha256": "ad431c0bcd8435cda9dbf36e7f194d87cf141bc51b6d3b531e1533ee35d0a224",
+    "origenZip": "CURVA-portadas/nueva-040-el-libro-que-ojala-tus-padres-hubieran-leido.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-autobiografia-de-un-yogui",
+    "titulo": "Autobiografia de un yogui",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-autobiografia-de-un-yogui-7e51380e4e6b.png",
+    "sha256": "7e51380e4e6b4e50bc08c458b8eb5af58e0635d294783536d79c465c3bef4727",
+    "origenZip": "CURVA-portadas/nueva-041-autobiografia-de-un-yogui.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-una-vida-con-proposito",
+    "titulo": "Una vida con proposito",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-una-vida-con-proposito-789282e65e04.png",
+    "sha256": "789282e65e04528bd8ac86b219870987b5f35071229014cd0f2cbeeaa522c4ac",
+    "origenZip": "CURVA-portadas/nueva-043-una-vida-con-proposito.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-conversaciones-con-dios",
+    "titulo": "Conversaciones con dios",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-conversaciones-con-dios-b46cd36f8cc0.png",
+    "sha256": "b46cd36f8cc02d954d1d23bc3e1a29f7144cf0f4d0b6fa1ec6b8a7ca0665d46e",
+    "origenZip": "CURVA-portadas/nueva-044-conversaciones-con-dios.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-amigos-amantes-y-aquello-tan-terrible",
+    "titulo": "Amigos amantes y aquello tan terrible",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-amigos-amantes-y-aquello-tan-terrible-e8cd3dc7906c.png",
+    "sha256": "e8cd3dc7906c21b28807a2024a5a3fa022b9a2771102a8257d5221d9c2b71e49",
+    "origenZip": "CURVA-portadas/nueva-045-amigos-amantes-y-aquello-tan-terrible.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-born-to-run",
+    "titulo": "Born to run",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-born-to-run-9be00794b7dd.png",
+    "sha256": "9be00794b7ddb7dade86985f86ecfc205e9d4141837e348d730bf27a68291e4b",
+    "origenZip": "CURVA-portadas/nueva-046-born-to-run.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-vida-con-picasso",
+    "titulo": "Vida con picasso",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-vida-con-picasso-f25fe59d3427.png",
+    "sha256": "f25fe59d3427b9030e4a74613a8d4060d4e4e369c5409cc1641bf4b514f3d529",
+    "origenZip": "CURVA-portadas/nueva-047-vida-con-picasso.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-el-cine-segun-hitchcock",
+    "titulo": "El cine segun hitchcock",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-el-cine-segun-hitchcock-f2a4e85e5397.png",
+    "sha256": "f2a4e85e53973b8b53393b2ccbb95c40c577f197575bf06221f42c0d9c8ec038",
+    "origenZip": "CURVA-portadas/nueva-048-el-cine-segun-hitchcock.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-el-padrino",
+    "titulo": "El padrino",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-el-padrino-34e9209d0701.png",
+    "sha256": "34e9209d0701e00a7d4aa181d7849800b0fa23ea509d8a4796d48d7cfa71c292",
+    "origenZip": "CURVA-portadas/nueva-049-el-padrino.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "aportada-el-problema-de-los-tres-cuerpos",
+    "titulo": "El problema de los tres cuerpos",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-el-problema-de-los-tres-cuerpos-08f24f3b4649.png",
+    "sha256": "08f24f3b464977fee3b5b51f7e688e74f318fc4997fa8965af093139c9a98167",
+    "origenZip": "CURVA-portadas/nueva-050-el-problema-de-los-tres-cuerpos.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "cruyff-14",
+    "titulo": "14. La autobiografía de Johan Cruyff",
+    "autor": "Johan Cruyff",
+    "archivo": "docs/assets/portadas-acumuladas-60/cruyff-14-b65568650762.png",
+    "sha256": "b65568650762d7f6ab72bdc2ac2d69293a6ef11e10357195a72636c90dd845cc",
+    "origenZip": "CURVA-portadas/nueva-052-14-la-autobiografia-cruyff.png",
+    "identificacion": "catalogo"
+  },
+  {
+    "id": "48-leyes-poder",
+    "titulo": "Las 48 leyes del poder",
+    "autor": "Robert Greene",
+    "archivo": "docs/assets/portadas-acumuladas-60/48-leyes-poder-69aeba64aaff.png",
+    "sha256": "69aeba64aaffc5a29de29504df9341bc50a6cb30fb9306bb05be4d96f816315b",
+    "origenZip": "CURVA-portadas/nueva-053-las-48-leyes-del-poder.png",
+    "identificacion": "catalogo"
+  },
+  {
+    "id": "no-me-puedes-lastimar",
+    "titulo": "No me puedes lastimar",
+    "autor": "David Goggins",
+    "archivo": "docs/assets/portadas-acumuladas-60/no-me-puedes-lastimar-e43fc501e40f.png",
+    "sha256": "e43fc501e40f5e50ab2116474bfbfea15894f1e4c4e7941e3c439c124de4a308",
+    "origenZip": "CURVA-portadas/nueva-054-no-me-puedes-lastimar.png",
+    "identificacion": "catalogo"
+  },
+  {
+    "id": "montana-eres-tu",
+    "titulo": "La montaña eres tú",
+    "autor": "Brianna Wiest",
+    "archivo": "docs/assets/portadas-acumuladas-60/montana-eres-tu-896ce9b7095b.png",
+    "sha256": "896ce9b7095b53179e2ee4796f7076425a2ac60b1c01ec82009f193028a466c6",
+    "origenZip": "CURVA-portadas/nueva-055-la-montana-eres-tu.png",
+    "identificacion": "catalogo"
+  },
+  {
+    "id": "muchas-vidas",
+    "titulo": "Muchas vidas, muchos maestros",
+    "autor": "Brian Weiss",
+    "archivo": "docs/assets/portadas-acumuladas-60/muchas-vidas-b7fb76195d3f.png",
+    "sha256": "b7fb76195d3f45ead0f5af045467dec3695bbfe326479390343e2910ec659309",
+    "origenZip": "CURVA-portadas/nueva-056-muchas-vidas-muchos-maestros.png",
+    "identificacion": "catalogo"
+  },
+  {
+    "id": "hitler-kershaw",
+    "titulo": "Hitler",
+    "autor": "Ian Kershaw",
+    "archivo": "docs/assets/portadas-acumuladas-60/hitler-kershaw-6dc510a1de87.png",
+    "sha256": "6dc510a1de87cf05414798f380b2b1e275a621dc4d8e30c3f37d5181d8e49d32",
+    "origenZip": "CURVA-portadas/nueva-057-hitler.png",
+    "identificacion": "catalogo"
+  },
+  {
+    "id": "aportada-auschwitz",
+    "titulo": "Auschwitz",
+    "autor": "",
+    "archivo": "docs/assets/portadas-acumuladas-60/aportada-auschwitz-b1aef7a0cf9d.png",
+    "sha256": "b1aef7a0cf9d7b10326abc02bf884a845057659cc18b950440f9e15b4bd69da2",
+    "origenZip": "CURVA-portadas/nueva-058-auschwitz.png",
+    "identificacion": "titulo-del-archivo"
+  },
+  {
+    "id": "stalingrado",
+    "titulo": "Stalingrado",
+    "autor": "Antony Beevor",
+    "archivo": "docs/assets/portadas-acumuladas-60/stalingrado-4b23e37ab0bc.png",
+    "sha256": "4b23e37ab0bc4c9a6b2c5cc581406fa227ce2fa66d596fe2eea1512b1edb0f9d",
+    "origenZip": "CURVA-portadas/nueva-059-stalingrado.png",
+    "identificacion": "catalogo"
+  },
+  {
+    "id": "dopamina-nacion",
+    "titulo": "Dopamina nación",
+    "autor": "Anna Lembke",
+    "archivo": "docs/assets/portadas-acumuladas-60/dopamina-nacion-c538d3312cda.png",
+    "sha256": "c538d3312cdaf4e49a8aec101794c8a7a8b5beeede382a569c5fdd27be3ec39e",
+    "origenZip": "CURVA-portadas/nueva-060-dopamina-nacion.png",
+    "identificacion": "catalogo"
+  }
+]
