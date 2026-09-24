@@ -17,7 +17,7 @@ era una app entera, pero con 114 resúmenes, y activarlo esconde los 247 nuevos.
 
 ## Y al lado está el paquete de esta sesión
 
-`docs/assets/index-DVNhRIEM.js`, compilado desde `prototipo-microaprendizaje`
+`docs/assets/index-CnFsQvfk.js`, compilado desde `prototipo-microaprendizaje`
 con `npx vite build --config vite.web.config.mjs`. Lleva los mismos 361
 resúmenes y **dos cosas que el de la raíz no tiene**:
 
@@ -37,7 +37,7 @@ resúmenes y **dos cosas que el de la raíz no tiene**:
 que la raíz sirva este otro paquete basta cambiar esa línea del `<head>` de
 `docs/index.html`:
 
-    <script type="module" crossorigin src="./assets/index-DVNhRIEM.js"></script>
+    <script type="module" crossorigin src="./assets/index-CnFsQvfk.js"></script>
 
 Y al revés para volver al de la otra sesión.
 
@@ -64,6 +64,18 @@ tandas nuevas (`yeah`, acumuladas, tanda 120-159, rondas 1-7, últimas 94,
 finanzas y recientes 25). Donde Pablo mandó tres variantes —Original, Ligero y
 Medio— va la primera del comparador; si él eligió otra con «♡ Elegir», esa
 elección vive en su navegador y hay que pedirle el ZIP.
+
+Y desde la noche del 24, **la revisión para sacar la app**: la bienvenida sale
+solo la primera vez y la app recuerda las metas; la racha, el récord, la
+gráfica y los minutos del perfil son los de verdad y no los de ejemplo (siguen
+con `?demo`); fuera los capítulos de prueba del prototipo y el «Seguir
+leyendo» de un libro que no se ha abierto; los enlaces de «Términos» y
+«Privacidad» abren sus hojas; y los sellos «Claude» y «Nuevo», el contador del
+catálogo y el pie técnico del perfil solo salen con `?revision`.
+
+**Ojo, para el lanzamiento**: la raíz sigue sirviendo el paquete del 22 de
+septiembre, con 361 resúmenes y sin nada de lo de arriba. Y `docs/` pasa de
+1,8 GB con 72 paquetes viejos, por encima del giga que admite GitHub Pages.
 
 ## Una advertencia para quien compile
 
