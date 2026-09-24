@@ -30,6 +30,7 @@ tanda40=json.loads((ROOT/'referencias/portadas/tanda-120-159-2026-09-24/Catalogo
 data['tanda40']=[{'id':b['id'],'titulo':b['titulo'],'autor':b['autor'],'archivo':'./'+b['archivo'][5:],'marca':'Curva','lote40':True,'sinDobleAdicional':True} for b in tanda40 if b['id'] in ids]
 acumuladas=json.loads((ROOT/'referencias/portadas/acumuladas-60-2026-09-24/Catalogo.json').read_text())
 data['acumuladas60']=[{'id':b['id'],'titulo':b['titulo'],'autor':b['autor'],'archivo':'./'+b['archivo'][5:],'marca':'Curva','lote60':True,'sinDobleAdicional':True,'resumen':b['id'] in ids} for b in acumuladas]
+data['yeah']=json.loads((ROOT/'referencias/portadas/yeah-2026-09-24/Catalogo.json').read_text())
 data['fecha']='2026-09-24'
 source=source[:start]+json.dumps(data,ensure_ascii=False,separators=(',',':'))+source[start+length:]
 page.write_text(source)

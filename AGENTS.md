@@ -32,3 +32,5 @@ Actualización posterior: incluir también CURVA-ultimas-versiones.zip entre las
 Incorporada CURVA-tanda-120-159.zip: 40 nuevas; total 358 de los 361 libros con resumen. Registro en referencias/portadas/tanda-120-159-2026-09-24/.
 
 Acumuladas-60: mostrar también las 57 adicionales en el comparador por petición de ver todas; no inventar autores o resúmenes. Los 361 libros con resumen tienen portada nueva. Control compartido de tamaño en ambas colecciones.
+
+ZIP YEAHHH/YEAHHH1/YEAHHHH12/YEEEEE/YEEEEEEEEEEH: 113 entradas, 110 imágenes únicas, 50 archivos nuevos. Conservar alternativas distintas por libro y permitir elegir con Ver versiones; duplicados exactos reutilizados. Registro: referencias/portadas/yeah-2026-09-24/. Selecciones locales, una por libro, exportables a ZIP.

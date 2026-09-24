@@ -1,0 +1,1884 @@
+[
+  {
+    "id": "mundo-sofia",
+    "titulo": "El mundo de Sofía",
+    "autor": "Jostein Gaarder",
+    "archivo": "./assets/portadas-acumuladas-60/mundo-sofia-d55c4ce3e335.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "d55c4ce3e335c6c86b4d5875b40839af9b82cdf18ed8d03b5039036f72f441c4",
+    "fuentes": [
+      {
+        "zip": "YEAHHH.zip",
+        "archivo": "CURVA-nueva-coleccion-desde-pulpo/118-el-mundo-de-sofia.png"
+      },
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/118-el-mundo-de-sofia.png"
+      }
+    ]
+  },
+  {
+    "id": "mundo-demonios",
+    "titulo": "El mundo y sus demonios",
+    "autor": "Carl Sagan",
+    "archivo": "./assets/portadas-acumuladas-60/mundo-demonios-19eca87be90e.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "19eca87be90e8ef56c57bf3052f0f1992eb8f07116aceaf45e337e8a9079ea2b",
+    "fuentes": [
+      {
+        "zip": "YEAHHH.zip",
+        "archivo": "CURVA-nueva-coleccion-desde-pulpo/119-el-mundo-y-sus-demonios.png"
+      },
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/119-el-mundo-y-sus-demonios.png"
+      }
+    ]
+  },
+  {
+    "id": "deja-de-chingarte",
+    "titulo": "¡Deja de chingarte!",
+    "autor": "Gary John Bishop",
+    "archivo": "./assets/portadas-acumuladas-60/deja-de-chingarte-cd7e11bfed31.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "cd7e11bfed3150a384faa7fb6ab74db6f7b6b6b4b98f2df1186af220e3aead14",
+    "fuentes": [
+      {
+        "zip": "YEAHHH.zip",
+        "archivo": "CURVA-nueva-coleccion-desde-pulpo/056-deja-de-chingarte.png"
+      },
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/056-deja-de-chingarte.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-cristiano-ronaldo",
+    "titulo": "Cristiano ronaldo",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-cristiano-ronaldo-f37734179e86.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "f37734179e86eca152b630e18475a2313aa74ca8329a9d4b2db846b5b1df3f5a",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/deportes-historia-01-cristiano-ronaldo.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-los-angeles-blancos",
+    "titulo": "Los angeles blancos",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-los-angeles-blancos-462b6fa8bb82.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "462b6fa8bb82be31d03743a62cf72f4c57af7ccf0da25bdd07026e0efb0d375f",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/deportes-historia-03-los-angeles-blancos.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-herr-pep",
+    "titulo": "Herr pep",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-herr-pep-d21ffb008ac3.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "d21ffb008ac371acd163448c3d93c5cff7b9945fe859996bc9dd568cfa480ea7",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/deportes-historia-04-herr-pep.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-liderazgo",
+    "titulo": "Liderazgo",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-liderazgo-e07f6f5aafc7.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "e07f6f5aafc72982c94352fb753937106f889fc321c2ec2b2f8b880669806bc2",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/deportes-historia-05-liderazgo.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-la-jugada-de-mi-vida",
+    "titulo": "La jugada de mi vida",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-la-jugada-de-mi-vida-7bf9eb99b8c6.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "7bf9eb99b8c620b63a0d4ec6db60f5962400a61b4a774ccd8ea64510d53278d2",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/deportes-historia-06-la-jugada-de-mi-vida.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-the-master",
+    "titulo": "The master",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-the-master-b44bb24c7174.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "b44bb24c7174f7ffb67230c342bba8b5c73aab9f3af38a18ce22d6c450c2b5db",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/deportes-historia-07-the-master.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-michael-jordan-la-vida",
+    "titulo": "Michael jordan la vida",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-michael-jordan-la-vida-8d4281d3b3cd.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "8d4281d3b3cd4b2e27da08c7fd934f3738fd5b3e6c4439e76a559d5954f51683",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/deportes-historia-08-michael-jordan-la-vida.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-sirve-para-ganar",
+    "titulo": "Sirve para ganar",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-sirve-para-ganar-3e1e9538ef18.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "3e1e9538ef1896f7f826e69b484ea41b1e065fefe95fe816073ae3d5f9a3df01",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/deportes-historia-09-sirve-para-ganar.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-el-crac-del-29",
+    "titulo": "El crac del 29",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-el-crac-del-29-3562d756e97b.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "3562d756e97bd900d61c6c52686886c4de17c23b61b039a88fa1bb3ce4983c04",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/deportes-historia-10-el-crac-del-29.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-la-torre-elevada",
+    "titulo": "La torre elevada",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-la-torre-elevada-b874b912a2bd.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "b874b912a2bd3614a04a58d1ad484f9111cee56c2554de4bb8b2b37aa0af4ae9",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/deportes-historia-11-la-torre-elevada.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-medianoche-en-chernobil",
+    "titulo": "Medianoche en chernobil",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-medianoche-en-chernobil-4ea56de74722.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "4ea56de7472248cd261a0078f1d41e71ec0fd8defd48aa0402b70b287fc5dd78",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/deportes-historia-12-medianoche-en-chernobil.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-una-noche-para-recordar",
+    "titulo": "Una noche para recordar",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-una-noche-para-recordar-c1493bacdc70.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "c1493bacdc70e429150756d791f58139a9055ef2ba24cc32429bb9034c500a07",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/deportes-historia-13-una-noche-para-recordar.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-hiroshima",
+    "titulo": "Hiroshima",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-hiroshima-c659b021fc7b.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "c659b021fc7b05d68d9183a118ca05ca602fe40d560d7e3ca9bcc408b92b206a",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/deportes-historia-14-hiroshima.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-anatomia-de-un-instante",
+    "titulo": "Anatomia de un instante",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-anatomia-de-un-instante-b8b6a00f679e.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "b8b6a00f679edccd9d2bcb94f722feffa703901c5b121562314ee5781f852dfc",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/deportes-historia-15-anatomia-de-un-instante.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-el-primer-hombre",
+    "titulo": "El primer hombre",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-el-primer-hombre-52a394f3993d.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "52a394f3993d70873e81146d45089426a4e85f75e3dc688fcf1d8d90b3c22d0a",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-010-el-primer-hombre.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-nada-que-envidiar",
+    "titulo": "Nada que envidiar",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-nada-que-envidiar-a8ffaf6ad690.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "a8ffaf6ad69090937296a90b8881b44359e18abdad6782d0590ac6da08b22ca8",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-011-nada-que-envidiar.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-el-hombre-sin-rostro",
+    "titulo": "El hombre sin rostro",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-el-hombre-sin-rostro-968fd60c48cd.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "968fd60c48cd3a6bc1bd24baa5ca9b2200b2f6d1ee6a25f51abea914681873d0",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-012-el-hombre-sin-rostro.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-gengis-kan-y-el-inicio-del-mundo-moderno",
+    "titulo": "Gengis kan y el inicio del mundo moderno",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-gengis-kan-y-el-inicio-del-mundo-moderno-3f3eda6a1e59.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "3f3eda6a1e59e8647f1af997f029cdaa71efdffbea2c7caf01f1053d43da250d",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-013-gengis-kan-y-el-inicio-del-mundo-moderno.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-el-jinete-palido",
+    "titulo": "El jinete palido",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-el-jinete-palido-fcec55b16e52.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "fcec55b16e52cf42be7db5fda931fdca6d54b3e646e19e962525b75b1ee84a64",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-014-el-jinete-palido.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-che-guevara-una-vida-revolucionaria",
+    "titulo": "Che guevara una vida revolucionaria",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-che-guevara-una-vida-revolucionaria-1ce7e75294e0.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "1ce7e75294e0e5e7543532efca3a95d5e3796b22b9c5956c76b53fbbbee58df6",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-015-che-guevara-una-vida-revolucionaria.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-gomorra",
+    "titulo": "Gomorra",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-gomorra-beca07559b78.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "beca07559b78a9c5ed36667687b754e963dbff69734fe23eaea7d46c6faf75aa",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-022-gomorra.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-pablo-escobar-mi-padre",
+    "titulo": "Pablo escobar mi padre",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-pablo-escobar-mi-padre-2d0337c37190.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "2d0337c371905f895243f9636f4813413c1f4ff74b8fea71edd818b387bb8232",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-023-pablo-escobar-mi-padre.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-el-lobo-de-wall-street",
+    "titulo": "El lobo de wall street",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-el-lobo-de-wall-street-14ca4d0c1922.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "14ca4d0c1922f36c4515d6b52464bfd17e9900a9750c01666fcf662ba8057b67",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-024-el-lobo-de-wall-street.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-the-everything-store",
+    "titulo": "The everything store",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-the-everything-store-a483e7f3579e.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "a483e7f3579e1aa851436d16398b161fb5ad03dc4c252ab984a98d9febe61ce4",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-025-the-everything-store.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-samsung-rising",
+    "titulo": "Samsung rising",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-samsung-rising-4b73b3c2449b.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "4b73b3c2449b231cacbec363c55c6892d41d612f25d02bc0197a2b53ff756343",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-026-samsung-rising.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-asi-nacio-netflix",
+    "titulo": "Asi nacio netflix",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-asi-nacio-netflix-28e92f264b3a.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "28e92f264b3a92a518f4e36e876c62bca48ac28aeb7f481c41e146ae9222653d",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-027-asi-nacio-netflix.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-mala-sangre",
+    "titulo": "Mala sangre",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-mala-sangre-169f7adcc960.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "169f7adcc96031912bf4b61b18e50d783f1143c2a7810c328ffe87907f6f2661",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-028-mala-sangre.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-asi-es-amancio-ortega-el-hombre-que-creo-zara",
+    "titulo": "Asi es amancio ortega el hombre que creo zara",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-asi-es-amancio-ortega-el-hombre-que-creo-zara-4180fd84785f.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "4180fd84785fd4999e63a4a523da07d66502ed9a1ea7c79cd4954f9e3aec9d7c",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-029-asi-es-amancio-ortega-el-hombre-que-creo-zara.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-el-enemigo-conoce-el-sistema",
+    "titulo": "El enemigo conoce el sistema",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-el-enemigo-conoce-el-sistema-63bf9efcf70c.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "63bf9efcf70c1e26fe278512d3708ab6a6853237832326d89bbd46d2a3bf35ca",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-030-el-enemigo-conoce-el-sistema.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-armas-de-destruccion-matematica",
+    "titulo": "Armas de destruccion matematica",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-armas-de-destruccion-matematica-d5f6a339e58c.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "d5f6a339e58c0484b248839e4a949641a1db07d4ca1ccec26eceb08d0d9cb6c4",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-031-armas-de-destruccion-matematica.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-mis-inventos",
+    "titulo": "Mis inventos",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-mis-inventos-9117dc71cc28.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "9117dc71cc28813a87d10471d56e728422fb68fd6e002c1eeea1a4996bbe28e6",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-032-mis-inventos.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-oppenheimer-prometeo-americano",
+    "titulo": "Oppenheimer prometeo americano",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-oppenheimer-prometeo-americano-03af26c8f4b7.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "03af26c8f4b7f02a53eb6db2ee7922c6f5a6fbaf1a24be54e90e5e9436312e33",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-033-oppenheimer-prometeo-americano.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-el-universo-elegante",
+    "titulo": "El universo elegante",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-el-universo-elegante-ea68bc13030e.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "ea68bc13030e9154ef3937c69d5f4930bbb02c6cad6b7325785f0ba9073b419c",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-034-el-universo-elegante.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-la-especie-elegida",
+    "titulo": "La especie elegida",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-la-especie-elegida-1cee66b5f20d.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "1cee66b5f20db8c56ff790f282ebffa41c3740021af760544cb58f24169e0254",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-035-la-especie-elegida.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-el-coraje-de-no-gustar",
+    "titulo": "El coraje de no gustar",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-el-coraje-de-no-gustar-7a62723c9b59.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "7a62723c9b598119c0d7d00ef8566d1acacc0115a1add1471d029c4eebdb2729",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-036-el-coraje-de-no-gustar.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-el-siglo-de-la-soledad",
+    "titulo": "El siglo de la soledad",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-el-siglo-de-la-soledad-a39f97f8e1fe.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "a39f97f8e1fe613132e78247af484436211f415f60e2047ee73986aadc7151e0",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-037-el-siglo-de-la-soledad.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-hijos-de-padres-emocionalmente-inmaduros",
+    "titulo": "Hijos de padres emocionalmente inmaduros",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-hijos-de-padres-emocionalmente-inmaduros-06896d3df0e2.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "06896d3df0e2dcc8cc4e2500c8e62371cd50f44c52439677ca420e32df200cce",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-038-hijos-de-padres-emocionalmente-inmaduros.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-madres-que-no-saben-amar",
+    "titulo": "Madres que no saben amar",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-madres-que-no-saben-amar-498fcf48081e.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "498fcf48081e25d6e806ef61ae53afe1f19c862abc1ef5c03837b1ba99d9baf6",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-039-madres-que-no-saben-amar.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-el-libro-que-ojala-tus-padres-hubieran-leido",
+    "titulo": "El libro que ojala tus padres hubieran leido",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-el-libro-que-ojala-tus-padres-hubieran-leido-ad431c0bcd84.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "ad431c0bcd8435cda9dbf36e7f194d87cf141bc51b6d3b531e1533ee35d0a224",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-040-el-libro-que-ojala-tus-padres-hubieran-leido.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-autobiografia-de-un-yogui",
+    "titulo": "Autobiografia de un yogui",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-autobiografia-de-un-yogui-7e51380e4e6b.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "7e51380e4e6b4e50bc08c458b8eb5af58e0635d294783536d79c465c3bef4727",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-041-autobiografia-de-un-yogui.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-una-vida-con-proposito",
+    "titulo": "Una vida con proposito",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-una-vida-con-proposito-789282e65e04.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "789282e65e04528bd8ac86b219870987b5f35071229014cd0f2cbeeaa522c4ac",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-043-una-vida-con-proposito.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-conversaciones-con-dios",
+    "titulo": "Conversaciones con dios",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-conversaciones-con-dios-b46cd36f8cc0.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "b46cd36f8cc02d954d1d23bc3e1a29f7144cf0f4d0b6fa1ec6b8a7ca0665d46e",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-044-conversaciones-con-dios.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-amigos-amantes-y-aquello-tan-terrible",
+    "titulo": "Amigos amantes y aquello tan terrible",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-amigos-amantes-y-aquello-tan-terrible-e8cd3dc7906c.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "e8cd3dc7906c21b28807a2024a5a3fa022b9a2771102a8257d5221d9c2b71e49",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-045-amigos-amantes-y-aquello-tan-terrible.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-born-to-run",
+    "titulo": "Born to run",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-born-to-run-9be00794b7dd.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "9be00794b7ddb7dade86985f86ecfc205e9d4141837e348d730bf27a68291e4b",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-046-born-to-run.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-vida-con-picasso",
+    "titulo": "Vida con picasso",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-vida-con-picasso-f25fe59d3427.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "f25fe59d3427b9030e4a74613a8d4060d4e4e369c5409cc1641bf4b514f3d529",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-047-vida-con-picasso.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-el-cine-segun-hitchcock",
+    "titulo": "El cine segun hitchcock",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-el-cine-segun-hitchcock-f2a4e85e5397.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "f2a4e85e53973b8b53393b2ccbb95c40c577f197575bf06221f42c0d9c8ec038",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-048-el-cine-segun-hitchcock.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-el-padrino",
+    "titulo": "El padrino",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-el-padrino-34e9209d0701.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "34e9209d0701e00a7d4aa181d7849800b0fa23ea509d8a4796d48d7cfa71c292",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-049-el-padrino.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-el-problema-de-los-tres-cuerpos",
+    "titulo": "El problema de los tres cuerpos",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-el-problema-de-los-tres-cuerpos-08f24f3b4649.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "08f24f3b464977fee3b5b51f7e688e74f318fc4997fa8965af093139c9a98167",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-050-el-problema-de-los-tres-cuerpos.png"
+      }
+    ]
+  },
+  {
+    "id": "cruyff-14",
+    "titulo": "14. La autobiografía de Johan Cruyff",
+    "autor": "Johan Cruyff",
+    "archivo": "./assets/portadas-acumuladas-60/cruyff-14-b65568650762.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "b65568650762d7f6ab72bdc2ac2d69293a6ef11e10357195a72636c90dd845cc",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-052-14-la-autobiografia-cruyff.png"
+      }
+    ]
+  },
+  {
+    "id": "48-leyes-poder",
+    "titulo": "Las 48 leyes del poder",
+    "autor": "Robert Greene",
+    "archivo": "./assets/portadas-acumuladas-60/48-leyes-poder-69aeba64aaff.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "69aeba64aaffc5a29de29504df9341bc50a6cb30fb9306bb05be4d96f816315b",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-053-las-48-leyes-del-poder.png"
+      }
+    ]
+  },
+  {
+    "id": "no-me-puedes-lastimar",
+    "titulo": "No me puedes lastimar",
+    "autor": "David Goggins",
+    "archivo": "./assets/portadas-acumuladas-60/no-me-puedes-lastimar-e43fc501e40f.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "e43fc501e40f5e50ab2116474bfbfea15894f1e4c4e7941e3c439c124de4a308",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-054-no-me-puedes-lastimar.png"
+      }
+    ]
+  },
+  {
+    "id": "montana-eres-tu",
+    "titulo": "La montaña eres tú",
+    "autor": "Brianna Wiest",
+    "archivo": "./assets/portadas-acumuladas-60/montana-eres-tu-896ce9b7095b.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "896ce9b7095b53179e2ee4796f7076425a2ac60b1c01ec82009f193028a466c6",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-055-la-montana-eres-tu.png"
+      }
+    ]
+  },
+  {
+    "id": "muchas-vidas",
+    "titulo": "Muchas vidas, muchos maestros",
+    "autor": "Brian Weiss",
+    "archivo": "./assets/portadas-acumuladas-60/muchas-vidas-b7fb76195d3f.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "b7fb76195d3f45ead0f5af045467dec3695bbfe326479390343e2910ec659309",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-056-muchas-vidas-muchos-maestros.png"
+      }
+    ]
+  },
+  {
+    "id": "hitler-kershaw",
+    "titulo": "Hitler",
+    "autor": "Ian Kershaw",
+    "archivo": "./assets/portadas-acumuladas-60/hitler-kershaw-6dc510a1de87.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "6dc510a1de87cf05414798f380b2b1e275a621dc4d8e30c3f37d5181d8e49d32",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-057-hitler.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-auschwitz",
+    "titulo": "Auschwitz",
+    "autor": "",
+    "archivo": "./assets/portadas-acumuladas-60/aportada-auschwitz-b1aef7a0cf9d.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "b1aef7a0cf9d7b10326abc02bf884a845057659cc18b950440f9e15b4bd69da2",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-058-auschwitz.png"
+      }
+    ]
+  },
+  {
+    "id": "stalingrado",
+    "titulo": "Stalingrado",
+    "autor": "Antony Beevor",
+    "archivo": "./assets/portadas-acumuladas-60/stalingrado-4b23e37ab0bc.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "4b23e37ab0bc4c9a6b2c5cc581406fa227ce2fa66d596fe2eea1512b1edb0f9d",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-059-stalingrado.png"
+      }
+    ]
+  },
+  {
+    "id": "dopamina-nacion",
+    "titulo": "Dopamina nación",
+    "autor": "Anna Lembke",
+    "archivo": "./assets/portadas-acumuladas-60/dopamina-nacion-c538d3312cda.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "c538d3312cdaf4e49a8aec101794c8a7a8b5beeede382a569c5fdd27be3ec39e",
+    "fuentes": [
+      {
+        "zip": "YEAHHH1.zip",
+        "archivo": "CURVA-portadas/nueva-060-dopamina-nacion.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-la-sociedad-de-la-nieve",
+    "titulo": "La sociedad de la nieve",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-la-sociedad-de-la-nieve-f4627c59da9f.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Ligero",
+    "sha256": "f4627c59da9f1eb18766ccb8f5a30ceab07a40e7a830422f07ce23bfaa8d2621",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Ligero/01 - La sociedad de la nieve.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-la-sociedad-de-la-nieve",
+    "titulo": "La sociedad de la nieve",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-la-sociedad-de-la-nieve-b54c180e8a8a.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Medio",
+    "sha256": "b54c180e8a8a3ef308225693e2c6767a99b17916325cfd1aaaf374a613c115c7",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Medio/01 - La sociedad de la nieve.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-hermanos-de-sangre",
+    "titulo": "Hermanos de sangre",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-hermanos-de-sangre-f9ed1676911b.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Ligero",
+    "sha256": "f9ed1676911b1e862b54366c3c16441298596f4bccb24b47687920bdd8dd6338",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Ligero/02 - Hermanos de sangre.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-hermanos-de-sangre",
+    "titulo": "Hermanos de sangre",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-hermanos-de-sangre-1e6333899790.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Medio",
+    "sha256": "1e6333899790d22f1acf0447f67bfd2ee55dfbb72935c4e9201bf9145217ccd7",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Medio/02 - Hermanos de sangre.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-todos-los-hombres-del-presidente",
+    "titulo": "Todos los hombres del presidente",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-todos-los-hombres-del-presidente-8d553c9a7568.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Ligero",
+    "sha256": "8d553c9a75684e779864fc826e48ba99859bdd68d33e08055df6a7849c48f3c0",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Ligero/03 - Todos los hombres del presidente.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-todos-los-hombres-del-presidente",
+    "titulo": "Todos los hombres del presidente",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-todos-los-hombres-del-presidente-6df24dfccfec.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Medio",
+    "sha256": "6df24dfccfec04da7feaba90e899864f51a98df16264ac6cc190c86d1f3ea014",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Medio/03 - Todos los hombres del presidente.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-stasiland",
+    "titulo": "Stasiland",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-stasiland-31f5f7886049.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Ligero",
+    "sha256": "31f5f78860491159ec9a5a77dc9ceea219af0114a5384133d82817a6d7523793",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Ligero/04 - Stasiland.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-stasiland",
+    "titulo": "Stasiland",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-stasiland-6cd200383a5e.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Medio",
+    "sha256": "6cd200383a5e3096e7da96337d96114e8e1e3ef56d691672e07c7bd04f5ffa50",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Medio/04 - Stasiland.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-stalin-la-corte-del-zar-rojo",
+    "titulo": "Stalin la corte del zar rojo",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-stalin-la-corte-del-zar-rojo-35957ca88e33.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Medio",
+    "sha256": "35957ca88e336a92a602194700a925713f86211148fdfe4f2c8a98ab6318c5f0",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Medio/05 - Stalin la corte del zar rojo.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-stalin-la-corte-del-zar-rojo",
+    "titulo": "Stalin la corte del zar rojo",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-stalin-la-corte-del-zar-rojo-a539b2afbd6e.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Ligero",
+    "sha256": "a539b2afbd6e654a5be871f947a79c8fb4a2af3928031e390e99f580046e2380",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Ligero/05 - Stalin la corte del zar rojo.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-diana-su-verdadera-historia",
+    "titulo": "Diana su verdadera historia",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-diana-su-verdadera-historia-5a007a5406f0.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Ligero",
+    "sha256": "5a007a5406f07877ba13712b302c658041593832f9909227dc9e2f729c7bb1bd",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Ligero/06 - Diana su verdadera historia.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-diana-su-verdadera-historia",
+    "titulo": "Diana su verdadera historia",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-diana-su-verdadera-historia-51a2166000bd.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Medio",
+    "sha256": "51a2166000bdfe130db5e484a7268b2b44139f2cd6060a02b650e893b65d0870",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Medio/06 - Diana su verdadera historia.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-los-senores-del-narco",
+    "titulo": "Los señores del narco",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-los-senores-del-narco-bd86427e5731.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Ligero",
+    "sha256": "bd86427e5731bf3fb4515c59425ce7e271f49274d5843f3d20535049f953bef7",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Ligero/07 - Los señores del narco.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-los-senores-del-narco",
+    "titulo": "Los señores del narco",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-los-senores-del-narco-01a68f84c52c.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Medio",
+    "sha256": "01a68f84c52cd7ed12cea26e5c163a6e56b29597e9e6b7193984f0217c8618fd",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Medio/07 - Los señores del narco.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-multimillonarios-por-accidente",
+    "titulo": "Multimillonarios por accidente",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-multimillonarios-por-accidente-e042c06268c5.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Ligero",
+    "sha256": "e042c06268c582c7b41b790987fa6d00203513553975dda646f88d0f9f8b7781",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Ligero/08 - Multimillonarios por accidente.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-multimillonarios-por-accidente",
+    "titulo": "Multimillonarios por accidente",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-multimillonarios-por-accidente-c9d4228fa96b.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Medio",
+    "sha256": "c9d4228fa96b4e27b770a81b2e07a3d25306f703c63c6fcc1b13d41d16705338",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Medio/08 - Multimillonarios por accidente.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-area-51",
+    "titulo": "Área 51",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-area-51-02dbc27f8470.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Medio",
+    "sha256": "02dbc27f84700dcd1a4f1e02cb5507d07fcb7ee3b61877e01c224007bcbfc807",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Medio/09 - Área 51.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-area-51",
+    "titulo": "Área 51",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-area-51-4686ba275d01.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Ligero",
+    "sha256": "4686ba275d010e52902c06e7d1af4f1f7eec8f548f65c6b18c7408ee68ceb880",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Ligero/09 - Área 51.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-que-pasaria-si",
+    "titulo": "Qué pasaría si",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-que-pasaria-si-5a9070a82947.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Ligero",
+    "sha256": "5a9070a8294710dc0b541b6bb876914c32faa83210471cbe2b983ec8c55e215a",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Ligero/10 - Qué pasaría si.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-que-pasaria-si",
+    "titulo": "Qué pasaría si",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-que-pasaria-si-18a998b8dbff.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Medio",
+    "sha256": "18a998b8dbff6de6a059d98892b860c743a3c1b53a6c7d8f2c428a9e81d07bb9",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Medio/10 - Qué pasaría si.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-meditaciones-de-cine",
+    "titulo": "Meditaciones de cine",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-meditaciones-de-cine-710c3d0bf934.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Ligero",
+    "sha256": "710c3d0bf93458b8f557bb932e20bcadb97998e6b1eb224e55728051f231df8f",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Ligero/11 - Meditaciones de cine.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-meditaciones-de-cine",
+    "titulo": "Meditaciones de cine",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-meditaciones-de-cine-59712af0ceb1.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Medio",
+    "sha256": "59712af0ceb135f23a3007a9703884a9cc7eefc98655da9de7ce38c3f0449c1b",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Medio/11 - Meditaciones de cine.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-el-zelote",
+    "titulo": "El zelote",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-el-zelote-3204be00d984.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Ligero",
+    "sha256": "3204be00d984cfab22ce05e7ea5e5f1acbc96039fea41c2b228787d8b0e72eca",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Ligero/12 - El zelote.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-el-zelote",
+    "titulo": "El zelote",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-el-zelote-d2628242684d.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Medio",
+    "sha256": "d2628242684da7607931a1b7d71cad1c6e5d149162f3269e46f83b92c5f5950f",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Medio/12 - El zelote.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-entre-la-espada-y-la-pared",
+    "titulo": "Entre la espada y la pared",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-entre-la-espada-y-la-pared-dc14b1799965.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Ligero",
+    "sha256": "dc14b179996534c4311e0fee955379ee220e7dd1c7b60c1037e140c3e912c26e",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Ligero/13 - Entre la espada y la pared.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-entre-la-espada-y-la-pared",
+    "titulo": "Entre la espada y la pared",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-entre-la-espada-y-la-pared-364a988b6437.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Medio",
+    "sha256": "364a988b6437920b89daaeaa82f8d8d1d6e0a0fba534df49366bcc3394a240e6",
+    "fuentes": [
+      {
+        "zip": "YEAHHHH12.zip",
+        "archivo": "Medio/13 - Entre la espada y la pared.png"
+      }
+    ]
+  },
+  {
+    "id": "1984",
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "archivo": "./assets/portadas-yeah/1984-9f7b3f1b1127.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "9f7b3f1b1127139bcb205bb9b9351c2af0ff23e0a2e079667ba41cd9b18831ca",
+    "fuentes": [
+      {
+        "zip": "YEEEEE.zip",
+        "archivo": "CURVA-tanda-suave-11/suaves-01-1984.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-a-sangre-fria",
+    "titulo": "A sangre fria",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-a-sangre-fria-1aec9b59c14d.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "1aec9b59c14ddef4f09e9562e0c9600901a458668c69b151f5ddde7474653b21",
+    "fuentes": [
+      {
+        "zip": "YEEEEE.zip",
+        "archivo": "CURVA-tanda-suave-11/suaves-02-a-sangre-fria.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-como-mueren-las-democracias",
+    "titulo": "Como mueren las democracias",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-como-mueren-las-democracias-381310ce4500.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "381310ce4500658aea22ff859f8046a72d3fa211c0c9211e7862569c9e5c8379",
+    "fuentes": [
+      {
+        "zip": "YEEEEE.zip",
+        "archivo": "CURVA-tanda-suave-11/suaves-03-como-mueren-las-democracias.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-todos-deberiamos-ser-feministas",
+    "titulo": "Todos deberiamos ser feministas",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-todos-deberiamos-ser-feministas-cd389773d914.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "cd389773d9145a205aaeff15841a528cb3437473e348ece226bcbe2adee225a5",
+    "fuentes": [
+      {
+        "zip": "YEEEEE.zip",
+        "archivo": "CURVA-tanda-suave-11/suaves-04-todos-deberiamos-ser-feministas.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-como-evitar-un-desastre-climatico",
+    "titulo": "Como evitar un desastre climatico",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-como-evitar-un-desastre-climatico-c3a3c44e72d2.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "c3a3c44e72d29f857bd1455b5d947e21314b9b2327ddcab540e06abd8e10c35d",
+    "fuentes": [
+      {
+        "zip": "YEEEEE.zip",
+        "archivo": "CURVA-tanda-suave-11/suaves-05-como-evitar-un-desastre-climatico.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-sangre-sudor-y-pixeles",
+    "titulo": "Sangre sudor y pixeles",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-sangre-sudor-y-pixeles-ccef16ad6ccb.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "ccef16ad6ccb3627e82b47aaa93226a860773a392c377ead6156bc47f9f49aa9",
+    "fuentes": [
+      {
+        "zip": "YEEEEE.zip",
+        "archivo": "CURVA-tanda-suave-11/suaves-06-sangre-sudor-y-pixeles.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-una-historia-de-dios",
+    "titulo": "Una historia de dios",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-una-historia-de-dios-a9944d526273.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "a9944d5262739c64dc95fdd8fd0a72f23d85f495f820f758c3b535971c0e57dc",
+    "fuentes": [
+      {
+        "zip": "YEEEEE.zip",
+        "archivo": "CURVA-tanda-suave-11/suaves-07-una-historia-de-dios.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-las-venas-abiertas-de-america-latina",
+    "titulo": "Las venas abiertas de america latina",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-las-venas-abiertas-de-america-latina-cd44a347d3dd.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "cd44a347d3ddd04f8fb08d1093c6623e028ac1ec67d4b2c3272291ec88623a1a",
+    "fuentes": [
+      {
+        "zip": "YEEEEE.zip",
+        "archivo": "CURVA-tanda-suave-11/suaves-08-las-venas-abiertas-de-america-latina.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-la-guerra-fria",
+    "titulo": "La guerra fria",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-la-guerra-fria-19853d0be709.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "19853d0be709419341b3e95b0c95b0237124a13da2bbdb4526f1216e8bc9cb79",
+    "fuentes": [
+      {
+        "zip": "YEEEEE.zip",
+        "archivo": "CURVA-tanda-suave-11/suaves-09-la-guerra-fria.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-diez-dias-que-estremecieron-el-mundo",
+    "titulo": "Diez dias que estremecieron el mundo",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-diez-dias-que-estremecieron-el-mundo-18abe838b388.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "18abe838b388f5e37c2022ab1373a4ffe2f9c1d59ca265f51b1f7375d3c6df41",
+    "fuentes": [
+      {
+        "zip": "YEEEEE.zip",
+        "archivo": "CURVA-tanda-suave-11/suaves-10-diez-dias-que-estremecieron-el-mundo.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-vida-keith-richards",
+    "titulo": "Vida keith richards",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-vida-keith-richards-f72d3ca2a121.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "f72d3ca2a121df3b6377e9039c8b0188c78ac1f8e814407e654e9508021f4a58",
+    "fuentes": [
+      {
+        "zip": "YEEEEE.zip",
+        "archivo": "CURVA-tanda-suave-11/suaves-11-vida-keith-richards.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-la-sociedad-de-la-nieve",
+    "titulo": "La sociedad de la nieve",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-la-sociedad-de-la-nieve-4778f050e8ba.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "4778f050e8ba4088fa554232024e8a2f2c4c30c5ca6687122458020724b9109f",
+    "fuentes": [
+      {
+        "zip": "YEEEEEEEEEEH.zip",
+        "archivo": "CURVA-tanda-sociedad-nieve-13/01-la-sociedad-de-la-nieve.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-hermanos-de-sangre",
+    "titulo": "Hermanos de sangre",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-hermanos-de-sangre-112e89ca2446.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "112e89ca2446701c4102df95e6cdfa4ce2a08d6f55d268d1a5f6f2950a560798",
+    "fuentes": [
+      {
+        "zip": "YEEEEEEEEEEH.zip",
+        "archivo": "CURVA-tanda-sociedad-nieve-13/02-hermanos-de-sangre.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-todos-los-hombres-del-presidente",
+    "titulo": "Todos los hombres del presidente",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-todos-los-hombres-del-presidente-5de182cee882.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "5de182cee8828ef0580d4b7ea11913fba0aee5dde6247af633d94ad40babcd1a",
+    "fuentes": [
+      {
+        "zip": "YEEEEEEEEEEH.zip",
+        "archivo": "CURVA-tanda-sociedad-nieve-13/03-todos-los-hombres-del-presidente.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-stasiland",
+    "titulo": "Stasiland",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-stasiland-4c23051b707a.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "4c23051b707a9288f0a45b664b40b70ce7896aa7510260948aa3d78bb7e30dd4",
+    "fuentes": [
+      {
+        "zip": "YEEEEEEEEEEH.zip",
+        "archivo": "CURVA-tanda-sociedad-nieve-13/04-stasiland.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-stalin-la-corte-del-zar-rojo",
+    "titulo": "Stalin la corte del zar rojo",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-stalin-la-corte-del-zar-rojo-3d4d2d1c4478.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "3d4d2d1c447802eddbf88928472d70a2c9df89abe54593bf3c68bb92cfe9800a",
+    "fuentes": [
+      {
+        "zip": "YEEEEEEEEEEH.zip",
+        "archivo": "CURVA-tanda-sociedad-nieve-13/05-stalin-la-corte-del-zar-rojo.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-diana-su-verdadera-historia",
+    "titulo": "Diana su verdadera historia",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-diana-su-verdadera-historia-9fb9877ad95a.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "9fb9877ad95aa2fa63c8a4e8bda31c31672c66e8efd387029fce4a4c5db1044e",
+    "fuentes": [
+      {
+        "zip": "YEEEEEEEEEEH.zip",
+        "archivo": "CURVA-tanda-sociedad-nieve-13/06-diana-su-verdadera-historia.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-los-senores-del-narco",
+    "titulo": "Los señores del narco",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-los-senores-del-narco-696f405c58e5.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "696f405c58e5e703297d6b9331d1ee4db810c5817d5ee807f92e41ee3218eeb5",
+    "fuentes": [
+      {
+        "zip": "YEEEEEEEEEEH.zip",
+        "archivo": "CURVA-tanda-sociedad-nieve-13/07-los-senores-del-narco.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-multimillonarios-por-accidente",
+    "titulo": "Multimillonarios por accidente",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-multimillonarios-por-accidente-06577b862829.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "06577b862829c258e119eaebe96b314eb4b906b8ab78b694ae80a54aaf251c3d",
+    "fuentes": [
+      {
+        "zip": "YEEEEEEEEEEH.zip",
+        "archivo": "CURVA-tanda-sociedad-nieve-13/08-multimillonarios-por-accidente.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-area-51",
+    "titulo": "Área 51",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-area-51-31d86204aff4.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "31d86204aff40a1a1c61d83553479c55bb22bcc42c7e3b630e2ddb514204b296",
+    "fuentes": [
+      {
+        "zip": "YEEEEEEEEEEH.zip",
+        "archivo": "CURVA-tanda-sociedad-nieve-13/09-area-51.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-que-pasaria-si",
+    "titulo": "Qué pasaría si",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-que-pasaria-si-d2efffb6c4f6.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "d2efffb6c4f61f2321b311c503e1ee9f317d0b905f92349b566ea450ffaef748",
+    "fuentes": [
+      {
+        "zip": "YEEEEEEEEEEH.zip",
+        "archivo": "CURVA-tanda-sociedad-nieve-13/10-que-pasaria-si.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-meditaciones-de-cine",
+    "titulo": "Meditaciones de cine",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-meditaciones-de-cine-63d8bf63158f.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "63d8bf63158f69c8bf098db72641b8d7c9c1663bd98f7d2626bcd894d01fe217",
+    "fuentes": [
+      {
+        "zip": "YEEEEEEEEEEH.zip",
+        "archivo": "CURVA-tanda-sociedad-nieve-13/11-meditaciones-de-cine.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-el-zelote",
+    "titulo": "El zelote",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-el-zelote-40d99c7e44c2.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "40d99c7e44c23b730631db0596021968df3f5f5f1edef593a935bc4805ddaf50",
+    "fuentes": [
+      {
+        "zip": "YEEEEEEEEEEH.zip",
+        "archivo": "CURVA-tanda-sociedad-nieve-13/12-el-zelote.png"
+      }
+    ]
+  },
+  {
+    "id": "aportada-entre-la-espada-y-la-pared",
+    "titulo": "Entre la espada y la pared",
+    "autor": "",
+    "archivo": "./assets/portadas-yeah/aportada-entre-la-espada-y-la-pared-694ac7d59279.png",
+    "marca": "Curva",
+    "sinDobleAdicional": true,
+    "loteYeah": true,
+    "variante": "Original",
+    "sha256": "694ac7d59279d32dfb479daae17341ef80ff58c3aa96719545baca67ee8e7f2d",
+    "fuentes": [
+      {
+        "zip": "YEEEEEEEEEEH.zip",
+        "archivo": "CURVA-tanda-sociedad-nieve-13/13-entre-la-espada-y-la-pared.png"
+      }
+    ]
+  }
+]
