@@ -17,7 +17,7 @@ era una app entera, pero con 114 resúmenes, y activarlo esconde los 247 nuevos.
 
 ## Y al lado está el paquete de esta sesión
 
-`docs/assets/index-B0ekmvkE.js`, compilado desde `prototipo-microaprendizaje`
+`docs/assets/index-0CzF2kyi.js`, compilado desde `prototipo-microaprendizaje`
 con `npx vite build --config vite.web.config.mjs`. Lleva los mismos 361
 resúmenes y **dos cosas que el de la raíz no tiene**:
 
@@ -37,7 +37,7 @@ resúmenes y **dos cosas que el de la raíz no tiene**:
 que la raíz sirva este otro paquete basta cambiar esa línea del `<head>` de
 `docs/index.html`:
 
-    <script type="module" crossorigin src="./assets/index-B0ekmvkE.js"></script>
+    <script type="module" crossorigin src="./assets/index-0CzF2kyi.js"></script>
 
 Y al revés para volver al de la otra sesión.
 
@@ -115,6 +115,13 @@ resumen»—, **sin suscripción solo los tres libros gratis del día**, el rega
 en la cabecera con su «1» rojo, **el 44 % con dos minutos de verdad** y dos
 segundos después de cerrar los planes, 20 minutos por libro y **el perfil con
 la cabecera y la paleta de Headway**.
+
+Y la cuarta ronda del 26: **el pollito más quieto y con los ojos que
+brillan** —sobre todo el del cartel—, **la oferta fija**, sin poder arrastrar
+la foto, con un contador de dos minutos que **solo cierra la pantalla** y el
+44 % que vuelve a no caducar, y **la prueba gratis una vez por móvil y no por
+cuenta**: quien se hace otra cuenta en el mismo teléfono ve «Suscribirme» a
+23,99 €/año, sin los siete días.
 
 **Ojo, para el lanzamiento**: la raíz sigue sirviendo el paquete del 22 de
 septiembre, con 361 resúmenes y sin nada de lo de arriba. Y `docs/` pasa de
