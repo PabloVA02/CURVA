@@ -17,7 +17,7 @@ era una app entera, pero con 114 resúmenes, y activarlo esconde los 247 nuevos.
 
 ## Y al lado está el paquete de esta sesión
 
-`docs/assets/index-D2ahSVVQ.js`, compilado desde `prototipo-microaprendizaje`
+`docs/assets/index-Bw33vqUL.js`, compilado desde `prototipo-microaprendizaje`
 con `npx vite build --config vite.web.config.mjs`. Lleva los mismos 361
 resúmenes y **dos cosas que el de la raíz no tiene**:
 
@@ -37,7 +37,7 @@ resúmenes y **dos cosas que el de la raíz no tiene**:
 que la raíz sirva este otro paquete basta cambiar esa línea del `<head>` de
 `docs/index.html`:
 
-    <script type="module" crossorigin src="./assets/index-D2ahSVVQ.js"></script>
+    <script type="module" crossorigin src="./assets/index-Bw33vqUL.js"></script>
 
 Y al revés para volver al de la otra sesión.
 
@@ -99,6 +99,14 @@ tocable** —cada toque, un gesto— y más fluido, **la huella del pacto** que 
 enciende y vibra, la comparativa con su maqueta de vuelta y **la escalera de
 ofertas**: 44 % al cerrar los planes, 60 % a los tres días y 80 % a los siete,
 con cuentas atrás de verdad.
+
+Y la segunda ronda del 26: **la tragaperras en lienzo** a sesenta fotogramas
+—estela de movimiento de verdad, tambor curvo y golpe de tope—, **el regalo
+como notificación** que cae desde arriba y abre el pollito, en el momento de
+más ganas (al volver de leer), **los avisos por momento** —con el café, en la
+comida, antes de dormir—, **la llama con humo** cuando la racha flojea, la
+flecha de volver en el alta, un solo aviso al guardar un libro y «Curva te
+ayuda a aprender cada día» en vez de la meta del lector.
 
 **Ojo, para el lanzamiento**: la raíz sigue sirviendo el paquete del 22 de
 septiembre, con 361 resúmenes y sin nada de lo de arriba. Y `docs/` pasa de
