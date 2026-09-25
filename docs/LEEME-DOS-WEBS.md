@@ -17,7 +17,7 @@ era una app entera, pero con 114 resúmenes, y activarlo esconde los 247 nuevos.
 
 ## Y al lado está el paquete de esta sesión
 
-`docs/assets/index-0CzF2kyi.js`, compilado desde `prototipo-microaprendizaje`
+`docs/assets/index-MT5Y0n-e.js`, compilado desde `prototipo-microaprendizaje`
 con `npx vite build --config vite.web.config.mjs`. Lleva los mismos 361
 resúmenes y **dos cosas que el de la raíz no tiene**:
 
@@ -37,7 +37,7 @@ resúmenes y **dos cosas que el de la raíz no tiene**:
 que la raíz sirva este otro paquete basta cambiar esa línea del `<head>` de
 `docs/index.html`:
 
-    <script type="module" crossorigin src="./assets/index-0CzF2kyi.js"></script>
+    <script type="module" crossorigin src="./assets/index-MT5Y0n-e.js"></script>
 
 Y al revés para volver al de la otra sesión.
 
@@ -122,6 +122,11 @@ la foto, con un contador de dos minutos que **solo cierra la pantalla** y el
 44 % que vuelve a no caducar, y **la prueba gratis una vez por móvil y no por
 cuenta**: quien se hace otra cuenta en el mismo teléfono ve «Suscribirme» a
 23,99 €/año, sin los siete días.
+
+Y la quinta: **los ojos del pollito, como los del cerebro de Headway** —más
+grandes, el reflejo enorme y un párpado de abajo que quita negro—, el brillo
+**a trompicones y muy deprisa**, sin estrellas, y **el «1» rojo del regalo
+siempre encendido** mientras haya oferta.
 
 **Ojo, para el lanzamiento**: la raíz sigue sirviendo el paquete del 22 de
 septiembre, con 361 resúmenes y sin nada de lo de arriba. Y `docs/` pasa de
