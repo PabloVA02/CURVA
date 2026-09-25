@@ -17,7 +17,7 @@ era una app entera, pero con 114 resúmenes, y activarlo esconde los 247 nuevos.
 
 ## Y al lado está el paquete de esta sesión
 
-`docs/assets/index-CdWHJEI6.js`, compilado desde `prototipo-microaprendizaje`
+`docs/assets/index-D2ahSVVQ.js`, compilado desde `prototipo-microaprendizaje`
 con `npx vite build --config vite.web.config.mjs`. Lleva los mismos 361
 resúmenes y **dos cosas que el de la raíz no tiene**:
 
@@ -37,7 +37,7 @@ resúmenes y **dos cosas que el de la raíz no tiene**:
 que la raíz sirva este otro paquete basta cambiar esa línea del `<head>` de
 `docs/index.html`:
 
-    <script type="module" crossorigin src="./assets/index-CdWHJEI6.js"></script>
+    <script type="module" crossorigin src="./assets/index-D2ahSVVQ.js"></script>
 
 Y al revés para volver al de la otra sesión.
 
@@ -93,6 +93,12 @@ pestaña Shorts**, **las estadísticas de antes, mejoradas y con más datos**, l
 iconos de Pablo en los momentos y en Estadísticas, **la llama que crece con la
 racha**, «Tu regalo» en pequeño y en la esquina, y las 29 cubiertas nuevas de la
 tanda «El año de menos».
+
+Y el 26: **la Nítida** como segunda pantalla de la introducción, **el pollito
+tocable** —cada toque, un gesto— y más fluido, **la huella del pacto** que se
+enciende y vibra, la comparativa con su maqueta de vuelta y **la escalera de
+ofertas**: 44 % al cerrar los planes, 60 % a los tres días y 80 % a los siete,
+con cuentas atrás de verdad.
 
 **Ojo, para el lanzamiento**: la raíz sigue sirviendo el paquete del 22 de
 septiembre, con 361 resúmenes y sin nada de lo de arriba. Y `docs/` pasa de
