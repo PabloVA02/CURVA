@@ -17,7 +17,7 @@ era una app entera, pero con 114 resúmenes, y activarlo esconde los 247 nuevos.
 
 ## Y al lado está el paquete de esta sesión
 
-`docs/assets/index-D-wMrXX1.js`, compilado desde `prototipo-microaprendizaje`
+`docs/assets/index-BJhhtDPe.js`, compilado desde `prototipo-microaprendizaje`
 con `npx vite build --config vite.web.config.mjs`. Lleva los mismos 361
 resúmenes y **dos cosas que el de la raíz no tiene**:
 
@@ -37,7 +37,7 @@ resúmenes y **dos cosas que el de la raíz no tiene**:
 que la raíz sirva este otro paquete basta cambiar esa línea del `<head>` de
 `docs/index.html`:
 
-    <script type="module" crossorigin src="./assets/index-D-wMrXX1.js"></script>
+    <script type="module" crossorigin src="./assets/index-BJhhtDPe.js"></script>
 
 Y al revés para volver al de la otra sesión.
 
@@ -171,7 +171,7 @@ test de seis preguntas, plan, correo y pago con Stripe, **en modo de prueba**
 hasta que se pongan los enlaces de pago. Con las 53 portadas que eligió
 Pablo. En la app, **un libro gratis al día**, el **plan mensual** de 12,99 €
 con el precio por día y «más de 400 libros». Paquete de la app:
-`index-D-wMrXX1.js`.
+`index-BJhhtDPe.js`.
 
 **Ojo, para el lanzamiento**: la raíz sigue sirviendo el paquete del 22 de
 septiembre, con 361 resúmenes y sin nada de lo de arriba. Y `docs/` pasa de
