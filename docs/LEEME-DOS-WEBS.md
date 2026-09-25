@@ -179,6 +179,14 @@ después del primer pintado) y **todas las animaciones con GSAP**: títulos por
 palabras, opciones en cascada, el pago que se revela al bajar y confeti al
 final.
 
+Y la decimotercera: la web de los anuncios, **clara, como las de Headway y
+Wiser**, con su guion en 37 pantallas (edad, áreas que se despliegan,
+preguntas con la tarjeta de respuesta del pollito, hitos, libros uno a uno,
+carga con preguntas, correo, plan con fechas) y el pago de Headway con la
+**prueba de 7 días**: planes con la banda «Recomendado» y la hoja de cobro
+que sube dentro de la página. Sin cuenta atrás ni cifras inventadas. Paquete
+de la web: `empezar-C5qD8yHv.js`; paquete de la app: `index-DpfYfhkq.js`.
+
 **Ojo, para el lanzamiento**: la raíz sigue sirviendo el paquete del 22 de
 septiembre, con 361 resúmenes y sin nada de lo de arriba. Y `docs/` pasa de
 1,8 GB con 72 paquetes viejos, por encima del giga que admite GitHub Pages.
