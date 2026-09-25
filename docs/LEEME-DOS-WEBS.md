@@ -187,6 +187,13 @@ carga con preguntas, correo, plan con fechas) y el pago de Headway con la
 que sube dentro de la página. Sin cuenta atrás ni cifras inventadas. Paquete
 de la web: `empezar-C5qD8yHv.js`; paquete de la app: `index-DpfYfhkq.js`.
 
+Y la decimocuarta: la web de los anuncios con **una red neuronal en 3D**
+en la carga (Three.js con resplandor, en su propio trozo `RedNeuronal-*.js`),
+el portal del 94 %, los datos de lectura en grande, la gráfica de la
+procrastinación, las horas que se recuperan, famosos con foto y pollitos con
+gestos distintos. 30 pantallas. Paquete de la web: `empezar-DP0rKQN4.js`;
+paquete de la app: `index-DrBgHB1g.js`.
+
 **Ojo, para el lanzamiento**: la raíz sigue sirviendo el paquete del 22 de
 septiembre, con 361 resúmenes y sin nada de lo de arriba. Y `docs/` pasa de
 1,8 GB con 72 paquetes viejos, por encima del giga que admite GitHub Pages.
