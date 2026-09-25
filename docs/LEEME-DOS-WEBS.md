@@ -17,7 +17,7 @@ era una app entera, pero con 114 resúmenes, y activarlo esconde los 247 nuevos.
 
 ## Y al lado está el paquete de esta sesión
 
-`docs/assets/index-BDeOVFLW.js`, compilado desde `prototipo-microaprendizaje`
+`docs/assets/index-sOvVVjU2.js`, compilado desde `prototipo-microaprendizaje`
 con `npx vite build --config vite.web.config.mjs`. Lleva los mismos 361
 resúmenes y **dos cosas que el de la raíz no tiene**:
 
@@ -37,7 +37,7 @@ resúmenes y **dos cosas que el de la raíz no tiene**:
 que la raíz sirva este otro paquete basta cambiar esa línea del `<head>` de
 `docs/index.html`:
 
-    <script type="module" crossorigin src="./assets/index-BDeOVFLW.js"></script>
+    <script type="module" crossorigin src="./assets/index-sOvVVjU2.js"></script>
 
 Y al revés para volver al de la otra sesión.
 
@@ -142,6 +142,15 @@ su captura** con el pollito en la pose de su cerebro, **invitar amigos** con
 WhatsApp, SMS y el compartir del móvil funcionando, la ficha del reto con **la
 copa y la cifra de la suya** y descripciones nuevas, y el alta sin la
 pantalla de la racha.
+
+Y la octava: **la escalera de descuentos de Headway** —la prueba gratis con
+el primer año un 35 % más barato, el regalo con el 71 % al cerrarla encima
+del libro que se quería leer, el último aviso del 78 % a la hora con su
+«Si rechazas este descuento, no se te volverá a ofrecer», y el 44 % después—,
+**tres dibujos del regalo y tres del cupón que se turnan**, **las
+estadísticas del principio**, la tarjeta de la racha con **la llama de
+pegatina** y los días en vez del récord, y la barra de abajo con **«Inicio»
+y una casa** y los cuatro iconos del mismo trazo.
 
 **Ojo, para el lanzamiento**: la raíz sigue sirviendo el paquete del 22 de
 septiembre, con 361 resúmenes y sin nada de lo de arriba. Y `docs/` pasa de
