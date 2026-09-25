@@ -17,7 +17,7 @@ era una app entera, pero con 114 resúmenes, y activarlo esconde los 247 nuevos.
 
 ## Y al lado está el paquete de esta sesión
 
-`docs/assets/index-CT8PWenY.js`, compilado desde `prototipo-microaprendizaje`
+`docs/assets/index-TAp6MFFd.js`, compilado desde `prototipo-microaprendizaje`
 con `npx vite build --config vite.web.config.mjs`. Lleva los mismos 361
 resúmenes y **dos cosas que el de la raíz no tiene**:
 
@@ -37,7 +37,7 @@ resúmenes y **dos cosas que el de la raíz no tiene**:
 que la raíz sirva este otro paquete basta cambiar esa línea del `<head>` de
 `docs/index.html`:
 
-    <script type="module" crossorigin src="./assets/index-CT8PWenY.js"></script>
+    <script type="module" crossorigin src="./assets/index-TAp6MFFd.js"></script>
 
 Y al revés para volver al de la otra sesión.
 
@@ -158,6 +158,10 @@ acaba** —prueba al precio base, 44 % (27,99 €) al cerrarla, 60 % (19,99 €)
 día siguiente una sola vez y 50 % (24,99 €) al mes—, la tarjeta del regalo
 como mucho una vez al día, el aviso dos días antes de que acabe la prueba y
 Retos con la cima.
+
+Y la décima: **59,99 € al año** («5 € al mes», un 25 % menos que Headway)
+tras un análisis del mercado en español, con la escalera en 32,99, 23,99 y
+29,99 €.
 
 **Ojo, para el lanzamiento**: la raíz sigue sirviendo el paquete del 22 de
 septiembre, con 361 resúmenes y sin nada de lo de arriba. Y `docs/` pasa de
