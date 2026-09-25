@@ -199,7 +199,9 @@ de la portada de Wiser (22 cubiertas, una vuelta cada 48 s, giro en CSS para
 que vaya fino en cualquier móvil), en lugar de las cintas y la estantería 3D;
 y en la edad, **cuatro personas dibujadas** —el chico de los cascos, la chica
 de los aros, el hombre de la barba y la abuela del moño— en vez de iconos.
-Paquete de la web: `empezar-DtzAmAW3.js`; paquete de la app: `index-BuRO_s98.js`.
+Con un botón **«Reiniciar»** en la cabecera (y el logo) para volver al
+principio, que pregunta antes de borrar las respuestas.
+Paquete de la web: `empezar-CNEilw4J.js`; paquete de la app: `index-BYVvLwlB.js`.
 
 **Ojo, para el lanzamiento**: la raíz sigue sirviendo el paquete del 22 de
 septiembre, con 361 resúmenes y sin nada de lo de arriba. Y `docs/` pasa de
