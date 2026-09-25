@@ -17,7 +17,7 @@ era una app entera, pero con 114 resúmenes, y activarlo esconde los 247 nuevos.
 
 ## Y al lado está el paquete de esta sesión
 
-`docs/assets/index-JhtBsmYA.js`, compilado desde `prototipo-microaprendizaje`
+`docs/assets/index-BbD_qTLf.js`, compilado desde `prototipo-microaprendizaje`
 con `npx vite build --config vite.web.config.mjs`. Lleva los mismos 361
 resúmenes y **dos cosas que el de la raíz no tiene**:
 
@@ -37,7 +37,7 @@ resúmenes y **dos cosas que el de la raíz no tiene**:
 que la raíz sirva este otro paquete basta cambiar esa línea del `<head>` de
 `docs/index.html`:
 
-    <script type="module" crossorigin src="./assets/index-JhtBsmYA.js"></script>
+    <script type="module" crossorigin src="./assets/index-BbD_qTLf.js"></script>
 
 Y al revés para volver al de la otra sesión.
 
@@ -80,6 +80,11 @@ Y al final de la noche del 24: **las cubiertas de la bienvenida** con la
 esquina menos redonda, como en la estantería, y **el pollito de «¡Excelente!»**
 más grande, con los ojos que titilan, estrellas azules y una fiesta en pixel
 art detrás.
+
+Y desde el 25 de septiembre: **el pollito articulado** en todas sus pantallas
+—un solo dibujo en vectorial que se mueve con sentido en cada una—, **las
+estadísticas de libro** —estantería, calendario de días e índice— y **la llama
+de la racha** hecha fuego de verdad, calculado al momento.
 
 **Ojo, para el lanzamiento**: la raíz sigue sirviendo el paquete del 22 de
 septiembre, con 361 resúmenes y sin nada de lo de arriba. Y `docs/` pasa de
