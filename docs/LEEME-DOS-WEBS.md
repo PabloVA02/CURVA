@@ -17,7 +17,7 @@ era una app entera, pero con 114 resúmenes, y activarlo esconde los 247 nuevos.
 
 ## Y al lado está el paquete de esta sesión
 
-`docs/assets/index-Bw33vqUL.js`, compilado desde `prototipo-microaprendizaje`
+`docs/assets/index-B0ekmvkE.js`, compilado desde `prototipo-microaprendizaje`
 con `npx vite build --config vite.web.config.mjs`. Lleva los mismos 361
 resúmenes y **dos cosas que el de la raíz no tiene**:
 
@@ -37,7 +37,7 @@ resúmenes y **dos cosas que el de la raíz no tiene**:
 que la raíz sirva este otro paquete basta cambiar esa línea del `<head>` de
 `docs/index.html`:
 
-    <script type="module" crossorigin src="./assets/index-Bw33vqUL.js"></script>
+    <script type="module" crossorigin src="./assets/index-B0ekmvkE.js"></script>
 
 Y al revés para volver al de la otra sesión.
 
@@ -107,6 +107,14 @@ más ganas (al volver de leer), **los avisos por momento** —con el café, en l
 comida, antes de dormir—, **la llama con humo** cuando la racha flojea, la
 flecha de volver en el alta, un solo aviso al guardar un libro y «Curva te
 ayuda a aprender cada día» en vez de la meta del lector.
+
+Y la tercera ronda del 26: **el final de un libro como Headway** —escáner
+nuevo, progreso de la semana, valoración con motivos y comentarios, racha de
+la semana entera, meta diaria de Wiser la primera vez y «Elige tu próximo
+resumen»—, **sin suscripción solo los tres libros gratis del día**, el regalo
+en la cabecera con su «1» rojo, **el 44 % con dos minutos de verdad** y dos
+segundos después de cerrar los planes, 20 minutos por libro y **el perfil con
+la cabecera y la paleta de Headway**.
 
 **Ojo, para el lanzamiento**: la raíz sigue sirviendo el paquete del 22 de
 septiembre, con 361 resúmenes y sin nada de lo de arriba. Y `docs/` pasa de
