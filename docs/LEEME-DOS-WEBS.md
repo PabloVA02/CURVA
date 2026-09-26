@@ -19,9 +19,16 @@ cambios: `<base href="/">`, porque el código pide sus imágenes como
 servicio con la ruta entera (`/app/…`), para que la app instalada abra la app
 y no la web de los anuncios.
 
-**Para la sesión de la app:** cuando cambies el paquete de la app, cambia la
-línea del `<script>` de **`docs/app/index.html`**, no la de `docs/index.html`.
-Pisar `docs/index.html` quita la web de los anuncios del dominio.
+**Desde la revisión del lanzamiento (26 de septiembre, tarde), la app de
+`docs/app/` es la de `prototipo-microaprendizaje`**, con el cobro por Stripe,
+la suscripción guardada y las actualizaciones solas (`version.json`). Pablo
+pidió lanzar la que revisa en su simulador, que es esa. Se publica con
+`node scripts/desplegar-curva.mjs` de aquel proyecto, que pone la web en la
+raíz y la app en `app/` y no toca `CNAME`, `sw.js` ni `portadas.html`.
+
+**Para la otra sesión:** si cambias el paquete de la app, cambia la línea del
+`<script>` de **`docs/app/index.html`**, no la de `docs/index.html`. Pisar
+`docs/index.html` quita la web de los anuncios del dominio.
 
 **Para la sesión de la web:** después de `cp -r …/docs/. docs/`, en vez de
 devolver `docs/index.html` con `git checkout`, se copia la web recién
