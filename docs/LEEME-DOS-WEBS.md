@@ -1,5 +1,34 @@
 # Qué sirve la raíz de CURVA, y qué hay al lado
 
+## DESDE EL 26 DE SEPTIEMBRE: la raíz es la web de los anuncios, y la app está en /app/
+
+**Leer esto antes de compilar nada, desde cualquiera de las dos sesiones.**
+
+Pablo compró **curvaapp.net** (el fichero `docs/CNAME` lo conecta, y no se
+borra) y, al ver «curvaapp.net/empezar.html», dijo «es feo empezar.html» y
+eligió que el dominio a secas fuera la web de los anuncios. Así que:
+
+    curvaapp.net/              docs/index.html       LA WEB DE LOS ANUNCIOS
+    curvaapp.net/empezar.html  docs/empezar.html     la misma, para los enlaces viejos
+    curvaapp.net/app/          docs/app/index.html   LA APP (el apuntador de siempre)
+
+**La app vive ahora en `docs/app/`**, con su propio `manifest.webmanifest` y su
+`sw.js`. Su `index.html` es el mismo apuntador que tenía la raíz, con dos
+cambios: `<base href="/">`, porque el código pide sus imágenes como
+`./assets/…` contando desde la página, y el manifiesto y el trabajador de
+servicio con la ruta entera (`/app/…`), para que la app instalada abra la app
+y no la web de los anuncios.
+
+**Para la sesión de la app:** cuando cambies el paquete de la app, cambia la
+línea del `<script>` de **`docs/app/index.html`**, no la de `docs/index.html`.
+Pisar `docs/index.html` quita la web de los anuncios del dominio.
+
+**Para la sesión de la web:** después de `cp -r …/docs/. docs/`, en vez de
+devolver `docs/index.html` con `git checkout`, se copia la web recién
+compilada encima: `cp docs/empezar.html docs/index.html`. Y se siguen
+devolviendo `docs/sw.js` y `docs/portadas.html`.
+
+
 **Estado a 22 de septiembre de 2026.** Este fichero lo escriben DOS sesiones
 distintas, así que aquí están los dos lados sin pisarse.
 
@@ -244,6 +273,9 @@ docs/`) no lo toca porque solo añade y sustituye. La web de los anuncios
 queda en `curvaapp.net/empezar.html` y la app en `curvaapp.net/`. Los enlaces
 que comparte la app salen ahora de `src/direccion.ts`. Paquete de la web:
 `empezar-Bc1HmwiW.js`; paquete de la app: `index-ChjJ60Z2.js`.
+
+Y la web de los anuncios en la raíz del dominio, la app en /app/ (ver arriba
+del todo). Paquete de la web: `empezar-C1R6ULsI.js`.
 
 **Ojo, para el lanzamiento**: la raíz sigue sirviendo el paquete del 22 de
 septiembre, con 361 resúmenes y sin nada de lo de arriba. Y `docs/` pasa de
