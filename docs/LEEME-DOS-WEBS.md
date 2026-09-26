@@ -235,6 +235,16 @@ blanco, sin punto. Cambian los cuatro `icono-*.png` (también los de la app
 de la raíz) y se añade `icono.svg` para la pestaña. Paquete de la web:
 `empezar-Ci0AFMDV.js`; paquete de la app: `index-C787dCaL.js`.
 
+**Y el dominio propio: curvaapp.net.** Lo compró Pablo el 26 de septiembre
+en Cloudflare, con cuatro registros A a GitHub Pages (185.199.108–111.153) y
+`www` apuntando aquí, todos en gris (sin el proxy de Cloudflare). El fichero
+`docs/CNAME` es el que le dice a GitHub que sirva esta carpeta en ese
+dominio: **no se borra**, y el despliegue de siempre (`cp -r …/docs/.
+docs/`) no lo toca porque solo añade y sustituye. La web de los anuncios
+queda en `curvaapp.net/empezar.html` y la app en `curvaapp.net/`. Los enlaces
+que comparte la app salen ahora de `src/direccion.ts`. Paquete de la web:
+`empezar-Bc1HmwiW.js`; paquete de la app: `index-ChjJ60Z2.js`.
+
 **Ojo, para el lanzamiento**: la raíz sigue sirviendo el paquete del 22 de
 septiembre, con 361 resúmenes y sin nada de lo de arriba. Y `docs/` pasa de
 1,8 GB con 72 paquetes viejos, por encima del giga que admite GitHub Pages.
