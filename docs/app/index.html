@@ -2,8 +2,9 @@
 <html lang="es">
   <head>
     <meta charset="UTF-8" />
+    <base href="/" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-    <title>Curva · prototipo de microaprendizaje</title>
+    <title>Curva</title>
 
     <!-- QUE SE PUEDA INSTALAR EN EL MÓVIL. Pablo, el 30 de agosto: «¿es posible
          que de alguna forma me instale la app en mi móvil e ir probándola poco
@@ -15,24 +16,12 @@
          que se abre en el móvil sin contraseña—, pero evita que se encuentre
          buscando, que es como se encuentran las cosas. Va con el
          `robots.txt`, y esta etiqueta es la que obedecen aunque no lo lean. -->
-    <!-- LA APP VIVE EN /app/ DESDE EL 26 DE SEPTIEMBRE. Pablo compró
-         curvaapp.net y quiso que el dominio a secas fuera la web de los
-         anuncios («es feo empezar.html»). Este es el mismo apuntador que
-         tenía la raíz, con las rutas a `../assets/` y su propio manifiesto y
-         trabajador de servicio en esta carpeta. Ver LEEME-DOS-WEBS.md.
-
-         LA BASE, «/»: el código de la app pide sus imágenes como
-         «./assets/…» contando desde la página, y desde /app/ las buscaba en
-         /app/assets/, que no existe. Con esta línea todo lo relativo cuenta
-         desde la raíz, donde están. Por eso el manifiesto y el trabajador de
-         servicio van con la ruta entera, /app/…: si no, cogerían los de la
-         raíz y la app instalada abriría la web de los anuncios. -->
-    <base href="/" />
     <meta name="robots" content="noindex, nofollow, noarchive, noimageindex" />
 
     <link rel="manifest" href="/app/manifest.webmanifest" />
     <meta name="theme-color" content="#151515" />
     <link rel="apple-touch-icon" href="./icono-180.png" />
+    <link rel="icon" type="image/svg+xml" href="./icono.svg" />
     <link rel="icon" type="image/png" href="./icono-192.png" />
 
     <!-- Las dos de iOS. `black-translucent` es lo que deja el fondo subir por
@@ -42,10 +31,10 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <meta name="apple-mobile-web-app-title" content="Curva" />
-    <script type="module" crossorigin src="./assets/index-lectura-4f6d159823.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-BAkDuUCk.css">
-      <link rel="stylesheet" href="./assets/doblez-libro-579f5f1a39.css">
-    <link rel="stylesheet" href="./assets/catalogo-compacto-6aca577b3a.css">
+    <script type="module" crossorigin src="./assets/index-D4NRYxq0.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/suscripcion-guardada-CrTqlaOr.js">
+    <link rel="modulepreload" crossorigin href="./assets/nitida-CQTwEprs.js">
+    <link rel="stylesheet" crossorigin href="./assets/index-DswFfinS.css">
   </head>
   <body>
     <div id="root"></div>

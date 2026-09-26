@@ -27,7 +27,7 @@
    viendo la barra del lector debajo de la cámara con el arreglo ya publicado, y
    la duda «¿lo tiene o no lo tiene?» valía más que los megas que cuesta
    volver a bajar las fotografías. */
-const CACHE = "curva-lectura-4f6d159823";
+const CACHE = "curva-v3";
 
 self.addEventListener("install", (e) => {
   /* Sin lista de precarga a propósito: el paquete son decenas de megas de
@@ -47,6 +47,10 @@ self.addEventListener("activate", (e) => {
 self.addEventListener("fetch", (e) => {
   const pet = e.request;
   if (pet.method !== "GET") return;
+  /* EL NÚMERO DE VERSIÓN NO SE GUARDA NUNCA. Es lo que la app mira para
+     saber si hay una nueva (`src/actualizar.ts`); guardado, diría siempre la
+     de ayer y los cambios no llegarían. */
+  if (new URL(pet.url).pathname.endsWith("/version.json")) return;
 
   const esDocumento = pet.mode === "navigate";
   if (esDocumento) {
@@ -74,6 +78,19 @@ self.addEventListener("fetch", (e) => {
         }
         return r;
       });
+    }),
+  );
+});
+
+/* TOCAR UN AVISO ABRE LA APP, del 26 de septiembre. Sin esto, en la web el
+   aviso de «Con el café» se cerraba al tocarlo y no pasaba nada. Si ya hay una
+   pestaña de Curva abierta se trae delante; si no, se abre una. */
+self.addEventListener("notificationclick", (e) => {
+  e.notification.close();
+  e.waitUntil(
+    self.clients.matchAll({ type: "window", includeUncontrolled: true }).then((ventanas) => {
+      const abierta = ventanas.find((v) => "focus" in v);
+      return abierta ? abierta.focus() : self.clients.openWindow("./");
     }),
   );
 });
