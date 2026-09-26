@@ -203,6 +203,15 @@ Con un botón **«Reiniciar»** en la cabecera (y el logo) para volver al
 principio, que pregunta antes de borrar las respuestas.
 Paquete de la web: `empezar-CNEilw4J.js`; paquete de la app: `index-BYVvLwlB.js`.
 
+Y la decimosexta, el repaso entero de Pablo: pollitos fijos (salvo el que
+corre, el del portal y el que baila), género con dibujos, metas de hasta tres
+en dos columnas, minutos con los rayos de la app, comentarios verdes en los
+pulgares, el cerebro de la carga en 2D sobre blanco (la web ya no carga
+Three.js), el portal en el que el pollito entra de verdad, pie legal como el
+de Headway, el pago empezando en «Elige tu plan» y fuera el pantallazo azul
+de los botones. Paquete de la web: `empezar-IuoRwF_e.js`; paquete de la app:
+`index-XdCLeb5U.js`.
+
 **Ojo, para el lanzamiento**: la raíz sigue sirviendo el paquete del 22 de
 septiembre, con 361 resúmenes y sin nada de lo de arriba. Y `docs/` pasa de
 1,8 GB con 72 paquetes viejos, por encima del giga que admite GitHub Pages.
