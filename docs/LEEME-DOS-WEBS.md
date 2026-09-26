@@ -230,6 +230,11 @@ inspira?», la única pregunta que se sale de la pantalla. Paquete de la web:
 Y el pago sin cabecera: empieza en «Elige tu plan», como Headway.
 Paquete de la web: `empezar-CkpgP2JB.js`; paquete de la app: `index-0_bMgp-2.js`.
 
+Y el icono nuevo de Curva, que eligió Pablo: la curva afinada en azul sobre
+blanco, sin punto. Cambian los cuatro `icono-*.png` (también los de la app
+de la raíz) y se añade `icono.svg` para la pestaña. Paquete de la web:
+`empezar-Ci0AFMDV.js`; paquete de la app: `index-C787dCaL.js`.
+
 **Ojo, para el lanzamiento**: la raíz sigue sirviendo el paquete del 22 de
 septiembre, con 361 resúmenes y sin nada de lo de arriba. Y `docs/` pasa de
 1,8 GB con 72 paquetes viejos, por encima del giga que admite GitHub Pages.
