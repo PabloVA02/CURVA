@@ -212,6 +212,10 @@ de Headway, el pago empezando en «Elige tu plan» y fuera el pantallazo azul
 de los botones. Paquete de la web: `empezar-IuoRwF_e.js`; paquete de la app:
 `index-XdCLeb5U.js`.
 
+Y el fondo negro de «Aprende a tu medida», que solo salía con el móvil en
+modo oscuro: el documento de la animación se fuerza a claro. Paquete de la
+web: `empezar-v8jcWxeC.js`; paquete de la app: `index-C0ejN24a.js`.
+
 **Ojo, para el lanzamiento**: la raíz sigue sirviendo el paquete del 22 de
 septiembre, con 361 resúmenes y sin nada de lo de arriba. Y `docs/` pasa de
 1,8 GB con 72 paquetes viejos, por encima del giga que admite GitHub Pages.
