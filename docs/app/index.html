@@ -31,12 +31,12 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <meta name="apple-mobile-web-app-title" content="Curva" />
-    <script type="module" crossorigin src="./assets/index-C_SAQwiF.js"></script>
+    <script type="module" crossorigin src="./assets/index-DNVNdtHd.js"></script>
     <link rel="modulepreload" crossorigin href="./assets/Legal-Cn3K11UV.js">
     <link rel="modulepreload" crossorigin href="./assets/GuiaPrueba-DIQb3TCh.js">
     <link rel="modulepreload" crossorigin href="./assets/nitida-BqX-HEpc.js">
     <link rel="stylesheet" crossorigin href="./assets/GuiaPrueba-BiqkLzQq.css">
-    <link rel="stylesheet" crossorigin href="./assets/index-B2RYlZsW.css">
+    <link rel="stylesheet" crossorigin href="./assets/index-DL3--TdP.css">
   </head>
   <body>
     <div id="root"></div>
@@ -46,7 +46,11 @@
          rechaza y solo ensucia la consola. Registrarlo aquí y no en el código
          de la app es a propósito: no depende de que React arranque. -->
     <script>
-      if ("serviceWorker" in navigator && (location.protocol === "https:" || location.hostname === "localhost")) {
+      /* Dentro de la app de las tiendas (Capacitor) no hace falta: todo va
+         ya dentro del paquete, y un trabajador guardaría versiones viejas. */
+      var nativa = window.Capacitor && window.Capacitor.isNativePlatform && window.Capacitor.isNativePlatform();
+      if (nativa) document.documentElement.classList.add("nativa");
+      if (!nativa && "serviceWorker" in navigator && (location.protocol === "https:" || location.hostname === "localhost")) {
         window.addEventListener("load", function () {
           navigator.serviceWorker.register("/app/sw.js", { scope: "/app/" }).catch(function () {
             /* Sin conexión o sin permiso: la app funciona igual, solo que sin
