@@ -1,7 +1,7 @@
 {
   "name": "Curva",
   "short_name": "Curva",
-  "description": "Un libro en cinco minutos al día, y curiosidades para el rato muerto.",
+  "description": "Los mejores libros, resumidos para leer en minutos.",
   "lang": "es",
   "start_url": "./",
   "scope": "./",
