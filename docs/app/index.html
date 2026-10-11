@@ -3,6 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <base href="/" />
+    <!-- A LA MANERA DE APPLE: la letra y los botones miden lo mismo en todos
+         los móviles, y en uno más grande cabe MÁS. El 2 de octubre se probó lo
+         contrario —maquetar siempre a 375 y ampliar, `width=375`—, y Pablo,
+         al saber que las apps nativas como Headway y Wiser enseñan más en un
+         móvil grande y que es lo que recomienda Apple, eligió esto. Lo que no
+         llenaba el ancho en un Pro Max (la tarjeta del libro gratis) se
+         arregló en su sitio, en `styles.css`. Quien quiera todo más grande lo
+         elige en su iPhone: Pantalla y brillo → Zoom de la pantalla. -->
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <title>Curva</title>
 
@@ -31,15 +39,36 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <meta name="apple-mobile-web-app-title" content="Curva" />
-    <script type="module" crossorigin src="./assets/index-DX6vn0aa.js"></script>
-    <link rel="modulepreload" crossorigin href="./assets/Legal-JAOffoPj.js">
-    <link rel="modulepreload" crossorigin href="./assets/GuiaPrueba-CFpxNVnH.js">
-    <link rel="modulepreload" crossorigin href="./assets/nitida-DZZI7haZ.js">
-    <link rel="stylesheet" crossorigin href="./assets/GuiaPrueba-BiqkLzQq.css">
-    <link rel="stylesheet" crossorigin href="./assets/index-Cbki6mAo.css">
+    <script type="module" crossorigin src="./assets/index-Bm0z-gsO.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/modulepreload-polyfill-Dezn_h7o.js">
+    <link rel="modulepreload" crossorigin href="./assets/preload-helper-HclGiUj8.js">
+    <link rel="stylesheet" crossorigin href="./assets/index-CmiJt0rl.css">
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root">
+      <!-- MIENTRAS CARGA LA APP, EL SÍMBOLO SUBIENDO (2 y 10 de octubre). Solo
+           la curva, sin recuadro: va saliendo de la punta de abajo hacia el
+           punto de arriba mientras dura la carga, y se completa cuando la
+           app está lista (el relevo está en `src/main.tsx`). Lo que la
+           descubre es una tapa del color del fondo que se aparta en
+           diagonal: solo se mueve con `transform`, que es lo único que el
+           móvil sigue animando mientras está ocupado cargando. Los estilos,
+           en `styles.css` («EL SÍMBOLO DE CARGA»). `CargaCurva.tsx` es la
+           misma figura para las esperas de dentro de la app. -->
+      <div id="arranque" role="status">
+        <div class="arranque-dibujo">
+          <svg width="120" height="120" viewBox="12 12 78 78" aria-hidden="true">
+            <g transform="translate(-1.25 1.17)" fill="currentColor">
+              <path d="M18 82C51.99 84.35 73.34 51.67 85.96 24.61L74.04 19.39C64.22 44.62 48.67 75.8 18 78Z" />
+              <circle cx="18" cy="80" r="2" />
+              <circle cx="80" cy="22" r="6.5" />
+            </g>
+          </svg>
+          <span class="arranque-tapa" aria-hidden="true"></span>
+        </div>
+        <span class="solo-lector">Cargando Curva…</span>
+      </div>
+    </div>
 
     <!-- El trabajador de servicio, solo cuando la página se sirve por HTTPS o
          desde el propio ordenador: en cualquier otro sitio el navegador lo
@@ -50,6 +79,20 @@
          ya dentro del paquete, y un trabajador guardaría versiones viejas. */
       var nativa = window.Capacitor && window.Capacitor.isNativePlatform && window.Capacitor.isNativePlatform();
       if (nativa) document.documentElement.classList.add("nativa");
+      /* LA PANTALLA DE ARRANQUE DEL MÓVIL SE QUITA EN CUANTO ESTA PÁGINA ESTÁ
+         PINTADA (10 de octubre). Es un fondo liso del mismo color que el de
+         aquí —antes, el icono en su recuadro, y Pablo: «debe salir solo la
+         curva, ningún recuadro ni nada»—, así que el cambio no se ve y lo
+         primero que aparece es la curva subiendo. Si esto no llegara a
+         correr, se quita sola a los tres segundos (`capacitor.config.ts`). */
+      if (nativa)
+        requestAnimationFrame(function () {
+          requestAnimationFrame(function () {
+            try {
+              window.Capacitor.nativePromise("SplashScreen", "hide", { fadeOutDuration: 120 });
+            } catch (e) {}
+          });
+        });
       if (!nativa && "serviceWorker" in navigator && (location.protocol === "https:" || location.hostname === "localhost")) {
         window.addEventListener("load", function () {
           navigator.serviceWorker.register("/app/sw.js", { scope: "/app/" }).catch(function () {
