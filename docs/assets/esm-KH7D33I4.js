@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./web-BvaqmWVw.js","./dist-roPvXvr0.js"])))=>i.map(i=>d[i]);
+import{t as e}from"./preload-helper-HclGiUj8.js";import{n as t}from"./dist-roPvXvr0.js";var n=t(`InAppReview`,{web:()=>e(()=>import(`./web-BvaqmWVw.js`).then(e=>new e.InAppReviewWeb),__vite__mapDeps([0,1]),import.meta.url)});export{n as InAppReview};
